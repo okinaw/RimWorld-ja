@@ -1,36 +1,164 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-    <Chicken.label>ニワトリ</Chicken.label>
-    <Chicken.description>もっとも伝統的な家禽です,鶏から,卵と肉が採れます.</Chicken.description>
-    <Meat_Chicken.label>ニワトリの肉</Meat_Chicken.label>
-    <Meat_Chicken.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.とても成長が速く,よく卵を産みます.</Meat_Chicken.description>
-    <Chicken.tools.claws.label>爪</Chicken.tools.claws.label>
-    <Chicken.tools.beak.label>嘴</Chicken.tools.beak.label>
-    <Chicken.tools.head.label>頭部</Chicken.tools.head.label>
+  <Chicken.label>ニワトリ</Chicken.label>
+  <Chicken.description>もっとも伝統的な家禽です,鶏から,卵と肉が採れます.</Chicken.description>
+  <Chicken.tools.claws.label>爪</Chicken.tools.claws.label>
+  <Chicken.tools.beak.label>嘴</Chicken.tools.beak.label>
+  <Chicken.tools.head.label>頭部</Chicken.tools.head.label>
+  <!-- Leather Amount: 0 -->
+  <Meat_Chicken.label>ニワトリの肉</Meat_Chicken.label>
+  <Meat_Chicken.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.とても成長が速く,よく卵を産みます.</Meat_Chicken.description>
 
-    <Pig.label>ブタ</Pig.label>
-    <Pig.description>ブタは,人によって飼い馴らされた最初の動物の一つでした.豚からは,一般に肉と皮が採れます,そして肉でも野菜でも食べるので育てるのは簡単です.ブタは性質的に利己的ですが,複雑な仕事を訓練することはできます.</Pig.description>
-    <Meat_Pig.label>ブタ肉</Meat_Pig.label>
-    <Meat_Pig.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Pig.description>
-    <Pig.race.meatLabel>豚肉</Pig.race.meatLabel>
-    <Pig.tools.head.label>頭部</Pig.tools.head.label>
+  <Pig.label>ブタ</Pig.label>
+  <Pig.description>ブタは,人によって飼い馴らされた最初の動物の一つでした.豚からは,一般に肉と皮が採れます,そして肉でも野菜でも食べるので育てるのは簡単です.ブタは性質的に利己的ですが,複雑な仕事を訓練することはできます.</Pig.description>
+  <Pig.race.meatLabel>豚肉</Pig.race.meatLabel>
+  <Pig.tools.head.label>頭部</Pig.tools.head.label>
+  <!-- Leather_Pig -->
+  <Meat_Pig.label>ブタ肉</Meat_Pig.label>
+  <Meat_Pig.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Pig.description>
 
-    <Cow.label>ウシ</Cow.label>
-    <Cow.description>飼い慣らされた,大きな有蹄動物で,ウシは,多くの牛乳,肉,革を産むように数千年も品種改良されてきました.かれらは,ことのほか穏やかな生き物で,復讐しようとはしませんし,どれほど傷つけられても気にしません.ほとんど彼らは農場生活に適応しており,野性では生きていけません.</Cow.description>
-    <Meat_Cow.label>ウシの肉</Meat_Cow.label>
-    <Meat_Cow.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Cow.description>
-    <Cow.race.meatLabel>牛肉</Cow.race.meatLabel>
-    <Cow.tools.head.label>頭部</Cow.tools.head.label>
-    <Cow.tools.left_hoof.label>左蹄</Cow.tools.left_hoof.label>
-    <Cow.tools.right_hoof.label>右蹄</Cow.tools.right_hoof.label>
+  <Cow.label>ウシ</Cow.label>
+  <Cow.description>飼い慣らされた,大きな有蹄動物で,ウシは,多くの牛乳,肉,革を産むように数千年も品種改良されてきました.かれらは,ことのほか穏やかな生き物で,復讐しようとはしませんし,どれほど傷つけられても気にしません.ほとんど彼らは農場生活に適応しており,野性では生きていけません.</Cow.description>
+  <Cow.race.meatLabel>牛肉</Cow.race.meatLabel>
+  <Cow.tools.head.label>頭部</Cow.tools.head.label>
+  <Cow.tools.left_hoof.label>左蹄</Cow.tools.left_hoof.label>
+  <Cow.tools.right_hoof.label>右蹄</Cow.tools.right_hoof.label>
+  <!-- Leather_Plain -->
+  <Meat_Cow.label>ウシの肉</Meat_Cow.label>
+  <Meat_Cow.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Cow.description>
 
-    <Alpaca.label>アルパカ</Alpaca.label>
-    <Alpaca.description>ラマと近縁の中型有蹄類です,アルパカは,並外れて柔らかくて熱を通さない毛をとるために飼育されています.アルパカはまた,駄載獣としても使われています.古代南アメリカのゴツゴツした山岳地帯で荷物を運んでいました.</Alpaca.description>
-    <Meat_Alpaca.label>アルパカの肉</Meat_Alpaca.label>
-    <Meat_Alpaca.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Alpaca.description>
-    <Alpaca.tools.left_hoof.label>左蹄</Alpaca.tools.left_hoof.label>
-    <Alpaca.tools.right_hoof.label>右蹄</Alpaca.tools.right_hoof.label>
-    <Alpaca.tools.head.label>頭部</Alpaca.tools.head.label>
+  <Alpaca.label>アルパカ</Alpaca.label>
+  <Alpaca.description>ラマと近縁の中型有蹄類です,アルパカは,並外れて柔らかくて熱を通さない毛をとるために飼育されています.アルパカはまた,駄載獣としても使われています.古代南アメリカのゴツゴツした山岳地帯で荷物を運んでいました.</Alpaca.description>
+  <Alpaca.tools.left_hoof.label>左蹄</Alpaca.tools.left_hoof.label>
+  <Alpaca.tools.right_hoof.label>右蹄</Alpaca.tools.right_hoof.label>
+  <Alpaca.tools.head.label>頭部</Alpaca.tools.head.label>
+  <!-- Leather_Camel -->
+  <Meat_Alpaca.label>アルパカの肉</Meat_Alpaca.label>
+  <Meat_Alpaca.description>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</Meat_Alpaca.description>
+
+  <!-- 1.1 -->
+
+  <!-- Duck -->
+
+  <Duck.label>アヒル</Duck.label>
+  <Duck.description>野生でもよく見られるタイプの鳥で,アヒルはそのおいしい肉のために飼育されています.成長は早いですが,卵を産むことはほとんどありません.</Duck.description>
+  <Duck.tools.claws.label>爪</Duck.tools.claws.label>
+  <Duck.tools.beak.label>クチバシ</Duck.tools.beak.label>
+  <Duck.tools.head.label>頭部</Duck.tools.head.label>
+  <!-- Leather Amount: 0 -->
+  <Meat_Duck.label>アヒルの肉</Meat_Duck.label>
+  <Meat_Duck.description>アヒルの肉</Meat_Duck.description>
+  <Corpse_Duck.label>アヒルの死骸</Corpse_Duck.label>
+  <Corpse_Duck.description>アヒルの死骸</Corpse_Duck.description>
+
+
+  <!-- Bison -->
+
+  <Bison.label>バイソン</Bison.label>
+  <Bison.description>サバンナの荒野に生息する大型の食用哺乳動物です.おとなしいことはおとなしいですが,怒ると移動が速くて危険です.</Bison.description>
+  <Bison.tools.head.label>頭部</Bison.tools.head.label>
+  <Bison.tools.left_hoof.label>左蹄</Bison.tools.left_hoof.label>
+  <Bison.tools.right_hoof.label>右蹄</Bison.tools.right_hoof.label>
+  <!-- Leather_Plain -->
+  <Meat_Bison.label>バイソンの肉</Meat_Bison.label>
+  <Meat_Bison.description>バイソンの肉</Meat_Bison.description>
+  <Corpse_Bison.label>バイソンの死骸</Corpse_Bison.label>
+  <Corpse_Bison.description>バイソンの死骸</Corpse_Bison.description>
+
+
+  <!-- Goat -->
+
+  <Goat.label>ヤギ</Goat.label>
+  <Goat.description>世界への好奇心を持つヤギは,人類が飼育した家畜の中でも最も友好的な部類に入ります.</Goat.description>
+  <Goat.tools.head.label>頭部</Goat.tools.head.label>
+  <!-- Leather_Plain -->
+  <Meat_Goat.label>ヤギの肉</Meat_Goat.label>
+  <Meat_Goat.description>ヤギの肉</Meat_Goat.description>
+  <Corpse_Goat.label>ヤギの死骸</Corpse_Goat.label>
+  <Corpse_Goat.description>ヤギの死骸</Corpse_Goat.description>
+
+
+  <!-- Goose -->
+
+  <Goose.label>ガチョウ</Goose.label>
+  <Goose.description>人が卵とのために家禽として飼育している鳥です.頻繁に産卵しますが,ふ化には時間がかかります.</Goose.description>
+  <Goose.tools.claws.label>爪</Goose.tools.claws.label>
+  <Goose.tools.beak.label>クチバシ</Goose.tools.beak.label>
+  <Goose.tools.head.label>頭部</Goose.tools.head.label>
+  <!-- Leather_Bird -->
+  <!-- Use Meat From: Cassowary -->
+  <Corpse_Goose.label>ガチョウの死骸</Corpse_Goose.label>
+  <Corpse_Goose.description>ガチョウの死骸</Corpse_Goose.description>
+
+
+  <!-- Sheep -->
+
+  <Sheep.label>ヒツジ</Sheep.label>
+  <Sheep.description>羊の飼育は人が住んでいる世界の大部分で行われていますが,リムワールドに持ち込まれたのはつい最近のことです.家畜としての羊は比較的小型の草食動物で,通常黄色がかった羊毛と中型の角を持っています.</Sheep.description>
+  <Sheep.tools.head.label>頭部</Sheep.tools.head.label>
+  <Sheep.tools.left_hoof.label>左蹄</Sheep.tools.left_hoof.label>
+  <Sheep.tools.right_hoof.label>右蹄</Sheep.tools.right_hoof.label>
+  <!-- Leather_Plain -->
+  <Meat_Sheep.label>ヒツジの肉</Meat_Sheep.label>
+  <Meat_Sheep.description>ヒツジの肉</Meat_Sheep.description>
+  <Corpse_Sheep.label>ヒツジの死骸</Corpse_Sheep.label>
+  <Corpse_Sheep.description>ヒツジの死骸</Corpse_Sheep.description>
+
+
+  <!-- Horse -->
+
+  <Horse.label>ウマ</Horse.label>
+  <Horse.description>短い毛と長いたてがみ,そして長い尾を持つ大型の有蹄哺乳動物です.馬は古くから家畜化されてきました.</Horse.description>
+  <Horse.tools.head.label>頭部</Horse.tools.head.label>
+  <Horse.tools.left_hoof.label>左蹄</Horse.tools.left_hoof.label>
+  <Horse.tools.right_hoof.label>右蹄</Horse.tools.right_hoof.label>
+  <!-- Leather_Plain -->
+  <Meat_Horse.label>ウマの肉</Meat_Horse.label>
+  <Meat_Horse.description>ウマの肉</Meat_Horse.description>
+  <Corpse_Horse.label>ウマの死骸</Corpse_Horse.label>
+  <Corpse_Horse.description>ウマの死骸</Corpse_Horse.description>
+
+
+  <!-- Yak -->
+
+  <Yak.label>ヤク</Yak.label>
+  <Yak.description>ヤクは頑丈な牛で,筋肉質な体と短く太い脚をもっています.蹄は丸くて割れていて,雪の中を歩くのに役立ちます.</Yak.description>
+  <Yak.tools.head.label>頭部</Yak.tools.head.label>
+  <Yak.tools.left_hoof.label>左蹄</Yak.tools.left_hoof.label>
+  <Yak.tools.right_hoof.label>右蹄</Yak.tools.right_hoof.label>
+  <!-- Leather_Plain -->
+  <Meat_Yak.label>ヤクの肉</Meat_Yak.label>
+  <Meat_Yak.description>ヤクの肉</Meat_Yak.description>
+  <Corpse_Yak.label>ヤクの死骸</Corpse_Yak.label>
+  <Corpse_Yak.description>ヤクの死骸</Corpse_Yak.description>
+
+
+  <!-- Guinea Pig -->
+
+  <GuineaPig.label>モルモット</GuineaPig.label>
+  <GuineaPig.description>豚でもギニアの生き物でもない,これらの小さなげっ歯類は,家庭のペットとして,そしておいしい夕食のためにも育てられます.</GuineaPig.description>
+  <GuineaPig.tools.left_claw.label>左爪</GuineaPig.tools.left_claw.label>
+  <GuineaPig.tools.right_claw.label>右爪</GuineaPig.tools.right_claw.label>
+  <GuineaPig.tools.head.label>頭部</GuineaPig.tools.head.label>
+  <!-- Leather_GuineaPig -->
+  <Meat_GuineaPig.label>モルモットの肉</Meat_GuineaPig.label>
+  <Meat_GuineaPig.description>モルモットの肉</Meat_GuineaPig.description>
+  <Corpse_GuineaPig.label>モルモットの死骸</Corpse_GuineaPig.label>
+  <Corpse_GuineaPig.description>モルモットの死骸</Corpse_GuineaPig.description>
+
+
+  <!-- Donkey -->
+
+  <Donkey.label>ロバ</Donkey.label>
+  <Donkey.description>古代から農作業用に家畜化された小さな馬類の家畜です.その間抜けな泣き声は,迷惑なのと同時に,可愛らしく人を惹きつけます.</Donkey.description>
+  <Donkey.tools.head.label>頭部</Donkey.tools.head.label>
+  <Donkey.tools.left_hoof.label>左蹄</Donkey.tools.left_hoof.label>
+  <Donkey.tools.right_hoof.label>右蹄</Donkey.tools.right_hoof.label>
+  <!-- Leather_Plain -->
+  <Meat_Donkey.label>ロバの肉</Meat_Donkey.label>
+  <Meat_Donkey.description>ロバの肉</Meat_Donkey.description>
+  <Corpse_Donkey.label>ロバの死骸</Corpse_Donkey.label>
+  <Corpse_Donkey.description>ロバの死骸</Corpse_Donkey.description>
 
 </LanguageData>
