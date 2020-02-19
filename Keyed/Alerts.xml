@@ -9,7 +9,7 @@
     <BreakRiskMinorDesc>次の者は精神状態が不安定であり,軽度な精神崩壊を起こす危険性があります.:\n\n{0}</BreakRiskMinorDesc>
     <BreakRiskMajorDesc>次の者は精神状態が不安定であり,重大な精神崩壊を起こす危険性があります.:\n\n{0}</BreakRiskMajorDesc>
     <BreakRiskExtremeDesc>次の者は精神的に圧迫されており,致命的な精神崩壊（他者への暴力の可能性有り）を起こす危険性があります.:\n\n{0}</BreakRiskExtremeDesc>
-    <BreakRiskDescEnding>これらの者たちの"欲求"タブを見ることで,精神的圧迫の原因を確認できます.\n\n解消の方法としては,例えば豊富な食事,遊戯の時間,良質な遊戯品,清潔な環境,タバコやお酒を与える等があります。<BreakRiskDescEnding>
+    <BreakRiskDescEnding>これらの者たちの"欲求"タブを見ることで,精神的圧迫の原因を確認できます.\n\n解消の方法としては,例えば豊富な食事,遊戯の時間,良質な遊戯品,清潔な環境,タバコやお酒を与える等があります。</BreakRiskDescEnding>
 
     <ColonistNeedsRescue>歩行不能者発生</ColonistNeedsRescue>
     <ColonistsNeedRescue>歩行不能者複数発生</ColonistsNeedRescue>
