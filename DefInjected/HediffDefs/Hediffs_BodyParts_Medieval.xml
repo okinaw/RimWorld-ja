@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Wooden peg leg -->
+
+  <PegLeg.label>木製義脚(杖)</PegLeg.label>
+  <PegLeg.description>足の根元から取り付けられた足の代わりをする木製の杖です.</PegLeg.description>
+  <PegLeg.labelNoun>木製義脚(杖)</PegLeg.labelNoun>
+
+
+  <!-- Wooden hand -->
+
+  <WoodenHand.label>木製義手</WoodenHand.label>
+  <WoodenHand.description>肘から先に取り付けられた手の形をした木製義手です.</WoodenHand.description>
+  <WoodenHand.labelNoun>木製義手</WoodenHand.labelNoun>
+
+
+  <!-- Wooden foot -->
+
+  <WoodenFoot.label>木製義足(足形)</WoodenFoot.label>
+  <WoodenFoot.description>膝から下に取り付けられた足の形をした木製義足です.</WoodenFoot.description>
+  <WoodenFoot.labelNoun>木製義足(足形)</WoodenFoot.labelNoun>
+
+
+  <!-- Only takes medicine, not a wooden part -->
+
+  <Denture.label>入れ歯</Denture.label>
+  <Denture.description>取り付けられた入れ歯です.</Denture.description>
+  <Denture.labelNoun>入れ歯</Denture.labelNoun>
+
+</LanguageData>
