@@ -1,12 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-    <!-- Nonlocal injuries -->
-    <Malnutrition.label>栄養失調</Malnutrition.label>
-	<Malnutrition.stages.trivial.label>ささいな</Malnutrition.stages.trivial.label>
-	<Malnutrition.stages.minor.label>軽度</Malnutrition.stages.minor.label>
-	<Malnutrition.stages.moderate.label>中度</Malnutrition.stages.moderate.label>
-	<Malnutrition.stages.severe.label>重度</Malnutrition.stages.severe.label>
-	<Malnutrition.stages.extreme.label>末期</Malnutrition.stages.extreme.label>
+  <!-- Malnutrition -->
+
+  <Malnutrition.label>栄養失調</Malnutrition.label>
+  <Malnutrition.description>異常なほど体脂肪と体重が少ない状態で,通常は食事の不足が原因です.栄養失調は常に大変不快ですが,初期の影響は軽度です.食物がないと,栄養失調の生物は消耗して,筋肉と能力を失います.最終的に栄養失調は死を迎えます。\n\n栄養失調は,食事を摂って栄養を補給すると,自然に回復します.栄養失調の生物は通常よりも食欲が増大します.</Malnutrition.description>
+  <Malnutrition.stages.trivial.label>ささいな</Malnutrition.stages.trivial.label>
+  <Malnutrition.stages.minor.label>軽度</Malnutrition.stages.minor.label>
+  <Malnutrition.stages.moderate.label>中度</Malnutrition.stages.moderate.label>
+  <Malnutrition.stages.severe.label>重度</Malnutrition.stages.severe.label>
+  <Malnutrition.stages.extreme.label>末期</Malnutrition.stages.extreme.label>
 
 </LanguageData>
