@@ -1,47 +1,59 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-    <BadBack.label>腰痛</BadBack.label>
-    <BadBack.labelNoun>腰痛</BadBack.labelNoun>
+  <BadBack.label>腰痛</BadBack.label>
+  <BadBack.description>Degradation in the spinal column and surrounding musculature. This makes it hard to move and bend smoothly.</BadBack.description>
+  <BadBack.labelNoun>腰痛</BadBack.labelNoun>
 
-    <Frail.label>虚弱</Frail.label>
-    <Frail.labelNoun>虚弱</Frail.labelNoun>
+  <Frail.label>虚弱</Frail.label>
+  <Frail.description>Generalized loss of muscle and bone density.</Frail.description>
+  <Frail.labelNoun>虚弱</Frail.labelNoun>
 
-    <Cataract.label>白内障</Cataract.label>
-    <Cataract.labelNoun>白内障</Cataract.labelNoun>
+  <Cataract.label>白内障</Cataract.label>
+  <Cataract.description>Milky-looking opacity in the eye. Cataracts impair vision.</Cataract.description>
+  <Cataract.labelNoun>白内障</Cataract.labelNoun>
 
-    <Blindness.label>失明</Blindness.label>
+  <Blindness.label>失明</Blindness.label>
+  <Blindness.description>まったく何も見えません.</Blindness.description>
 
-    <HearingLoss.label>聴力損失</HearingLoss.label>
+  <HearingLoss.label>聴力損失</HearingLoss.label>
+  <HearingLoss.description>三半規管の有毛細胞が機能しないために静かな音が聞こえません.</HearingLoss.description>
 
-    <Dementia.label>認知症</Dementia.label>
+  <Dementia.label>認知症</Dementia.label>
+  <Dementia.description>考えたり,記憶能力の低下を引き起こす神経細胞の劣化です.認知症には,老化や特定の病気,毒素の蓄積などのさまざまな原因があります.</Dementia.description>
 
-    <Alzheimers.label>アルツハイマー病</Alzheimers.label>
-    <Alzheimers.stages.minor-0.label>軽度</Alzheimers.stages.minor-0.label>
-    <Alzheimers.stages.minor-1.label>軽度</Alzheimers.stages.minor-1.label>
-    <Alzheimers.stages.major-0.label>重度</Alzheimers.stages.major-0.label>
-    <Alzheimers.stages.major-1.label>重度</Alzheimers.stages.major-1.label>
+  <Alzheimers.label>アルツハイマー病</Alzheimers.label>
+  <Alzheimers.description>通常は加齢による脳疾患です.アルツハイマー病は,思考能力と記憶能力を徐々に低下させます.患者は近親者を忘れたり,時には混乱してさ迷い歩きます.</Alzheimers.description>
+  <Alzheimers.stages.minor-0.label>軽度</Alzheimers.stages.minor-0.label>
+  <Alzheimers.stages.minor-1.label>軽度</Alzheimers.stages.minor-1.label>
+  <Alzheimers.stages.major-0.label>重度</Alzheimers.stages.major-0.label>
+  <Alzheimers.stages.major-1.label>重度</Alzheimers.stages.major-1.label>
 
-    <Asthma.label>ぜんそく</Asthma.label>
-    <Asthma.stages.minor.label>軽度</Asthma.stages.minor.label>
-    <Asthma.stages.major-0.label>重度</Asthma.stages.major-0.label>
-    <Asthma.stages.major-1.label>重度</Asthma.stages.major-1.label>
+  <Asthma.label>ぜんそく</Asthma.label>
+  <Asthma.description>肺の気道で起こる長期間の炎症性疾患です.症状を抑えるために定期的な治療が必要です.</Asthma.description>
+  <Asthma.stages.minor.label>軽度</Asthma.stages.minor.label>
+  <Asthma.stages.major-0.label>重度</Asthma.stages.major-0.label>
+  <Asthma.stages.major-1.label>重度</Asthma.stages.major-1.label>
 
-    <HeartArteryBlockage.label>心筋梗塞</HeartArteryBlockage.label>
-    <HeartArteryBlockage.labelNoun>心筋梗塞</HeartArteryBlockage.labelNoun>
-    <HeartArteryBlockage.stages.minor-0.label>軽度</HeartArteryBlockage.stages.minor-0.label>
-    <HeartArteryBlockage.stages.minor-1.label>軽度</HeartArteryBlockage.stages.minor-1.label>
-    <HeartArteryBlockage.stages.major-0.label>中度</HeartArteryBlockage.stages.major-0.label>
-    <HeartArteryBlockage.stages.major-1.label>中度</HeartArteryBlockage.stages.major-1.label>
-    <HeartArteryBlockage.stages.extreme.label>重度</HeartArteryBlockage.stages.extreme.label>
+  <HeartArteryBlockage.label>心筋梗塞</HeartArteryBlockage.label>
+  <HeartArteryBlockage.description>心臓に関わる重要な動脈の1つが閉塞した状態です.心臓の動脈が閉塞すると不規則な心臓発作を引き起こします.</HeartArteryBlockage.description>
+  <HeartArteryBlockage.stages.minor-0.label>軽度</HeartArteryBlockage.stages.minor-0.label>
+  <HeartArteryBlockage.stages.minor-1.label>軽度</HeartArteryBlockage.stages.minor-1.label>
+  <HeartArteryBlockage.stages.major-0.label>中度</HeartArteryBlockage.stages.major-0.label>
+  <HeartArteryBlockage.stages.major-1.label>中度</HeartArteryBlockage.stages.major-1.label>
+  <HeartArteryBlockage.stages.extreme.label>重度</HeartArteryBlockage.stages.extreme.label>
+  <HeartArteryBlockage.labelNoun>心筋梗塞</HeartArteryBlockage.labelNoun>
 
-    <Carcinoma.label>悪性腫瘍</Carcinoma.label>
-    <Carcinoma.labelNoun>悪性腫瘍</Carcinoma.labelNoun>
-    <Carcinoma.stages.minor-0.label>軽度</Carcinoma.stages.minor-0.label>
-    <Carcinoma.stages.minor-1.label>軽度</Carcinoma.stages.minor-1.label>
-    <Carcinoma.stages.major-0.label>中度</Carcinoma.stages.major-0.label>
-    <Carcinoma.stages.major-1.label>中度</Carcinoma.stages.major-1.label>
-    <Carcinoma.stages.extreme-0.label>重度</Carcinoma.stages.extreme-0.label>
-    <Carcinoma.stages.extreme-1.label>重度</Carcinoma.stages.extreme-1.label>
+  <Carcinoma.label>悪性腫瘍</Carcinoma.label>
+  <Carcinoma.description>がん細胞の塊です.治療しなければ,がん腫瘍は時間とともに成長し,症状を悪化させて最終的に患者は死亡します.\n
+\n
+熟練した医師はがん腫瘍を切除できます.熟練していない医師でも,がん腫瘍を含む身体部位ごと切断するなら簡単に処置できる場合があります.</Carcinoma.description>
+  <Carcinoma.stages.minor-0.label>軽度</Carcinoma.stages.minor-0.label>
+  <Carcinoma.stages.minor-1.label>軽度</Carcinoma.stages.minor-1.label>
+  <Carcinoma.stages.major-0.label>中度</Carcinoma.stages.major-0.label>
+  <Carcinoma.stages.major-1.label>中度</Carcinoma.stages.major-1.label>
+  <Carcinoma.stages.extreme-0.label>重度</Carcinoma.stages.extreme-0.label>
+  <Carcinoma.stages.extreme-1.label>重度</Carcinoma.stages.extreme-1.label>
+  <Carcinoma.labelNoun>悪性腫瘍</Carcinoma.labelNoun>
 
 </LanguageData>
