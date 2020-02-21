@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mini-turret -->
+
+  <Turret_MiniTurret.label>タレット</Turret_MiniTurret.label>
+  <Turret_MiniTurret.description>小型で,近距離用の全自動タレットです.銃身を酷使したあとは,一新するためにスチールが必要となります.ダメージを受けると爆発することがあります.インターフェースの無い人工頭脳を装備しているので直接制御ができず,そのため味方誤射に警戒してください.</Turret_MiniTurret.description>
+  <Blueprint_Turret_MiniTurret.label>タレット(設計)</Blueprint_Turret_MiniTurret.label>
+  <Blueprint_Install_Turret_MiniTurret.label>タレット(移動先)</Blueprint_Install_Turret_MiniTurret.label>
+  <Frame_Turret_MiniTurret.label>タレット(施工)</Frame_Turret_MiniTurret.label>
+  <Frame_Turret_MiniTurret.description>小型で,近距離用の全自動タレットです.銃身を酷使したあとは,一新するためにスチールが必要となります.ダメージを受けると爆発することがあります.インターフェースの無い人工頭脳を装備しているので直接制御ができず,そのため味方誤射に警戒してください.</Frame_Turret_MiniTurret.description>
+  <Turret_MiniTurret.comps.CompRefuelable.fuelLabel>銃身耐久力</Turret_MiniTurret.comps.CompRefuelable.fuelLabel>
+  <Turret_MiniTurret.comps.CompRefuelable.fuelGizmoLabel>銃身耐久力</Turret_MiniTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <Turret_MiniTurret.comps.CompRefuelable.outOfFuelMessage>射撃不可: 替え銃身が必要</Turret_MiniTurret.comps.CompRefuelable.outOfFuelMessage>
+
+  <Bullet_MiniTurret.label>タレット弾</Bullet_MiniTurret.label>
+
+  <Gun_MiniTurret.label>タレット銃</Gun_MiniTurret.label>
+  <Gun_MiniTurret.description>台に自動小銃を取り付けただけのシンプルなタレットです.</Gun_MiniTurret.description>
+  <Gun_MiniTurret.verbs.Verb_Shoot.label>タレット銃</Gun_MiniTurret.verbs.Verb_Shoot.label>
+
+
+  <!-- Autocannon turret -->
+
+  <Turret_Autocannon.label>オートキャノンタレット</Turret_Autocannon.label>
+  <Turret_Autocannon.description>強力な全自動タレットです.大口径の砲弾が広範囲に渡って大ダメージを叩き出しますが,使用後は銃身の一新が必須となります.至近距離のターゲットには発砲できません,そしてダメージを受けると爆発することがあります.</Turret_Autocannon.description>
+  <Blueprint_Turret_Autocannon.label>オートキャノンタレット (設計)</Blueprint_Turret_Autocannon.label>
+  <Frame_Turret_Autocannon.label>オートキャノンタレット (施工)</Frame_Turret_Autocannon.label>
+  <Frame_Turret_Autocannon.description>強力な全自動タレットです.大口径の砲弾が広範囲に渡って大ダメージを叩き出しますが,使用後は銃身の一新が必須となります.至近距離のターゲットには発砲できません,そしてダメージを受けると爆発することがあります.</Frame_Turret_Autocannon.description>
+  <Turret_Autocannon.comps.CompRefuelable.fuelLabel>銃身耐久力</Turret_Autocannon.comps.CompRefuelable.fuelLabel>
+  <Turret_Autocannon.comps.CompRefuelable.fuelGizmoLabel>銃身耐久力</Turret_Autocannon.comps.CompRefuelable.fuelGizmoLabel>
+  <Turret_Autocannon.comps.CompRefuelable.outOfFuelMessage>射撃不可: 替え銃身が必要</Turret_Autocannon.comps.CompRefuelable.outOfFuelMessage>
+
+  <Bullet_AutocannonTurret.label>オートキャノン弾</Bullet_AutocannonTurret.label>
+
+  <Gun_AutocannonTurret.label>オートキャノン</Gun_AutocannonTurret.label>
+  <Gun_AutocannonTurret.description>タレットに取り付けられるよう設計された,自動装填式の大口径キャノン砲です.</Gun_AutocannonTurret.description>
+  <Gun_AutocannonTurret.verbs.Verb_Shoot.label>オートキャノン</Gun_AutocannonTurret.verbs.Verb_Shoot.label>
+
+
+  <!-- Uranium slug turret -->
+
+  <Turret_Sniper.label>劣化ウランタレット</Turret_Sniper.label>
+  <Turret_Sniper.description>装甲貫通弾を発射するタレットです.超高密度な劣化ウラン弾で長距離からでも厚い装甲を貫通することが可能ですが,使用する毎に,新しい劣化ウラン弾の装填が必要となります.距離が遠いほど,より命中精度が高くなりますが,至近距離では発射できません.ダメージを受けると爆発することがあります.</Turret_Sniper.description>
+  <Blueprint_Turret_Sniper.label>劣化ウランタレット(設計)</Blueprint_Turret_Sniper.label>
+  <Frame_Turret_Sniper.label>劣化ウランタレット(施工)</Frame_Turret_Sniper.label>
+  <Frame_Turret_Sniper.description>装甲貫通弾を発射するタレットです.超高密度な劣化ウラン弾で長距離からでも厚い装甲を貫通することが可能ですが,使用する毎に,新しい劣化ウラン弾の装填が必要となります.距離が遠いほど,より命中精度が高くなりますが,至近距離では発射できません.ダメージを受けると爆発することがあります.</Frame_Turret_Sniper.description>
+  <Turret_Sniper.comps.CompRefuelable.fuelLabel>銃身耐久力</Turret_Sniper.comps.CompRefuelable.fuelLabel>
+  <Turret_Sniper.comps.CompRefuelable.fuelGizmoLabel>銃身耐久力</Turret_Sniper.comps.CompRefuelable.fuelGizmoLabel>
+  <Turret_Sniper.comps.CompRefuelable.outOfFuelMessage>射撃不可: 替え銃身が必要</Turret_Sniper.comps.CompRefuelable.outOfFuelMessage>
+
+  <Bullet_TurretSniper.label>劣化ウラン弾</Bullet_TurretSniper.label>
+
+  <Gun_TurretSniper.label>劣化ウラン砲</Gun_TurretSniper.label>
+  <Gun_TurretSniper.description>タレットに取り付けられるよう設計された,自動装填式の狙撃タレットです.遠距離の目標に最適ですが至近距離の目標に対処するには不適切です.</Gun_TurretSniper.description>
+  <Gun_TurretSniper.verbs.Verb_Shoot.label>劣化ウラン砲</Gun_TurretSniper.verbs.Verb_Shoot.label>
+
+
+  <!-- Mortar -->
+
+  <Turret_Mortar.label>榴弾迫撃砲</Turret_Mortar.label>
+  <Turret_Mortar.description>人の手で装弾して発射する迫撃砲で,全弾種の砲弾を発射可能です.壊滅的なダメージを与えることが可能ですが,迫撃砲特有の命中率の低さから,屋外で移動する敵集団を攻撃するよりも,移動しない大規模な防御施設や建築物を攻撃する運用が適切です.</Turret_Mortar.description>
+  <Blueprint_Turret_Mortar.label>榴弾迫撃砲(設計)</Blueprint_Turret_Mortar.label>
+  <Blueprint_Install_Turret_Mortar.label>榴弾迫撃砲(移動先)</Blueprint_Install_Turret_Mortar.label>
+  <Frame_Turret_Mortar.label>榴弾迫撃砲(施工)</Frame_Turret_Mortar.label>
+  <Frame_Turret_Mortar.description>人の手で装弾して発射する迫撃砲で,全弾種の砲弾を発射可能です.壊滅的なダメージを与えることが可能ですが,迫撃砲特有の命中率の低さから,屋外で移動する敵集団を攻撃するよりも,移動しない大規模な防御施設や建築物を攻撃する運用が適切です.</Frame_Turret_Mortar.description>
+
+  <Artillery_Mortar.label>迫撃砲(榴弾)</Artillery_Mortar.label>
+  <Artillery_Mortar.description>爆発する榴弾を打ち出せる迫撃砲です.曲射弾道で壁を越えて敵を攻撃でき,長射程ですが命中精度が低いのが欠点です.</Artillery_Mortar.description>
+
+</LanguageData>
