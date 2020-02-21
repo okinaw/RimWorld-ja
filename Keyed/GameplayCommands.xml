@@ -39,7 +39,7 @@
   <CommandGetOutOfBedLabel>起床</CommandGetOutOfBedLabel>
   <CommandGetOutOfBedDesc>起きて布団から出ます.</CommandGetOutOfBedDesc>
 
-  <CommandBedSetOwnerLabel>所有</CommandBedSetOwnerLabel>
+  <CommandThingSetOwnerLabel>所有</CommandThingSetOwnerLabel>
   <CommandBedSetOwnerDesc>ベッドの所有者を決めます.</CommandBedSetOwnerDesc>
   <CommandThroneSetOwnerDesc>特定の入植者が所有するこの王座を割り当てます.</CommandThroneSetOwnerDesc>
   <CommandGraveAssignColonistLabel>墓石に記名する</CommandGraveAssignColonistLabel>
@@ -59,15 +59,15 @@
   <CommandDetonateLabel>起爆スイッチ</CommandDetonateLabel>
   <CommandDetonateDesc>起爆 カウントダウンを 開始します.</CommandDetonateDesc>
 
-  <CommandRenameZoneDesc>このゾーンの 名前を 変更します.</CommandRenameZoneDesc>
   <CommandRenameZoneLabel>名前の変更</CommandRenameZoneLabel>
+  <CommandRenameZoneDesc>このゾーンの 名前を 変更します.</CommandRenameZoneDesc>
 
-  <CommandHideZoneDesc>ゾーンの 非表示 / 再表示.</CommandHideZoneDesc>
   <CommandHideZoneLabel>非表示</CommandHideZoneLabel>
   <CommandUnhideZoneLabel>表示</CommandUnhideZoneLabel>
+  <CommandHideZoneDesc>ゾーンの 非表示 / 再表示.</CommandHideZoneDesc>
 
-  <CommandDeleteZoneDesc>ゾーンを 削除します.</CommandDeleteZoneDesc>
   <CommandDeleteZoneLabel>ゾーンの 削除</CommandDeleteZoneLabel>
+  <CommandDeleteZoneDesc>ゾーンを 削除します.</CommandDeleteZoneDesc>
 
   <CommandCopyZoneSettingsLabel>コピー</CommandCopyZoneSettingsLabel>
   <CommandCopyZoneSettingsDesc>このゾーンの設定をクリップボードにコピーします.コピーした設定を,別のゾーンにペーストすることが出来るようになります.</CommandCopyZoneSettingsDesc>
