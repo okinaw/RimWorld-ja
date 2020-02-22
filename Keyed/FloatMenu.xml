@@ -50,7 +50,7 @@
   <CantInteractAnimalDowned>動物は意識がない</CantInteractAnimalDowned>
   <CantInteractAnimalAsleep>動物は寝ている</CantInteractAnimalAsleep>
   <CantInteractAnimalBusy>動物は他に気を奪われている</CantInteractAnimalBusy>
-  <ConstructionSkillTooLow>建設スキルが低すぎる</ConstructionSkillTooLow>
+  <SkillTooLowForConstruction>建設スキルが{0}より低い</SkillTooLowForConstruction>
   <NoComponentsToRepair>コンポーネントが必要</NoComponentsToRepair>
   <NoFuelToRefuel>{0}が必要</NoFuelToRefuel>
   <NoWort>麦汁が必要</NoWort>
@@ -78,7 +78,7 @@
   <GoHere>ここに移動する</GoHere>
 
   <Arrest>{0}を 逮捕する</Arrest>
-  <TryToArrest>{1_label}の逮捕を試みる</TryToArrest>
+  <TryToArrest>{1_label}の逮捕を試みる(確率{2})</TryToArrest>
   <CannotArrest>逮捕できない</CannotArrest>
 
   <Capture>{1_label}を 捕らえる</Capture>

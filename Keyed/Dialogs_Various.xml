@@ -225,8 +225,8 @@
   <SurgeryDeathOnFailChance>失敗時の死亡率</SurgeryDeathOnFailChance>
   <WorkSpeedStat>作業速度:</WorkSpeedStat>
   <EfficiencyStat>作業個数:</EfficiencyStat>
-  <SkillRequiredToBuild>必要な建築スキルレベル</SkillRequiredToBuild>
-  <SkillRequiredToBuildExplanation>建てるために必要な建築スキルのレベル</SkillRequiredToBuildExplanation>
+  <SkillRequiredToBuild>建築スキル{0}が必要</SkillRequiredToBuild>
+  <SkillRequiredToBuildExplanation>建設に必要なレベル{0}</SkillRequiredToBuildExplanation>
   <NuzzleInterval>擦り寄ってくる間隔</NuzzleInterval>
   <NuzzleIntervalExplanation>動物が親しい入植者に擦り寄ってくる平均頻度です.\n\n「擦り寄り」は多くの動物種に見られる振る舞いで,愛情表現として親しい者に,鼻や口元を押し付けます.大抵の人間は,この可愛いい仕草に微笑み,しばらくこのままでいたいと思っています.</NuzzleIntervalExplanation>
   <HarmedRevengeChance>手負い逆襲の発生率</HarmedRevengeChance>
