@@ -7,8 +7,8 @@
   <Contents>運んだ資材</Contents>
   <ContainedResources>作成に必要なリソース</ContainedResources>
   <ForPrisonerUse>囚人が 使用</ForPrisonerUse>
-  <ForColonistUse>入植者が 使用</ForColonistUse>
   <InPrisonCell>In prison cell:囚人用</InPrisonCell>
+  <ForColonistUse>入植者が 使用</ForColonistUse>
   <MedicalBed>医療用</MedicalBed>
   <Owner>所有者</Owner>
   <Owners>所有者</Owners>
@@ -23,6 +23,7 @@
   <FilthOnFeet>足跡：</FilthOnFeet>
   <NotEnoughStoredLower>十分な たくわえが ありません</NotEnoughStoredLower>
   <NothingLower>なし</NothingLower>
+  <Nothing>なし</Nothing>
   <Adapted>順応した</Adapted>
   <FreshMissingBodyPart>生々しい</FreshMissingBodyPart>
   <DevelopedImmunityLower>免疫がついた</DevelopedImmunityLower>
@@ -33,6 +34,9 @@
   <TendQuality>看病品質</TendQuality>
   <MissingMedicalBillIngredient>{0} がいない</MissingMedicalBillIngredient>
   <Immunity>免疫</Immunity>
+  <DaysToRecover>{0} 日で回復</DaysToRecover>
+  <Ineffective>効果なし</Ineffective>
+  <Illegal>非合法</Illegal>
   <Race>種</Race>
   <Description>概要</Description>
   <Equipment>装備</Equipment>
@@ -40,6 +44,8 @@
   <Inventory>アイテム一覧</Inventory>
   <ThingInfo>情報</ThingInfo>
   <DropThing>はずす</DropThing>
+  <DropThingLodger>臨時派閥メンバーはアイテムを落としません.</DropThingLodger>
+  <DropThingLocked>この人物はこれをはずすことを拒否します.</DropThingLocked>
   <Rename>命名</Rename>
   <RenameAnimal>動物の名前を変更</RenameAnimal>
   <RenameColonist>ニックネームを変更</RenameColonist>
@@ -61,6 +67,7 @@
   <HiveReproducesIn>再生中</HiveReproducesIn>
   <DormantHiveNotReproducing>休眠状態: 再生していない</DormantHiveNotReproducing>
   <NextSpawnedItemIn>次は {0}</NextSpawnedItemIn>
+  <NextSpawnedResourceIn>次の材料</NextSpawnedResourceIn>
   <BrokenDown>故障中</BrokenDown>
   <BondBrackets>(絆)</BondBrackets>
   <Fuel>燃料</Fuel>
@@ -96,7 +103,7 @@
   <BeingCarriedDueToIllness>病気により担架で運搬</BeingCarriedDueToIllness>
   <UsingBedrollsDueToIllness>病気により寝袋を使用</UsingBedrollsDueToIllness>
   <CurrentTileMovementTime>現タイルの移動時間</CurrentTileMovementTime>
-  <Visibility>見つけられ易さ</Visibility>
+  <Visibility>見つかり易さ</Visibility>
   <Temperature>樽内温度</Temperature>
   <BadTemperature>温度が適していない</BadTemperature>
   <IdealFermentingTemperature>理想的な発酵温度</IdealFermentingTemperature>
@@ -105,6 +112,7 @@
   <CaravanEntering>参加中 {0}</CaravanEntering>
   <CaravanAttacking>攻撃中 {0}</CaravanAttacking>
   <CaravanOfferingGifts>{0}へ貢ぎ物を申し入れる</CaravanOfferingGifts>
+  <CaravanTrading>{0} と取引中</CaravanTrading>
   <WasWornByCorpse>死体が着用して穢れた</WasWornByCorpse>
   <WornByCorpseChar>霊</WornByCorpseChar>
   <DeterioratingUnroofed>屋根無し</DeterioratingUnroofed>
@@ -125,13 +133,17 @@
   <TransportPodInGroupHasSomethingLeftToLoad>積み込み中</TransportPodInGroupHasSomethingLeftToLoad>
   <TransportPodDestinationBeyondMaximumRange>最大航続距離を超えた</TransportPodDestinationBeyondMaximumRange>
   <TransportPodNotEnoughFuel>燃料が不十分</TransportPodNotEnoughFuel>
-  <SettlementTrader>{0} of {1}</SettlementTrader>
+  <SettlementTrader>{1} の{0}</SettlementTrader>
   <RoomSurgerySuccessChanceFactor>部屋:手術成功率への掛け率</RoomSurgerySuccessChanceFactor>
   <RoomInfectionChanceFactor>部屋:感染率への掛け率</RoomInfectionChanceFactor>
   <VentClosed>閉</VentClosed>
   <WornBy>{1_labelShort}が着ている</WornBy>
   <EquippedBy>{1_labelShort}が装備している</EquippedBy>
   <QuestTargetDestroyInspectString>{0}は,この破壊を求めている.\n    報償: {1} ({2})</QuestTargetDestroyInspectString>
+  <QuestTargetDestroyInspectStringShort>{0}はこれの破壊を希望している.</QuestTargetDestroyInspectStringShort>
+  <ShuttleDelayInspectString>{0}のシャトルで出発</ShuttleDelayInspectString>
+  <ShuttleLeaveDelayInspectString>{0}を出発</ShuttleLeaveDelayInspectString>
+  <ShouldDepartOnShuttleInspectString>Should depart on shuttle</ShouldDepartOnShuttleInspectString>
   <WorldObjectTimeout>残り時間: {0}</WorldObjectTimeout>
   <ClickToSortByThisColumn>この列でソートする</ClickToSortByThisColumn>
   <WorkPriorityShiftClickTip>Shift + click:優先順位を上げる\nShift + right click: 優先順位を下げる</WorkPriorityShiftClickTip>
@@ -156,7 +168,7 @@
   <Winter>冬季</Winter>
   <MovementDifficultyOffsetInWinter>冬季間 {0}</MovementDifficultyOffsetInWinter>
   <RangeTo>～</RangeTo>
-  <NoDietCategoryLetter>No letter</NoDietCategoryLetter>
+  <NoDietCategoryLetter>メッセージ無し</NoDietCategoryLetter>
   <ExpiresIn>有効期限</ExpiresIn>
   <CaravanLeaderCaravanName>{1_labelShort}のキャラバン隊</CaravanLeaderCaravanName>
   <Reason>理由</Reason>
@@ -171,11 +183,47 @@
   <HiddenOrNoSitePartDescription>ここは危険な気がする</HiddenOrNoSitePartDescription>
   <PreciousLumpLabel>{0}の鉱脈</PreciousLumpLabel>
   <NoActiveResearchProjectToFinish>何も研究項目を決めてません</NoActiveResearchProjectToFinish>
+  <CannotResearchNoBench>研究不可：研究設備なし</CannotResearchNoBench>
   <Turret>タレット</Turret>
   <Turrets>タレット群</Turrets>
   <Mortar>迫撃砲</Mortar>
   <Mortars>迫撃砲群</Mortars>
   <Enemy>敵対者</Enemy>
+  <Location>位置</Location>
+  <AnimalsLower>動物</AnimalsLower>
+  <FilthLabel>{0} が{1}</FilthLabel>
+  <FilthLabelWithSource>{1}の{0} が{2}</FilthLabelWithSource>
+  <Required>必要</Required>
+  <GiveGiftViaTransportPodsTradeRequestWarning>警告：輸送ポッドを使って取引要求を完了することはできません.\nあなたが依頼品を輸送ポットで送ると,相手はそれらを贈り物として受け取りますが,彼らは依頼を完了したと思わずあなたに報酬を支払いません.\n\n取引する場合はキャラバンで拠点に入ってください！\n\n積み込んだアイテムを派閥に贈呈してもよろしいですか？</GiveGiftViaTransportPodsTradeRequestWarning>
+  <PrisonerLower>囚人</PrisonerLower>
+  <PrisonersLower>囚人たち</PrisonersLower>
+  <Complete>完了</Complete>
+  <ClickToViewInQuestsTab>クエストタブでこのクエストを確認するにはクリックします</ClickToViewInQuestsTab>
+  <Mood>心情</Mood>
+  <Quest>クエスト</Quest>
+  <BringsRaidsEvery>{0}ごとに襲撃が行われます</BringsRaidsEvery>
+  <GeneratesResourcesEvery>{1}ごとに{0}を生成する</GeneratesResourcesEvery>
+  <FoliageKillRadius>植物が枯れる範囲</FoliageKillRadius>
+  <RadiusExpandRate>半径の拡大率</RadiusExpandRate>
+  <ViewHyperlink>確認：{0}</ViewHyperlink>
+  <DetonationCountdown>{0}日で爆発</DetonationCountdown>
+  <ExplosionOnDamageWarning>破損すると大爆発</ExplosionOnDamageWarning>
+  <MechCluster>メカクラスター</MechCluster>
+  <SpawningNextPawnIn>{0} で発生</SpawningNextPawnIn>
+  <MechAssemblyCompleteIn>{0}の組立が{1}で完了した</MechAssemblyCompleteIn>
+  <ThingsProduced>生産された</ThingsProduced>
+  <PlantsHarvested>収穫された</PlantsHarvested>
+  <PawnsKilled>{0}が殺害された</PawnsKilled>
+  <PawnsLent>{0}を送信して{1}に返信します</PawnsLent>
+  <DormantCompInactive>休眠した</DormantCompInactive>
+  <DormantCompSealed>密封した</DormantCompSealed>
+  <DormantCompBeacon>メカノイドが降下する準備を完了</DormantCompBeacon>
+  <DormantCompExpired>期限切れ</DormantCompExpired>
+  <SendSignalOnCountdownCompTime>{0}で起動</SendSignalOnCountdownCompTime>
+  <PsychicEntropy>精神汚染</PsychicEntropy>
+  <PsychicEntropyPainFocus>{0}の苦痛に精神が集中</PsychicEntropyPainFocus>
+  <ConditionCauserRadius>範囲 {0}</ConditionCauserRadius>
+  <DurationLeft>残り時間 {0}</DurationLeft>
 
   <!-- Fermentation barrel -->
   <ContainsWort>内容物 {0} / {1} 麦汁</ContainsWort>
@@ -200,6 +248,7 @@
   <TextMote_FixBrokenDownBuildingFail>修理に失敗</TextMote_FixBrokenDownBuildingFail>
   <TextMote_ConstructionFail>建築に失敗</TextMote_ConstructionFail>
   <TextMote_Dodge>回避</TextMote_Dodge>
+  <TextMote_Immune>免疫</TextMote_Immune>
   <TextMote_Tended>{0} 看病された</TextMote_Tended>
   <lowMood>低心情</lowMood>
   <lowOpinion>低評価</lowOpinion>
@@ -238,6 +287,7 @@
 
   <!-- Job reports -->
   <ReportHaulingTo>{THING_label} を {DESTINATION} に 運搬中</ReportHaulingTo>
+  <ReportHaulingToGrave>{THING_label} を {DESTINATION} に 埋葬中</ReportHaulingToGrave>
   <ReportHauling>{1_label} を 運搬中</ReportHauling>
   <ReportHaulingUnknown>運搬中</ReportHaulingUnknown>
   <ReportSleeping>睡眠中</ReportSleeping>
@@ -259,6 +309,10 @@
   <!-- Lord job reports -->
   <LordReportAttendingMarriageCeremony>結婚式に参列している</LordReportAttendingMarriageCeremony>
   <LordReportAttendingParty>パーティに参加している</LordReportAttendingParty>
+  <LordReportAttendingConcert>演奏会に参加</LordReportAttendingConcert>
+  <LordReportHoldingConcert>演奏会を開催</LordReportHoldingConcert>
+  <LordReportGivingSpeech>演説をする</LordReportGivingSpeech>
+  <LordReportListeningSpeech>{ORGANIZER_labelShort}の演説を聞いている</LordReportListeningSpeech>
   <LordReportFormingCaravan>キャラバン隊を編成中</LordReportFormingCaravan>
 
   <!-- Shooting report -->
@@ -276,6 +330,7 @@
 
   <!-- Generated recipes -->
   <RecipeMake>{0} を作る</RecipeMake>
+  <RecipeMakeDescription>{0} を作る</RecipeMakeDescription>
   <RecipeMakeJobString>{0} を作っている</RecipeMakeJobString>
   <RecipeAdminister>{0} を投与する</RecipeAdminister>
   <RecipeAdministerJobString>{0} を投与中</RecipeAdministerJobString>
@@ -284,6 +339,7 @@
 
   <!-- Thoughts -->
   <ThoughtExpiresIn>残り日数： {0}</ThoughtExpiresIn>
+  <ThoughtNullifiedBy>無効にされた思考</ThoughtNullifiedBy>
   <ThoughtStartsExpiringIn>残り日数： {0}</ThoughtStartsExpiringIn>
   <ThoughtFinishesExpiringIn>有効日数： {0}</ThoughtFinishesExpiringIn>
   <MentalBreakThresholdExtreme>精神崩壊：しきい値</MentalBreakThresholdExtreme>
@@ -293,8 +349,13 @@
   <!-- Pawn info readout -->
   <PawnMainDescGendered>{PAWN_gender} {1}</PawnMainDescGendered>
   <PawnMainDescFactionedWrap>{1} 所属の {0}</PawnMainDescFactionedWrap>
+  <PawnTitleDescWrap>{1} の {0}</PawnTitleDescWrap>
+  <PawnMainDescUnderFactionedWrap>{1} に臨時所属中の {0}</PawnMainDescUnderFactionedWrap>
+  <PawnMainDescTempFactionedWrap>{1} に臨時所属中の {0}\n元の派閥 {2}</PawnMainDescTempFactionedWrap>
   <PawnMainDescLifestageWrap>{2_lifeStageAdjective} {0}</PawnMainDescLifestageWrap>
   <Faction>派閥</Faction>
+  <FactionDesc>現在{PAWN_labelShort}が所属している派閥.</FactionDesc>
+  <ExtraFactionDesc>現在{PAWN_labelShort}が所属している派閥.{PAWN_pronoun}は,現在の派閥を解雇されれば,また元の派閥に戻ります.</ExtraFactionDesc>
   <Equipped>装備品</Equipped>
   <EquippedNothing>素手</EquippedNothing>
   <Dead>死亡</Dead>
@@ -404,6 +465,8 @@
   <CategorizedResourceReadoutToggleButton>リソース表示のカテゴリー別表示の切り替え</CategorizedResourceReadoutToggleButton>
   <ShowAnimalNamesToggleButton>家畜の名前表示を切り替え</ShowAnimalNamesToggleButton>
   <ShowRoofOverlayToggleButton>屋根の可視 切り替え</ShowRoofOverlayToggleButton>
+  <ShowFertilityOverlayToggleButton>肥沃度オーバーレイ切替.\n\nこれは地面がどれだけ肥沃かを示し,どのような種類の植物が成長できるかやどれだけ速く成長するかに影響します.</ShowFertilityOverlayToggleButton>
+  <ShowTerrainAffordanceOverlayToggleButton>地形周辺情報表示切替.\n\nこれはその場所でどのような種類の建築物を建設できるかに関係します.\n\n例えば一部の地形は,軽い建物か中程度の重さの建物だけ支えられますが,重い建築物は支えられません.橋は水上でだけ建設できます.</ShowTerrainAffordanceOverlayToggleButton>
   <LockNorthUpToggleButton>北が常に上になるように,カメラをロックします</LockNorthUpToggleButton>
   <UsePlanetDayNightSystemToggleButton>日中/夜間表示 切り替え</UsePlanetDayNightSystemToggleButton>
   <ShowExpandingIconsToggleButton>アイコン表示 切り替え\n\n俯瞰で見たときのアイコン表示を切り替えます</ShowExpandingIconsToggleButton>
@@ -418,6 +481,9 @@
   <GameConditionsTip>この地域に影響を及ぼす特殊な条件</GameConditionsTip>
   <TimeLeft>残り時間</TimeLeft>
   <ImpactDate>衝突予測日</ImpactDate>
+  <SourceUnknown>情報が不明.</SourceUnknown>
+  <ClickToJumpToSource>クリックして情報にジャンプする.</ClickToJumpToSource>
+  <CausedByQuest>クエストが原因：{0}</CausedByQuest>
 
   <!-- Building placement -->
   <NoStuffsToBuildWith>これを建設するのに 必要な資源が無い</NoStuffsToBuildWith>
@@ -582,5 +648,46 @@
   <!-- Transport pods -->
   <ClickToSeeAvailableOrders_WorldObject>{0}: オーダーを見る...</ClickToSeeAvailableOrders_WorldObject>
   <ClickToSeeAvailableOrders_Empty>オーダーを見る...</ClickToSeeAvailableOrders_Empty>
+
+  <!-- Pawn tooltips -->
+  <PawnTooltipWithDescAndPrimaryEquip>{0} ({1})\n{2}\n{3}</PawnTooltipWithDescAndPrimaryEquip>
+  <PawnTooltipWithDescNoPrimaryEquip>{0} ({1})\n{2}</PawnTooltipWithDescNoPrimaryEquip>
+  <PawnTooltipWithPrimaryEquipNoDesc>{0}\n{1}\n{2}</PawnTooltipWithPrimaryEquipNoDesc>
+  <PawnTooltipNoDescNoPrimaryEquip>{0}\n{1}</PawnTooltipNoDescNoPrimaryEquip>
+  <PawnTooltipPsychicEntropy>精神汚染：{0}/{1}\n汚染進行率：{2}/{3}秒(0になるまで{4}秒)\n\n精神汚染は、サイコ放射を実行した後に増加します.\n安全限界を超えると,長期的な健康へ影響が出る可能性があります.\n精神汚染が0に到達するたびに,サイコ酔いが発生します.</PawnTooltipPsychicEntropy>
+  <PawnTooltipPsychicEntropyPainFocus>身体の痛みは心を痛みに集中させて,雑念を消し去ります.これには,精神汚染からの回復が早くなるという副作用があります.</PawnTooltipPsychicEntropyPainFocus>
+  <PawnTooltipPsychicEntropyLimit>精神汚染の安全限界を切替えます.\n\n精神汚染の安全限界を超えると,長期的な精神障害や過剰摂取による重大な脳ダメージなど,健康に深刻な影響を引き起こす可能性があります.精神汚染の安全限界値が高いほど,その反動はより危険になります.</PawnTooltipPsychicEntropyLimit>
+
+  <!-- Pawn tooltip description -->
+  <PawnTooltipGenderAndKindLabel>{0} {1}</PawnTooltipGenderAndKindLabel>
+
+  <!-- Rewards -->
+  <Reward_Pawn_DropPod>{0_age}歳の{0_nameIndef}という名前の{0_nameDef}が輸送ポッドで到着した{0_relationInfoInParentheses}</Reward_Pawn_DropPod>
+  <Reward_Pawn_WalkIn>{0_age}歳の{0_nameIndef}という名前の{0_nameDef}が輸送ポッドで到着して加わった{0_relationInfoInParentheses}</Reward_Pawn_WalkIn>
+  <Reward_Pawn_Caravan>{0_age}歳の{0_nameIndef}という名前の{0_nameDef}が加わった{0_relationInfoInParentheses}</Reward_Pawn_Caravan>
+  <Reward_Items>以下の資源が入った輸送ポッドが到着した（合計 {1}個）：
+\n{0}</Reward_Items>
+  <Reward_Items_Caravan>受け取った（合計 {1}個):
+\n{0}</Reward_Items_Caravan>
+  <Reward_Goodwill>{0_name}との友好関係は{1}改善した</Reward_Goodwill>
+
+  <!-- Bladelink -->
+  <BondedWith>登録者：{PAWN_labelShort}</BondedWith>
+  <NotBonded>未登録</NotBonded>
+  <BladelinkBondedToSomeoneElse>誰かが登録済</BladelinkBondedToSomeoneElse>
+
+  <!-- Biocoded weapons -->
+  <Biocoded>生体認証済：{0}</Biocoded>
+  <CodedFor>生体認証先：{0}</CodedFor>
+  <BiocodedCodedForSomeoneElse>生体認証済</BiocodedCodedForSomeoneElse>
+
+  <!-- Projectile interceptor -->
+  <InterceptsProjectilesEvery>{1}ごとに{0}を迎撃</InterceptsProjectilesEvery>
+  <InterceptsProjectiles>{0}を迎撃</InterceptsProjectiles>
+  <InterceptsProjectiles_GroundProjectiles>地上からの発射体</InterceptsProjectiles_GroundProjectiles>
+  <InterceptsProjectiles_AerialProjectiles>空からの発射体</InterceptsProjectiles_AerialProjectiles>
+
+  <!-- Condition causers -->
+  <AffectedGender>影響を受ける性別</AffectedGender>
 
 </LanguageData>
