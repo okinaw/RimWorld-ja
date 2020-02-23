@@ -44,13 +44,13 @@
   <SoldMyLovedOne.stages.loved_one_sold.labelSocial>最愛の人が売られた</SoldMyLovedOne.stages.loved_one_sold.labelSocial>
   <SoldMyLovedOne.stages.loved_one_sold.description>私の最愛の人を,肉でも売るかのように,トレーダーに売られてしまった.</SoldMyLovedOne.stages.loved_one_sold.description>
 
-  <SoldMyBondedAnimal.stages.bonded_animal_sold.label>絆で結ばれた動物が売られた</SoldMyBondedAnimal.stages.bonded_animal_sold.label>
-  <SoldMyBondedAnimal.stages.bonded_animal_sold.labelSocial>絆で結ばれている動物が売られた</SoldMyBondedAnimal.stages.bonded_animal_sold.labelSocial>
-  <SoldMyBondedAnimal.stages.bonded_animal_sold.description>私と特別な絆で結ばれている動物が,トレーダーに売られてしまった!.</SoldMyBondedAnimal.stages.bonded_animal_sold.description>
+  <SoldMyBondedAnimal.stages.bonded_animal_given_away.label>絆で結ばれた動物をが売られた</SoldMyBondedAnimal.stages.bonded_animal_given_away.label>
+  <SoldMyBondedAnimal.stages.bonded_animal_given_away.labelSocial>絆で結ばれている動物が売られた</SoldMyBondedAnimal.stages.bonded_animal_given_away.labelSocial>
+  <SoldMyBondedAnimal.stages.bonded_animal_given_away.description>私と特別な絆で結ばれている動物が,トレーダーに売られてしまった!.</SoldMyBondedAnimal.stages.bonded_animal_given_away.description>
 
-  <SoldMyBondedAnimalMood.stages.bonded_animal_given_away.label>絆で結ばれた動物を引き渡した</SoldMyBondedAnimalMood.stages.bonded_animal_given_away.label>
-  <SoldMyBondedAnimalMood.stages.bonded_animal_given_away.labelSocial>絆で結ばれている動物が引き渡された</SoldMyBondedAnimalMood.stages.bonded_animal_given_away.labelSocial>
-  <SoldMyBondedAnimalMood.stages.bonded_animal_given_away.description>私の特別な絆で結ばれた動物を引き渡した！</SoldMyBondedAnimalMood.stages.bonded_animal_given_away.description>
+  <SoldMyBondedAnimalMood.stages.bonded_animal_given_away.label>絆で結ばれた動物を手放した</SoldMyBondedAnimalMood.stages.bonded_animal_given_away.label>
+  <SoldMyBondedAnimalMood.stages.bonded_animal_given_away.labelSocial>絆で結ばれている動物と離ればなれにされた</SoldMyBondedAnimalMood.stages.bonded_animal_given_away.labelSocial>
+  <SoldMyBondedAnimalMood.stages.bonded_animal_given_away.description>私の特別な絆で結ばれた動物を手放した！</SoldMyBondedAnimalMood.stages.bonded_animal_given_away.description>
 
   <ForcedMeToTakeDrugs.stages.forced_me_to_take_drugs.label>無理やりドラッグをやらされた</ForcedMeToTakeDrugs.stages.forced_me_to_take_drugs.label>
 
