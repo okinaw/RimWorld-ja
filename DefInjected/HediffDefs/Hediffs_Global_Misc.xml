@@ -23,11 +23,11 @@
   <PsychicShock.description>脳細胞と精神的な心の混乱状態です.この効果は、精神的な攻撃または精神的エントロピーの臨界レベルによって引き起こされ、消滅するまで衰弱する。</PsychicShock.description>
   <PsychicShock.labelNoun>サイキックショック</PsychicShock.labelNoun>
 
-  <PsychicHangover.label>サイキック酩酊</PsychicHangover.label>
-  <PsychicHangover.description>サイキックエントロピー放射の後遺症です.サイキックによる酩酊状態は厄介ですが,生命に危険はありません.</PsychicHangover.description>
+  <PsychicHangover.label>サイコ酔い</PsychicHangover.label>
+  <PsychicHangover.description>精神汚染の放射による後遺症です.サイキックによる酩酊状態は厄介ですが,生命に危険はありません.</PsychicHangover.description>
   <PsychicHangover.stages.forming.label>心理酩酊</PsychicHangover.stages.forming.label>
   <PsychicHangover.stages.buzzing.label>心理騒音</PsychicHangover.stages.buzzing.label>
-  <PsychicHangover.labelNoun>サイキック酩酊</PsychicHangover.labelNoun>
+  <PsychicHangover.labelNoun>サイコ酔い</PsychicHangover.labelNoun>
 
   <BrainShock.label>神経ショック</BrainShock.label>
   <BrainShock.description>脳への電気ショックによる後遺症です.これは一般的に,EMPパルスが命中した脳インプラント装置からの異常なフィードバックが原因です.</BrainShock.description>
