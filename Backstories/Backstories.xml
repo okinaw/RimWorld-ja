@@ -9,194 +9,194 @@
 	</HouseServant86>
 	<HeadButler50>
 		<title>筆頭執事</title>
-		<titleShort>butler</titleShort>
-		<desc>[PAWN_nameDef] was the head servant in a royal house.
+		<titleShort>執事</titleShort>
+		<desc>[PAWN_nameDef]は王室付きの執事でした.
 
-[PAWN_pronoun] managed the other servants to ensure the lord's will was done, even before the lord knew what it was.</desc>
+[PAWN_pronoun]は,主が何をしたいのかを知る前から,主の考えが確実に果たされるように他の召使いたちを管理しました.</desc>
 	</HeadButler50>
 	<RoyalMasseuse43>
 		<title>王立マッサージ師</title>
-		<titleShort>masseuse</titleShort>
-		<desc>[PAWN_nameDef] was a massage artist for an extended royal house. [PAWN_pronoun] serviced many members of the royal family, and their guests.
+		<titleShort>マッサージ師</titleShort>
+		<desc>[PAWN_nameDef]は,特別に設置された王室専用のマッサージ師でした.[PAWN_pronoun]は沢山居る王室メンバーとその招待客にサービスを提供しました.
 
-[PAWN_nameDef] occasionally offered something extra, if the lord or lady was in the mood. Advancing in this line of work meant having refined social skills.</desc>
+[PAWN_nameDef]は,主たちやお嬢様方のご機嫌がよければ,何か特別なものを褒美に貰うこともありました.このような仕事に就くことは,高度な社交スキルを持つことを意味していました.</desc>
 	</RoyalMasseuse43>
 	<MenagerieKeeper1>
 		<title>見世物飼育員</title>
-		<titleShort>zookeeper</titleShort>
-		<desc>[PAWN_nameDef] managed the royal menagerie of a powerful family at their estate.
+		<titleShort>飼育員</titleShort>
+		<desc>[PAWN_nameDef]は,権力を持った王室の所領で彼らの財産である動物園を管理していました.
 
 [PAWN_nameDef]'s job saw [PAWN_pronoun] feeding elephants, tranquilizing lions, and training birds to display their plumage to titled visitors.</desc>
 	</MenagerieKeeper1>
 	<BalletDancer81>
-		<title>ガンダンサー</title>
-		<titleShort>dancer</titleShort>
-		<titleShortFemale>ballerina</titleShortFemale>
-		<desc>[PAWN_nameDef] was a dancer in a traditional ballet troupe. [PAWN_pronoun] mastered the ancient motions and entertained thousands.</desc>
+		<title>バトルダンサー</title>
+		<titleShort>ダンサー</titleShort>
+		<titleShortFemale>バレリーナ</titleShortFemale>
+		<desc>[PAWN_nameDef]は,伝統的なバレエ団のダンサーでした.[PAWN_pronoun]は伝統の踊りを習得して,数千人の観客たちを楽しませました.</desc>
 	</BalletDancer81>
 	<OrnamentMaker56>
 		<title>装飾製作者</title>
-		<titleShort>ornamenter</titleShort>
-		<desc>[PAWN_nameDef] crafted watches, medals, machined jewelry and other complex curios for royal patrons.</desc>
+		<titleShort>装飾製作者</titleShort>
+		<desc>[PAWN_nameDef]王室のために細工時計やメダルや機械加工された宝石,その他の複雑な骨董品を作っていました.</desc>
 	</OrnamentMaker56>
 	<RoyalCook18>
-		<title>royal cook</title>
-		<titleShort>cook</titleShort>
-		<desc>[PAWN_nameDef] made meals for [PAWN_possessive] aristocratic patrons.
+		<title>王室料理人</title>
+		<titleShort>料理人</titleShort>
+		<desc>[PAWN_nameDef]は[PAWN_possessive]王室と貴族たちへ食事を提供していました.
 
 Only the finest food was acceptable, so [PAWN_nameDef] tended a small garden on the mansion grounds to get the freshest herbs and vegetables. [PAWN_pronoun] fell in love with the food [PAWN_objective]self.</desc>
 	</RoyalCook18>
 	<ImperialPriest24>
 		<title>帝国僧</title>
-		<titleShort>priest</titleShort>
-		<titleShortFemale>priestess</titleShortFemale>
-		<desc>[PAWN_nameDef] was a priest in the imperial church.
+		<titleShort>僧侶</titleShort>
+		<titleShortFemale>女僧侶</titleShortFemale>
+		<desc>[PAWN_nameDef]は帝国教会の司祭でした.
 
 [PAWN_pronoun] spent half [PAWN_possessive] time studying books to understand the relationship between God's aspects and the facets of [PAWN_possessive] society. The other half was spent preaching the evils of sloth and drink.</desc>
 	</ImperialPriest24>
 	<ImperialInquisitor53>
 		<title>帝国審問官</title>
-		<titleShort>inquisitor</titleShort>
+		<titleShort>審問官</titleShort>
 		<titleShortFemale>inquisitress</titleShortFemale>
-		<desc>[PAWN_nameDef] was an inquisitor in the imperial church's anti-heresy school.
+		<desc>[PAWN_nameDef]は,帝国教会で異端審問を行う審問官でした.
 
 [PAWN_nameDef] hunted unorthodox thoughts wherever they could be found - art, music, code, even private conversations. Upon finding deviance, [PAWN_pronoun] exposed it to bring on the punishment of the collective. And [PAWN_pronoun] could always find the deviance if [PAWN_pronoun] looked hard enough.</desc>
 	</ImperialInquisitor53>
 	<ChurchPsychic98>
 		<title>教会能力者</title>
-		<titleShort>psychic</titleShort>
-		<desc>[PAWN_nameDef] was a psychic in the imperial church's psychic school.
+		<titleShort>能力者</titleShort>
+		<desc>[PAWN_nameDef]は,帝国教会の能力者学校に所属する能力者でした.
 
 [PAWN_nameDef] trained [PAWN_possessive] mind to sense the collective emotions and impressions of the people. It was a way to touch the spirit of the empire. It was also a way to root out heretical trends in thought.</desc>
 	</ChurchPsychic98>
 	<CorporateDrone10>
 		<title>企業ドローン</title>
-		<titleShort>drone</titleShort>
-		<desc>[PAWN_nameDef] worked in a very large office complex along with thousands of other suited drones.
+		<titleShort>ドローン</titleShort>
+		<desc>[PAWN_nameDef]は,他の数千の愚かなドローンたちと一緒に非常に大きな複合事務所で働いていました.
 
 The work itself consisted of endless organizational drudgery and pointless meetings, punctuated by the occasional performance review.</desc>
 	</CorporateDrone10>
 	<CorporateManager76>
 		<title>企業管理者</title>
-		<titleShort>manager</titleShort>
-		<desc>[PAWN_nameDef] worked in a massive open-plan office, ensuring that [PAWN_possessive] assigned team of workers stayed mostly on-task.
+		<titleShort>管理者</titleShort>
+		<desc>[PAWN_nameDef]は大規模な人材派遣会社に勤めていて,[PAWN_possessive]に割り当てられた労働者のチームがスムーズに仕事ができるよう管理していました.
 
 The job was intensely political. In order to advance, [PAWN_nameDef] learned how to arrange things so [PAWN_pronoun] could take credit for work done by almost anyone.</desc>
 	</CorporateManager76>
 	<CorporateFixer36>
-		<title>企業弁護士</title>
-		<titleShort>fixer</titleShort>
-		<desc>[PAWN_nameDef] was a fixer for an energy corporation. [PAWN_pronoun] work required knowing when to push, when to pull, when to back down and when to strike. The job fit [PAWN_possessive] natural lack of empathy.
+		<title>企業仲介者</title>
+		<titleShort>仲介者</titleShort>
+		<desc>[PAWN_nameDef]はエネルギー企業の仲介者でした.[PAWN_pronoun] work required knowing when to push, when to pull, when to back down and when to strike. The job fit [PAWN_possessive] natural lack of empathy.
 
 While violence was unusual, [PAWN_nameDef] stayed prepared for anything.</desc>
 	</CorporateFixer36>
 	<PlanetaryMiner64>
 		<title>惑星採掘家</title>
-		<titleShort>miner</titleShort>
-		<desc>[PAWN_nameDef] was a mining engineer for a major planetary mining corporation. [PAWN_pronoun] work kept [PAWN_objective] underground for weeks at a time, and [PAWN_pronoun] grew to appreciate the darkness.</desc>
+		<titleShort>採掘家</titleShort>
+		<desc>[PAWN_nameDef]は,大手惑星鉱山会社の採掘技術者でした.[PAWN_pronoun] work kept [PAWN_objective] underground for weeks at a time, and [PAWN_pronoun] grew to appreciate the darkness.</desc>
 	</PlanetaryMiner64>
 	<Mailman2>
 		<title>郵便配達員</title>
 		<titleFemale>郵便配達員</titleFemale>
 		<titleShort>配達員</titleShort>
 		<titleShortFemale>配達員</titleShortFemale>
-		<desc>[PAWN_nameDef] carried mail on [PAWN_possessive] assigned routes. Sometimes [PAWN_pronoun] was even sent to deliver special packages to stylish corporate offices or mansions.
+		<desc>[PAWN_nameDef]は[PAWN_possessive]に割り当てられたルートで郵便物を運んでいました.Sometimes [PAWN_pronoun] was even sent to deliver special packages to stylish corporate offices or mansions.
 
 [PAWN_nameDef] got pretty good at avoiding and fighting off angry dogs.</desc>
 	</Mailman2>
 	<Assembler69>
 		<title>組立工</title>
-		<titleShort>assembler</titleShort>
-		<desc>[PAWN_nameDef] worked on factory assembly lines, putting together products with the help of robots.</desc>
+		<titleShort>組立工</titleShort>
+		<desc>[PAWN_nameDef]は工場の組立ラインに就職して,ロボットの助けを借りて製品を組み立てていました.</desc>
 	</Assembler69>
 	<Builder96>
 		<title>建設作業員</title>
-		<titleShort>builder</titleShort>
-		<desc>[PAWN_nameDef] worked on construction sites, building everyday structures according to [PAWN_possessive] boss' instructions.</desc>
+		<titleShort>作業員</titleShort>
+		<desc>[PAWN_nameDef]は建設現場で働き,[PAWN_possessive]ボスの指示に従って日々建築物を建設していました.</desc>
 	</Builder96>
 	<CropFarmer17>
 		<title>作物生産者</title>
-		<titleShort>farmer</titleShort>
-		<desc>[PAWN_nameDef] ran a crop farm. [PAWN_pronoun] analyzed soil, agricultural equipment, weather patterns, and price trends to optimize the planting and harvesting of massive crop fields.</desc>
+		<titleShort>農家</titleShort>
+		<desc>[PAWN_nameDef]は,農園を経営していました.[PAWN_pronoun] analyzed soil, agricultural equipment, weather patterns, and price trends to optimize the planting and harvesting of massive crop fields.</desc>
 	</CropFarmer17>
 	<LivestockFarmer8>
-		<title>livestock farmer</title>
-		<titleShort>farmer</titleShort>
-		<desc>[PAWN_nameDef] ran a livestock farm. [PAWN_pronoun] analyzed animal genetics, feed types, birth and slaughter methods, and price trends to optimize the raising of huge animal herds.</desc>
+		<title>畜産農家</title>
+		<titleShort>農家</titleShort>
+		<desc>[PAWN_nameDef]は家畜農場を経営していました.[PAWN_pronoun] analyzed animal genetics, feed types, birth and slaughter methods, and price trends to optimize the raising of huge animal herds.</desc>
 	</LivestockFarmer8>
 	<ServingBoy97>
-		<title>serving boy</title>
-		<titleFemale>serving girl</titleFemale>
-		<titleShort>house boy</titleShort>
-		<titleShortFemale>house girl</titleShortFemale>
-		<desc>[PAWN_nameDef] was the child of house servants, and was trained to carry on the family duty.
+		<title>給仕係</title>
+		<titleFemale>給仕係</titleFemale>
+		<titleShort>下働き</titleShort>
+		<titleShortFemale>下働き</titleShortFemale>
+		<desc>[PAWN_nameDef]は召し使いの子供で,一家の義務を果たすために教育されました.
 
 [PAWN_pronoun] carried things and polished silverware, but was never allowed into the lords' part of the house.</desc>
 	</ServingBoy97>
 	<RoyalBastard3>
-		<title>royal bastard</title>
-		<titleShort>bastard</titleShort>
-		<desc>[PAWN_nameDef] the child of a lord and a prostitute.
+		<title>王家の私生児</title>
+		<titleShort>私生児</titleShort>
+		<desc>[PAWN_nameDef]は,領主と娼婦の間に生まれた子供です.
 
 [PAWN_possessive] father's line was secure and his holdings strong. Nobody ever came to [PAWN_nameDef] to endorse a bid for the title. [PAWN_pronoun] earned [PAWN_possessive] bread cleaning the brothel, but always felt [PAWN_pronoun] deserved much more.</desc>
 	</RoyalBastard3>
 	<WarBastard60>
-		<title>war bastard</title>
-		<titleShort>bastard</titleShort>
-		<desc>[PAWN_nameDef] was born nine months after [PAWN_possessive] mother's town was conquered by enemy soldiers. The child of violence with no acknowledged father, [PAWN_nameDef] grew up at the bottom of the social pyramid.
+		<title>戦争孤児</title>
+		<titleShort>私生児</titleShort>
+		<desc>[PAWN_nameDef]は[PAWN_possessive]母の故郷が敵兵に占領されてから9か月後に生まれました.The child of violence with no acknowledged father, [PAWN_nameDef] grew up at the bottom of the social pyramid.
 
 [PAWN_possessive] mother instilled her bitterness towards men and war into [PAWN_nameDef]. [PAWN_possessive] pet rabbit offered more warmth than any human in [PAWN_possessive] life.</desc>
 	</WarBastard60>
 	<LineInfanteer20>
-		<title>line infanteer</title>
-		<titleShort>infanteer</titleShort>
-		<desc>[PAWN_nameDef] was an ordinary infanteer in an imperial battalion.
+		<title>戦列歩兵</title>
+		<titleShort>歩兵</titleShort>
+		<desc>[PAWN_nameDef]は,帝国大隊の普通の歩兵でした.
 
-Conscripted at a young age to add bodies the army, [PAWN_nameDef] learned the methods of fighting well enough to satisfy [PAWN_possessive] officers. However, [PAWN_pronoun] never quite understood what was going on around [PAWN_objective] enough to really believe in it.</desc>
+若い時に徴兵されて軍に入隊し,[PAWN_nameDef]は,[PAWN_possessive]上官を満足させるのに十分な戦い方を学びました.しかし,[PAWN_pronoun]は[PAWN_objective]取り巻く状況で何が起こっているのか,確信できるほど十分に理解していませんでした.</desc>
 	</LineInfanteer20>
 	<PiousSoldier67>
-		<title>pious soldier</title>
-		<titleShort>pious soldier</titleShort>
-		<desc>When not training or combat, [PAWN_nameDef] was often at the chaplain's side. [PAWN_pronoun] dedicated [PAWN_possessive] life to serving both [PAWN_possessive] lord and [PAWN_possessive] religion.</desc>
+		<title>敬虔な兵士</title>
+		<titleShort>兵士</titleShort>
+		<desc>訓練も戦闘もしていないとき,[PAWN_nameDef]はよく牧師の側にいました.[PAWN_pronoun] dedicated [PAWN_possessive] life to serving both [PAWN_possessive] lord and [PAWN_possessive] religion.</desc>
 	</PiousSoldier67>
 	<InfantryEngineer46>
-		<title>infantry engineer</title>
-		<titleShort>engineer</titleShort>
-		<desc>Despite being in an infantry battalion, [PAWN_nameDef] rarely fired a gun. [PAWN_possessive] specialty was the rapid construction of defenses, traps, defensive installations, and sapping tunnels.</desc>
+		<title>戦闘工兵</title>
+		<titleShort>技術者</titleShort>
+		<desc>歩兵大隊に所属していたにもかかわらず,[PAWN_nameDef]はめったに銃を撃ちませんでした. [PAWN_possessive] specialty was the rapid construction of defenses, traps, defensive installations, and sapping tunnels.</desc>
 	</InfantryEngineer46>
 	<InfantryMedic6>
-		<title>infantry medic</title>
-		<titleShort>medic</titleShort>
-		<desc>[PAWN_nameDef] treated the combat wounds of [PAWN_possessive] fallen comrades.</desc>
+		<title>衛生兵</title>
+		<titleShort>医者</titleShort>
+		<desc>[PAWN_nameDef]は[PAWN_possessive]倒れた仲間の戦闘で受けた傷を治療しました.</desc>
 	</InfantryMedic6>
 	<MilitaryCook18>
-		<title>military cook</title>
-		<titleShort>army cook</titleShort>
-		<desc>They say an army marches on its stomach. [PAWN_nameDef]'s job was to prepared chow to keep [PAWN_possessive] unit marching, no matter the conditions.
+		<title>調理兵</title>
+		<titleShort>軍料理人</titleShort>
+		<desc>彼らは軍隊とは胃の上を行進する者だと言いました.[PAWN_nameDef]'s job was to prepared chow to keep [PAWN_possessive] unit marching, no matter the conditions.
 
 The job required [PAWN_objective] to pay attention to both the nutritional and psychological needs of the troops.</desc>
 	</MilitaryCook18>
 	<LoyalJanissary59>
-		<title>loyal janissary</title>
-		<titleShort>janissary</titleShort>
-		<desc>[PAWN_nameDef] was a janissary in a great lord's army. Even more than the other troops, [PAWN_pronoun] felt a sense of duty, and [PAWN_pronoun] drew [PAWN_possessive] life's meaning from the effort [PAWN_pronoun] put to fulfilling [PAWN_possessive] duty.</desc>
+		<title>王室親衛隊</title>
+		<titleShort>イェニチェリ</titleShort>
+		<desc>[PAWN_nameDef]は偉大な領主直属部隊のイェニチェリでした.Even more than the other troops, [PAWN_pronoun] felt a sense of duty, and [PAWN_pronoun] drew [PAWN_possessive] life's meaning from the effort [PAWN_pronoun] put to fulfilling [PAWN_possessive] duty.</desc>
 	</LoyalJanissary59>
 	<ReconSniper89>
-		<title>recon sniper</title>
-		<titleShort>sniper</titleShort>
-		<desc>[PAWN_nameDef] was a professional military sniper. [PAWN_pronoun] was trained to rapidly reach into unexpected firing positions, snipe key targets, and escape before enemies could pinpoint [PAWN_possessive] location.</desc>
+		<title>偵察狙撃兵</title>
+		<titleShort>狙撃兵</titleShort>
+		<desc>[PAWN_nameDef]は軍に所属したプロの狙撃兵でした.[PAWN_pronoun] was trained to rapidly reach into unexpected firing positions, snipe key targets, and escape before enemies could pinpoint [PAWN_possessive] location.</desc>
 	</ReconSniper89>
 	<Shipcracker37>
-		<title>shipcracker</title>
-		<titleShort>shipcracker</titleShort>
-		<desc>[PAWN_nameDef]'s role was to launch through the vacuum of space, land on the enemy ship's hull, punch holes to the interior, and conquer it in room-to-room combat. [PAWN_pronoun] became very good at wielding heavy cataphract weapons to cut both steel and flesh.
+		<title>宇宙船突撃隊</title>
+		<titleShort>突撃隊</titleShort>
+		<desc>[PAWN_nameDef]の役割は,宇宙の真空中飛んで,敵の宇宙船の船体に着陸し,内部へ穴を開けて部屋を制圧戦で船を拿捕することでした.[PAWN_pronoun] became very good at wielding heavy cataphract weapons to cut both steel and flesh.
 
 [PAWN_pronoun] also developed a taste for the drugs [PAWN_pronoun] used to cope with the overwhelming stress.</desc>
 	</Shipcracker37>
 	<BrokenSoldier29>
-		<title>broken soldier</title>
-		<titleShort>soldier</titleShort>
-		<desc>[PAWN_pronoun] was a strong soldier in a long war of succession. In [PAWN_possessive] final battle, [PAWN_possessive] unit was sacrified to cover a retreat. [PAWN_nameDef] watched [PAWN_possessive] comrades die and was the only survivor.
+		<title>敗残兵</title>
+		<titleShort>兵士</titleShort>
+		<desc>[PAWN_pronoun]は,長く続いた戦争で強い兵士でした.In [PAWN_possessive] final battle, [PAWN_possessive] unit was sacrified to cover a retreat. [PAWN_nameDef] watched [PAWN_possessive] comrades die and was the only survivor.
 
 The experience broke [PAWN_objective] inside, leaving [PAWN_objective] without the coping strategies to moderate [PAWN_possessive] emotions.
 
@@ -210,24 +210,24 @@ The experience broke [PAWN_objective] inside, leaving [PAWN_objective] without t
 政府機関の規則が,あまりに彼の行動を制限すると分かると,彼は,ローグハッカーになりました.彼の現在の状況は不明です.</desc>
 	</IntelligenceAgent21>
 	<Deserter65>
-		<title>deserter</title>
-		<titleShort>deserter</titleShort>
-		<desc>After countless battles for a cause [PAWN_pronoun] did not believe in, [PAWN_nameDef] threw down [PAWN_possessive] arms and deserted. [PAWN_nameDef] lived in isolation, hunted by those [PAWN_pronoun] had deserted.</desc>
+		<title>脱走兵</title>
+		<titleShort>脱走兵</titleShort>
+		<desc>無数の戦いの後で[PAWN_pronoun]はその理由を信じていなかったので,[PAWN_nameDef]は[PAWN_possessive]武器を投げ捨てて脱走しました.[PAWN_nameDef] lived in isolation, hunted by those [PAWN_pronoun] had deserted.</desc>
 	</Deserter65>
 	<Warmonger35>
-		<title>warmonger</title>
-		<titleShort>warmonger</titleShort>
-		<desc>[PAWN_nameDef] revelled in bloodshed. Soldiers who served with [PAWN_objective] were terrified of [PAWN_possessive] ferocity. They rarely socialized with [PAWN_nameDef], and [PAWN_pronoun] did not mind the isolation.</desc>
+		<title>戦争屋</title>
+		<titleShort>戦争屋</titleShort>
+		<desc>[PAWN_nameDef]は流血沙汰が大好きでした.Soldiers who served with [PAWN_objective] were terrified of [PAWN_possessive] ferocity. They rarely socialized with [PAWN_nameDef], and [PAWN_pronoun] did not mind the isolation.</desc>
 	</Warmonger35>
 	<InfantryOfficer49>
-		<title>infantry officer</title>
-		<titleShort>officer</titleShort>
-		<desc>[PAWN_nameDef] was an officer in an imperial battalion. [PAWN_pronoun] developed the social and combat skills to do [PAWN_possessive] job well and was respected by the men.</desc>
+		<title>大隊指揮官</title>
+		<titleShort>将校</titleShort>
+		<desc>[PAWN_nameDef]は帝国大隊を指揮する将校でした.[PAWN_pronoun] developed the social and combat skills to do [PAWN_possessive] job well and was respected by the men.</desc>
 	</InfantryOfficer49>
 	<DisgracedOfficer19>
-		<title>disgraced officer</title>
-		<titleShort>officer</titleShort>
-		<desc>[PAWN_nameDef] was an officer in an imperial battalion. [PAWN_pronoun] developed the social and combat skills to do [PAWN_possessive] job well and was respected by the men.
+		<title>不名誉な将校</title>
+		<titleShort>将校</titleShort>
+		<desc>[PAWN_nameDef]はある帝国大隊を指揮する将校でした.[PAWN_pronoun]は[PAWN_possessive]仕事をうまくこなせるだけの社交スキルと戦闘スキルを発揮して,同じ男性からも尊敬されていました.
 
 When [PAWN_possessive] unit came under direct fire for the first time, [PAWN_nameDef] fled to a bunker and hid. [PAWN_pronoun] was demoted and never escaped the disgrace.</desc>
 	</DisgracedOfficer19>
@@ -237,34 +237,34 @@ When [PAWN_possessive] unit came under direct fire for the first time, [PAWN_nam
 		<desc>[PAWN_nameDef]は,帝国陸軍に配属された内偵でした.[PAWN_pronoun]は,兵が忠実であるか,命令に背いて逃げ出さないか,目を光らせていました.この任務は[PAWN_objective]嫌われ者にしましたが,いっぽう,[PAWN_pronoun]は,わずかな嘘も見破る卓越したスキルを得ました.</desc>
 	</MilitaryCommissar71>
 	<Artilleryman28>
-		<title>artilleryman</title>
-		<titleFemale>artillerywoman</titleFemale>
-		<titleShort>artilleer</titleShort>
-		<desc>[PAWN_nameDef] loaded shells and aimed artillery to pound [PAWN_possessive] army's enemies from afar.</desc>
+		<title>野戦砲兵</title>
+		<titleFemale>砲兵</titleFemale>
+		<titleShort>砲兵</titleShort>
+		<desc>[PAWN_nameDef]は砲弾を装填して,遠距離から[PAWN_possessive]敵を砲撃するために砲弾を叩きこんでいました.</desc>
 	</Artilleryman28>
 	<Demolitionist39>
-		<title>demolitionist</title>
-		<titleShort>demolitionist</titleShort>
-		<desc>[PAWN_nameDef] manufactured and planted explosives used to breach enemy defenses. Dealing with explosives every day taught [PAWN_objective] to keep a level head and steady hand.</desc>
+		<title>爆破専門家</title>
+		<titleShort>破壊者</titleShort>
+		<desc>[PAWN_nameDef]は,敵の防御を突破するために使用される爆発物を製造したり設置していました.爆発物と毎日付き合う事で,[PAWN_objective]正確な水平間隔で,安定した作業を行えるようになりました.</desc>
 	</Demolitionist39>
 	<Firebomber51>
-		<title>firebomber</title>
-		<titleShort>firebomber</titleShort>
-		<desc>[PAWN_nameDef] piloted a small fighter-bomber design specialized in spreading incendiary gel on flammable targets.
+		<title>爆撃機設計者</title>
+		<titleShort>設計者</titleShort>
+		<desc>[PAWN_nameDef]は,引火性のゲル状物質を可燃物の目標上に散布することに特化した小型戦闘爆撃機の設計を試験していました.
 
 Conditioned to love the sight of a target lighting up, [PAWN_pronoun] grew to love fire in all its forms - war, cooking, and even for cauterizing wounds in the hospital.</desc>
 	</Firebomber51>
 	<MilitaryChaplain10>
-		<title>military chaplain</title>
-		<titleShort>chaplain</titleShort>
-		<desc>[PAWN_nameDef] stayed with the troops in training and in combat, administering to the dying and reinforcing the faith of the living.
+		<title>従軍牧師</title>
+		<titleShort>牧師</titleShort>
+		<desc>[PAWN_nameDef]は軍と共に訓練や戦闘に参加して,瀕死の人々に許しを与え,生き残った人々の信仰心を高めました.
 
 Like all imperial chaplains, [PAWN_pronoun] vowed never to fight [PAWN_objective]self. However, [PAWN_pronoun] acted as a medic and treated the wounded.</desc>
 	</MilitaryChaplain10>
 	<RoyalGuard51>
-		<title>royal guard</title>
-		<titleShort>guard</titleShort>
-		<desc>[PAWN_nameDef] guarded the personal palace of a powerful lord.
+		<title>王室護衛兵</title>
+		<titleShort>衛兵</titleShort>
+		<desc>[PAWN_nameDef]は,絶大な力持つ王が所有する個人的な宮殿を守っていました.
 
 While violence was rare, palace intrigue was constant. [PAWN_nameDef]'s work taught [PAWN_pronoun] to handle both words and guns.</desc>
 	</RoyalGuard51>
