@@ -12,6 +12,7 @@
   <EdgeScreenScroll>画面端カーソルで移動</EdgeScreenScroll>
   <PauseOnLoad>ロード時は一時停止</PauseOnLoad>
   <PauseOnUrgentLetter>緊急メッセージ時に一時停止</PauseOnUrgentLetter>
+  <AutomaticPauseModeSetting>一時停止</AutomaticPauseModeSetting>
   <CustomCursor>ゲーム用カーソル</CustomCursor>
   <HatsShownOnlyOnMap>ゲーム上のみ帽子表示</HatsShownOnlyOnMap>
   <UIScale>UI 拡大率</UIScale>
@@ -25,6 +26,8 @@
   <LogVerbose>詳細なプロファイルを記録</LogVerbose>
   <OpenSaveGameDataFolder>データ の格納フォルダ</OpenSaveGameDataFolder>
   <ShowSaveGameDataLocation>セーブデータのある位置を表示する</ShowSaveGameDataLocation>
+  <OpenLogFileFolder>ログの保存先を開く</OpenLogFileFolder>
+  <ShowLogFileLocation>ログの保存場所を表示</ShowLogFileLocation>
   <NamesYouWantToSee>プレイヤーが作成したキャラクターが優先されました.このキャラクターはゲーム中により多く現れるでしょう:</NamesYouWantToSee>
   <AddName>名前を追加</AddName>
   <TypeFirstNickOrLastName>姓,ニックネーム,名前を入力してください.</TypeFirstNickOrLastName>
@@ -32,11 +35,11 @@
   <ChangeStoryteller>脚本家 選択</ChangeStoryteller>
   <AutosaveInterval>自動保存間隔</AutosaveInterval>
   <TemperatureMode>気候モード</TemperatureMode>
-<ShowRealtimeClock>実時間を示す時計を表示する</ShowRealtimeClock>
+  <ShowRealtimeClock>実時間を示す時計を表示する</ShowRealtimeClock>
   <MaxNumberOfPlayerSettlements>コロニーの最大数: {0}</MaxNumberOfPlayerSettlements>
   <PlantWindSway>風に木がなびく効果</PlantWindSway>
-    <EnableTestMapSizes>テストマップサイズを有効にする</EnableTestMapSizes>
-<MaxPermadeathAutosaveIntervalInfo>パーマデスモードでの,オートセーブ間隔は  {0}日です.</MaxPermadeathAutosaveIntervalInfo>
+  <EnableTestMapSizes>テストマップサイズを有効にする</EnableTestMapSizes>
+  <MaxPermadeathAutosaveIntervalInfo>パーマデスモードでの,オートセーブ間隔は  {0}日です.</MaxPermadeathAutosaveIntervalInfo>
   <ModSettings>Mod 設定</ModSettings>
   <PermanentlyDisableDevMode>開発者モードを永久に無効化する</PermanentlyDisableDevMode>
 
@@ -51,5 +54,6 @@
   <!-- Options reset -->
   <RestoreToDefaultSettings>デフォルト設定に復元する</RestoreToDefaultSettings>
   <ResetAndRestart>オプション設定はリセットされました.ゲームは自動的にリスタートするでしょう.</ResetAndRestart>
+  <ResetAndRestartConfirmationDialog>すべての設定がデフォルトにリセットされて,ゲームを再開します.セーブされていない現在の状態はすべて失われます！\n\続けますか?</ResetAndRestartConfirmationDialog>
 
 </LanguageData>
