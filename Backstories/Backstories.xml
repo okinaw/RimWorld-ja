@@ -269,137 +269,137 @@ Like all imperial chaplains, [PAWN_pronoun] vowed never to fight [PAWN_objective
 While violence was rare, palace intrigue was constant. [PAWN_nameDef]'s work taught [PAWN_pronoun] to handle both words and guns.</desc>
 	</RoyalGuard51>
 	<Propagandist86>
-		<title>propagandist</title>
-		<titleShort>propagandist</titleShort>
-		<desc>[PAWN_nameDef] was a skilled artist and military propagandist. [PAWN_pronoun] created works of art depicting [PAWN_possessive] lords and armies fovourably.</desc>
+		<title>軍事宣伝者</title>
+		<titleShort>芸術家</titleShort>
+		<desc>[PAWN_nameDef]は,熟練した芸術家であり,軍事宣伝家でした.[PAWN_pronoun]は[PAWN_possessive]領主と軍を好意的に描いた芸術作品を作成しました.</desc>
 	</Propagandist86>
 	<ShipBoy89>
-		<title>ship boy</title>
-		<titleFemale>ship girl</titleFemale>
-		<titleShort>ship boy</titleShort>
-		<titleShortFemale>ship girl</titleShortFemale>
-		<desc>[PAWN_nameDef] was born to low-ranked servants on an ancient starship. The ship's machine persona was like a third parent to [PAWN_objective], and the parts crafting crew [PAWN_pronoun] worked for was like a second family.
+		<title>船の下男</title>
+		<titleFemale>船の下女</titleFemale>
+		<titleShort>下男</titleShort>
+		<titleShortFemale>下女</titleShortFemale>
+		<desc>[PAWN_nameDef]は,古代の宇宙船で下級使用人として生まれました.船のAI人格は[PAWN_objective]の3番目の親のようなもので,部品製作クルーは[PAWN_pronoun]2番目の家族のようなものでした.
 
-[PAWN_nameDef] rarely saw plants or animals, and still finds them unnerving to touch.</desc>
+[PAWN_nameDef]は植物や動物をめったに見たことがありませんでしたが,触っても動揺しないと思っています.</desc>
 	</ShipBoy89>
 	<MilitaryCadet46>
-		<title>military cadet</title>
-		<titleShort>cadet</titleShort>
-		<desc>[PAWN_nameDef] was levied from [PAWN_possessive] family at a young age to become a soldier. [PAWN_pronoun] lived in barracks with other military kids, learning about duty, weapons, pain, and victory.
+		<title>士官候補生</title>
+		<titleShort>候補生</titleShort>
+		<desc>[PAWN_nameDef]は[PAWN_possessive]家族から幼い頃に別れて兵士として徴募されました.[PAWN_pronoun]は他の子供と軍の兵舎に住みながら,義務や武器や痛みや勝利について学びました.
 
-The trainers sometimes let the kids escape the base to enjoy the wider world. They wanted soldiers who can think independently.</desc>
+訓練官は時々,子供たちがより広い世界を知るために基地から脱走できるようにしていました.軍は自分で考えることができる兵士を望んでいました.</desc>
 	</MilitaryCadet46>
 	<PoliticalCaptive7>
-		<title>political captive</title>
-		<titleShort>captive</titleShort>
-		<desc>[PAWN_nameDef] was kidnapped by a rival family and held for ransom. To pass the time in captivity, [PAWN_pronoun] read books and practiced martial arts. [PAWN_nameDef] had few opportunities to develop [PAWN_possessive] social skills.</desc>
+		<title>政治的な捕虜</title>
+		<titleShort>捕虜</titleShort>
+		<desc>[PAWN_nameDef]は,敵対しているファミリーに誘拐されて,身代金のために捕らえられました.捕虜になっていた間,[PAWN_pronoun]は本を読み,武術を練習しました.[PAWN_nameDef]は,[PAWN_possessive]社交スキルを磨く機会がほとんどありませんでした.</desc>
 	</PoliticalCaptive7>
 	<Delinquent13>
-		<title>delinquent</title>
-		<titleShort>delinquent</titleShort>
-		<desc>[PAWN_nameDef] spent most of [PAWN_possessive] childhood behind bars. Following an unsuccessful escape attempt, [PAWN_pronoun] was pressed into the military.</desc>
+		<title>非行少年</title>
+		<titleShort>非行少年</titleShort>
+		<desc>[PAWN_nameDef]は[PAWN_possessive]子供時代の大半を酒場の裏で過ごしました.逃げ出すのに失敗した後,[PAWN_pronoun]は軍隊に押し込まれました.</desc>
 	</Delinquent13>
 	<RichKid61>
-		<title>rich kid</title>
-		<titleShort>rich kid</titleShort>
-		<desc>[PAWN_nameDef] came from a wealthy and influential bloodline. [PAWN_possessive] expensive education included lessons on dueling, leadership, and military strategy.</desc>
+		<title>裕福な子供</title>
+		<titleShort>裕福な子供</titleShort>
+		<desc>[PAWN_nameDef]は裕福で影響力のある血筋に生まれました.[PAWN_possessive]高価な教育には,決闘やリーダーシップや軍事戦略に関する教訓が含まれていました。</desc>
 	</RichKid61>
 	<StreetRat81>
-		<title>street rat</title>
-		<titleShort>street rat</titleShort>
-		<desc>[PAWN_nameDef] belonged to a gang of street thieves. [PAWN_possessive] days were spent picking pockets, settling disputes over territory, or high on whatever drugs [PAWN_pronoun] could get [PAWN_possessive] hands on.</desc>
+		<title>ストリートラット</title>
+		<titleShort>不良な子供</titleShort>
+		<desc>[PAWN_nameDef]は,ストリートで泥棒を働くギャングに所属していました.[PAWN_possessive]日々は,スリをしたり,ナワバリ争いの喧嘩に費やされました.</desc>
 	</StreetRat81>
 	<SoldiersKid55>
-		<title>soldier's kid</title>
-		<titleShort>soldier kid</titleShort>
-		<desc>[PAWN_nameDef] was raised on the ancient starship where [PAWN_possessive] parents were stationed. [PAWN_pronoun] learned the basics of firearm operations and maintenance from the soldiers on board. [PAWN_nameDef] became accustomed to a strict routine and frequent discipline.</desc>
+		<title>少年兵</title>
+		<titleShort>少年兵</titleShort>
+		<desc>[PAWN_nameDef]は,[PAWN_possessive]両親が駐留していた古代の宇宙船で育ちました.[PAWN_pronoun]は,船内の兵士から銃の操作と整備の基本を学びました.[PAWN_nameDef]は,厳格なルーチンと訓練の日々に慣れました.</desc>
 	</SoldiersKid55>
 	<Machinist56>
-		<title>machinist</title>
-		<titleShort>machinist</titleShort>
-		<desc>[PAWN_nameDef] had a knack for machinery. [PAWN_pronoun] supplemented [PAWN_possessive] family's income by repairing and modifying black market weapons.</desc>
+		<title>機械工</title>
+		<titleShort>機械工</titleShort>
+		<desc>[PAWN_nameDef]には機械の扱いに長けていました.[PAWN_pronoun]は,闇市場の武器を修理したり改良することで,[PAWN_possessive]家族の家系を養った.</desc>
 	</Machinist56>
 	<Warmaster54>
-		<title>warmaster</title>
-		<titleShort>warmaster</titleShort>
-		<desc>[PAWN_nameDef] was warmaster to a mid-level royal house. [PAWN_pronoun] oversaw military aspects of the family's strategy.
+		<title>ウォーマスター</title>
+		<titleShort>ウォーマスター</titleShort>
+		<desc>[PAWN_nameDef]は,王室で中間層のウォーマスターでした.[PAWN_pronoun]は一族の軍事的戦略面を監督しました.
 
-On the rare occasion a battle occurred, [PAWN_nameDef] directed the military commanders.</desc>
+まれに戦闘が発生すると,[PAWN_nameDef]は軍司令官として軍を指揮しました.</desc>
 	</Warmaster54>
 	<Regent9>
-		<title>regent</title>
-		<titleShort>regent</titleShort>
-		<desc>When [PAWN_nameDef]'s family's ally was killed, and his young son inherited his throne, [PAWN_nameDef] was appointed as regent to rule in the child's stead.
+		<title>摂政</title>
+		<titleShort>摂政</titleShort>
+		<desc>[PAWN_nameDef]の一族の後ろ盾が殺害されて,その幼い息子が王位を継承したとき,[PAWN_nameDef]はまだ幼い子供の代わりに統治を行う摂政に任命されました.
 
-[PAWN_pronoun] oversaw diverse matters of house and title, from finances to war to greedy relatives intent on usurping the throne. [PAWN_nameDef] himself never abused [PAWN_possessive] position.</desc>
+[PAWN_pronoun]は,財政から戦争や王位を奪おうとする貪欲な親族まで,一族と称号の様々な問題を管理しました.[PAWN_nameDef]自身が[PAWN_possessive]地位を私的に悪用したことはありませんでした.</desc>
 	</Regent9>
 	<Beastmaster67>
-		<title>beastmaster</title>
-		<titleShort>beastmaster</titleShort>
-		<desc>[PAWN_nameDef]'s family had more children than they had proper titles to inherit. Being of low rank in the birth order, [PAWN_nameDef] was given the honorary title of beastmaster.
+		<title>猛獣使い</title>
+		<titleShort>猛獣使い</titleShort>
+		<desc>[PAWN_nameDef]の一族は,継承できる正当な爵位よりも多くの子供がいました.[PAWN_nameDef]は,出生順位が低いために,猛獣の世話役という称号を与えられました.
 
-[PAWN_nameDef] managed the family's extensive menagerie. While [PAWN_pronoun] never worked hands-on with the beasts, [PAWN_pronoun] connected with them. Few others appreciated [PAWN_objective] the way they did.</desc>
+[PAWN_nameDef]は一族の大きな動物園を管理しました.[PAWN_pronoun]は猛獣たちの世話を実際にしたことはありませんでしたが,[PAWN_pronoun]は獣と仲良くなりました.[PAWN_objective]評価した人はほとんどいませんでした.</desc>
 	</Beastmaster67>
 	<ArtsPatron54>
-		<title>arts patron</title>
-		<titleShort>patron</titleShort>
-		<desc>[PAWN_nameDef] managed [PAWN_possessive] family's investments in the arts.
+		<title>芸術のパトロン</title>
+		<titleShort>支援者</titleShort>
+		<desc>[PAWN_nameDef]は[PAWN_possessive]一族が管理する芸術品へ投資を行いました.
 
-[PAWN_pronoun] chose artists to patronize and worked with them to produce the expressions that most glorify [PAWN_possessive] family, the Imperial church, and the Empire itself.</desc>
+[PAWN_pronoun]は,贔屓する芸術家を選んで,彼らと協力し,[PAWN_possessive]家族や帝国教会や帝国自体を最も称賛する芸術表現を生み出しました.</desc>
 	</ArtsPatron54>
 	<Spymaster41>
-		<title>spymaster</title>
-		<titleShort>spymaster</titleShort>
-		<desc>As soon as [PAWN_pronoun] was old enough, [PAWN_nameDef] was given the post of spymaster for [PAWN_possessive] house. [PAWN_possessive] cold, calculating nature made [PAWN_objective] a natural at the arts of blade, poison, and betrayal.</desc>
+		<title>密偵頭</title>
+		<titleShort>密偵頭</titleShort>
+		<desc>[PAWN_pronoun]が成人すると,即[PAWN_nameDef]には[PAWN_possessive]一族の密偵頭の地位が与えられました.[PAWN_possessive]冷静に周囲を計算することで,[PAWN_objective]暗殺と毒と裏切りの分野で才能を発揮しました.</desc>
 	</Spymaster41>
 	<Landworker98>
 		<title>landworker</title>
 		<titleShort>landworker</titleShort>
-		<desc>[PAWN_nameDef] held the position of landworker in [PAWN_possessive] royal house. [PAWN_pronoun] managed the family's lands and all the resources on them - both agricultural and mineral.
+		<desc>[PAWN_nameDef]は,[PAWN_possessive]王家の土地管理人という地位にありました.[PAWN_pronoun]は一族の土地とそのすべての資源（農業と鉱物の両方）を管理しました.
 
-Though [PAWN_pronoun] would never work the machines [PAWN_objective]self, managing these enterprises required learning the methods of farming and mining in detail.</desc>
+[PAWN_pronoun]は[PAWN_objective]機械のように自分を働かせることはできませんが,これらの事業を管理するには,農業と採鉱の法律を詳細に学ぶ必要がありました.</desc>
 	</Landworker98>
 	<CountryLordling92>
-		<title>country lordling</title>
-		<titleFemale>country lady</titleFemale>
-		<titleShort>field lord</titleShort>
-		<titleShortFemale>field lady</titleShortFemale>
-		<desc>[PAWN_nameDef] grew up in a noble family's manor in the outer country. [PAWN_possessive] early years were full of lessons in horseback riding, politics, and religion.
+		<title>郊外の小貴族</title>
+		<titleFemale>郊外の小貴族</titleFemale>
+		<titleShort>屋外主人</titleShort>
+		<titleShortFemale>屋外女主人</titleShortFemale>
+		<desc>[PAWN_nameDef]は,郊外の貴族が所有する邸宅で育ちました.[PAWN_possessive]最初の頃は,乗馬や政治や宗教のレッスンで満たされていました.
 
-[PAWN_nameDef] and [PAWN_possessive] friends found many ways to break the rules and have fun in the fields and forests.</desc>
+[PAWN_nameDef]と[PAWN_possessive]友人たちは,ルールを破って,野原や森で楽しむ多くの方法を見つけました.</desc>
 	</CountryLordling92>
 	<UrbanLordling82>
-		<title>urban lordling</title>
-		<titleFemale>urban lady</titleFemale>
-		<titleShort>city lord</titleShort>
-		<titleShortFemale>city lady</titleShortFemale>
-		<desc>[PAWN_nameDef] was born to a royal house with a grand manor in a great city. [PAWN_pronoun] spent [PAWN_possessive] youth in lessons on politics.
+		<title>都会の小貴族</title>
+		<titleFemale>都会の小貴族</titleFemale>
+		<titleShort>町屋の主人</titleShort>
+		<titleShortFemale>町屋の女主人</titleShortFemale>
+		<desc>[PAWN_nameDef]は,大都市の壮大な邸宅を持つ王室に生まれました.[PAWN_pronoun]は[PAWN_possessive]若い時を政治の勉強に費やしました.
 
-Whenever [PAWN_pronoun] could, [PAWN_pronoun] would escape with [PAWN_possessive] friends to explore the half-built substructure of the metropolis.</desc>
+[PAWN_pronoun]が可能なときはいつでも,[PAWN_pronoun]は[PAWN_possessive]友人たちと一緒に抜け出して,大都市の建設現場で地下施設を探検しました.</desc>
 	</UrbanLordling82>
 	<ShipboundLordling12>
-		<title>shipbound lordling</title>
-		<titleFemale>shipbound lady</titleFemale>
-		<titleShort>ship lord</titleShort>
-		<titleShortFemale>ship lady</titleShortFemale>
-		<desc>[PAWN_nameDef]'s family held their power base on a grand, ancient starship. Born and raised on the ship, [PAWN_nameDef] learned all about the rigors of shipboard life, and the politics and methods of interstellar battle and orbital invasion.
+		<title>船育ちの小貴族</title>
+		<titleFemale>船育ちの小貴族</titleFemale>
+		<titleShort>船の主人</titleShort>
+		<titleShortFemale>船の女主人</titleShortFemale>
+		<desc>[PAWN_nameDef]の一族は,壮大な古代の宇宙船に権力基盤を持っていました.船で生まれ育った[PAWN_nameDef]は,船で生きる厳しさや星間戦闘と軌道侵略と政治と方策についてすべてを学びました.
 
-[PAWN_pronoun] learned to feel most at home with strong walls close on all sides and the gentle hiss of atmosphere regulators.</desc>
+[PAWN_pronoun]は,四方にしっかりとした壁があり,空気調節器が静かに音を立てている場所が,最もくつろげるようになりました.</desc>
 	</ShipboundLordling12>
 	<PamperedLordling37>
-		<title>pampered lordling</title>
-		<titleFemale>pampered princess</titleFemale>
-		<titleShort>pampered</titleShort>
-		<desc>[PAWN_nameDef]'s parents did not want another heir. Fearing a succession fight, they decided to neutralize [PAWN_objective] early.
+		<title>甘えん坊の小貴族</title>
+		<titleFemale>甘えん坊の姫</titleFemale>
+		<titleShort>甘えん坊</titleShort>
+		<desc>[PAWN_nameDef]の両親は他の相続者を望みませんでした.後継者同士の争いを恐れて,彼らは早期に[PAWN_objective]除外することを決めました.
 
-They pampered [PAWN_nameDef] from birth, preventing [PAWN_objective] from developing the grit or knowledge necessary to be a threat to their favored son. [PAWN_nameDef] learned little more than how to manipulate the royal staff to get more food.</desc>
+彼らは[PAWN_nameDef]が生まれると甘やかして,[PAWN_objective]愛する息子への脅威にならないように必要な経験や知識を身につけないようにしました.[PAWN_nameDef]は,王室付きの人員に命令してより多くの食料を手に入れる方法以上のことを学びませんでした.</desc>
 	</PamperedLordling37>
 	<UnwantedSurvivor67>
-		<title>unwanted survivor</title>
-		<titleShort>survivor</titleShort>
-		<desc>[PAWN_nameDef]'s noble family did not want [PAWN_objective], but could not afford to be seen directly assassinating [PAWN_objective] either. They attempted to get [PAWN_objective] killed by assigning [PAWN_objective] dangerous training without proper protection at too young an age.
+		<title>望まれない生存者</title>
+		<titleShort>生存者</titleShort>
+		<desc>[PAWN_nameDef]の貴族たちは[PAWN_objective]望んではいなかったが,[PAWN_objective]直接暗殺したいとも思ったり実行もしなかった.彼らは,歳が若すぎる上に適切な保護もにい[PAWN_objective]危険な訓練に割り当てることで,[PAWN_objective]殺そうと計画した.
 
-Against all odds, [PAWN_nameDef] survived the jousting contests, horsewar matches, riverrun competitions and warzones. In the end, it only made [PAWN_objective] stronger.</desc>
+すべての掛けに反して,[PAWN_nameDef]は馬上槍試合や競馬試合や水泳大会でも戦場でも生き残りました.最終的に,[PAWN_objective]強くしただけでした.</desc>
 	</UnwantedSurvivor67>
 	<NavyScientist52>
 		<title>海軍科学者</title>
@@ -506,9 +506,9 @@ Against all odds, [PAWN_nameDef] survived the jousting contests, horsewar matche
 		<desc>[PAWN_nameDef]は,村のそばに有る森の中で暮らしています.多くの村人達が[PAWN_objective]恐れているけど,病に冒された村人は,[PAWN_objective]元に,[PAWN_possessive]庭で[PAWN_pronoun]が育てられたハーブからできた湿布や軟膏を求めてやって来ることがありました.[PAWN_pronoun]は彼らの手助けになれることを喜んでいました - 対価の為でも.</desc>
 	</Herbalist54>
 	<MedievalSailor97>
-		<title>medieval sailor</title>
-		<titleShort>sailor</titleShort>
-		<desc>[PAWN_nameDef] explored the oceans on a wooden ship, seeking out plant and animal specimens from exotic places, and occasionally fending off pirates. [PAWN_pronoun] loved the sea so much [PAWN_pronoun] refused to do all but the barest minimum of work on land, except to sell the treasures [PAWN_pronoun] collected.</desc>
+		<title>中世の水夫</title>
+		<titleShort>水夫</titleShort>
+		<desc>[PAWN_nameDef]は木造船で海を探検し,異国の地で植物や動物の標本を探し出し,時には海賊をかわしました.[PAWN_pronoun]は海をとても愛していて[PAWN_pronoun]は,収集した宝物を[PAWN_pronoun]が売ることを除いて,地上でする最低限の仕事以外のすべてを行うことを拒否していました.</desc>
 	</MedievalSailor97>
 	<MedievalSlave49>
 		<title>中世時代の奴隷</title>
@@ -517,9 +517,9 @@ Against all odds, [PAWN_nameDef] survived the jousting contests, horsewar matche
 	</MedievalSlave49>
 	<MedievalLordling19>
 		<title>中世の小君主</title>
-		<titleFemale>medieval lady</titleFemale>
+		<titleFemale>中世の女貴族</titleFemale>
 		<titleShort>小君主</titleShort>
-		<titleShortFemale>lady</titleShortFemale>
+		<titleShortFemale>女主人</titleShortFemale>
 		<desc>[PAWN_nameDef]は,Medieval世界の古い王国で二流の貴族でした.[PAWN_pronoun]は,石造りの邸宅で下層階級の召使いの世話を受けて育ちました.
 
 このような生活では何も専門的なスキルを学ぶことも無く,生涯,手作業などを嫌がることが染み付いています - いっぽう,[PAWN_nameDef]は早いうちから人を操る術を学びました.</desc>
@@ -530,18 +530,18 @@ Against all odds, [PAWN_nameDef] survived the jousting contests, horsewar matche
 		<desc>不倫の結果,生まれた子として,[PAWN_nameDef]は,中世世界の修道院で,修道女によって養育されました.[PAWN_pronoun]は,勤勉であることの価値や,従順さを学びましたが,同時に,テクノロジーは異端であることも教えられました.</desc>
 	</ConventChild16>
 	<Policeman45>
-		<title>policeman</title>
-		<titleFemale>policewoman</titleFemale>
-		<titleShort>policeman</titleShort>
-		<titleShortFemale>policewoman</titleShortFemale>
-		<desc>[PAWN_nameDef] kept the peace as a line officer in a municipal police force.
+		<title>警察官</title>
+		<titleFemale>女性警官</titleFemale>
+		<titleShort>警官</titleShort>
+		<titleShortFemale>警官</titleShortFemale>
+		<desc>[PAWN_nameDef]は,市を守る警察官として平和を維持しました.
 
-[PAWN_pronoun] was trained in de-escalation, physical control, shooting, and other police skills.</desc>
+[PAWN_pronoun]は,興奮の管理や身体制御や射撃とその他の警察スキルの訓練を受けました.</desc>
 	</Policeman45>
 	<Chef52>
-		<title>chef</title>
-		<titleShort>chef</titleShort>
-		<desc>[PAWN_nameDef] ran a high-class restaurant. [PAWN_pronoun] was famous among patrons for [PAWN_possessive] creative culinary specialties, and infamous among kitchen workers for [PAWN_possessive] casual disdain for grunt work.</desc>
+		<title>シェフ</title>
+		<titleShort>シェフ</titleShort>
+		<desc>[PAWN_nameDef]は高級レストランを経営しました.[PAWN_pronoun]が作る[PAWN_possessive]創作料理の常連客の間で有名で,[PAWN_possessive]無作法な行動で調理人たちの間で悪名高いです.</desc>
 	</Chef52>
 	<Housemate8>
 		<title>主婦/主夫</title>
@@ -602,11 +602,11 @@ Against all odds, [PAWN_nameDef] survived the jousting contests, horsewar matche
 忙しい職場でしたが,[PAWN_pronoun]は時間を見つけては,患者に声を掛けていました.</desc>
 	</Nurse61>
 	<HouseServant63>
-		<title>house servant</title>
-		<titleShort>servant</titleShort>
-		<desc>[PAWN_nameDef] was a domestic servant to wealthy homeowners.
+		<title>家内使用人</title>
+		<titleShort>使用人</titleShort>
+		<desc>[PAWN_nameDef]は裕福な住宅所有者の家庭内使用人でした.
 
-[PAWN_pronoun] got to know the kitchens and basements of [PAWN_possessive] master's mansion well, but never did any work outside.</desc>
+[PAWN_pronoun]は[PAWN_possessive]主人の邸宅にあるキッチンと地下室をよく知っていましたが,家の外で仕事をすることはありませんでした.</desc>
 	</HouseServant63>
 	<Bodyguard58>
 		<title>ボディガード</title>
@@ -652,11 +652,11 @@ Against all odds, [PAWN_nameDef] survived the jousting contests, horsewar matche
 [PAWN_pronoun]は仕事が忙しく,外食ばかりしていたので,[PAWN_pronoun]は料理をしません.</desc>
 	</ConstructionEngineer32>
 	<Rancher43>
-		<title>rancher</title>
-		<titleShort>rancher</titleShort>
-		<desc>[PAWN_nameDef] owned and operated a successful ranch where [PAWN_pronoun] raised animals for meat and wool.
+		<title>牧場主</title>
+		<titleShort>牧場主</titleShort>
+		<desc>[PAWN_nameDef]は,[PAWN_pronoun]が肉と羊毛のために動物を育て成功した牧場を所有して経営していました.
 
-[PAWN_pronoun] refused to do any dumb labour [PAWN_pronoun] could pay someone else to do for [PAWN_objective].</desc>
+[PAWN_pronoun]は単純作業をすることを拒否しまして[PAWN_pronoun]は[PAWN_objective]支えるために他の誰かを雇うことができました.</desc>
 	</Rancher43>
 	<LowWageWorker7>
 		<title>低賃金労働者</title>
@@ -768,9 +768,9 @@ Against all odds, [PAWN_nameDef] survived the jousting contests, horsewar matche
 僅かな食料と持ち物をかき集め,[PAWN_nameDef]と彼の父は,船を盗んで宇宙空間へと脱出しました.</desc>
 	</WarRefugee51>
 	<MusicalKid86>
-		<title>musical kid</title>
-		<titleShort>musician</titleShort>
-		<desc>As a child, [PAWN_nameDef] had a talent for playing musical instruments and singing. [PAWN_pronoun] was given expert training and loved to perform in recitals and concerts, though the lavish praise [PAWN_pronoun] received made [PAWN_objective] a little self-obsessed.</desc>
+		<title>音楽少年</title>
+		<titleShort>音楽家</titleShort>
+		<desc>子供の頃,[PAWN_nameDef]は楽器を演奏したり歌ったりする才能がありました.[PAWN_pronoun]は専門家のトレーニングを受け,リサイタルやコンサートで演奏するのが大好きでしたが,過度な賞賛で[PAWN_pronoun]は[PAWN_objective]少し自己執着するようになりました.</desc>
 	</MusicalKid86>
 	<ChildStar74>
 		<title>人気子役</title>
@@ -785,9 +785,9 @@ Against all odds, [PAWN_nameDef] survived the jousting contests, horsewar matche
 [PAWN_pronoun]は,残虐な惑星戦争の情報を収集するために,敵占領下で数年を費やしていました.その期間中,[PAWN_pronoun]は勉強する機会を限定させられていました.</desc>
 	</ChildSpy47>
 	<ShopKid36>
-		<title>shop kid</title>
-		<titleShort>shopkid</titleShort>
-		<desc>[PAWN_nameDef]'s mother was often ill, and it fell to [PAWN_objective] to run the store which was their only source of income. [PAWN_pronoun] learned a little about the exotic artifacts which [PAWN_pronoun] sold, and a lot about the art of the deal.</desc>
+		<title>店の手伝い</title>
+		<titleShort>手伝い</titleShort>
+		<desc>[PAWN_nameDef]の母親はしばしば病気がちで,彼らの唯一の収入源である店を経営することに[PAWN_objective]夢中にさせていました.[PAWN_pronoun]は[PAWN_pronoun]が販売したエキゾチックなアーティファクトについて少し学んで,取引の技について多くを学びました.</desc>
 	</ShopKid36>
 	<OrganFarm67>
 		<title>臓器工場</title>
@@ -857,17 +857,17 @@ Against all odds, [PAWN_nameDef] survived the jousting contests, horsewar matche
 [PAWN_pronoun]は,役人に賄賂を配り,子分の忠誠を維持し,借金の取り立てをしていました - 必要とあらば,ありとあらゆる手段を使って</desc>
 	</MafiaBoss17>
 	<UrbworldDrone32>
-		<title>urbworld drone</title>
-		<titleShort>drone</titleShort>
-		<desc>[PAWN_nameDef] worked as a mindless construction drone on a massive urbworld. Though [PAWN_pronoun] is now freed from the brutal social experiments to which [PAWN_pronoun] was subjected, [PAWN_pronoun] remains incapable of creative thought and leadership.</desc>
+		<title>アーブワールドのドローン</title>
+		<titleShort>ドローン</titleShort>
+		<desc>[PAWN_nameDef]は,大きなアーブワールドで無謀な建設ドローンとして働きました.[PAWN_pronoun]は[PAWN_pronoun]が受けた残忍な社会実験からは解放されましたが,[PAWN_pronoun]は自発的な考えと率先した行動をとれません.</desc>
 	</UrbworldDrone32>
 	<UrbworldRebel56>
-		<title>urbworld rebel</title>
-		<titleShort>rebel</titleShort>
-		<desc>Most of the people on [PAWN_nameDef]'s world gave up their individuality to join together in an online hivemind. [PAWN_nameDef] joined a rebel faction that rejected technology entirely.</desc>
+		<title>アーブワールドの反乱者</title>
+		<titleShort>反乱者</titleShort>
+		<desc>[PAWN_nameDef]の世界のほとんどの人々は,オンラインハイブマインドに参加するために自分自身の個性をあきらめました.[PAWN_nameDef]は,テクノロジーを完全に拒否した反乱勢力に参加しました.</desc>
 	</UrbworldRebel56>
 	<CaveworldIlluminator23>
-		<title>caveworld 導き手</title>
+		<title>ケイブワールドの導き手</title>
 		<titleShort>導き手</titleShort>
 		<desc>穴居人は共通して,[PAWN_nameDef]のように特に視力が良い人はセージとして崇拝されました.[PAWN_pronoun]は生物発光するキノコで穴を掘る場所や危険なモノの近くにマーキングしました.</desc>
 	</CaveworldIlluminator23>
@@ -899,9 +899,9 @@ Against all odds, [PAWN_nameDef] survived the jousting contests, horsewar matche
 		<desc>[PAWN_nameDef]は,恒星間を旅しながら,作成している大図鑑の中に見つけた,動植物の分類や学習をしています.</desc>
 	</Taxonomist0>
 	<SpaceTactician28>
-		<title>space tactician</title>
-		<titleShort>tactician</titleShort>
-		<desc>[PAWN_nameDef] joined the space navy in an unstable system, fraught with large-scale interplanetary wars. [PAWN_pronoun] turned out to have a sharp mind for battle, and became adept at commanding combat units to great effect.</desc>
+		<title>宇宙戦術家</title>
+		<titleShort>戦術家</titleShort>
+		<desc>[PAWN_nameDef]は大規模な惑星間戦争に満ちた不安定な星系で宇宙軍に参加しました.[PAWN_pronoun]は戦闘に対する鋭いセンスを持っていることが判明して,戦闘部隊の指揮で大きな成果を発揮しました.</desc>
 	</SpaceTactician28>
 	<IndustrialOrphan13>
 		<title>工業世界の孤児</title>
@@ -1009,9 +1009,9 @@ Against all odds, [PAWN_nameDef] survived the jousting contests, horsewar matche
 [PAWN_pronoun]は,もっとも危険な場所においても,獲物を追跡し,罠を仕掛ける術を学び, 特定の大型動物を倒す為の,多くの工夫に富んだ仕掛けに対する深い知識をもっていました.</desc>
 	</Hunter74>
 	<Logger16>
-		<title>logger</title>
-		<titleShort>logger</titleShort>
-		<desc>[PAWN_nameDef] chopped trees and hauled their lumber back to the tribe. [PAWN_pronoun] wielded [PAWN_possessive] axe with the finesse of an artist and the force of a charging muffalo.</desc>
+		<title>きこり</title>
+		<titleShort>きこり</titleShort>
+		<desc>[PAWN_nameDef]は木を切り刻んで,その木材を部族に卸しました.[PAWN_pronoun]は[PAWN_possessive]斧を芸術家の技と突進するマッファローの力で振り回しました.</desc>
 	</Logger16>
 	<Gatherer70>
 		<title>採集家</title>
@@ -1029,9 +1029,9 @@ Against all odds, [PAWN_nameDef] survived the jousting contests, horsewar matche
 		<desc>[PAWN_nameDef]は,[PAWN_possessive]親族のため,植物由来の天然色素で,マッファロ毛を綺麗に染め上げて服にしたてるエキスパートでした.[PAWN_pronoun]美しい手作りの品は,地域の蛮族の間で,いくつも取引されていました.</desc>
 	</Weaver63>
 	<Framer37>
-		<title>framer</title>
-		<titleShort>framer</titleShort>
-		<desc>[PAWN_nameDef] was responsible for erecting structures for [PAWN_possessive] fellow tribespeople to live in. This included both temporary structures for nomadic travel, and permanent settlements. Gathering building materials from local plant life was part of the job.</desc>
+		<title>農家</title>
+		<titleShort>農家</titleShort>
+		<desc>[PAWN_nameDef]は,[PAWN_possessive]仲間の部族が住むための建築物を建てる責任がありました.これには,遊牧民たちの旅行で使う一時的なテントと恒久的な定住テントの両方が含まれていました.地元の栽培活動で建築材料を集めることは仕事の一部でした.</desc>
 	</Framer37>
 	<StewKeeper95>
 		<title>stew keeper</title>
