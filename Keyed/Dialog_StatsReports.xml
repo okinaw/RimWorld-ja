@@ -1,61 +1,134 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-    <Tool>道具</Tool>
-    <DamageLower>ダメージ</DamageLower>
-    <SecondsPerAttackLower>秒/攻撃</SecondsPerAttackLower>
+  <Tool>道具</Tool>
+  <DamageLower>ダメージ</DamageLower>
+  <SecondsPerAttackLower>秒/攻撃</SecondsPerAttackLower>
 
-    <StatsReport_BaseValue>基本値</StatsReport_BaseValue>
-    <StatsReport_RelevantTraits>関連する 才能・性格</StatsReport_RelevantTraits>
-    <StatsReport_RelevantGear>関連する 装備</StatsReport_RelevantGear>
-    <StatsReport_RelevantHediffs>関連する 健康状態</StatsReport_RelevantHediffs>
-    <StatsReport_LifeStage>ライフ・ステージ</StatsReport_LifeStage>
-    <StatsReport_Material>材料</StatsReport_Material>
-    <StatsReport_CharacterQuality>キャラクター品質</StatsReport_CharacterQuality>
-    <StatsReport_Skills>スキル要素</StatsReport_Skills>
-    <StatsReport_OtherStats>その他の要素</StatsReport_OtherStats>
-    <StatsReport_Health>身体要素 </StatsReport_Health>
-    <HealthFactorPercentImpact>重要度係数 {0}</HealthFactorPercentImpact>
-    <HealthOffsetScale>効果 {0}</HealthOffsetScale>
-    <HealthFactorMaxImpact>最大値 {0}</HealthFactorMaxImpact>
-    <HealthFactorAllowedDefect>もし {0} 未満なら</HealthFactorAllowedDefect>
-    <StatsReport_PostProcessed>修正表による変換係数</StatsReport_PostProcessed>
-    <StatsReport_FinalValue>最終的な決定値</StatsReport_FinalValue>
-    <StatsReport_MarketValueFromStuffsAndWork>標準小売価格は, 作るのに使用された材料と 作業工数で決まります.</StatsReport_MarketValueFromStuffsAndWork>
-    <StatsReport_QualityMultiplier>品質による掛け率</StatsReport_QualityMultiplier>
-    <StatsReport_MaxGain>最大利得</StatsReport_MaxGain>
-    <StatsReport_AgeMultiplier>年齢 {0}歳による掛け率</StatsReport_AgeMultiplier>
-    <StatsReport_HealthMultiplier>身体要素 {0}による掛け率</StatsReport_HealthMultiplier>
-    <StatsReport_MoodMultiplier>"心情" {0}による掛け率</StatsReport_MoodMultiplier>
-    <StatsReport_LightMultiplier>明るさ {0}による掛け率</StatsReport_LightMultiplier>
-    <StatsReport_DifficultyMultiplier>難易度 {0}による掛け率</StatsReport_DifficultyMultiplier>
-    <StatsReport_InBed>ベッドで寝ている</StatsReport_InBed>
-    <StatsReport_Facilities>設備</StatsReport_Facilities>
-    <StatsReport_BodySize>体格 {0}による掛け率</StatsReport_BodySize>
-    <StatsReport_MeleeDPSExplanation>DPS = 近接ダメージ量 * 近接ヒット率 / クールダウン秒</StatsReport_MeleeDPSExplanation>
-    <StatsReport_MeleeDamage>近接ダメージ量</StatsReport_MeleeDamage>
-    <StatsReport_Cooldown>クールダウン秒</StatsReport_Cooldown>
-    <StatsReport_MeleeHitChance>近接ヒット率</StatsReport_MeleeHitChance>
-    <StatsReport_CooldownFormat>{0}秒</StatsReport_CooldownFormat>
-    <StatsReport_LifeExpectancy>平均寿命</StatsReport_LifeExpectancy>
-    <StatsReport_MissingBodyParts>欠損部位による掛け率</StatsReport_MissingBodyParts>
-    <StatsReport_GearAndInventoryMass>装備と所持品の総重量</StatsReport_GearAndInventoryMass>
-    <StatsReport_WornByCorpse>遺服への掛け率</StatsReport_WornByCorpse>
-    <AverageOfAllAttacks>平均値</AverageOfAllAttacks>
-    <StatsReport_ScenarioFactor>シナリオによる掛け率</StatsReport_ScenarioFactor>
-    <StatsReport_IngredientsMass>材料</StatsReport_IngredientsMass>
-    <StatsReport_PermanentlyDisabled>永久無効</StatsReport_PermanentlyDisabled>
-    <StatsReport_Inspiration>{0}</StatsReport_Inspiration>
-    <StatsReport_AddedBodyPartsMass>追加身体パーツ</StatsReport_AddedBodyPartsMass>
-    <StatsReport_StuffEffectMultiplier>材質から派生する掛け率</StatsReport_StuffEffectMultiplier>
-    <StatsReport_Resting>休息</StatsReport_Resting>
-    <StatsReport_JoyKind>娯楽種別</StatsReport_JoyKind>
-    <StatsReport_WorkToUninstall>アンインストール作業</StatsReport_WorkToUninstall>
-    <StatsReport_PlantGrowth>{0}成長率への掛け率</StatsReport_PlantGrowth>
-    <StatsReport_PlantGrowth_Wild>成長率への掛け率(野生)</StatsReport_PlantGrowth_Wild>
-    <StatsReport_NotFlesh>非食用</StatsReport_NotFlesh>
-    <StatsReport_NotFresh>陳腐</StatsReport_NotFresh>
-    <StatsReport_WildMan>野人</StatsReport_WildMan>
-    <StatsReport_NonToolAttack>攻撃</StatsReport_NonToolAttack>
+  <StatsReport_BaseValue>基本値</StatsReport_BaseValue>
+  <StatsReport_RelevantTraits>関連する 才能・性格</StatsReport_RelevantTraits>
+  <StatsReport_RelevantGear>関連する 装備</StatsReport_RelevantGear>
+  <StatsReport_RelevantHediffs>関連する 健康状態</StatsReport_RelevantHediffs>
+  <StatsReport_LifeStage>ライフ・ステージ</StatsReport_LifeStage>
+  <StatsReport_Material>材料</StatsReport_Material>
+  <StatsReport_CharacterQuality>キャラクター品質</StatsReport_CharacterQuality>
+  <StatsReport_Skills>スキル要素</StatsReport_Skills>
+  <StatsReport_OtherStats>その他の要素</StatsReport_OtherStats>
+  <StatsReport_Health>身体要素 </StatsReport_Health>
+  <HealthFactorPercentImpact>重要度係数 {0}</HealthFactorPercentImpact>
+  <HealthOffsetScale>効果 {0}</HealthOffsetScale>
+  <HealthFactorMaxImpact>最大値 {0}</HealthFactorMaxImpact>
+  <HealthFactorAllowedDefect>もし {0} 未満なら</HealthFactorAllowedDefect>
+  <StatsReport_PostProcessed>修正表による変換係数</StatsReport_PostProcessed>
+  <StatsReport_FinalValue>最終的な決定値</StatsReport_FinalValue>
+  <StatsReport_MarketValueFromStuffsAndWork>標準小売価格は, 作るのに使用された材料と 作業工数で決まります.</StatsReport_MarketValueFromStuffsAndWork>
+  <StatsReport_QualityMultiplier>品質による掛け率</StatsReport_QualityMultiplier>
+  <StatsReport_MaxGain>最大利得</StatsReport_MaxGain>
+  <StatsReport_AgeMultiplier>年齢 {0}歳による掛け率</StatsReport_AgeMultiplier>
+  <StatsReport_HealthMultiplier>身体要素 {0}による掛け率</StatsReport_HealthMultiplier>
+  <StatsReport_MoodMultiplier>"心情" {0}による掛け率</StatsReport_MoodMultiplier>
+  <StatsReport_LightMultiplier>明るさ {0}による掛け率</StatsReport_LightMultiplier>
+  <StatsReport_DifficultyMultiplier>難易度 {0}による掛け率</StatsReport_DifficultyMultiplier>
+  <StatsReport_InBed>ベッドで寝ている</StatsReport_InBed>
+  <StatsReport_Facilities>設備</StatsReport_Facilities>
+  <StatsReport_BodySize>体格 {0}による掛け率</StatsReport_BodySize>
+  <StatsReport_MeleeDPSExplanation>DPS = 近接ダメージ量 * 近接ヒット率 / クールダウン秒</StatsReport_MeleeDPSExplanation>
+  <StatsReport_MeleeDamage>近接ダメージ量</StatsReport_MeleeDamage>
+  <StatsReport_Cooldown>クールダウン秒</StatsReport_Cooldown>
+  <StatsReport_MeleeHitChance>近接ヒット率</StatsReport_MeleeHitChance>
+  <StatsReport_CooldownFormat>{0}秒</StatsReport_CooldownFormat>
+  <StatsReport_LifeExpectancy>平均寿命</StatsReport_LifeExpectancy>
+  <StatsReport_MissingBodyParts>欠損部位による掛け率</StatsReport_MissingBodyParts>
+  <StatsReport_GearAndInventoryMass>装備と所持品の総重量</StatsReport_GearAndInventoryMass>
+  <StatsReport_WornByCorpse>遺服への掛け率</StatsReport_WornByCorpse>
+  <AverageOfAllAttacks>平均値</AverageOfAllAttacks>
+  <StatsReport_ScenarioFactor>シナリオによる掛け率</StatsReport_ScenarioFactor>
+  <StatsReport_IngredientsMass>材料</StatsReport_IngredientsMass>
+  <StatsReport_PermanentlyDisabled>永久無効</StatsReport_PermanentlyDisabled>
+  <StatsReport_Inspiration>{0}</StatsReport_Inspiration>
+  <StatsReport_AddedBodyPartsMass>追加身体パーツ</StatsReport_AddedBodyPartsMass>
+  <StatsReport_StuffEffectMultiplier>材質から派生する掛け率</StatsReport_StuffEffectMultiplier>
+  <StatsReport_Resting>休息</StatsReport_Resting>
+  <StatsReport_JoyKind>娯楽種別</StatsReport_JoyKind>
+  <StatsReport_WorkToUninstall>アンインストール作業</StatsReport_WorkToUninstall>
+  <StatsReport_PlantGrowth>{0}成長率への掛け率</StatsReport_PlantGrowth>
+  <StatsReport_PlantGrowth_Wild>成長率への掛け率(野生)</StatsReport_PlantGrowth_Wild>
+  <StatsReport_NotFlesh>非食用</StatsReport_NotFlesh>
+  <StatsReport_NotFresh>陳腐</StatsReport_NotFresh>
+  <StatsReport_WildMan>野人</StatsReport_WildMan>
+  <StatsReport_NonToolAttack>攻撃</StatsReport_NonToolAttack>
+
+  <Stat_MineableThing_Name>採掘されたアイテム</Stat_MineableThing_Name>
+  <Stat_MineableThing_Desc>これを採掘するときに得られるアイテムです.</Stat_MineableThing_Desc>
+  <Stat_SourceSpecies_Name>種族名</Stat_SourceSpecies_Name>
+  <Stat_SourceSpecies_Desc>これを採取した元の種族名称です.</Stat_SourceSpecies_Desc>
+  <Stat_Stuff_Name>材料</Stat_Stuff_Name>
+  <Stat_Stuff_Desc>これが何が材料なのか.これは,武器のダメージや衣服の装甲点と断熱性,アイテムと建築物のヒットポイント,美しさや市場価格などを含むその他多くのステータスに影響を与えます.</Stat_Stuff_Desc>
+  <Stat_Weapon_Name>武装</Stat_Weapon_Name>
+  <Stat_Weapon_Desc>このタレットで使用されている武器です.</Stat_Weapon_Desc>
+  <Stat_HitPoints_Desc>物体が破壊されるまでどれだけのダメージを受けることができるか.</Stat_HitPoints_Desc>
+  <Stat_Thing_WorkToUninstall_Desc>これをアンインストールするのにかかる作業量です.</Stat_Thing_WorkToUninstall_Desc>
+  <Stat_Thing_CreatedAt_Desc>これを作成するために使用する設備です.</Stat_Thing_CreatedAt_Desc>
+  <Stat_Thing_Damage_Desc>この武器が与えるダメージ量です.\n\nこれは目標の装甲点によって逸らされたり軽減される場合があります.</Stat_Thing_Damage_Desc>
+  <Stat_Thing_Drug_MedicineXpGainFactor_Desc>これを使用して患者の世話をするときに医師が得る経験値の倍率.</Stat_Thing_Drug_MedicineXpGainFactor_Desc>
+  <Stat_Thing_Plant_Attributes_Desc>この植物の属性です.</Stat_Thing_Plant_Attributes_Desc>
+  <Stat_Thing_Apparel_Covers_Desc>これが体のどの部分を保護するのか?\n\n装甲は覆われていない身体部分を保護しません.</Stat_Thing_Apparel_Covers_Desc>
+  <Stat_Thing_Apparel_Layer_Desc>これがどの衣服レイヤーを使うか.\n\n1つの身体部分に対して,衣服レイヤー装着できる衣服は1つだけです.</Stat_Thing_Apparel_Layer_Desc>
+  <Stat_Thing_Plant_FertilityRequirement_Desc>この植物が成長するために必要な土壌肥沃度の最小値.</Stat_Thing_Plant_FertilityRequirement_Desc>
+  <Stat_Thing_Plant_FertilitySensitivity_Desc>この植物が土壌肥沃度に対してどの程度敏感なのか.\n\n感度が低いということは,豊かな土壌でも貧弱な土壌でも植物はほぼ同じ速度で成長するということです.感受性が高いということは,その植物は土壌が悪いと成長が遅くなりますが,土壌が豊かなら成長が加速されることを意味します.</Stat_Thing_Plant_FertilitySensitivity_Desc>
+  <Stat_Thing_Plant_LightRequirement_Desc>この植物の成長に必要な光の量.</Stat_Thing_Plant_LightRequirement_Desc>
+  <Stat_Thing_Plant_LifeSpan_Desc>植物の寿命.\n\n植物は収穫されないままでも,一定の年齢に達すると自然に枯死します.</Stat_Thing_Plant_LifeSpan_Desc>
+  <Stat_Thing_Plant_HarvestYield_Desc>この植物が収穫されたときに生成される作物量.</Stat_Thing_Plant_HarvestYield_Desc>
+  <Stat_Thing_Plant_MinGrowthTemperature_Desc>この植物が生存できる最低温度.\n\nこれより低い温度では,時間経過とともにダメージを受けます.</Stat_Thing_Plant_MinGrowthTemperature_Desc>
+  <Stat_Thing_Plant_MaxGrowthTemperature_Desc>この植物が生存できる最高温度.\n\nこれより高い温度では,時間経過とともにダメージを受けます.</Stat_Thing_Plant_MaxGrowthTemperature_Desc>
+  <Stat_Thing_Plant_MinGrowingSkillToSow_Desc>この植物を栽培するのに必要な栽培スキルの最低レベル.</Stat_Thing_Plant_MinGrowingSkillToSow_Desc>
+  <Stat_Race_Diet_Desc>この生物が食べられる食物の種類.\n\n食用可能:{0}</Stat_Race_Diet_Desc>
+  <Stat_Race_LeatherType_Desc>この生物を屠殺したときに作成される革の種類.</Stat_Race_LeatherType_Desc>
+  <Stat_Race_Animal_TameFailedRevengeChance_Desc>飼い慣らそうとして失敗したときに,この生物が反撃する確率.</Stat_Race_Animal_TameFailedRevengeChance_Desc>
+  <Stat_Race_Trainability_Desc>この生物の訓練に対する一般的な精神的な適性.これは知力と記憶力の組み合わせです.この生き物が実行できるように訓練可能な命令の種類が決定されます.</Stat_Race_Trainability_Desc>
+  <Stat_Race_LifeExpectancy_Desc>この生物の平均寿命.</Stat_Race_LifeExpectancy_Desc>
+  <Stat_Thing_Ingestible_Joy_Desc>これを摂取すると得られる娯楽の値です.数値が高いほど,娯楽の欲求が回復します.</Stat_Thing_Ingestible_Joy_Desc>
+  <Stat_Race_BodySize_Desc>平均的な大人の人間と比較した,この生物の肉体サイズ.</Stat_Race_BodySize_Desc>
+  <Stat_Thing_Weapon_MeleeWarmupTime_Desc>この武器で近接攻撃が開始されてから命中するまでの時間.</Stat_Thing_Weapon_MeleeWarmupTime_Desc>
+  <Stat_Thing_Weapon_BurstShotCount_Desc>この武器が各一連射で発射する射撃回数.</Stat_Thing_Weapon_BurstShotCount_Desc>
+  <Stat_Thing_Weapon_BurstShotFireRate_Desc>この武器が次の一連射をするまでの発射間隔.</Stat_Thing_Weapon_BurstShotFireRate_Desc>
+  <Stat_Thing_Weapon_Range_Desc>この武器の最大射程距離.</Stat_Thing_Weapon_Range_Desc>
+  <Stat_Thing_Weapon_MissRadius_Desc>この武器によって発射された射撃のランダムな拡散半径.\n\n値が大きいほど,弾丸は目標の周囲でランダムに分散します.</Stat_Thing_Weapon_MissRadius_Desc>
+  <Stat_Thing_Weapon_DirectHitChance_Desc>弾かれたり,回避されたり,止められなかった場合に,発射体が目標に直接命中する確率.</Stat_Thing_Weapon_DirectHitChance_Desc>
+  <Stat_Thing_MoodChange_Desc>この身体部分が所有者の心情に与える影響.</Stat_Thing_MoodChange_Desc>
+  <Stat_Recipe_Skill_Desc>このレシピを作成するときに使う主なスキル.\n\n作成した品質を決定し,このレシピの実行中に経験値を得ます.</Stat_Recipe_Skill_Desc>
+  <Stat_Recipe_Ingredients_Desc>このレシピを作るのに必要な材料.</Stat_Recipe_Ingredients_Desc>
+  <Stat_Recipe_SkillRequirements_Desc>このレシピを実行するのに必要なスキル.</Stat_Recipe_SkillRequirements_Desc>
+  <Stat_Recipe_Products_Desc>このレシピで生産される製品.</Stat_Recipe_Products_Desc>
+  <Stat_Recipe_WorkSpeedStat_Desc>このレシピの作業速度を決定するキャラクター情報.\n\n作業者のステータスが高いほど,作業速度は速くなります.</Stat_Recipe_WorkSpeedStat_Desc>
+  <Stat_Recipe_EfficiencyStat_Desc>生産結果の品質や量を決定するステータス情報.\n\n作業者のステータス情報が高いほど,品質が高く,数量が多くなります.</Stat_Recipe_EfficiencyStat_Desc>
+  <Stat_Thing_Surgery_SuccessChanceFactor_Desc>この手術が成功する確率の係数.難易度の高い手術ほど係数が低くなります.\n\n手術が実際に成功するかどうかは,医術スキルや施設や使用する医薬品によっても影響を受けます.</Stat_Thing_Surgery_SuccessChanceFactor_Desc>
+  <Stat_Thing_Surgery_SuccessChanceFactor_CantFail>失敗しない</Stat_Thing_Surgery_SuccessChanceFactor_CantFail>
+  <Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>この手術は患者にとって安全です.</Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>
+  <Stat_Thing_Surgery_DeathOnFailChance_Desc>この手術が失敗した場合に患者が死亡する確率.</Stat_Thing_Surgery_DeathOnFailChance_Desc>
+  <Stat_Thing_Drug_Addictiveness_Desc>このドラッグの中毒性.</Stat_Thing_Drug_Addictiveness_Desc>
+  <Stat_Hediff_TotalBleedFactor_Name>合計出血係数</Stat_Hediff_TotalBleedFactor_Name>
+  <Stat_Hediff_TotalBleedFactor_Desc>全体の失血率に適用される係数.</Stat_Hediff_TotalBleedFactor_Desc>
+  <Stat_Hediff_NaturalHealingFactor_Name>自然治癒力</Stat_Hediff_NaturalHealingFactor_Name>
+  <Stat_Hediff_NaturalHealingFactor_Desc>自然な負傷回復の全体的な速度に適用される係数.</Stat_Hediff_NaturalHealingFactor_Desc>
+  <Stat_Hediff_FoodPoisoningChanceFactor_Name>食中毒の危険係数</Stat_Hediff_FoodPoisoningChanceFactor_Name>
+  <Stat_Hediff_FoodPoisoningChanceFactor_Desc>調理する際に誤って食事を毒化する確率に適用される係数.</Stat_Hediff_FoodPoisoningChanceFactor_Desc>
+  <Stat_Hediff_BleedingRate_Desc>この状態で出血する速度.</Stat_Hediff_BleedingRate_Desc>
+  <Stat_Hediff_Pain_Desc>この状態で生じる痛みの量.</Stat_Hediff_Pain_Desc>
+  <Stat_Hediff_PartEfficiency_Desc>これによって影響を受ける身体部分に適用効率のオフセット.</Stat_Hediff_PartEfficiency_Desc>
+  <Stat_Hediff_Affects_Desc>これが影響する精神的な能力.</Stat_Hediff_Affects_Desc>
+  <Stat_Hediff_HungerRateOffset_Name>空腹率オフセット</Stat_Hediff_HungerRateOffset_Name>
+  <Stat_Hediff_HungerRateFactor_Desc>満腹感の減少速度の係数.</Stat_Hediff_HungerRateFactor_Desc>
+  <Stat_Hediff_HungerRateOffset_Desc>食事の必要量と空腹減少率に対するオフセット.</Stat_Hediff_HungerRateOffset_Desc>
+  <Stat_Hediff_TirednessOffset_Name>睡眠減少率</Stat_Hediff_TirednessOffset_Name>
+  <Stat_Hediff_TirednessOffset_Desc>生物が休息する必要がある割合に適用されるオフセット。</Stat_Hediff_TirednessOffset_Desc>
+  <Stat_Hediff_TirednessFactor_Desc>生物が休む必要がある割合に適用される係数.</Stat_Hediff_TirednessFactor_Desc>
+  <Stat_Hediff_PreventsInfection_Desc>これが感染症を予防するかどうか.</Stat_Hediff_PreventsInfection_Desc>
+  <Stat_Thing_Terrain_Supports_Desc>この地形が支えられるもの.</Stat_Thing_Terrain_Supports_Desc>
+  <Stat_Thing_TerrainRequirement_Desc>これは,このタイプの地形にだけ設置できます.</Stat_Thing_TerrainRequirement_Desc>
+  <Stat_Thing_PowerConsumption_Desc>この建築物が電力網から消費する電気量.</Stat_Thing_PowerConsumption_Desc>
+  <Stat_Thing_BodyPartEfficiency_Desc>この身体部分の総合的な効率.</Stat_Thing_BodyPartEfficiency_Desc>
+  <Stat_Thing_Weapon_Biocoded_Name>生体認証</Stat_Thing_Weapon_Biocoded_Name>
+  <Stat_Thing_Weapon_Biocoded_Desc>このアイテムは,設定された個人の生体情報だけを受け付けるように暗号化されています.</Stat_Thing_Weapon_Biocoded_Desc>
 
 </LanguageData>
