@@ -1,22 +1,103 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-    <Chicken.label>ニワトリ</Chicken.label>
-    <Chicken.labelMale>オンドリ</Chicken.labelMale>
-    <Chicken.labelFemale>メンドリ</Chicken.labelFemale>
-    <Chicken.lifeStages.chick.label>ヒヨコ</Chicken.lifeStages.chick.label>
-    <Chicken.lifeStages.cockerel.labelMale>ヒヨコ</Chicken.lifeStages.cockerel.labelMale>
+  <!-- Chicken -->
 
-    <Pig.label>ブタ</Pig.label>
-    <Pig.labelFemale>メスブタ</Pig.labelFemale>
-    <Pig.lifeStages.piglet.label>子ブタ</Pig.lifeStages.piglet.label>
+  <Chicken.label>ニワトリ</Chicken.label>
+  <Chicken.labelMale>オンドリ</Chicken.labelMale>
+  <Chicken.labelFemale>メンドリ</Chicken.labelFemale>
+  <Chicken.lifeStages.chick.label>ヒヨコ</Chicken.lifeStages.chick.label>
+  <Chicken.lifeStages.cockerel.labelMale>ヒヨコ</Chicken.lifeStages.cockerel.labelMale>
 
-    <Cow.label>ウシ</Cow.label>
-    <Cow.labelMale>オウシ</Cow.labelMale>
-    <Cow.labelFemale>メウシ</Cow.labelFemale>
-    <Cow.lifeStages.calf.label>子ウシ</Cow.lifeStages.calf.label>
-    <Cow.lifeStages.calf.labelPlural>子ウシ</Cow.lifeStages.calf.labelPlural>
 
-    <Alpaca.label>アルパカ</Alpaca.label>
+  <!-- Pig -->
+
+  <Pig.label>ブタ</Pig.label>
+  <Pig.labelFemale>メスブタ</Pig.labelFemale>
+  <Pig.lifeStages.piglet.label>子ブタ</Pig.lifeStages.piglet.label>
+
+
+  <!-- Cow -->
+
+  <Cow.label>ウシ</Cow.label>
+  <Cow.labelMale>オウシ</Cow.labelMale>
+  <Cow.labelFemale>メウシ</Cow.labelFemale>
+  <Cow.lifeStages.calf.label>子ウシ</Cow.lifeStages.calf.label>
+  <Cow.lifeStages.calf.labelPlural>子ウシ</Cow.lifeStages.calf.labelPlural>
+
+
+  <!-- Alpaca -->
+
+  <Alpaca.label>アルパカ</Alpaca.label>
+
+
+  <!-- Duck -->
+
+  <Duck.label>アヒル</Duck.label>
+  <Duck.lifeStages.duckling.label>duckling</Duck.lifeStages.duckling.label>
+
+
+  <!-- Bison -->
+
+  <Bison.label>バイソン</Bison.label>
+  <Bison.lifeStages.bison_calf.label>子バイソン</Bison.lifeStages.bison_calf.label>
+  <Bison.lifeStages.bison_calf.labelPlural>子バイソン</Bison.lifeStages.bison_calf.labelPlural>
+
+
+  <!-- Goat -->
+
+  <Goat.label>ヤギ</Goat.label>
+  <Goat.labelFemale>メヤギ</Goat.labelFemale>
+  <Goat.lifeStages.baby_goat.label>子ヤギ</Goat.lifeStages.baby_goat.label>
+  <Goat.lifeStages.baby_goat.labelPlural>子ヤギ</Goat.lifeStages.baby_goat.labelPlural>
+
+
+  <!-- Goose -->
+
+  <Goose.label>ガチョウ</Goose.label>
+  <Goose.labelPlural>ガチョウ</Goose.labelPlural>
+
+
+  <!-- Sheep -->
+
+  <Sheep.label>ヒツジ</Sheep.label>
+  <Sheep.labelPlural>ヒツジ</Sheep.labelPlural>
+  <Sheep.lifeStages.lamb.label>子ヒツジ</Sheep.lifeStages.lamb.label>
+  <Sheep.lifeStages.lamb.labelPlural>子ヒツジ</Sheep.lifeStages.lamb.labelPlural>
+  <Sheep.labelMale>オヒツジ</Sheep.labelMale>
+  <Sheep.labelFemale>メヒツジ</Sheep.labelFemale>
+
+
+  <!-- Horse -->
+
+  <Horse.label>ウマ</Horse.label>
+  <Horse.lifeStages.foal.label>子ウマ</Horse.lifeStages.foal.label>
+  <Horse.lifeStages.foal.labelPlural>子ウマ</Horse.lifeStages.foal.labelPlural>
+  <Horse.lifeStages.stallion.labelMale>牡ウマ</Horse.lifeStages.stallion.labelMale>
+  <Horse.lifeStages.mare.labelFemale>牝ウマ</Horse.lifeStages.mare.labelFemale>
+  <Horse.labelMale>牡ウマ</Horse.labelMale>
+  <Horse.labelMalePlural>牡ウマ</Horse.labelMalePlural>
+  <Horse.labelFemale>牝ウマ</Horse.labelFemale>
+  <Horse.labelFemalePlural>牝ウマ</Horse.labelFemalePlural>
+
+
+  <!-- Yak -->
+
+  <Yak.label>ヤク</Yak.label>
+  <Yak.lifeStages.yak_calf.label>子ヤク</Yak.lifeStages.yak_calf.label>
+  <Yak.lifeStages.yak_calf.labelPlural>子ヤク</Yak.lifeStages.yak_calf.labelPlural>
+  <Yak.labelMale>ヤク</Yak.labelMale>
+
+
+  <!-- Guinea Pig -->
+
+  <GuineaPig.label>モルモット</GuineaPig.label>
+
+
+  <!-- Donkey -->
+
+  <Donkey.label>ロバ</Donkey.label>
+  <Donkey.labelPlural>ロバ</Donkey.labelPlural>
+  <Donkey.lifeStages.donkey_foal.label>子ロバ</Donkey.lifeStages.donkey_foal.label>
 
 </LanguageData>
