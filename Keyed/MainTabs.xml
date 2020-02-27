@@ -12,7 +12,7 @@
   <IncapableOfWorkTypeBecauseOfCapacities>この入植者は,健康上の理由から,このタイプのすべての作業を行うことができません.</IncapableOfWorkTypeBecauseOfCapacities>
   <EmergencyWorkMarker>緊急</EmergencyWorkMarker>
   <SelectedWorkTypeWithVeryBadSkill>警告：関連したスキルの平均がとても低い</SelectedWorkTypeWithVeryBadSkill>
-  <PriorityOneDoneFirst>優先度1が最初に実行されて優先度4は最後に行われます。</PriorityOneDoneFirst>
+  <PriorityOneDoneFirst>優先度1が最初に実行されて優先度4は最後に行われます.</PriorityOneDoneFirst>
   <Priority0>しません</Priority0>
   <Priority1>最優先</Priority1>
   <Priority2>高い優先度</Priority2>
@@ -103,14 +103,14 @@
   <InProgress>研究中</InProgress>
   <Locked>未発見</Locked>
   <ResearchPrerequisites>研究の前提条件</ResearchPrerequisites>
-  <ResearchTechprintRequirement>青写真が必要 {0} / {1}</ResearchTechprintRequirement>
-  <InsufficientTechprintsApplied>適用されたtechprintsが不十分 ({0} / {1})</InsufficientTechprintsApplied>
+  <ResearchTechprintRequirement>研究設計書が必要 {0} / {1}</ResearchTechprintRequirement>
+  <InsufficientTechprintsApplied>適用された研究設計書が不十分 ({0} / {1})</InsufficientTechprintsApplied>
   <PrerequisitesNotCompleted>前提条件が未完了</PrerequisitesNotCompleted>
   <RequiredResearchBench>研究設備が必要</RequiredResearchBench>
   <RequiredResearchBenchFacilities>必要な研究設備</RequiredResearchBenchFacilities>
-  <ResearchCostComparison>研究計画の基本コスト{0}は技術レベルによって{1}になります。</ResearchCostComparison>
-  <ResearchTechprintsFromFactions>青写真はトレードやクエストを通してこれらの派閥から入手できます。</ResearchTechprintsFromFactions>
-  <TechLevelTooLow>派閥の技術レベルは{0}ですが、この研究計画の技術レベルは{1}です。研究速度に{2}倍の補正が掛かります。</TechLevelTooLow>
+  <ResearchCostComparison>研究計画の基本コスト{0}は技術レベルによって{1}になります.</ResearchCostComparison>
+  <ResearchTechprintsFromFactions>研究設計書はトレードやクエストを通してこれらの派閥から入手できます.</ResearchTechprintsFromFactions>
+  <TechLevelTooLow>派閥の技術レベルは{0}ですが,この研究計画の技術レベルは{1}です.研究速度に{2}倍の補正が掛かります.</TechLevelTooLow>
 
   <!-- Quests tab -->
   <AvailableQuests>利用可能</AvailableQuests>
@@ -132,18 +132,18 @@
   <QuestFinishedAgo>{0}日前に完了</QuestFinishedAgo>
   <AcceptQuest>クエストを受ける</AcceptQuest>
   <AcceptWith>{0_labelShort}で受けます</AcceptWith>
-  <QuestOutcomeInfo_OfferExpired>提案の有効期限が切れた。</QuestOutcomeInfo_OfferExpired>
-  <QuestOutcomeInfo_UnknownOrSuccess>このクエストを完了した。</QuestOutcomeInfo_UnknownOrSuccess>
-  <QuestOutcomeInfo_Failed>このクエストに失敗した。</QuestOutcomeInfo_Failed>
+  <QuestOutcomeInfo_OfferExpired>提案の有効期限が切れた.</QuestOutcomeInfo_OfferExpired>
+  <QuestOutcomeInfo_UnknownOrSuccess>このクエストを完了した.</QuestOutcomeInfo_UnknownOrSuccess>
+  <QuestOutcomeInfo_Failed>このクエストに失敗した.</QuestOutcomeInfo_Failed>
   <JumpToTargetCustom>{0}へジャンプする</JumpToTargetCustom>
-  <QuestChallengeRatingTip>挑戦難易度です。これはあなたの現在の強さと比較してクエストがどの程度難しいかを示す一般的な評価です。挑戦しがいのあるクエストは、より大きな報酬が望めます。\n\n星1つ：通常\n星2つ：難しい\n星3つ：過激\n星4つ：至難</QuestChallengeRatingTip>
-  <QuestAcceptanceRequirementsDescription>このクエストを受けるには、次のものが必要</QuestAcceptanceRequirementsDescription>
+  <QuestChallengeRatingTip>挑戦難易度です.これはあなたの現在の強さと比較してクエストがどの程度難しいかを示す一般的な評価です.挑戦しがいのあるクエストは,より大きな報酬が望めます.\n\n星1つ：通常\n星2つ：難しい\n星3つ：過激\n星4つ：至難</QuestChallengeRatingTip>
+  <QuestAcceptanceRequirementsDescription>このクエストを受けるには,次のものが必要</QuestAcceptanceRequirementsDescription>
   <QuestBedroomRequirementsUnsatisfied>タイトルの要件を満たす無料のベッドルーム</QuestBedroomRequirementsUnsatisfied>
   <QuestBedroomRequirementsUnsatisfiedSingle>タイトルの要件を満たす無料のベッドルーム一室</QuestBedroomRequirementsUnsatisfiedSingle>
-  <QuestNoColonistWithTitle>称号が{0}の入植者です。</QuestNoColonistWithTitle>
+  <QuestNoColonistWithTitle>称号が{0}の入植者です.</QuestNoColonistWithTitle>
   <AcceptRoyalFavor>{FACTION_royalFavorLabel}を承諾する</AcceptRoyalFavor>
-  <AcceptRoyalFavorDesc>{FACTION_name}から{FACTION_royalFavorLabel}の報酬を受け取るかどうか。\n\nこれを無効にすると、{FACTION_name}は代わりに他の種類の報酬を提供します。\n\nこの設定は新規のクエストにのみ影響します。</AcceptRoyalFavorDesc>
-  <RoyalFavorOn>現在、{FACTION_royalFavorLabel}の受け取りを選択中です。</RoyalFavorOn>
-  <RoyalFavorOff>現在、{FACTION_royalFavorLabel}の受け取りを断っています。</RoyalFavorOff>
+  <AcceptRoyalFavorDesc>{FACTION_name}から{FACTION_royalFavorLabel}の報酬を受け取るかどうか.\n\nこれを無効にすると,{FACTION_name}は代わりに他の種類の報酬を提供します.\n\nこの設定は新規のクエストにのみ影響します.</AcceptRoyalFavorDesc>
+  <RoyalFavorOn>現在,{FACTION_royalFavorLabel}の受け取りを選択中です.</RoyalFavorOn>
+  <RoyalFavorOff>現在,{FACTION_royalFavorLabel}の受け取りを断っています.</RoyalFavorOff>
 
 </LanguageData>

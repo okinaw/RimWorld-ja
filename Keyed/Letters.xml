@@ -284,13 +284,13 @@
   <LetterPawnsKidnapped>{PAWN_nameDef}は,{FACTION_name}によって誘拐された！\nしかし,{PAWN_pronoun}は永久に居なくなったわけではない.{PAWN_objective}を救い出すチャンスは、今後数日から数年以内に訪れる可能性があります.</LetterPawnsKidnapped>
 
   <!-- Techprints -->
-  <LetterTechprintAppliedLabel>適用される青写真：{PROJECT_label}</LetterTechprintAppliedLabel>
-  <LetterTechprintAppliedPartIntro>青写真は次の研究計画に適用されている：{PROJECT_label}.</LetterTechprintAppliedPartIntro>
-  <LetterTechprintAppliedPartJustUnlocked>研究計画の青写真の前提を完了しました！ これで、研究者たちは研究設備で実際にテクノロジーを利用する方法の研究を開始できます。</LetterTechprintAppliedPartJustUnlocked>
-  <LetterTechprintAppliedPartNotUnlockedYet>この研究計画の青写真の前提はまだ満たされていません。{0}の青写真を応用するにはまだまだ遠いようです.研究計画には合計{1}が必要です.</LetterTechprintAppliedPartNotUnlockedYet>
-  <LetterTechprintAppliedPartAlreadyUnlocked>この研究計画の青写真の前提条件はすでに満たされています.追加された青写真によって、{PROJECT_label}の研究進展が進みました. 残っていた研究作業の半分に相当する,{0}ポイントが完了しました.</LetterTechprintAppliedPartAlreadyUnlocked>
-  <LetterTechprintAppliedPartAlreadyResearched>この研究計画は既に完全に研究されているために,青写真は知識をまったく向上させませんでした.</LetterTechprintAppliedPartAlreadyResearched>
-  <LetterTechprintAppliedPartExpAwarded>青写真を適用することで,{PAWN_labelShort}は,{1}スキルで{0}分の経験値を得ました.</LetterTechprintAppliedPartExpAwarded>
+  <LetterTechprintAppliedLabel>適用される研究設計書：{PROJECT_label}</LetterTechprintAppliedLabel>
+  <LetterTechprintAppliedPartIntro>研究設計書は次の研究計画に適用されている：{PROJECT_label}.</LetterTechprintAppliedPartIntro>
+  <LetterTechprintAppliedPartJustUnlocked>研究計画の研究設計書の前提を完了しました！ これで、研究者たちは研究設備で実際にテクノロジーを利用する方法の研究を開始できます。</LetterTechprintAppliedPartJustUnlocked>
+  <LetterTechprintAppliedPartNotUnlockedYet>この研究計画の研究設計書の前提はまだ満たされていません。{0}の研究設計書を応用するにはまだまだ遠いようです.研究計画には合計{1}が必要です.</LetterTechprintAppliedPartNotUnlockedYet>
+  <LetterTechprintAppliedPartAlreadyUnlocked>この研究計画の研究設計書の前提条件はすでに満たされています.追加された研究設計書によって、{PROJECT_label}の研究進展が進みました. 残っていた研究作業の半分に相当する,{0}ポイントが完了しました.</LetterTechprintAppliedPartAlreadyUnlocked>
+  <LetterTechprintAppliedPartAlreadyResearched>この研究計画は既に完全に研究されているために,研究設計書は知識をまったく向上させませんでした.</LetterTechprintAppliedPartAlreadyResearched>
+  <LetterTechprintAppliedPartExpAwarded>研究設計書を適用することで,{PAWN_labelShort}は,{1}スキルで{0}分の経験値を得ました.</LetterTechprintAppliedPartExpAwarded>
 
   <!-- Quest Completed -->
   <LetterQuestCompletedLabel>クエストを成功</LetterQuestCompletedLabel>

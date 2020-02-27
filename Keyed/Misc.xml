@@ -2,21 +2,26 @@
 <LanguageData>
 
   <Autosaving>自動保存中</Autosaving>
-<GameStartDialog>ようこそ RimWorld (辺境の惑星)へ！\n\nあなたたちは けたたましい サイレンと 金属の裂ける音で 宇宙船の 冬眠カプセルから たたき起こされ, 船が バラバラに なる前に 脱出ポットへ 飛び込み…\n\nこんな ド田舎で 誰も知らない惑星に 不時着して しまいました.\n\nごらんのとおり, あなたたちの 周囲に 船の残骸が ちらばっています. さあ, それらを使って 生き延びる計画を たてましょう！</GameStartDialog>
-<Colony>あなたのコロニー</Colony>
-<ChangeLanguageFromMainMenu>ゲーム言語は メインメニューの オプション画面で 変更できます.</ChangeLanguageFromMainMenu>
-<AndLower>と</AndLower>
-<DisabledLower>スキル無し</DisabledLower>
+  <GameStartDialog>ようこそ RimWorld (辺境の惑星)へ！\n\nあなたたちは けたたましい サイレンと 金属の裂ける音で 宇宙船の 冬眠カプセルから たたき起こされ, 船が バラバラに なる前に 脱出ポットへ 飛び込み…\n\nこんな ド田舎で 誰も知らない惑星に 不時着して しまいました.\n\nごらんのとおり, あなたたちの 周囲に 船の残骸が ちらばっています. さあ, それらを使って 生き延びる計画を たてましょう！</GameStartDialog>
+  <Colony>あなたのコロニー</Colony>
+  <ChangeLanguageFromMainMenu>ゲーム言語は メインメニューの オプション画面で 変更できます.</ChangeLanguageFromMainMenu>
+  <AndLower>と</AndLower>
+  <DisabledLower>スキル無し</DisabledLower>
 
+  <VersionIndicator>バージョン: {0}</VersionIndicator>
+  <GameVersionIndicator>ゲームバージョン</GameVersionIndicator>
+  <DevelopmentBuildLower>開発ビルド</DevelopmentBuildLower>
+  <CompiledOn>コンパイル: {0}</CompiledOn>
+  <LoggedIntoSteamAs>{0}としてSteamにログイン済</LoggedIntoSteamAs>
 
-<VersionIndicator>Version {0}</VersionIndicator>
-<DevelopmentBuildLower>development build</DevelopmentBuildLower>
-<CompiledOn>Compiled {0}</CompiledOn>
-<LoggedIntoSteamAs>Logged into Steam as {0}</LoggedIntoSteamAs>
+  <!-- ToCommaList() -->
+  <ToCommaListAnd>{0}と{1}</ToCommaListAnd>
 
   <!-- General-use words -->
   <Yes>はい</Yes>
   <No>いいえ</No>
+  <New>新規</New>
+  <Gender>性別</Gender>
   <min>最小</min>
   <max>最大</max>
   <chance>確率</chance>
@@ -24,6 +29,7 @@
   <multiplier>掛け率</multiplier>
   <damage>ダメージ</damage>
   <radius>半径</radius>
+  <expired>期限切れ</expired>
   <durationDays>所要時間 (日)</durationDays>
   <intervalDays>間隔(日)</intervalDays>
   <repeat>繰り返す</repeat>
@@ -36,38 +42,42 @@
   <day>日</day>
   <Default>デフォルト</Default>
   <Average>平均</Average>
+  <Cause>理由</Cause>
   <MoneyFormat>${0}</MoneyFormat>
 
   <!-- Content generation-->
 
-<MeatLabel>{0} の肉</MeatLabel>
+  <MeatLabel>{0} の肉</MeatLabel>
   <MeatDesc>生の切り分けられた食用肉.生のままでも,調理して料理にしても,食べることができます.</MeatDesc>
   <MeatInsectDesc>生の切り分けられた肉.調理しても,生のままでも食べられる.極めてマズイ</MeatInsectDesc>
   <MeatHumanDesc>生の切り分けられた肉.調理しても,生のままでも食べられる.とは言っても,大抵の人間はこれを嫌う</MeatHumanDesc>
 
-<CorpseLabel>{0} の死骸</CorpseLabel>
-<CorpseDesc>{0} の死骸</CorpseDesc>
-<DeadLabel>{1_label} (死亡)</DeadLabel>
+  <TechprintLabel>研究設計書（{PROJECT_label})</TechprintLabel>
+  <TechprintDesc>これは研究計画「{PROJECT_label}」の研究設計書です.\n研究設計書の物理的な形態は,図表付きの紙の切れ端から,高度な自己完結型の教育機械まで多岐にわたります.形状に関係なく,それらは同じ役割を果たします.これにより,アイデアが実現可能であるという確信が研究者に与えられて,もっと発展した社会で既に使われているデザインの大まかなヒントが得られます.\n研究者たちは,特定のテクノロジーをどこから始めるべきかを知るために,研究設計書が提供する基本的な知識を必要としています.十分完成している技術が応用されることで初めて,研究者たちはコロニーの実情に見合った形でその技術をどうに利用するのかの詳細を研究することができます.\n満足できる研究計画に対して研究設計書を適用することで、残りの研究進捗の半分を達成することができます.また,すでに完成している技術であっても,研究設計書を適用することで常に知力スキルが向上します.</TechprintDesc>
+  <Unlocks>解除</Unlocks>
 
-<RoughStoneTerrainLabel>粗い {0}</RoughStoneTerrainLabel>
-<RoughStoneTerrainDesc>粗く自然な {0}</RoughStoneTerrainDesc>
-<RoughHewnStoneTerrainLabel>荒けずりの {0}</RoughHewnStoneTerrainLabel>
-<RoughHewnStoneTerrainDesc>ざっくりとカットされた 自然な {0} の床</RoughHewnStoneTerrainDesc>
-<SmoothStoneTerrainLabel>滑らかな {0}</SmoothStoneTerrainLabel>
-<SmoothStoneTerrainDesc>滑らかで自然な {0} の床</SmoothStoneTerrainDesc>
+  <CorpseLabel>{0} の死骸</CorpseLabel>
+  <CorpseDesc>{0} の死骸</CorpseDesc>
+  <DeadLabel>{1_label} (死亡)</DeadLabel>
 
-<BlueprintLabelExtra>(設計)</BlueprintLabelExtra>
-<FrameLabelExtra>(施工)</FrameLabelExtra>
+  <RoughStoneTerrainLabel>粗い {0}</RoughStoneTerrainLabel>
+  <RoughStoneTerrainDesc>粗く自然な {0}</RoughStoneTerrainDesc>
+  <RoughHewnStoneTerrainLabel>荒けずりの {0}</RoughHewnStoneTerrainLabel>
+  <RoughHewnStoneTerrainDesc>ざっくりとカットされた 自然な {0} の床</RoughHewnStoneTerrainDesc>
+  <SmoothStoneTerrainLabel>滑らかな {0}</SmoothStoneTerrainLabel>
+  <SmoothStoneTerrainDesc>滑らかで自然な {0} の床</SmoothStoneTerrainDesc>
 
-  <FactionUnaffiliated>仲間では無い</FactionUnaffiliated>
+  <BlueprintLabelExtra>(設計)</BlueprintLabelExtra>
+  <FrameLabelExtra>(施工)</FrameLabelExtra>
 
+  <FactionUnaffiliated>無所属な</FactionUnaffiliated>
 
   <!-- For things made of stuff, e.g. "Stone bed" -->
   <!-- 0 is the nameAsStuff property under stuffProps and 1 is the label -->
   <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
 
-	<SomeonesRoom>{PAWN_labelShort}の {1}</SomeonesRoom>
-	<CouplesRoom>{PAWN1_labelShort}と {PAWN2_labelShort}の {2}</CouplesRoom>
+  <SomeonesRoom>{PAWN_labelShort}の {1}</SomeonesRoom>
+  <CouplesRoom>{PAWN1_labelShort}と {PAWN2_labelShort}の {2}</CouplesRoom>
 
   <VariousLabel>(色々)</VariousLabel>
 
@@ -80,5 +90,6 @@
   <West>西</West>
   <East>東</East>
 
+  <ApplyingTechprint>研究設計書を適用 ({0})</ApplyingTechprint>
 
 </LanguageData>
