@@ -18,7 +18,7 @@
   <Hypothermia.stages.extreme.label>致命的</Hypothermia.stages.extreme.label>
 
   <HypothermicSlowdown.label>低体温による動作緩慢</HypothermicSlowdown.label>
-  <HypothermicSlowdown.description>極寒を生き抜くために一部の生物が使う特別な生存状態です.生物身体で起こる化学反応は,暖かくしようとする代わりに,非常に低体温にもかかわらず内部から凍結しないように適応します.身体機能は著しく低下して.能力も低下しますが,寒さは永久には続きません.一部の生物学者たちは,それを覚醒したまま冬眠している状態だとしています.</HypothermicSlowdown.description>
+  <HypothermicSlowdown.description>極寒を生き抜くために一部の生物が使う特別な生命機能です.生物身体で起こる化学反応は,暖かくしようとする代わりに,非常に低体温にもかかわらず内部から凍結しないように適応します.身体機能は著しく低下して.能力も低下しますが,寒さは永久には続きません.一部の生物学者たちは,それを覚醒したまま冬眠している状態だとしています.</HypothermicSlowdown.description>
   <HypothermicSlowdown.stages.minor-0.label>軽度</HypothermicSlowdown.stages.minor-0.label>
   <HypothermicSlowdown.stages.minor-1.label>軽度</HypothermicSlowdown.stages.minor-1.label>
   <HypothermicSlowdown.stages.moderate.label>中程度</HypothermicSlowdown.stages.moderate.label>
