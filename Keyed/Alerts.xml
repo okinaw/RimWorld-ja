@@ -22,72 +22,72 @@
   <NeedDoctorDesc>これらの者たちは,治療を必要としていますが,手が空いている医者がいません.\n\n{0}\n健康な者に医者を職務として割り当てましょう.放っておくと,回復できずに後遺症が残る危険性があります.</NeedDoctorDesc>
 
   <NeedMiner>坑夫が必要</NeedMiner>
-  <NeedMinerDesc>あなたは 岩を掘らせる 指示をしていますが,「採掘」を割り振られた 入植者が一人もいません.\n\n入植者に 「採掘」を 割り振りましょう.</NeedMinerDesc>
+  <NeedMinerDesc>あなたは岩を掘らせる指示をしていますが,「採掘」を割り振られた入植者が一人もいません.\n\n入植者に「採掘」を割り振りましょう.</NeedMinerDesc>
 
   <NeedWarden>囚人に看守を</NeedWarden>
-  <NeedWardenDesc>囚人が いますが, 「看守」を割り振られた 入植者が一人もいません.\n\n入植者に 「看守」を 割り振りましょう.</NeedWardenDesc>
+  <NeedWardenDesc>囚人がいますが,「看守」を割り振られた入植者が一人もいません.\n\n入植者に「看守」を割り振りましょう.</NeedWardenDesc>
 
   <LowFood>食料が少ない</LowFood>
-  <LowFoodDesc>備蓄食料が危険水域まで低下しています.\n\n備蓄量:{0}\n入植者+囚人必要量:{1}\n日数 {2}\n\n栽培するか,買うか,見つけるか,獲物を狩って食料を得てください.</LowFoodDesc>
+  <LowFoodDesc>備蓄食料が危険水域まで低下しています.\n\n備蓄量:{0}\n入植者+囚人必要量:{1}\n日数{2}\n\n栽培するか,買うか,見つけるか,獲物を狩って食料を得てください.</LowFoodDesc>
 
   <LowMedicine>薬品が少ない</LowMedicine>
-  <LowMedicineDesc>備蓄した薬品が {0}単位しか ありません.\n\nもっとたくさんの薬品をトレイダーから買いましょう.</LowMedicineDesc>
-  <NoMedicineDesc>備蓄した薬品が ひとつもありません.\n\nもっとたくさんの薬品をトレイダーから買いましょう.</NoMedicineDesc>
+  <LowMedicineDesc>備蓄した薬品が{0}個しかありません.\n\nもっとたくさんの薬品をトレイダーから買いましょう.</LowMedicineDesc>
+  <NoMedicineDesc>備蓄した薬品がひとつもありません.\n\nもっとたくさんの薬品をトレイダーから買いましょう.</NoMedicineDesc>
 
   <NeedColonistBeds>ベッドが必要</NeedColonistBeds>
-  <NeedColonistBedsDesc>入植者用ベッドより 入植者のほうが 多くなって います. このままでは 誰かが ベッドで眠れません.\n\n新しいベッドを 用意するか, 囚人用ベッドを 入植者用ベッドに 設定しましょう.もし資源が無いなら,コストゼロの 「寝床」が すぐに 作れます.</NeedColonistBedsDesc>
+  <NeedColonistBedsDesc>コロニーには,入植者に必要なベッドの数よりも多くの入植者がいます.彼らのうち,誰かの寝る場所が足りなくなるでしょう.\n\nベッドの数を増やすか,囚人に割り当てたベッドを入植者のベッドに割り当て直してください.\n\n寝床なら資源不要ですぐに設置できます.</NeedColonistBedsDesc>
 
   <AlertColonistLeftUnburied>入植者が埋葬されていない</AlertColonistLeftUnburied>
   <AlertColonistLeftUnburiedDesc>入植者が埋葬されていない.\n\nこれは入植者の心情に悪影響を及ぼす可能性があります.</AlertColonistLeftUnburiedDesc>
 
   <HunterLacksWeapon>武装する</HunterLacksWeapon>
-  <HunterLacksWeaponDesc>「狩猟」作業を与えた入植者が 遠距離武器を装備していません.\n\n狩人は遠距離武器を装備させないと狩りを行いません.</HunterLacksWeaponDesc>
+  <HunterLacksWeaponDesc>「狩猟」作業を与えた入植者が遠距離武器を装備していません.\n\n狩人は遠距離武器を装備させないと狩りを行いません.</HunterLacksWeaponDesc>
 
   <AlertTatteredApparel>ぼろぼろな衣服</AlertTatteredApparel>
-  <AlertTatteredApparelDesc>次の入植者は, 自分のみすぼらしい姿を悲しんでいます:\n\n{0}\nそれほど酷く傷ついていない,なにか衣服を手に入れましょう.\n\nミシン台で衣服を作ることもできますし,トレーダーから買うこともできます.</AlertTatteredApparelDesc>
+  <AlertTatteredApparelDesc>次の入植者は,自分のみすぼらしい姿を悲しんでいます:\n\n{0}\nそれほど酷く傷ついていない,なにか衣服を手に入れましょう.\n\nミシン台で衣服を作ることもできますし,トレーダーから買うこともできます.</AlertTatteredApparelDesc>
 
   <AlertUnhappyNudity>全裸の憂鬱</AlertUnhappyNudity>
   <AlertUnhappyNudityDesc>次の入植者は,全裸のままで不満げです:\n\n{0}\nなにか衣服を手に入れましょう.\n\nミシン台で衣服を作ることもできますし,トレーダーから買うこともできます.</AlertUnhappyNudityDesc>
 
   <Starvation>食べる物がない</Starvation>
-  <StarvationDesc>次の入植者が 空腹を訴えています：\n\n{0}\nなにか食事を手に入れましょう.</StarvationDesc>
+  <StarvationDesc>次の入植者が空腹を訴えています：\n\n{0}\nなにか食事を手に入れましょう.</StarvationDesc>
 
   <StarvationAnimals>餌がない</StarvationAnimals>
-  <StarvationAnimalsDesc>次の家畜が 腹を空かせています：\n\n{0}\nなにか餌を手に入れましょう.</StarvationAnimalsDesc>
+  <StarvationAnimalsDesc>次の家畜が腹を空かせています：\n\n{0}\nなにか餌を手に入れましょう.</StarvationAnimalsDesc>
 
   <Exhaustion>入植者に休息を</Exhaustion>
-  <ExhaustionDesc>次の入植者は 働き過ぎで 睡眠を必要としています：\n\n{0}\n睡眠を与えましょう. 彼らは 入植者用ベッドを 必要としています.「徴兵」されていないことも 確認してください.</ExhaustionDesc>
+  <ExhaustionDesc>次の入植者は働き過ぎで睡眠を必要としています：\n\n{0}\n睡眠を与えましょう.彼らは入植者用ベッドを必要としています.「徴兵」されていないことも確認してください.</ExhaustionDesc>
 
   <NeedFoodHopper>食材ホッパーが必要</NeedFoodHopper>
-  <NeedFoodHopperDesc>食材ホッパーが設置されていない ペーストディスペンサーがあります.\n\nペーストディスペンサーが動作するには 生の食材で満たされた 食材ホッパーを隣接して配置しなければなりません.\n\n食材ホッパーを ペーストディスペンサーの隣に 作りましょう.</NeedFoodHopperDesc>
+  <NeedFoodHopperDesc>食材ホッパーが設置されていないペーストディスペンサーがあります.\n\nペーストディスペンサーが動作するには生の食材で満たされた食材ホッパーを隣接して配置しなければなりません.\n\n食材ホッパーをペーストディスペンサーの隣に作りましょう.</NeedFoodHopperDesc>
 
   <NeedMealSource>食材の調理</NeedMealSource>
-  <NeedMealSourceDesc>あなたは,生の食材を ちゃんとした料理にする 手段を持っていません.\n\nペースト ディスペンサー, カマド,焚き火,または 電気コンロを 作りましょう.\n\n（入植者は 囚人ゾーンの調理器具を 使用できません.）</NeedMealSourceDesc>
+  <NeedMealSourceDesc>あなたは,生の食材をちゃんとした料理にする手段を持っていません.\n\nペーストディスペンサー,カマド,焚き火,または電気コンロを作りましょう.\n\n（入植者は囚人ゾーンの調理器具を使用できません.）</NeedMealSourceDesc>
 
   <NeedJoySource>娯楽に多様性を</NeedJoySource>
   <NeedJoySourceDesc>{1}には{0}種類の娯楽があります,ですが現在の満足度は{2}で,入植者達が,このままの満足度を保つには{3}種類の娯楽を必要としています.新しいタイプの娯楽を提供します.\n\n{4}\n\n{5}\n\n【ノート】:各アイテムの(i)ボタンを押すと娯楽種別を確認することができます.</NeedJoySourceDesc>
   <AvailableRecreationTypes>存在する娯楽種別</AvailableRecreationTypes>
   <MissingRecreationTypes>欠けている娯楽種別</MissingRecreationTypes>
-  <CurrentExpectationsAndRecreation>現満足度({0}) {1}/日 発生する毎に飽きてきます.{2}種類の娯楽を推奨します.</CurrentExpectationsAndRecreation>
+  <CurrentExpectationsAndRecreation>現満足度は({0}){1}/日ごとに欲求発生するたびに飽きてきます.{2}種類の娯楽を推奨します.</CurrentExpectationsAndRecreation>
   <bored>飽きた</bored>
 
   <Boredom>退屈</Boredom>
-  <BoredomDesc>人々は娯楽への興味も,行為への欲求もありません,今有る娯楽に飽き飽きしています:\n\n{0}\n\nもっと娯楽の多様性を増やします.\n\n現在の {PAWN_labelShort}への娯楽種別:\n\n{2}</BoredomDesc>
+  <BoredomDesc>人々は娯楽への興味も,行為への欲求もありません,今有る娯楽に飽き飽きしています:\n\n{0}\n\nもっと娯楽の多様性を増やします.\n\n現在の{PAWN_labelShort}への娯楽種別:\n\n{2}</BoredomDesc>
 
   <NeedBatteries>電気を貯める</NeedBatteries>
-  <NeedBatteriesDesc>ソーラーパネルか風力発電を持っていますが,バッテリーがありません. これでは,風が止まったり,太陽が沈んだときに電力を喪失することを意味します.\n\n継続して電力を保証するために,バッテリーを１つないし２つ作りましょう.</NeedBatteriesDesc>
+  <NeedBatteriesDesc>ソーラーパネルか風力発電を持っていますが,バッテリーがありません.これでは,風が止まったり,太陽が沈んだときに電力を喪失することを意味します.\n\n継続して電力を保証するために,バッテリーを１つないし２つ作りましょう.</NeedBatteriesDesc>
 
   <BrawlerHasRangedWeapon>格闘家と遠隔武器</BrawlerHasRangedWeapon>
-  <BrawlerHasRangedWeaponDesc>ある入植者は 格闘家の資質を持っていますが,遠隔武器で武装しています. このことは彼を非常に不愉快にさせるでしょう.</BrawlerHasRangedWeaponDesc>
+  <BrawlerHasRangedWeaponDesc>ある入植者は格闘家の資質を持っていますが,遠隔武器で武装しています.このことは彼を非常に不愉快にさせるでしょう.</BrawlerHasRangedWeaponDesc>
 
   <ShieldUserHasRangedWeapon>シールドと遠隔武器</ShieldUserHasRangedWeapon>
-  <ShieldUserHasRangedWeaponDesc>ある入植者は シールドベルトを装備し,遠隔武器で武装しています.シールドベルト越しに 遠隔武器を 発砲することはできません(標的と接している場合は除きます).</ShieldUserHasRangedWeaponDesc>
+  <ShieldUserHasRangedWeaponDesc>ある入植者はシールドベルトを装備し,遠隔武器で武装しています.シールドベルト越しに遠隔武器を発砲することはできません(標的と接している場合は除きます).</ShieldUserHasRangedWeaponDesc>
 
   <NeedResearchProject>研究計画</NeedResearchProject>
-  <NeedResearchProjectDesc>研究用機器があるのに なにも計画してません.\n\n「研究」タブを開き 計画を選択します.</NeedResearchProjectDesc>
+  <NeedResearchProjectDesc>研究用機器があるのになにも計画してません.\n\n「研究」タブを開き計画を選択します.</NeedResearchProjectDesc>
 
-  <ColonistsIdle>入植者 {0}人に作業を</ColonistsIdle>
-  <ColonistsIdleDesc>次の入植者は 作業が無く ぶらぶらしています：\n\n{0}\n何か生産的な作業を見つけてあげるべきでしょう.</ColonistsIdleDesc>
+  <ColonistsIdle>入植者{0}人に作業を</ColonistsIdle>
+  <ColonistsIdleDesc>次の入植者は作業が無くぶらぶらしています：\n\n{0}\n何か生産的な作業を見つけてあげるべきでしょう.</ColonistsIdleDesc>
 
   <CaravanIdle>キャラバンが待機中</CaravanIdle>
   <CaravanIdleDesc>これらのキャラバンは,次の目的地が決まるのを待機中です.\n\n{0}</CaravanIdleDesc>
@@ -115,8 +115,8 @@
   <HunterHasShieldAndRangedWeaponDesc>ある狩人は,遠隔武器で武装しつつ,シールドベルトを巻いてるので,距離を取っての発砲が 妨げてられています.\n\n彼らは シールドベルトを脱がないかぎり 狩りができません.</HunterHasShieldAndRangedWeaponDesc>
 
   <NeedWarmClothes>防寒着が必要</NeedWarmClothes>
-  <NeedWarmClothesDesc1>冬期に 少なくとも,入植者{0}人分の防寒着が足りなくなるでしょう.</NeedWarmClothesDesc1>
-  <NeedWarmClothesDesc1All>冬期に, 入植者全員分の防寒着が足りなくなるでしょう.</NeedWarmClothesDesc1All>
+  <NeedWarmClothesDesc1>冬期に少なくとも,入植者{0}人分の防寒着が足りなくなるでしょう.</NeedWarmClothesDesc1>
+  <NeedWarmClothesDesc1All>冬期に,入植者全員分の防寒着が足りなくなるでしょう.</NeedWarmClothesDesc1All>
   <NeedWarmClothesDesc2>外気温は {0}になる見込みです.\n\nミシン台で防寒着を作ることができますし,トレーダーから購入することもできます.</NeedWarmClothesDesc2>
 
   <ImmobileCaravan>キャラバン隊行動不能</ImmobileCaravan>
@@ -138,11 +138,11 @@
   <DisallowedBuildingInsideMonumentDesc>You've built a disallowed building inside one of your monuments. The monument will be considered destroyed in {0}.</DisallowedBuildingInsideMonumentDesc>
 
   <ActivatorCountdown>Countdown activator {0}</ActivatorCountdown>
-  <ActivatorCountdownDesc>There is a countdown activator ticking down, preparing to awaken nearby mechanoids.</ActivatorCountdownDesc>
+  <ActivatorCountdownDesc>There is a countdown activator ticking down,preparing to awaken nearby mechanoids.</ActivatorCountdownDesc>
   <ActivatorCountdownMultiple>{0} countdown activators</ActivatorCountdownMultiple>
-  <ActivatorCountdownDescMultiple>There are {0} countdown activators ticking down, preparing to awaken nearby mechanoids.</ActivatorCountdownDescMultiple>
+  <ActivatorCountdownDescMultiple>There are {0} countdown activators ticking down,preparing to awaken nearby mechanoids.</ActivatorCountdownDescMultiple>
 
-  <QuestExpiresSoon>クエストが{0}で期限切れ</QuestExpiresSoon>
-  <QuestExpiresSoonDesc>クエスト「{0}」が{1}に期限を迎えます.</QuestExpiresSoonDesc>
+  <QuestExpiresSoon>クエストが期限切れ:\n(残り{0})</QuestExpiresSoon>
+  <QuestExpiresSoonDesc>クエスト「{0}」が\nあと{1}後で期限を迎えます.</QuestExpiresSoonDesc>
 
 </LanguageData>

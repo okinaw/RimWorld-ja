@@ -142,7 +142,7 @@
   <RecipeCannotHaveTargetCount>（このレシピは, どれだけ 作れるか 分からないので, 実行カウントを 設定 できません.）</RecipeCannotHaveTargetCount>
   <WorkAmount>作業工数</WorkAmount>
   <MinimumSkills>必要スキル：</MinimumSkills>
-  <BillRequires>{0}個の"{1}"が必要(同一種類)</BillRequires>
+  <BillRequires>{0}個の"{1}"が必要\n(同一種類)\n</BillRequires>
   <BillRequiresNutrition>{0}個の"栄養"が必要</BillRequiresNutrition>
   <BillRequiresMayVary>通知: ゴールドのような小容量の原料は{0}倍分必要です.</BillRequiresMayVary>
   <ThisIsSmallVolume>これは稀少な原料です.これは'1単位'が,通常の原料の1/{0}に相当します.ですから,同じ原料を必要とするときは,{0}倍必要となります.</ThisIsSmallVolume>
