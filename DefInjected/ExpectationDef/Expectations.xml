@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ExtremelyLow.label>極めて低い</ExtremelyLow.label>
+  <VeryLow.label>とても低い</VeryLow.label>
+  <Low.label>低い</Low.label>
+  <Moderate.label>適度な</Moderate.label>
+  <High.label>高い</High.label>
+  <SkyHigh.label>空まで届く</SkyHigh.label>
+
+
+  <!-- Noble only expectations -->
+
+  <Noble.label>貴族</Noble.label>
+  <Royal.label>王族</Royal.label>
+
+</LanguageData>
