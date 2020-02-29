@@ -245,8 +245,8 @@
   <LetterTraitDisease>{PAWN_label}は {1}の病に倒れました.\n\n医療用ベッドとドクターを確保してください. {PAWN_pronoun}が 適切な治療を受けられているか確認し,できる限り医療用ベッドで過ごすようにしてください.</LetterTraitDisease>
 
   <!-- Quests -->
-  <LetterQuestBecameAvailable>新しいクエストが利用可能になりました.「{0}」と呼びます.\n</LetterQuestBecameAvailable>
-  <LetterQuestRequiresAcceptance>{0}以内にクエストを受けないと期限切れになります.</LetterQuestRequiresAcceptance>
+  <LetterQuestBecameAvailable>新しいクエストが利用可能になりました.\n「{0}」と呼びます.\n</LetterQuestBecameAvailable>
+  <LetterQuestRequiresAcceptance>{0} 以内に,クエストを受けない場合\n期限切れになります.</LetterQuestRequiresAcceptance>
   <LetterQuestBecameActive>新しいクエストが有効になりました.\n「{0}」と呼びます.\n</LetterQuestBecameActive>
   <LetterQuestAutomaticallyAcceptedTitle>有効なクエスト:{0}</LetterQuestAutomaticallyAcceptedTitle>
   <LetterQuestActiveNowTime>{0}で期限切れになります.</LetterQuestActiveNowTime>

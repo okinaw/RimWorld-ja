@@ -28,25 +28,25 @@
   <QuadrumSeptober_Short>神無月</QuadrumSeptober_Short>
   <QuadrumDecembary_Short>睦月</QuadrumDecembary_Short>
 
-  <Born>生年月日: {0}</Born>
+  <Born>生年月日:{0}</Born>
   <AgeChronological>暦上での年齢: {0}歳 {1} {2}日</AgeChronological>
   <AgeBiological>生物学的年齢: {0}歳 {1} {2}日</AgeBiological>
 
   <!-- Date periods -->
-  <Period1Year>1 年</Period1Year>
-  <PeriodYears>{0} 年</PeriodYears>
-  <Period1Quadrum>1 節</Period1Quadrum>
-  <PeriodQuadrums>{0} 節</PeriodQuadrums>
-  <Period1Day>1 日</Period1Day>
-  <PeriodDays>{0} 日</PeriodDays>
-  <Period1Hour>1 時間</Period1Hour>
-  <PeriodHours>{0} 時間</PeriodHours>
-  <Period1Second>1 秒</Period1Second>
-  <PeriodSeconds>{0} 秒</PeriodSeconds>
+  <Period1Year>1年</Period1Year>
+  <PeriodYears>{0}年</PeriodYears>
+  <Period1Quadrum>1節</Period1Quadrum>
+  <PeriodQuadrums>{0}節</PeriodQuadrums>
+  <Period1Day>1日</Period1Day>
+  <PeriodDays>{0}日</PeriodDays>
+  <Period1Hour>1時間</Period1Hour>
+  <PeriodHours>{0}時間</PeriodHours>
+  <Period1Second>1秒</Period1Second>
+  <PeriodSeconds>{0}秒</PeriodSeconds>
 
   <!-- Misc -->
   <Started>開始</Started>
   <Lasted>継続</Lasted>
-  <OccurredTimeAgo>{0} 前</OccurredTimeAgo>
+  <OccurredTimeAgo>{0}前</OccurredTimeAgo>
 
 </LanguageData>

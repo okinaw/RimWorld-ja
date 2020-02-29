@@ -117,13 +117,13 @@
   <ActiveQuests>進行中</ActiveQuests>
   <HistoricalQuests>過去</HistoricalQuests>
   <NoQuestSelected>クエストが未選択</NoQuestSelected>
-  <AppearedDaysAgo>{0}日前に現れた</AppearedDaysAgo>
-  <AppearedOn>{0}に現われた</AppearedOn>
+  <AppearedDaysAgo>{0}日前に提示</AppearedDaysAgo>
+  <AppearedOn>{0}に提示</AppearedOn>
   <AcceptedAgo>{0}日前に受けた</AcceptedAgo>
   <AcceptedOn>{0}で受けた</AcceptedOn>
   <AcceptedAgoBy>{1}が{0}日前に受けた</AcceptedAgoBy>
   <AcceptedOnBy>{1}が{0}で受けた</AcceptedOnBy>
-  <QuestExpiresIn>{0}で期限切れ</QuestExpiresIn>
+  <QuestExpiresIn>{0}後に期限切れ</QuestExpiresIn>
   <QuestExpiresOn>{0}に期限切れ</QuestExpiresOn>
   <ShuttleArrivesIn>シャトルが{0}で到着</ShuttleArrivesIn>
   <ShuttleArrivesOn>シャトルが{0}に到着</ShuttleArrivesOn>
