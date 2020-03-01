@@ -115,7 +115,7 @@
   <!-- Quests tab -->
   <AvailableQuests>利用可能</AvailableQuests>
   <ActiveQuests>進行中</ActiveQuests>
-  <HistoricalQuests>過去</HistoricalQuests>
+  <HistoricalQuests>履歴</HistoricalQuests>
   <NoQuestSelected>クエストが未選択</NoQuestSelected>
   <AppearedDaysAgo>{0}日前に提示</AppearedDaysAgo>
   <AppearedOn>{0}に提示</AppearedOn>
