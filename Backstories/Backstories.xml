@@ -353,8 +353,8 @@ While violence was rare, palace intrigue was constant. [PAWN_nameDef]'s work tau
 		<desc>[PAWN_pronoun]が成人すると,即[PAWN_nameDef]には[PAWN_possessive]一族の密偵頭の地位が与えられました.[PAWN_possessive]冷静に周囲を計算することで,[PAWN_objective]暗殺と毒と裏切りの分野で才能を発揮しました.</desc>
 	</Spymaster41>
 	<Landworker98>
-		<title>landworker</title>
-		<titleShort>landworker</titleShort>
+		<title>土地管理人</title>
+		<titleShort>管理人</titleShort>
 		<desc>[PAWN_nameDef]は,[PAWN_possessive]王家の土地管理人という地位にありました.[PAWN_pronoun]は一族の土地とそのすべての資源（農業と鉱物の両方）を管理しました.
 
 [PAWN_pronoun]は[PAWN_objective]機械のように自分を働かせることはできませんが,これらの事業を管理するには,農業と採鉱の法律を詳細に学ぶ必要がありました.</desc>
@@ -1034,19 +1034,19 @@ While violence was rare, palace intrigue was constant. [PAWN_nameDef]'s work tau
 		<desc>[PAWN_nameDef]は,[PAWN_possessive]仲間の部族が住むための建築物を建てる責任がありました.これには,遊牧民たちの旅行で使う一時的なテントと恒久的な定住テントの両方が含まれていました.地元の栽培活動で建築材料を集めることは仕事の一部でした.</desc>
 	</Framer37>
 	<StewKeeper95>
-		<title>stew keeper</title>
-		<titleShort>stewkeeper</titleShort>
-		<desc>[PAWN_nameDef] prepared meals from the plants and animals brought in by gatherers, farmers, and hunters of [PAWN_possessive] tribe. [PAWN_pronoun] had to make sure it was calorie-efficient, long-lasting, and healthy. [PAWN_pronoun] often processed and sometime gathered plants [PAWN_objective]self.</desc>
+		<title>料理番</title>
+		<titleShort>料理番</titleShort>
+		<desc>[PAWN_nameDef]は,[PAWN_possessive]部族に属する採集者や農民や狩人によって持ち込まれた動植物を材料に食事を用意していました.\n\n[PAWN_pronoun]は,栄養価が高くて長持ちし,健康に良いことを確認しなければなりませんでした.[PAWN_pronoun]は処理に忙しい中でも,[PAWN_objective]自分自身で作物を収穫することもありました.</desc>
 	</StewKeeper95>
 	<Tamer79>
-		<title>tamer</title>
-		<titleShort>tamer</titleShort>
-		<desc>[PAWN_nameDef]'s role in [PAWN_possessive] tribe was to connect with the natural world around - especially the world of animals. In addition to fulfilling a spiritual role, [PAWN_pronoun] also tamed wild beasts and cared for them as they served the tribe.</desc>
+		<title>動物使い</title>
+		<titleShort>動物使い</titleShort>
+		<desc>[PAWN_nameDef]の[PAWN_possessive]部族での役目は,周りの自然,特に動物の世界とつながりを持つことでした.[PAWN_pronoun]は祈祷師としての役目のほかに,野生動物を飼いならして,部族で飼う際にそれらの世話もしました.</desc>
 	</Tamer79>
 	<Carver1>
-		<title>carver</title>
-		<titleShort>carver</titleShort>
-		<desc>[PAWN_nameDef] carved artworks for [PAWN_possessive] tribe from wood, stone, and occasionally, more exotic materials. The work was sometimes sold, and sometimes kept to beautify settlements and provide a focus for rituals.</desc>
+		<title>彫刻士</title>
+		<titleShort>彫刻士</titleShort>
+		<desc>[PAWN_nameDef]は,[PAWN_possessive]部族のために木や石,時にはより価値のある素材で彫刻を作りました.その作品は売買されることもあれば,集落を美しく飾り立てたり,儀式の祭壇を飾り付けるために残されることもありました.</desc>
 	</Carver1>
 	<Healer0>
 		<title>ヒーラー</title>
@@ -1056,9 +1056,9 @@ While violence was rare, palace intrigue was constant. [PAWN_nameDef]'s work tau
 [PAWN_possessive]受動的な攻撃性が,たまには現れましたが,彼女は,変えた生き方に順応させようと努力していました.</desc>
 	</Healer0>
 	<HearthTender66>
-		<title>hearth tender</title>
-		<titleShort>tender</titleShort>
-		<desc>While the others were out hunting and foraging, [PAWN_nameDef] would stay at home to cook and take care of the young and sick.</desc>
+		<title>看護人</title>
+		<titleShort>看護人</titleShort>
+		<desc>他の人々が狩りや採集をしている間,[PAWN_nameDef]は家にいて,若者や病気の人に料理を作って世話をしていました.</desc>
 	</HearthTender66>
 	<Warrior94>
 		<title>勇士</title>
@@ -1066,24 +1066,24 @@ While violence was rare, palace intrigue was constant. [PAWN_nameDef]'s work tau
 		<desc>[PAWN_nameDef]は, [PAWN_possessive]惑星上で起きた第三次世界大戦において英雄でした.[PAWN_pronoun]は,とりわけ,にらみ合いによる緊張の糸が張り詰める中,核兵器の発射を妨げることに助力しました.</desc>
 	</Warrior94>
 	<Archer25>
-		<title>archer</title>
-		<titleShort>archer</titleShort>
-		<desc>[PAWN_nameDef] fought for [PAWN_possessive] tribe. [PAWN_pronoun] and specialized in the use of bows, pila, and other ranged weapons.</desc>
+		<title>弓師</title>
+		<titleShort>弓師</titleShort>
+		<desc>[PAWN_nameDef]は,[PAWN_possessive]部族のために戦いました.[PAWN_pronoun]弓や投槍やその他の遠距離武器の扱いに特化していました.</desc>
 	</Archer25>
 	<Brave88>
-		<title>brave</title>
-		<titleShort>brave</titleShort>
-		<desc>[PAWN_nameDef] wielded ikwa, axes, clubs, and other close-ranged weapons in battles for [PAWN_possessive] tribe.</desc>
+		<title>勇士</title>
+		<titleShort>勇士</titleShort>
+		<desc>[PAWN_nameDef]は,[PAWN_possessive]部族の戦いでイクワや斧やクラブ,その他の近接武器の扱いに特化していました.</desc>
 	</Brave88>
 	<Scout59>
-		<title>scout</title>
-		<titleShort>scout</titleShort>
-		<desc>Since [PAWN_possessive] tribe made contact with local outlanders, [PAWN_nameDef] contracted [PAWN_possessive] services out as a guide. Frequent contact with ancient technology made [PAWN_objective] comfortable with the lost machines.</desc>
+		<title>遺跡案内人</title>
+		<titleShort>案内人</titleShort>
+		<desc>[PAWN_possessive]部族が地元の異国人たちと接触したため,[PAWN_nameDef]は[PAWN_possessive]支援を提供する案内役として契約しました.古代技術と頻繁に触れることで,[PAWN_objective]は失われた文明の機械の取り扱いに詳しくなりました.</desc>
 	</Scout59>
 	<VengefulHunter32>
-		<title>vengeful hunter</title>
-		<titleShort>vengeful</titleShort>
-		<desc>Following the death of a close friend by animal attack, [PAWN_nameDef] hunted the beast responsible. [PAWN_pronoun] tracked it to a nearby village, only to find one of the villagers wearing its pelt.</desc>
+		<title>執念深い狩人</title>
+		<titleShort>狩人</titleShort>
+		<desc>親友が動物の攻撃によって死んだ後,[PAWN_nameDef]はその殺した罪がある獣を執念深く追いかけました.[PAWN_pronoun]はそれを近くの村まで追跡したが,その毛皮を着た村人の一人を見つけました.</desc>
 	</VengefulHunter32>
 	<MuffaloShaman95>
 		<title>マッファロシャーマン</title>
@@ -1103,14 +1103,14 @@ While violence was rare, palace intrigue was constant. [PAWN_nameDef]'s work tau
 [PAWN_pronoun]は,たまには[PAWN_possessive]部族を訪ねたりはしますが,たいていは自身のサバイバルスキルを使って自分の面倒は自分でみています.</desc>
 	</Loner61>
 	<Banished68>
-		<title>banished</title>
-		<titleShort>banished</titleShort>
-		<desc>[PAWN_nameDef]'s tribe banished [PAWN_objective] following a bloody dispute. [PAWN_pronoun] survived in the wilds alone for a long time.</desc>
+		<title>追放者</title>
+		<titleShort>追放者</titleShort>
+		<desc>[PAWN_nameDef]の部族は,容赦ない争いの後[PAWN_objective]部族から追放しました.[PAWN_pronoun]は長い間,一人で荒野を生き延び続けました.</desc>
 	</Banished68>
 	<Malingerer28>
-		<title>malingerer</title>
-		<titleShort>malingerer</titleShort>
-		<desc>[PAWN_nameDef] often feigned sickness in order to avoid [PAWN_possessive] responsibilities. While resting in the sick hut, [PAWN_pronoun] told stories to the children.</desc>
+		<title>仮病者</title>
+		<titleShort>うそつき</titleShort>
+		<desc>[PAWN_nameDef]は,[PAWN_possessive]仕事から逃げるために,よく仮病を装っていました.[PAWN_pronoun]は病気の間小屋で休んで,子供たちと話をしていました.</desc>
 	</Malingerer28>
 	<TribeChild40>
 		<title>部族の子供</title>
@@ -1166,29 +1166,29 @@ While violence was rare, palace intrigue was constant. [PAWN_nameDef]'s work tau
 		<desc>[PAWN_nameDef]は,火種を守る責任を持っていました.[PAWN_pronoun]は,この責務を非常に真面目にこなしてきました.</desc>
 	</FireKeeper44>
 	<Hideaway9>
-		<title>hideaway</title>
-		<titleShort>hideaway</titleShort>
-		<desc>[PAWN_nameDef]'s overprotective parents encouraged [PAWN_objective] to stay at home nearly every day. Though[PAWN_pronoun] had a lot of time to read and pursue crafting hobbies, [PAWN_pronoun] never developed normal social skills.</desc>
+		<title>引き籠り</title>
+		<titleShort>引き籠り</titleShort>
+		<desc>[PAWN_nameDef]の過保護な親は,[PAWN_objective]がほぼ毎日家にいること勧めました.[PAWN_pronoun]は読書したり,物を作る趣味を追求するのに多くの時間を費やしましたが,[PAWN_pronoun]は普通の社交スキルを身につけることは全くありませんでした.</desc>
 	</Hideaway9>
 	<CrashBaby32>
-		<title>crash baby</title>
-		<titleShort>crashbaby</titleShort>
-		<desc>As a baby, [PAWN_nameDef] was the only survivor of a deadly spacecraft crash. A passing tribe discovered [PAWN_objective] in the wreckage and adopted [PAWN_objective].</desc>
+		<title>生存した赤ん坊</title>
+		<titleShort>生存者</titleShort>
+		<desc>赤ん坊の頃,[PAWN_nameDef]は致命的な宇宙船事故で唯一の生存者でした.通りがかった部族が残骸から[PAWN_objective]発見して,[PAWN_objective]連れ帰って育てました.</desc>
 	</CrashBaby32>
 	<BuddingArtist44>
-		<title>budding artist</title>
-		<titleShort>artist</titleShort>
-		<desc>[PAWN_nameDef] had a knack for art. Traders and collectors from many different societies sought to buy [PAWN_possessive] creations.</desc>
+		<title>新進芸術家</title>
+		<titleShort>芸術家</titleShort>
+		<desc>[PAWN_nameDef]には芸術センスがありました.多くの異なる社会から来た交易に来た収集家たちは,[PAWN_possessive]作品を購入しようとしました.</desc>
 	</BuddingArtist44>
 	<Bully70>
-		<title>bully</title>
-		<titleShort>bully</titleShort>
-		<desc>[PAWN_nameDef] tormented other children for fun. To keep [PAWN_objective] busy, an elder assigned [PAWN_objective] to a hunting party at an early age.</desc>
+		<title>いじめっ子</title>
+		<titleShort>いじめっ子</titleShort>
+		<desc>[PAWN_nameDef]は,他の子供たち怖がらせて楽しんでいました.[PAWN_objective]忙しくしておくため,長老は幼い頃から[PAWN_objective]を狩猟をする一団に参加させていました.</desc>
 	</Bully70>
 	<Bookworm19>
 		<title>bookworm</title>
 		<titleShort>bookworm</titleShort>
-		<desc>Rather than socialize with the other children, [PAWN_nameDef] preferred to get lost in literature. [PAWN_pronoun] taught [PAWN_objective]self to read at an early age with books bought from passing traders.</desc>
+		<desc>[PAWN_nameDef]は,他の子どもたちと遊ぶより,文学に没頭することが好きでした.[PAWN_pronoun]は,[PAWN_objective]若い頃,通りすがりの商人から買った本を自分で本を読むことを覚えました.</desc>
 	</Bookworm19>
 	<FallenProdigy40>
 		<title>堕ちた神童</title>
@@ -1331,11 +1331,11 @@ While violence was rare, palace intrigue was constant. [PAWN_nameDef]'s work tau
 彼女の研究が,ますます彼女を実権派として憂慮すべき振る舞いに駆り立てるようになり,生命倫理委員会が,彼女の実験を行き詰まらせるよう働きかけていることを,社会は信じていました.</desc>
 	</FerventResearcher72>
 	<WarRefugee96>
-		<title>war refugee</title>
-		<titleShort>refugee</titleShort>
-		<desc>A war broke on out [PAWN_nameDef]'s home planet.
+		<title>戦争難民</title>
+		<titleShort>難民</titleShort>
+		<desc>[PAWN_nameDef]の故郷の星で戦争が勃発しました.
 
-Gathering what little food and belongings they could, [PAWN_nameDef] and [PAWN_possessive] father stole a ship and escaped into space.</desc>
+[PAWN_nameDef]と[PAWN_possessive]父親は,少ない食料と持ち物を集めて船を盗み,宇宙に逃げました.</desc>
 	</WarRefugee96>
 	<VengefulExplorer54>
 		<title>執念深い探究者</title>
