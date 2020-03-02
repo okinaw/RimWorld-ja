@@ -541,7 +541,7 @@
 
   <!-- Unfinished thing -->
   <UnfinishedItem>未完の {0}</UnfinishedItem>
-  <UnfinishedItemWithStuff>未完の {0} {1}</UnfinishedItemWithStuff>
+  <UnfinishedItemWithStuff>未完の{0}{1}</UnfinishedItemWithStuff>
 
   <!-- Quality -->
   <Quality>品質</Quality>
@@ -662,9 +662,9 @@
   <PawnTooltipGenderAndKindLabel>{0} {1}</PawnTooltipGenderAndKindLabel>
 
   <!-- Rewards -->
-  <Reward_Pawn_DropPod>{0_age}歳の{0_nameIndef}という名前の{0_nameDef}が輸送ポッドで到着した{0_relationInfoInParentheses}</Reward_Pawn_DropPod>
-  <Reward_Pawn_WalkIn>{0_age}歳の{0_nameIndef}という名前の{0_nameDef}が輸送ポッドで到着して加わった{0_relationInfoInParentheses}</Reward_Pawn_WalkIn>
-  <Reward_Pawn_Caravan>{0_age}歳の{0_nameIndef}という名前の{0_nameDef}が加わった{0_relationInfoInParentheses}</Reward_Pawn_Caravan>
+  <Reward_Pawn_DropPod>{0_age}歳の{0_title}という名前の{0_nameDef}が輸送ポッドで到着した{0_relationInfoInParentheses}</Reward_Pawn_DropPod>
+  <Reward_Pawn_WalkIn>{0_age}歳の{0_title}という名前の{0_nameDef}が輸送ポッドで到着して加わった{0_relationInfoInParentheses}</Reward_Pawn_WalkIn>
+  <Reward_Pawn_Caravan>{0_age}歳の{0_title}という名前の{0_nameDef}が加わった{0_relationInfoInParentheses}</Reward_Pawn_Caravan>
   <Reward_Items>以下の資源が入った輸送ポッドが到着した（合計 {1}個）：
 \n{0}</Reward_Items>
   <Reward_Items_Caravan>受け取った（合計 {1}個):
