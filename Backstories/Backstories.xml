@@ -26,7 +26,7 @@
 		<titleShort>飼育員</titleShort>
 		<desc>[PAWN_nameDef]は,権力を持った王室の所領で彼らの財産である動物園を管理していました.
 
-[PAWN_nameDef]'s job saw [PAWN_pronoun] feeding elephants, tranquilizing lions, and training birds to display their plumage to titled visitors.</desc>
+[PAWN_nameDef]の仕事は,[PAWN_pronoun]象に餌を与えて,ライオンたちをなだめ,鳥を訓練してその羽を訪問者に見せることです.</desc>
 	</MenagerieKeeper1>
 	<BalletDancer81>
 		<title>バトルダンサー</title>
@@ -44,7 +44,7 @@
 		<titleShort>料理人</titleShort>
 		<desc>[PAWN_nameDef]は[PAWN_possessive]王室と貴族たちへ食事を提供していました.
 
-Only the finest food was acceptable, so [PAWN_nameDef] tended a small garden on the mansion grounds to get the freshest herbs and vegetables. [PAWN_pronoun] fell in love with the food [PAWN_objective]self.</desc>
+最高の食物だけが許されるので,[PAWN_nameDef]は新鮮なハーブと野菜を手に入れるために邸宅の敷地内に小さな庭を作っていました.[PAWN_pronoun]は[PAWN_objective]育む野菜たちを愛していました.</desc>
 	</RoyalCook18>
 	<ImperialPriest24>
 		<title>帝国僧</title>
@@ -52,57 +52,57 @@ Only the finest food was acceptable, so [PAWN_nameDef] tended a small garden on 
 		<titleShortFemale>女僧侶</titleShortFemale>
 		<desc>[PAWN_nameDef]は帝国教会の司祭でした.
 
-[PAWN_pronoun] spent half [PAWN_possessive] time studying books to understand the relationship between God's aspects and the facets of [PAWN_possessive] society. The other half was spent preaching the evils of sloth and drink.</desc>
+[PAWN_pronoun]は,[PAWN_possessive]生活の半分を本の研究に費やし,神の側面と[PAWN_possessive]社会的な側面の関係を理解しました.残りの半分は,なまけ者と酔っ払いの説教に費やされました.</desc>
 	</ImperialPriest24>
 	<ImperialInquisitor53>
 		<title>帝国審問官</title>
 		<titleShort>審問官</titleShort>
-		<titleShortFemale>inquisitress</titleShortFemale>
+		<titleShortFemale>審問官</titleShortFemale>
 		<desc>[PAWN_nameDef]は,帝国教会で異端審問を行う審問官でした.
 
-[PAWN_nameDef] hunted unorthodox thoughts wherever they could be found - art, music, code, even private conversations. Upon finding deviance, [PAWN_pronoun] exposed it to bring on the punishment of the collective. And [PAWN_pronoun] could always find the deviance if [PAWN_pronoun] looked hard enough.</desc>
+[PAWN_nameDef]は,芸術や音楽やコードやプライベートな会話など,どこにでもある非正統な考えを探していました.逸脱を発見すると,[PAWN_pronoun]はその集団を罰するために告発しました.また,[PAWN_pronoun]がおかしいと思った場合,[PAWN_pronoun]は常に逸脱を探していました.</desc>
 	</ImperialInquisitor53>
 	<ChurchPsychic98>
 		<title>教会能力者</title>
 		<titleShort>能力者</titleShort>
 		<desc>[PAWN_nameDef]は,帝国教会の能力者学校に所属する能力者でした.
 
-[PAWN_nameDef] trained [PAWN_possessive] mind to sense the collective emotions and impressions of the people. It was a way to touch the spirit of the empire. It was also a way to root out heretical trends in thought.</desc>
+[PAWN_nameDef]は,[PAWN_possessive]心を自ら訓練して,人々の集合感情とイメージを感知しました.それは帝国の精神を知る方法でした.それはまた,思想の異端傾向を根絶する方法でもありました.</desc>
 	</ChurchPsychic98>
 	<CorporateDrone10>
 		<title>企業ドローン</title>
 		<titleShort>ドローン</titleShort>
 		<desc>[PAWN_nameDef]は,他の数千の愚かなドローンたちと一緒に非常に大きな複合事務所で働いていました.
 
-The work itself consisted of endless organizational drudgery and pointless meetings, punctuated by the occasional performance review.</desc>
+仕事自体は,終わりのない組織的な単調で無意味な会議で構成されており,時折行われる業績評価によって中断されていました.</desc>
 	</CorporateDrone10>
 	<CorporateManager76>
 		<title>企業管理者</title>
 		<titleShort>管理者</titleShort>
 		<desc>[PAWN_nameDef]は大規模な人材派遣会社に勤めていて,[PAWN_possessive]に割り当てられた労働者のチームがスムーズに仕事ができるよう管理していました.
 
-The job was intensely political. In order to advance, [PAWN_nameDef] learned how to arrange things so [PAWN_pronoun] could take credit for work done by almost anyone.</desc>
+この仕事は政治的なものでした.前に進むために,[PAWN_nameDef]は[PAWN_pronoun]がほとんどすべての人々の仕事に貢献できるよう,物事を整理する方法を学びました.</desc>
 	</CorporateManager76>
 	<CorporateFixer36>
 		<title>企業仲介者</title>
 		<titleShort>仲介者</titleShort>
-		<desc>[PAWN_nameDef]はエネルギー企業の仲介者でした.[PAWN_pronoun] work required knowing when to push, when to pull, when to back down and when to strike. The job fit [PAWN_possessive] natural lack of empathy.
+		<desc>[PAWN_nameDef]はエネルギー企業の仲介者でした.[PAWN_pronoun]作業には,いつ攻めるか引くか,撤退するのかばくちを打つのかを知っている必要がありました.その仕事は[PAWN_possessive]周りへの共感性が欠如した性格と合っていました.
 
-While violence was unusual, [PAWN_nameDef] stayed prepared for anything.</desc>
+暴力行為はめったにありませんでしたが,[PAWN_nameDef]は常に何に対しても準備を整えていました.</desc>
 	</CorporateFixer36>
 	<PlanetaryMiner64>
 		<title>惑星採掘家</title>
 		<titleShort>採掘家</titleShort>
-		<desc>[PAWN_nameDef]は,大手惑星鉱山会社の採掘技術者でした.[PAWN_pronoun] work kept [PAWN_objective] underground for weeks at a time, and [PAWN_pronoun] grew to appreciate the darkness.</desc>
+		<desc>[PAWN_nameDef]は,大手惑星鉱山会社の採掘技術者でした.[PAWN_pronoun]の作業は,一度に[PAWN_objective]数週間連続で地下から掘り続け,[PAWN_pronoun]は暗闇を高く評価するようになりました.</desc>
 	</PlanetaryMiner64>
 	<Mailman2>
 		<title>郵便配達員</title>
 		<titleFemale>郵便配達員</titleFemale>
 		<titleShort>配達員</titleShort>
 		<titleShortFemale>配達員</titleShortFemale>
-		<desc>[PAWN_nameDef]は[PAWN_possessive]に割り当てられたルートで郵便物を運んでいました.Sometimes [PAWN_pronoun] was even sent to deliver special packages to stylish corporate offices or mansions.
+		<desc>[PAWN_nameDef]は[PAWN_possessive]に割り当てられたルートで郵便物を運んでいました.時々[PAWN_pronoun]は,おしゃれな企業のオフィスや大邸宅に特別な小包を届けていました.
 
-[PAWN_nameDef] got pretty good at avoiding and fighting off angry dogs.</desc>
+[PAWN_nameDef]は,怒っている犬を避けたり,撃退するのが得意でした.</desc>
 	</Mailman2>
 	<Assembler69>
 		<title>組立工</title>
@@ -117,12 +117,12 @@ While violence was unusual, [PAWN_nameDef] stayed prepared for anything.</desc>
 	<CropFarmer17>
 		<title>作物生産者</title>
 		<titleShort>農家</titleShort>
-		<desc>[PAWN_nameDef]は,農園を経営していました.[PAWN_pronoun] analyzed soil, agricultural equipment, weather patterns, and price trends to optimize the planting and harvesting of massive crop fields.</desc>
+		<desc>[PAWN_nameDef]は,農園を経営していました.[PAWN_pronoun]は,土壌や農業用の機械や天候や農作物の価格動向を分析して,大規模な農業の植栽と収穫を最適化しました.</desc>
 	</CropFarmer17>
 	<LivestockFarmer8>
 		<title>畜産農家</title>
 		<titleShort>農家</titleShort>
-		<desc>[PAWN_nameDef]は家畜農場を経営していました.[PAWN_pronoun] analyzed animal genetics, feed types, birth and slaughter methods, and price trends to optimize the raising of huge animal herds.</desc>
+		<desc>[PAWN_nameDef]は家畜農場を経営していました.[PAWN_pronoun]は,動物の遺伝学や飼料の種類や出産と屠殺方法,そして価格動向を分析して,大規模な畜産業を最適化していました.</desc>
 	</LivestockFarmer8>
 	<ServingBoy97>
 		<title>給仕係</title>
@@ -131,21 +131,20 @@ While violence was unusual, [PAWN_nameDef] stayed prepared for anything.</desc>
 		<titleShortFemale>下働き</titleShortFemale>
 		<desc>[PAWN_nameDef]は召し使いの子供で,一家の義務を果たすために教育されました.
 
-[PAWN_pronoun] carried things and polished silverware, but was never allowed into the lords' part of the house.</desc>
+[PAWN_pronoun]はさまざまな物と磨かれた銀食器を運んでいましたが,領主の部屋の一部に入ることは決して許されませんでした.</desc>
 	</ServingBoy97>
 	<RoyalBastard3>
 		<title>王家の私生児</title>
 		<titleShort>私生児</titleShort>
 		<desc>[PAWN_nameDef]は,領主と娼婦の間に生まれた子供です.
 
-[PAWN_possessive] father's line was secure and his holdings strong. Nobody ever came to [PAWN_nameDef] to endorse a bid for the title. [PAWN_pronoun] earned [PAWN_possessive] bread cleaning the brothel, but always felt [PAWN_pronoun] deserved much more.</desc>
+[PAWN_possessive]父親は頭もしっかりしていて,大変強かった.誰もこの称号を奪うのを支持するために[PAWN_nameDef]を支持しませんでした.[PAWN_pronoun]は売春宿を掃除して[PAWN_possessive]日々の糧を得ていましたが,それでも常に[PAWN_pronoun]はもっと相応しい地位があると感じていました.</desc>
 	</RoyalBastard3>
 	<WarBastard60>
 		<title>戦争孤児</title>
 		<titleShort>私生児</titleShort>
-		<desc>[PAWN_nameDef]は[PAWN_possessive]母の故郷が敵兵に占領されてから9か月後に生まれました.The child of violence with no acknowledged father, [PAWN_nameDef] grew up at the bottom of the social pyramid.
-
-[PAWN_possessive] mother instilled her bitterness towards men and war into [PAWN_nameDef]. [PAWN_possessive] pet rabbit offered more warmth than any human in [PAWN_possessive] life.</desc>
+		<desc>[PAWN_nameDef]は[PAWN_possessive]母の故郷が敵兵に占領されてから9か月後に生まれました.認知する父親のいない暴力で生まれた子である[PAWN_nameDef]は,社会階層のどん底で育ちました.
+[PAWN_possessive]母親は男と戦争に対する憎しみを[PAWN_nameDef]に注ぎこみました. [PAWN_possessive]ペットのうさぎは,そんな[PAWN_possessive]生活の中でどの人間よりも暖かさを提供しました.</desc>
 	</WarBastard60>
 	<LineInfanteer20>
 		<title>戦列歩兵</title>
@@ -157,12 +156,12 @@ While violence was unusual, [PAWN_nameDef] stayed prepared for anything.</desc>
 	<PiousSoldier67>
 		<title>敬虔な兵士</title>
 		<titleShort>兵士</titleShort>
-		<desc>訓練も戦闘もしていないとき,[PAWN_nameDef]はよく牧師の側にいました.[PAWN_pronoun] dedicated [PAWN_possessive] life to serving both [PAWN_possessive] lord and [PAWN_possessive] religion.</desc>
+		<desc>訓練も戦闘もしていないとき,[PAWN_nameDef]はよく牧師の側にいました.[PAWN_pronoun]は[PAWN_possessive]主と[PAWN_possessive]両方の宗教に奉仕するために[PAWN_possessive]人生を捧げました.</desc>
 	</PiousSoldier67>
 	<InfantryEngineer46>
 		<title>戦闘工兵</title>
 		<titleShort>技術者</titleShort>
-		<desc>歩兵大隊に所属していたにもかかわらず,[PAWN_nameDef]はめったに銃を撃ちませんでした. [PAWN_possessive] specialty was the rapid construction of defenses, traps, defensive installations, and sapping tunnels.</desc>
+		<desc>歩兵大隊に所属していたにもかかわらず,[PAWN_nameDef]はめったに銃を撃ちませんでした.[PAWN_possessive]専門分野は,防衛陣地の構築と罠の設置,そして防御配置と塹壕の迅速な建設でした.</desc>
 	</InfantryEngineer46>
 	<InfantryMedic6>
 		<title>衛生兵</title>
@@ -172,35 +171,35 @@ While violence was unusual, [PAWN_nameDef] stayed prepared for anything.</desc>
 	<MilitaryCook18>
 		<title>調理兵</title>
 		<titleShort>軍料理人</titleShort>
-		<desc>彼らは軍隊とは胃の上を行進する者だと言いました.[PAWN_nameDef]'s job was to prepared chow to keep [PAWN_possessive] unit marching, no matter the conditions.
+		<desc>彼らは軍隊とは胃の上を行進する者だと言いました.[PAWN_nameDef]の仕事は,条件に関係なく[PAWN_possessive]部隊が行進できるように食事を準備することでした.
 
-The job required [PAWN_objective] to pay attention to both the nutritional and psychological needs of the troops.</desc>
+この仕事で[PAWN_objective]軍の栄養と心の両方の欲求に注意を払う必要がありました.</desc>
 	</MilitaryCook18>
 	<LoyalJanissary59>
 		<title>王室親衛隊</title>
 		<titleShort>イェニチェリ</titleShort>
-		<desc>[PAWN_nameDef]は偉大な領主直属部隊のイェニチェリでした.Even more than the other troops, [PAWN_pronoun] felt a sense of duty, and [PAWN_pronoun] drew [PAWN_possessive] life's meaning from the effort [PAWN_pronoun] put to fulfilling [PAWN_possessive] duty.</desc>
+		<desc>[PAWN_nameDef]は偉大な領主直属部隊のイェニチェリでした.[PAWN_pronoun]は他の兵士よりも強い義務感を感じて,[PAWN_pronoun]は[PAWN_possessive]義務を果たすため[PAWN_pronoun]の努力から[PAWN_possessive]人生の意味を引き出しました.</desc>
 	</LoyalJanissary59>
 	<ReconSniper89>
 		<title>偵察狙撃兵</title>
 		<titleShort>狙撃兵</titleShort>
-		<desc>[PAWN_nameDef]は軍に所属したプロの狙撃兵でした.[PAWN_pronoun] was trained to rapidly reach into unexpected firing positions, snipe key targets, and escape before enemies could pinpoint [PAWN_possessive] location.</desc>
+		<desc>[PAWN_nameDef]は軍に所属したプロの狙撃兵でした.[PAWN_pronoun]は,敵が[PAWN_possessive]位置を特定する前に,予想外の狙撃地点に素早く移動して,目標を狙撃して脱出するように訓練されました.</desc>
 	</ReconSniper89>
 	<Shipcracker37>
 		<title>宇宙船突撃隊</title>
 		<titleShort>突撃隊</titleShort>
-		<desc>[PAWN_nameDef]の役割は,宇宙の真空中飛んで,敵の宇宙船の船体に着陸し,内部へ穴を開けて部屋を制圧戦で船を拿捕することでした.[PAWN_pronoun] became very good at wielding heavy cataphract weapons to cut both steel and flesh.
+		<desc>[PAWN_nameDef]の役割は,宇宙の真空中飛んで,敵の宇宙船の船体に着陸し,内部へ穴を開けて部屋を制圧戦で船を拿捕することでした.[PAWN_pronoun]はスチールと肉体両方を切断するために重い近接歩兵武器を使いこなすのが大変上手くなりました.
 
-[PAWN_pronoun] also developed a taste for the drugs [PAWN_pronoun] used to cope with the overwhelming stress.</desc>
+[PAWN_pronoun]はまた,押し潰されるようなストレスに対処するために処方されたドラッグの味を[PAWN_pronoun]は好きでした.</desc>
 	</Shipcracker37>
 	<BrokenSoldier29>
 		<title>敗残兵</title>
 		<titleShort>兵士</titleShort>
-		<desc>[PAWN_pronoun]は,長く続いた戦争で強い兵士でした.In [PAWN_possessive] final battle, [PAWN_possessive] unit was sacrified to cover a retreat. [PAWN_nameDef] watched [PAWN_possessive] comrades die and was the only survivor.
+		<desc>[PAWN_pronoun]は,長く続いた戦争で強い兵士でした.[PAWN_possessive]最後の戦いでは,[PAWN_possessive]部隊が撤退するまで援護を続けて犠牲になりました.[PAWN_nameDef]は[PAWN_possessive]仲間たちが死ぬのを見た,唯一の生存者でした.
 
-The experience broke [PAWN_objective] inside, leaving [PAWN_objective] without the coping strategies to moderate [PAWN_possessive] emotions.
+この経験は[PAWN_objective]壊し,感情を和らげる[PAWN_objective]対処方法を持たない[PAWN_objective]PTSDを残しました.
 
-[PAWN_nameDef] learned to draw in the hospital.</desc>
+[PAWN_nameDef]は病院に引き籠ることを選びました.</desc>
 	</BrokenSoldier29>
 	<IntelligenceAgent21>
 		<title>諜報部員</title>
@@ -212,24 +211,24 @@ The experience broke [PAWN_objective] inside, leaving [PAWN_objective] without t
 	<Deserter65>
 		<title>脱走兵</title>
 		<titleShort>脱走兵</titleShort>
-		<desc>無数の戦いの後で[PAWN_pronoun]はその理由を信じていなかったので,[PAWN_nameDef]は[PAWN_possessive]武器を投げ捨てて脱走しました.[PAWN_nameDef] lived in isolation, hunted by those [PAWN_pronoun] had deserted.</desc>
+		<desc>無数の戦いの後で[PAWN_pronoun]はその理由を信じていなかったので,[PAWN_nameDef]は[PAWN_possessive]武器を投げ捨てて脱走しました.[PAWN_nameDef]は孤立して生活し,[PAWN_pronoun]が脱走した事を知った人々によって追跡されました.</desc>
 	</Deserter65>
 	<Warmonger35>
 		<title>戦争屋</title>
 		<titleShort>戦争屋</titleShort>
-		<desc>[PAWN_nameDef]は流血沙汰が大好きでした.Soldiers who served with [PAWN_objective] were terrified of [PAWN_possessive] ferocity. They rarely socialized with [PAWN_nameDef], and [PAWN_pronoun] did not mind the isolation.</desc>
+		<desc>[PAWN_nameDef]は流血沙汰が大好きでした.[PAWN_objective]仕えた兵士は[PAWN_possessive]凶暴さを恐れていた.彼らはめったに[PAWN_nameDef]とは話をせず,[PAWN_pronoun]も孤独を気にしませんでした.</desc>
 	</Warmonger35>
 	<InfantryOfficer49>
 		<title>大隊指揮官</title>
 		<titleShort>将校</titleShort>
-		<desc>[PAWN_nameDef]は帝国大隊を指揮する将校でした.[PAWN_pronoun] developed the social and combat skills to do [PAWN_possessive] job well and was respected by the men.</desc>
+		<desc>[PAWN_nameDef]は帝国大隊を指揮する将校でした.[PAWN_pronoun]は[PAWN_possessive]仕事をうまく実行するために社交スキルと戦闘スキルを磨き,男性からも尊敬されていました.</desc>
 	</InfantryOfficer49>
 	<DisgracedOfficer19>
 		<title>不名誉な将校</title>
 		<titleShort>将校</titleShort>
 		<desc>[PAWN_nameDef]はある帝国大隊を指揮する将校でした.[PAWN_pronoun]は[PAWN_possessive]仕事をうまくこなせるだけの社交スキルと戦闘スキルを発揮して,同じ男性からも尊敬されていました.
 
-When [PAWN_possessive] unit came under direct fire for the first time, [PAWN_nameDef] fled to a bunker and hid. [PAWN_pronoun] was demoted and never escaped the disgrace.</desc>
+[PAWN_possessive]部隊が初めて直接攻撃を受けたとき,[PAWN_nameDef]は退避壕に逃げて隠れていました.[PAWN_pronoun]は降格されて,その不名誉から逃れることはできませんでした.</desc>
 	</DisgracedOfficer19>
 	<MilitaryCommissar71>
 		<title>政治将校</title>
@@ -252,21 +251,21 @@ When [PAWN_possessive] unit came under direct fire for the first time, [PAWN_nam
 		<titleShort>設計者</titleShort>
 		<desc>[PAWN_nameDef]は,引火性のゲル状物質を可燃物の目標上に散布することに特化した小型戦闘爆撃機の設計を試験していました.
 
-Conditioned to love the sight of a target lighting up, [PAWN_pronoun] grew to love fire in all its forms - war, cooking, and even for cauterizing wounds in the hospital.</desc>
+[PAWN_pronoun]は,火がつくのを見るのが好きでしたが,戦争や料理や病院で見るやけどなど,あらゆる形の火を好きになりました.</desc>
 	</Firebomber51>
 	<MilitaryChaplain10>
 		<title>従軍牧師</title>
 		<titleShort>牧師</titleShort>
 		<desc>[PAWN_nameDef]は軍と共に訓練や戦闘に参加して,瀕死の人々に許しを与え,生き残った人々の信仰心を高めました.
 
-Like all imperial chaplains, [PAWN_pronoun] vowed never to fight [PAWN_objective]self. However, [PAWN_pronoun] acted as a medic and treated the wounded.</desc>
+帝国の牧師たちと同じ様に,[PAWN_pronoun]は[PAWN_objective]自身に決して戦わないことを誓いました.しかし、[PAWN_pronoun]は医者として行動し,負傷者を治療しました.</desc>
 	</MilitaryChaplain10>
 	<RoyalGuard51>
 		<title>王室護衛兵</title>
 		<titleShort>衛兵</titleShort>
 		<desc>[PAWN_nameDef]は,絶大な力持つ王が所有する個人的な宮殿を守っていました.
 
-While violence was rare, palace intrigue was constant. [PAWN_nameDef]'s work taught [PAWN_pronoun] to handle both words and guns.</desc>
+暴力はまれでしたが,宮殿での陰謀は日常でした.[PAWN_nameDef]の仕事は[PAWN_pronoun]言葉使いと銃の使い方,その両方を学ぶ機会を与えました.</desc>
 	</RoyalGuard51>
 	<Propagandist86>
 		<title>軍事宣伝者</title>
@@ -544,10 +543,10 @@ While violence was rare, palace intrigue was constant. [PAWN_nameDef]'s work tau
 		<desc>[PAWN_nameDef]は高級レストランを経営しました.[PAWN_pronoun]が作る[PAWN_possessive]創作料理の常連客の間で有名で,[PAWN_possessive]無作法な行動で調理人たちの間で悪名高いです.</desc>
 	</Chef52>
 	<Housemate8>
-		<title>主婦/主夫</title>
-		<titleFemale>housewife</titleFemale>
-		<titleShort>主婦/主夫</titleShort>
-		<titleShortFemale>housewife</titleShortFemale>
+		<title>主夫</title>
+		<titleFemale>主婦</titleFemale>
+		<titleShort>主夫</titleShort>
+		<titleShortFemale>主婦</titleShortFemale>
 		<desc>大人になってから,[PAWN_nameDef]は,[PAWN_possessive]配偶者が働きに行っている間じゅう,子供の世話と家事をしていました.</desc>
 	</Housemate8>
 	<Inventor6>
@@ -980,9 +979,9 @@ While violence was rare, palace intrigue was constant. [PAWN_nameDef]'s work tau
 	</IllegalShipwright76>
 	<Gigolo30>
 		<title>ジゴロ</title>
-		<titleFemale>gigolo</titleFemale>
+		<titleFemale>愛人</titleFemale>
 		<titleShort>ジゴロ</titleShort>
-		<titleShortFemale>courtesean</titleShortFemale>
+		<titleShortFemale>高級売春婦</titleShortFemale>
 		<desc>[PAWN_nameDef]はボムネズミピザの購入資金のため,自分自身を奴隷として売りました.[PAWN_pronoun]は,Zeglarコロニーへ売られ,男娼として稼いでいました.
 
 幸運にも,[PAWN_pronoun]は,どうにかこうにか他の脱走を企てた奴隷達がハイジャックした船に乗り込みました.ボムネズミピザの最後のひと欠片をめぐって,元奴隷のキャプテンと闘ったのち,[PAWN_nameDef]は脱出ポッドに押し込められて送り出されてしまいました.</desc>
@@ -1036,7 +1035,9 @@ While violence was rare, palace intrigue was constant. [PAWN_nameDef]'s work tau
 	<StewKeeper95>
 		<title>料理番</title>
 		<titleShort>料理番</titleShort>
-		<desc>[PAWN_nameDef]は,[PAWN_possessive]部族に属する採集者や農民や狩人によって持ち込まれた動植物を材料に食事を用意していました.\n\n[PAWN_pronoun]は,栄養価が高くて長持ちし,健康に良いことを確認しなければなりませんでした.[PAWN_pronoun]は処理に忙しい中でも,[PAWN_objective]自分自身で作物を収穫することもありました.</desc>
+		<desc>[PAWN_nameDef]は,[PAWN_possessive]部族に属する採集者や農民や狩人によって持ち込まれた動植物を材料に食事を用意していました.
+
+[PAWN_pronoun]は,栄養価が高くて長持ちし,健康に良いことを確認しなければなりませんでした.[PAWN_pronoun]は処理に忙しい中でも,[PAWN_objective]自分自身で作物を収穫することもありました.</desc>
 	</StewKeeper95>
 	<Tamer79>
 		<title>動物使い</title>
@@ -1186,8 +1187,8 @@ While violence was rare, palace intrigue was constant. [PAWN_nameDef]'s work tau
 		<desc>[PAWN_nameDef]は,他の子供たち怖がらせて楽しんでいました.[PAWN_objective]忙しくしておくため,長老は幼い頃から[PAWN_objective]を狩猟をする一団に参加させていました.</desc>
 	</Bully70>
 	<Bookworm19>
-		<title>bookworm</title>
-		<titleShort>bookworm</titleShort>
+		<title>読書好きの子供</title>
+		<titleShort>本好き</titleShort>
 		<desc>[PAWN_nameDef]は,他の子どもたちと遊ぶより,文学に没頭することが好きでした.[PAWN_pronoun]は,[PAWN_objective]若い頃,通りすがりの商人から買った本を自分で本を読むことを覚えました.</desc>
 	</Bookworm19>
 	<FallenProdigy40>
@@ -1506,11 +1507,11 @@ While violence was rare, palace intrigue was constant. [PAWN_nameDef]'s work tau
 [PAWN_pronoun]は,手当たり次第,生き物の頭の中を見ようと頭蓋骨を壊すのが好きでした.</desc>
 	</PizzaLover94>
 	<Gigolo68>
-		<title>gigolo</title>
-		<titleShort>gigolo</titleShort>
-		<desc>[PAWN_nameDef] sold [PAWN_objective]self into slavery for money to purchase boomrat pizza. [PAWN_pronoun] was then traded to the Zeglar colonies, where [PAWN_pronoun] worked as a male prostitute.
+		<title>ジゴロ</title>
+		<titleShort>ジゴロ</titleShort>
+		<desc>[PAWN_nameDef]は,ボムネズミピザを購入するためのお金と引き換えに[PAWN_objective]自分自身を奴隷に売った.[PAWN_pronoun]はその後,ゼグラー植民星に売られ,そこで[PAWN_pronoun]は男の娼婦として働きました.
 
-In a fluke event, [PAWN_pronoun] managed to join other escaping slaves as they hijacked a ship. After fighting with the captain of the slave crew over the last piece of boomrat pizza, [PAWN_nameDef] was sent off the ship in an escape pod.</desc>
+幸運なことに,[PAWN_pronoun]は船を乗っ取った他の脱走奴隷に加わりました.奴隷たちの乗組員と船長たちと最後に残ったボムネズミピザを奪い合った後,[PAWN_nameDef]は脱出ポッドで船から叩き出されました.</desc>
 	</Gigolo68>
 	<FrontierMarshal54>
 		<title>辺境の保安官</title>
@@ -1539,9 +1540,11 @@ In a fluke event, [PAWN_pronoun] managed to join other escaping slaves as they h
 彼は,生まれつきの射撃の名人でした.しかしながら,彼が本当に熱中するものは,新しいレシピとガジェットの分解でした.</desc>
 	</MercenaryChef31>
 	<AbandonedChild30>
-		<title>abandoned child</title>
-		<titleShort>abandoned</titleShort>
-		<desc>[PAWN_nameDef] was a quick witted, funny child. One day, [PAWN_pronoun] wandered off on [PAWN_possessive] wealthy parents, and was ultimately lost in a supposedly unused ore warehouse. Due to cloning technology, [PAWN_possessive] parents decided that the time looking for [PAWN_objective] was better spent on just cloning a better son.</desc>
+		<title>見捨てられた子</title>
+		<titleShort>捨て子</titleShort>
+		<desc>[PAWN_nameDef]は,機転が利く変わった子供でした.ある日[PAWN_pronoun]は[PAWN_possessive]裕福な両親からはぐれて,最終は未精錬の鉱石倉庫で行方不明になりました.
+
+クローン技術により,[PAWN_possessive]両親は,[PAWN_objective]探す時間よりもっと良い子供のクローンを用意した方が良いと判断しました.</desc>
 	</AbandonedChild30>
 	<CargoPilot58>
 		<title>カーゴ船パイロット</title>
@@ -1709,11 +1712,11 @@ In a fluke event, [PAWN_pronoun] managed to join other escaping slaves as they h
 ある日,彼らは戦闘で負けて包囲されました.退却することを拒否し,[PAWN_nameDef]は敵に撃たれました.[PAWN_pronoun]は,不思議なことに無傷の死体の山の中で意識を取り戻し恐怖におののきました.</desc>
 	</Mercenary55>
 	<UrbworldChild56>
-		<title>urbworld child</title>
-		<titleShort>urbkid</titleShort>
-		<desc>[PAWN_nameDef] had an isolated upbringing on an urbworld. [PAWN_possessive] hatred of heights kept [PAWN_objective] indoors often, and made [PAWN_objective] an introverted child.
+		<title>アーブワールドの子供</title>
+		<titleShort>アーブ育ち</titleShort>
+		<desc>[PAWN_nameDef]は,アーブワールドで隔離されて育てられました.[PAWN_possessive]上級生への憎しみで[PAWN_objective]頻繁に独房に入れられ,[PAWN_objective]内向的な子供にしました.
 
-When [PAWN_pronoun] did go out onto the catwalks of the city, [PAWN_pronoun] enjoyed playing war games, becoming proficient with various simulation weapons.</desc>
+[PAWN_pronoun]が街中に出された後,[PAWN_pronoun]は戦争ゲームを楽しみ,仮想世界でさまざまな兵器を使いこなすようになりました.</desc>
 	</UrbworldChild56>
 	<Microbiologist12>
 		<title>細菌生物学者</title>
@@ -1756,11 +1759,11 @@ When [PAWN_pronoun] did go out onto the catwalks of the city, [PAWN_pronoun] enj
 彼は,言葉を覚えると同じくらい,すぐにナイフと火器に熟練しました.</desc>
 	</ArtfulDodger78>
 	<Assassin7>
-		<title>assassin</title>
-		<titleShort>assassin</titleShort>
-		<desc>[PAWN_nameDef] was specially trained as an operative to be used for high-risk assassinations. [PAWN_possessive] skill with a rifle was unrivalled.
+		<title>暗殺者</title>
+		<titleShort>暗殺者</titleShort>
+		<desc>[PAWN_nameDef]は,危険性の高い暗殺に使用される工作員として特別な訓練を受けました.[PAWN_possessive]ライフルを扱う機能は他の追随を許しませんでした.
 
-[PAWN_pronoun] was eventually betrayed by [PAWN_possessive] superiors when a target found out about the hit and offered to fund their future projects. [PAWN_nameDef] swore to never trust anyone again.</desc>
+[PAWN_pronoun]は最終的に[PAWN_possessive]上司に裏切られました.目標が狙撃地点を発見して,将来の計画への資金提供を申し出たとき裏切りに気が付きました.[PAWN_nameDef]は,もう二度と誰も信頼しないことを誓いました.</desc>
 	</Assassin7>
 	<Pickpocket82>
 		<title>スリ</title>
@@ -1880,18 +1883,18 @@ When [PAWN_pronoun] did go out onto the catwalks of the city, [PAWN_pronoun] enj
 		<desc>Wedgeは,裕福な外科医の一人息子として育てられました.医療実習生になることを受け入れるようにプレッシャーを受け,彼はダウンしました.彼は,自分が受け継いだ物を持って,コンピュータネットワークを悪用する方法を学ぶために,地下社会に足を踏み入れました.彼は,すぐに,彼の母星で最も恐れられるハッカーの一人になりました.</desc>
 	</HackerProdigy84>
 	<IntelligenceAgent10>
-		<title>intelligence agent</title>
-		<titleShort>agent</titleShort>
-		<desc>Because of [PAWN_possessive] hacking skills, [PAWN_nameDef] was recruited by [PAWN_possessive] home planet's governing body to serve as an intelligence agent. The government trained [PAWN_objective] in combat, but [PAWN_pronoun] prefers psychological warfare.
+		<title>諜報工作員</title>
+		<titleShort>工作員</titleShort>
+		<desc>[PAWN_possessive]ハッキング技能を買われて,[PAWN_nameDef]は[PAWN_possessive]母星統治組織によって採用され,諜報機関員として役割を果たしました.政府は戦闘でも[PAWN_objective]を訓練しましたが,[PAWN_pronoun]は心理戦を好みました.
 
-Government rules proved too strict for [PAWN_objective], so [PAWN_pronoun] went rogue. [PAWN_possessive] current activities are unknown.</desc>
+政府のルールは[PAWN_objective]に対して厳しすぎるので,[PAWN_pronoun]はイリーガル工作員になりました.[PAWN_possessive]現在の活動内容は不明です.</desc>
 	</IntelligenceAgent10>
 	<MadScientist47>
-		<title>mad scientist</title>
-		<titleShort>scientist</titleShort>
-		<desc>[PAWN_nameDef] grew up miserable on the plains of a rimworld. [PAWN_pronoun] found the strength to fight under the teachings of an old, broken scientist.
+		<title>狂気の科学者</title>
+		<titleShort>科学者</titleShort>
+		<desc>[PAWN_nameDef]は,リムワールドの平原で惨めに育ちました.[PAWN_pronoun]は,心が病んだ年寄りの科学者の弟子として戦う方法を学びました.
 
-[PAWN_pronoun] quickly learned to play with people's fears, and was nicknamed 'mad scientist'.</desc>
+[PAWN_pronoun]はすぐに人々の恐怖とそれで遊ぶことを学び,「マッドサイエンティスト」と呼ばれるようになりました.</desc>
 	</MadScientist47>
 	<WarChief97>
 		<title>戦う酋長</title>
@@ -1947,14 +1950,14 @@ Government rules proved too strict for [PAWN_objective], so [PAWN_pronoun] went 
 ついには,[PAWN_nameDef]は,よく訓練された凶暴な海賊グループのリーダーになりました.これからは,彼専任のコックが彼のために料理します.</desc>
 	</MidworldSailor91>
 	<CoreworldStudent50>
-		<title>coreworld student</title>
-		<titleShort>student</titleShort>
-		<desc>Born a male named Alex, [PAWN_nameDef] didn't fit in well with the other boys. When very young, [PAWN_pronoun] preferred creative pursuits, such as crafting jewelry, over sports. [PAWN_pronoun] felt [PAWN_pronoun] had the wrong body. Luckily, [PAWN_possessive] family and friends supported [PAWN_possessive] sex reassignment; as a teen, [PAWN_pronoun] underwent surgery to become a female.</desc>
+		<title>コア世界の学生</title>
+		<titleShort>学生</titleShort>
+		<desc>アレックスという男が生まれ,[PAWN_nameDef]は他の男の子たちと気が合いませんでした.非常に年が若いときから,[PAWN_pronoun]は,運動よりも宝飾作成などの創造的な探求が好きでした.[PAWN_pronoun]は[PAWN_pronoun]の肉体が間違っていると感じていました.幸いなことに,[PAWN_possessive]家族と友人は[PAWN_possessive]の性転換を支持して,[PAWN_pronoun]は十代の頃に女性になるための手術を受けました.</desc>
 	</CoreworldStudent50>
 	<CoreworldJeweler19>
-		<title>coreworld jeweler</title>
-		<titleShort>jeweler</titleShort>
-		<desc>After [PAWN_nameDef] had completed all of [PAWN_possessive] surgeries, [PAWN_pronoun] found that [PAWN_pronoun] had a lot of time and energy to dedicate to [PAWN_possessive] passion: trinket crafting. [PAWN_pronoun] spent years perfecting [PAWN_possessive] art as a jeweler, then left [PAWN_possessive] home world to sell [PAWN_possessive] wares across the galaxy.</desc>
+		<title>コア世界の宝石商</title>
+		<titleShort>宝石商</titleShort>
+		<desc>[PAWN_nameDef]が[PAWN_possessive]手術をすべて完了した後,[PAWN_pronoun]は[PAWN_pronoun]が[PAWN_possessive]情熱に捧げる時間と熱意を持っていることに気が付きました.[PAWN_pronoun]は宝石商として[PAWN_possessive]芸術品を完成させるのに何年も費やし,[PAWN_possessive]母星系を離れて広い銀河で[PAWN_possessive]商品を販売しました.</desc>
 	</CoreworldJeweler19>
 	<MedievalSquire5>
 		<title>中世時代の見習い騎士</title>
@@ -1988,9 +1991,9 @@ Government rules proved too strict for [PAWN_objective], so [PAWN_pronoun] went 
 [PAWN_pronoun]は,麻薬"substance F"を,よそのギャングの縄張りまで行って密売する,ドラッグの運び屋として,地元のギャングによって使われていました.[PAWN_pronoun]は銃弾を,1発か2発,喰らっていました.</desc>
 	</DrugMule80>
 	<TestSubject39>
-		<title>test subject</title>
-		<titleShort>subject</titleShort>
-		<desc>[PAWN_nameDef] enrolled in a scientific study that promised it could make [PAWN_objective] smarter. Unfortunately, the side effects were very different than [PAWN_pronoun] expected.[PAWN_pronoun] went insane and killed a number of people before escaping.</desc>
+		<title>実験被験者</title>
+		<titleShort>被験体</titleShort>
+		<desc>[PAWN_nameDef]は,[PAWN_objective]より賢くすることができると約束した科学研究実験に被験体登録しました.残念なことに,その副作用は[PAWN_pronoun]が予想したものとは非常に異なっていました.[PAWN_pronoun]は常識を失い,逃亡する前に多くの人々を殺害しました.</desc>
 	</TestSubject39>
 	<ArtisanFarmer23>
 		<title>熟練した農夫</title>
@@ -2047,18 +2050,18 @@ Government rules proved too strict for [PAWN_objective], so [PAWN_pronoun] went 
 [PAWN_pronoun]は,彼らが[PAWN_objective]処分する計画を立てた事に気がついた時,[PAWN_nameDef]は,[PAWN_possessive]主人を攻撃し,数人を殺して惑星から逃げました.</desc>
 	</MindwipedAssassin50>
 	<TestSubject82>
-		<title>test subject</title>
-		<titleShort>subject</titleShort>
-		<desc>Test subject #11,529,914 of experiment #56,048 spent [PAWN_possessive] childhood in white rooms performing mental and physical tests.
+		<title>実験被験者</title>
+		<titleShort>被験体</titleShort>
+		<desc>実験第5万6048号の被験体番号1152万9914号は,[PAWN_possessive]幼少期を心身にテストを行う白い部屋で過ごしました.
 
-[PAWN_possessive] only companion was a voice that called itself Mother. Mother rewarded success with praise - and failure with harsh punishment.</desc>
+[PAWN_possessive]一緒だったのは,マザーと呼ばれる声だけでした.マザーは,成功を賞賛して報いました.そして,失敗には厳しい罰を与えました.</desc>
 	</TestSubject82>
 	<TestSubject92>
-		<title>test subject</title>
-		<titleShort>subject</titleShort>
-		<desc>[PAWN_nameDef]'s tests went from geometry to quantum physics, and [PAWN_pronoun] could run the grand gauntlet without a scratch.
+		<title>実験被験者</title>
+		<titleShort>被験体</titleShort>
+		<desc>[PAWN_nameDef]の実験は幾何学的なモノから量子物理学的にモノへと発展し,[PAWN_pronoun]は大きな挑戦を失敗なしで行うことができた.
 
-One day, Mother said that [PAWN_possessive] final test lay beyond the red door, and that even if [PAWN_pronoun] couldn't hear her voice, Mother would always be there.</desc>
+ある日,マザーの声は,[PAWN_possessive]最終テストは赤いドアの向こうで行われ,[PAWN_pronoun]が彼女の声を聞けなくても,マザーはいつも一緒にいると言いました.</desc>
 	</TestSubject92>
 	<FireScarredChild1>
 		<title>火傷跡少年</title>
@@ -2129,14 +2132,14 @@ One day, Mother said that [PAWN_possessive] final test lay beyond the red door, 
 		<desc>[PAWN_nameDef]は,一流学校への助成を勝ち取り,ロケット技術者の学位を獲得しました.宇宙鉱山で数年働いた後に,彼女は宇宙を見る旅に出発しました.</desc>
 	</RocketEngineer53>
 	<MedievalSlave50>
-		<title>medieval slave</title>
-		<titleShort>slave</titleShort>
-		<desc>Born into slavery, [PAWN_nameDef] never knew [PAWN_possessive] parents. [PAWN_pronoun] eventually escaped from [PAWN_possessive] masters and boarded a military cargo ship, where [PAWN_pronoun] was pressed into military service.</desc>
+		<title>中世の奴隷</title>
+		<titleShort>奴隷</titleShort>
+		<desc>奴隷として生まれた[PAWN_nameDef]は[PAWN_possessive]両親を知りませんでした.[PAWN_pronoun]は最終的に[PAWN_possessive]主人から逃亡し,[PAWN_pronoun]は兵役に強制徴用されて軍用貨物船に乗り込みました.</desc>
 	</MedievalSlave50>
 	<SpaceMarine19>
-		<title>space marine</title>
-		<titleShort>marine</titleShort>
-		<desc>[PAWN_nameDef] joined a squad of space marines known for their brutal efficiency at killing. [PAWN_possessive] last name and [PAWN_possessive] lack of emotion during combat inspired [PAWN_possessive] nickname.</desc>
+		<title>宇宙海兵隊員</title>
+		<titleShort>海兵隊員</titleShort>
+		<desc>[PAWN_nameDef]は,残忍な殺傷能力で知られる宇宙海兵隊に応募した. [PAWN_possessive]苗字と[PAWN_possessive]戦闘中の感情の欠落は[PAWN_possessive]あだ名に影響を与えました.</desc>
 	</SpaceMarine19>
 	<FoundryApprentice76>
 		<title>鋳物工見習い</title>
@@ -2282,9 +2285,9 @@ G-nome研究者は,彼に,"Gizmo"というニックネームをつけ,彫刻に�
 		<desc>[PAWN_nameDef]は,宇宙旅行を夢見ていました.[PAWN_pronoun]は,古い交番を,自分の宇宙船と見立てて,未知なる物を見に行く遊びをしていました.</desc>
 	</SpaceFanboy22>
 	<Castaway81>
-		<title>castaway</title>
-		<titleShort>castaway</titleShort>
-		<desc>[PAWN_nameDef] was a passenger on a routine interstellar transit. When [PAWN_possessive] ship was destroyed, [PAWN_pronoun] lived as a castaway on an uninhabited planet for several years.</desc>
+		<title>漂流者</title>
+		<titleShort>遭難者</titleShort>
+		<desc>[PAWN_nameDef]は定期航路を通る星間旅客船の乗客でした.[PAWN_possessive]船が破壊されたとき,[PAWN_pronoun]は無人の惑星で漂流者として数年間生活していました.</desc>
 	</Castaway81>
 	<GlitterworldNerd20>
 		<title>Glitterworldのオタク</title>
@@ -2362,9 +2365,9 @@ G-nome研究者は,彼に,"Gizmo"というニックネームをつけ,彫刻に�
 		<desc>Grahamは,Rimworldの貧しい家に生まれました.若い時に,彼の父が,彼を奴隷商人に売り渡して以来,何度も何度も,売られ続けてきました.ある将軍は,彼を,子供労働者の一部として買い,鉱山に送り込んで,機械の面倒をさせたり,共に働かせました.</desc>
 	</ChildSlave58>
 	<Mercenary4>
-		<title>mercenary</title>
-		<titleShort>mercenary</titleShort>
-		<desc>After escaping a crew of rimworld slavers, [PAWN_nameDef] developed a lack of respect for life. [PAWN_pronoun] proceeded to sign on to a mercenary group where [PAWN_pronoun] developed skills using guns and survival techniques. [PAWN_nameDef] did dirty work where [PAWN_pronoun] found it, and traveled to many worlds.</desc>
+		<title>傭兵</title>
+		<titleShort>傭兵</titleShort>
+		<desc>[PAWN_nameDef]は,リムワールドの奴隷船員から逃亡した後,命に対する敬意が欠如した行動を激化しました.[PAWN_pronoun]は傭兵団と契約し,[PAWN_pronoun]は銃と生存技術を使いこなしてスキルを磨きました.[PAWN_nameDef]は[PAWN_pronoun]が見つけた汚れ仕事をし,多くの世界を渡り歩きました.</desc>
 	</Mercenary4>
 	<AdventuringChild30>
 		<title>冒険好きの子供</title>
@@ -2446,9 +2449,9 @@ G-nome研究者は,彼に,"Gizmo"というニックネームをつけ,彫刻に�
 孤児の時は,自分自身と,おなじような境遇の子供たちの面倒を見て,彼は,多くの人と,どのように接すれば良いかを身につけました.</desc>
 	</Orphan15>
 	<BountyHunter17>
-		<title>bounty hunter</title>
-		<titleShort>hunter</titleShort>
-		<desc>[PAWN_nameDef] was a self-employed bounty hunter. [PAWN_pronoun] spent [PAWN_possessive] days hunting space pirates and collecting cash bounties.</desc>
+		<title>賞金稼ぎ</title>
+		<titleShort>賞金稼ぎ</titleShort>
+		<desc>[PAWN_nameDef]はフリーの賞金稼ぎでした.[PAWN_pronoun]は[PAWN_possessive]日々を,宇宙海賊の逮捕と賞金首の回収に費やしました.</desc>
 	</BountyHunter17>
 	<Straggler71>
 		<title>流浪者</title>
@@ -2557,11 +2560,11 @@ Littleは,彼の知っている事をし,Bennは,彼の人生を変える可能�
 ある非番の時,[PAWN_pronoun]は,機械的な置物を作っていたり,古書を読んだり,たまには未知の世界へ冒険に行ったりしてたようです.内向的な性格なので,[PAWN_pronoun]は,たいていは,独りでしていました.</desc>
 	</SystemsEngineer1>
 	<Orphan25>
-		<title>orphan</title>
-		<titleShort>orphan</titleShort>
-		<desc>Left alone in the world without parents, [PAWN_nameDef] did the best [PAWN_pronoun] could to adapt.
+		<title>孤児</title>
+		<titleShort>孤児</titleShort>
+		<desc>親のいない場所に放置された[PAWN_nameDef]は,[PAWN_pronoun]が生き延びるために最善を尽くしました.
 
-Having to take care both of [PAWN_objective]self and younger kids at the orphanage, [PAWN_pronoun] learned a lot about humans and how to interact with them.</desc>
+[PAWN_objective]自分と自分より年少な孤児院の子供たちの両方の世話をしなければならないため,[PAWN_pronoun]は他人と彼らとの交渉について多くのことを学びました.</desc>
 	</Orphan25>
 	<NeuroScientist19>
 		<title>脳神経科学者</title>
@@ -2719,11 +2722,11 @@ Having to take care both of [PAWN_objective]self and younger kids at the orphana
 		<desc>Taterは,宙賊のリーダーになりました.辺境の惑星間を飛び回り,彼は,多くの植民地から敵と恐れられる者になりました.</desc>
 	</SpaceRaider71>
 	<Abductee7>
-		<title>abductee</title>
-		<titleShort>abductee</titleShort>
-		<desc>[PAWN_nameDef] was abducted by xenohumans when [PAWN_pronoun] was still a baby. They experimented on [PAWN_objective] to understand [PAWN_possessive] genetic structure.
+		<title>拉致被害者</title>
+		<titleShort>被害者</titleShort>
+		<desc>[PAWN_nameDef]は[PAWN_pronoun]がまだ赤ん坊だったときに異種族に誘拐されました.彼らは[PAWN_possessive]遺伝構造を解析するために[PAWN_objective]実験しました.
 
-As [PAWN_pronoun] grew up, [PAWN_nameDef] grew a little bit too big and strong for [PAWN_possessive] captors and escaped.</desc>
+[PAWN_pronoun]が成長するにつれて,[PAWN_nameDef]は[PAWN_possessive]誘拐者たちより少し大きく強くなりすぎて逃げだしてしまいました.</desc>
 	</Abductee7>
 	<Spy58>
 		<title>スパイ</title>
@@ -2745,8 +2748,8 @@ As [PAWN_pronoun] grew up, [PAWN_nameDef] grew a little bit too big and strong f
 そのため,[PAWN_pronoun]は,住み慣れた地を離れて,[PAWN_pronoun]をもっと必要としている人々がいる辺境の地へ旅立ちました.</desc>
 	</WanderingHealer52>
 	<GlitterworldKid85>
-		<title>Glitterworldの児童</title>
-		<titleShort>Glitter児</titleShort>
+		<title>グリッターワールドの子供</title>
+		<titleShort>グリッター育ち</titleShort>
 		<desc>Glitterworldでの遺伝子操作された"完璧すぎる子供",Chazはとてもシャイで,両親よりも,引っ込み思案の神経質でした.[PAWN_pronoun]は,もっぱら,科学を勉強したり,薬学,ガーデニングを趣味としてやっていました.
 
 10代の時,[PAWN_pronoun]は静かな暮らしを探しに,家を飛び出しました.</desc>
@@ -2759,11 +2762,11 @@ As [PAWN_pronoun] grew up, [PAWN_nameDef] grew a little bit too big and strong f
 何回か,苦痛を伴う美容整形をうけた後,Chazは,かろうじて元の姿を取り戻しました.彼は助け出されるまで,むりやり研究所で働かされていました,Chazは,誰でも悪口を言う人を,とてもひどく怖がりました.</desc>
 	</CosmeticReject64>
 	<FeralChild85>
-		<title>feral child</title>
-		<titleShort>survivor</titleShort>
-		<desc>[PAWN_nameDef] and [PAWN_possessive] family lived a hard but prosperous life along with their fellow colonists on an outlying rimworld.
+		<title>野生児</title>
+		<titleShort>生存者</titleShort>
+		<desc>[PAWN_nameDef]と[PAWN_possessive]家族は,辺境のリムワールドで仲間の入植者と一緒に苦労しながら繁栄した生活を送っていました.
 
-One day, a group of mechanoids attacked, killing everyone aside from [PAWN_nameDef]. [PAWN_pronoun] then lived alone in the desert until a group of raiders found him.</desc>
+ある日,メカノイドの集団が襲撃してきて,[PAWN_nameDef]以外の全員を殺害しました.[PAWN_pronoun]は,襲撃者の一団が見つけるまで砂漠に一人で住んでいました.</desc>
 	</FeralChild85>
 	<RaiderKing38>
 		<title>レイダーキング</title>
@@ -2771,18 +2774,19 @@ One day, a group of mechanoids attacked, killing everyone aside from [PAWN_nameD
 		<desc>奴隷以外の何者でもない人生を始めた[PAWN_nameDef]は,レイダーの一団のなかで,みるみる頭角を表し,誰もが,彼の名前と冷酷さを知るようになりました.</desc>
 	</RaiderKing38>
 	<Scout6>
-		<title>scout</title>
-		<titleShort>scout</titleShort>
-		<desc>[PAWN_nameDef] loved being outdoors. [PAWN_possessive] parents enrolled [PAWN_objective] in a program that taught military scouting skills. [PAWN_pronoun] thrived when [PAWN_pronoun] was left alone in the wilderness.
+		<title>ボーイスカウト</title>
+		<titleShort>スカウト</titleShort>
+		<titleShortFemale>ガールスカウト</titleShortFemale>
+		<desc>[PAWN_nameDef]は屋外を愛していました.[PAWN_possessive]両親は,軍事的なスカウトを教育する集まりに[PAWN_objective]登録しました.[PAWN_pronoun]は,荒野で[PAWN_pronoun]がたった一人で放置されたときでも問題なく楽しみました.
 
-Unfortunately, [PAWN_nameDef] did not learn the basic technological skills that are taken for granted by many others.</desc>
+残念なことに,[PAWN_nameDef]は,他の多くの人々には当たり前と思われている常識的な技術スキルを学んでいませんでした.</desc>
 	</Scout6>
 	<FrontierMarshal27>
-		<title>frontier marshal</title>
-		<titleShort>marshal</titleShort>
-		<desc>[PAWN_nameDef] was the marshal of [PAWN_possessive] colony. [PAWN_pronoun] tried to honorably uphold the law, but the corrupt local mayor killed [PAWN_possessive] family and left [PAWN_objective] for dead.
+		<title>辺境保安官</title>
+		<titleShort>保安官</titleShort>
+		<desc>[PAWN_nameDef]は[PAWN_possessive]コロニーの保安官でした.[PAWN_pronoun]は秩序に従って法律を守る努力をしましたが,腐敗した地元の市長は[PAWN_possessive]家族を殺し,[PAWN_objective]殺そうとしました.
 
-After regaining [PAWN_possessive] health, [PAWN_nameDef] arrested the mayor. [PAWN_pronoun] left [PAWN_possessive] homeworld and started a new life working to make a difference in the universe.</desc>
+一命をとりとめた[PAWN_possessive]健康が回復した後,[PAWN_nameDef]は市長を逮捕しました.[PAWN_pronoun]は[PAWN_possessive]故郷を去り,宇宙により良い変化をもたらすために新しい生活を始めました.</desc>
 	</FrontierMarshal27>
 	<TraineeAlchemist64>
 		<title>見習い錬金術師</title>
@@ -2811,9 +2815,9 @@ After regaining [PAWN_possessive] health, [PAWN_nameDef] arrested the mayor. [PA
 何度も危機に陥り,ほとんど成果を上げることもなく,[PAWN_nameDef]は辺境へと逃げ延びました.</desc>
 	</AnarchistRebel77>
 	<Pickpocket61>
-		<title>pickpocket</title>
-		<titleShort>thief</titleShort>
-		<desc>At a young age, [PAWN_nameDef] witnessed [PAWN_possessive] parents' murder. With no guidance, [PAWN_pronoun] had to fend for [PAWN_objective]self. Joining a small group of misfits, [PAWN_pronoun] did whatever was necessary to survive.</desc>
+		<title>スリ</title>
+		<titleShort>盗人</titleShort>
+		<desc>若い頃,[PAWN_nameDef]は[PAWN_possessive]両親が殺されるのを目撃しました.案内もなく,[PAWN_pronoun]は[PAWN_objective]自身を避難させなければなりませんでした.[PAWN_pronoun]は不適合者の小さな集団に参加して,生き残るために必要なことは何でもしました.</desc>
 	</Pickpocket61>
 	<CriminalSurgeon99>
 		<title>モグリの外科医</title>
@@ -2929,14 +2933,14 @@ After regaining [PAWN_possessive] health, [PAWN_nameDef] arrested the mayor. [PA
 職場環境に適合出来なかったので,彼は仕事だけに没頭していたため,昇進には縁がありませんでした.毎日,毎日,彼は会社を辞めたいと思っていました.</desc>
 	</CorpResearcher93>
 	<Colonist22>
-		<title>colonist</title>
-		<titleShort>colonist</titleShort>
-		<desc>As a child, [PAWN_pronoun] was launched into space as part of an interstellar colonization program.</desc>
+		<title>入植者</title>
+		<titleShort>入植者</titleShort>
+		<desc>[PAWN_pronoun]は,子供の頃に星間植民星開拓計画の一環として宇宙に打ち上げられました.</desc>
 	</Colonist22>
 	<SoleSurvivor85>
-		<title>sole survivor</title>
-		<titleShort>survivor</titleShort>
-		<desc>[PAWN_nameDef] lived in a remote colony. When mechanoid centipedes attacked [PAWN_possessive] home and killed [PAWN_possessive] people, [PAWN_pronoun] was the last survivor.</desc>
+		<title>孤独な生存者</title>
+		<titleShort>生存者</titleShort>
+		<desc>[PAWN_nameDef]は今よりも遠くに住んでいました.メカノイドの機械化ムカデたちが[PAWN_possessive]集落を攻撃して,[PAWN_possessive]家族たちを殺したとき,[PAWN_pronoun]が最後の生存者でした.</desc>
 	</SoleSurvivor85>
 	<MilitaryTrainee20>
 		<title>練習兵</title>
@@ -3102,11 +3106,11 @@ After regaining [PAWN_possessive] health, [PAWN_nameDef] arrested the mayor. [PA
 [PAWN_pronoun]はやがて,施設を台無しにしてしまい,盗んだカーゴシップで惑星を脱出しました.</desc>
 	</ToxicChild96>
 	<StalwartFarmer90>
-		<title>stalwart farmer</title>
-		<titleShort>farmer</titleShort>
-		<desc>With the farm under constant threat from brigands, [PAWN_nameDef] learned to defend [PAWN_objective]self with [PAWN_possessive] father's rifle. [PAWN_pronoun] also mastered how to construct walls to keep livestock in and predators out.
+		<title>頑固な農家</title>
+		<titleShort>農家</titleShort>
+		<desc>農場が盗賊たちからの絶え間ない脅威にさらされている中で,[PAWN_nameDef]は[PAWN_objective][PAWN_possessive]父親のライフルで守ることを学びました.[PAWN_pronoun]は,家畜を捕食動物から守るための壁の作り方も学びました.
 
-[PAWN_pronoun] once tried to paint a picture of [PAWN_possessive] home, but discovered that [PAWN_pronoun] could only draw scribbles and ducks.</desc>
+[PAWN_pronoun]はかつて[PAWN_possessive]家にあった絵を描いてみましたが,[PAWN_pronoun]は自分が落書きとアヒルしか描けないことを発見しました.</desc>
 	</StalwartFarmer90>
 	<BoyScout42>
 		<title>ボーイスカウト</title>
@@ -3186,11 +3190,11 @@ After regaining [PAWN_possessive] health, [PAWN_nameDef] arrested the mayor. [PA
 面白半分に,[PAWN_pronoun]は,彼らを集め,彼らを人殺しへと従わせました.[PAWN_pronoun]は,彼が持っている,リーダーシップを発する野望を,現実化するための,素質を持っている事を知っていました.</desc>
 	</FactionLeader74>
 	<Tinkerer11>
-		<title>tinkerer</title>
-		<titleShort>tinkerer</titleShort>
-		<desc>[PAWN_nameDef] spent [PAWN_possessive] spare time creating things from [PAWN_possessive] imagination out of scrap metal and discarded machinery.
+		<title>細工師</title>
+		<titleShort>細工師</titleShort>
+		<desc>[PAWN_nameDef]は,[PAWN_possessive]暇な時間を費やして,[PAWN_possessive]想像からスクラップや廃棄された機械を使って何かを作成しました.
 
-[PAWN_pronoun] created simple robots and small tools, for both for fun and for utility.</desc>
+[PAWN_pronoun]はシンプルなロボットと小さな道具を,娯楽と実用の両方のために作り出しました.</desc>
 	</Tinkerer11>
 	<ProstheticSurgeon0>
 		<title>義肢外科医</title>
@@ -3205,11 +3209,11 @@ After regaining [PAWN_possessive] health, [PAWN_nameDef] arrested the mayor. [PA
 [PAWN_pronoun]少年時代は,読書と,マンツーマンによる勉強に明け暮れました.[PAWN_pronoun]は,ブサイクで,内気,本質的な人間性への,本当の経験が足りませんでした.</desc>
 	</LabGrownChild22>
 	<CorpResearcher71>
-		<title>corp researcher</title>
-		<titleShort>researcher</titleShort>
-		<desc>[PAWN_nameDef] was sold to a corporation and put to work as a corporate slave doing scientific research.
+		<title>企業研究員</title>
+		<titleShort>研究員</titleShort>
+		<desc>[PAWN_nameDef]は企業に売却されて,企業奴隷として科学研究に従事することになりました.
 
-Unable to adapt to the social politics of [PAWN_possessive] workplace, [PAWN_pronoun] buried [PAWN_objective]self in [PAWN_possessive] work and failed to progress up the corporate ladder. Every day, [PAWN_pronoun] yearned to be left alone.</desc>
+[PAWN_possessive]職場で社会的立場関係に適応することができず,[PAWN_pronoun]は[PAWN_objective][PAWN_possessive]仕事に没頭して,企業内の階級で昇進できませんでした.毎日[PAWN_pronoun]は,放置されることを強く望んでいました.</desc>
 	</CorpResearcher71>
 	<Orphan11>
 		<title>孤児</title>
@@ -3252,11 +3256,11 @@ Unable to adapt to the social politics of [PAWN_possessive] workplace, [PAWN_pro
 [PAWN_possessive]戦闘経験は,[PAWN_pronoun]を良い戦士にしましたが,無慈悲な任務は,[PAWN_objective]冷血漢にし,人付き合いには関心を持たなくさせました.</desc>
 	</PirateTrooper73>
 	<FactoryDrone58>
-		<title>factory drone</title>
-		<titleShort>worker</titleShort>
-		<desc>[PAWN_nameDef] grew up in a large factory city on an industrial world.
+		<title>工場ドローン</title>
+		<titleShort>労働者</titleShort>
+		<desc>[PAWN_nameDef]は,産業世界の大きな工場都市で育ちました.
 
-Since poverty was rampant and food scarce, [PAWN_pronoun] worked for whatever wages [PAWN_pronoun] could get. This wasn't an easy life, but [PAWN_nameDef] never shied away from a hard day's work.</desc>
+貧困が蔓延し,食料が不足していたので,[PAWN_pronoun]は[PAWN_pronoun]が得られる賃金のために働きました.決して楽な生活ではありませんでしたが,[PAWN_nameDef]はつらい毎日の仕事に尻込みすることはありませんでした.</desc>
 	</FactoryDrone58>
 	<CombatMedic82>
 		<title>衛生兵</title>
@@ -3294,18 +3298,18 @@ Since poverty was rampant and food scarce, [PAWN_pronoun] worked for whatever wa
 自分の才能に気がついた後は,[PAWN_pronoun]は,組織の中で,もっとも腕の立つ暗殺者の一人になりました.</desc>
 	</StilettoAssassin34>
 	<SoleSurvivor63>
-		<title>sole survivor</title>
-		<titleShort>survivor</titleShort>
-		<desc>[PAWN_nameDef]'s entire tribe was wiped out by a mysterious disease.
+		<title>孤独な生存者</title>
+		<titleShort>生存者</titleShort>
+		<desc>[PAWN_nameDef]の部族は謎の病気で全滅しました.
 
-Found alone and adopted by another band, [PAWN_pronoun] never became close with the other tribe members. [PAWN_pronoun] preferred to stay away from [PAWN_possessive] new home, wandering the woods and tending the animals.</desc>
+一人で居るところを発見され,別の集団に拾われた[PAWN_pronoun]は,他の部族メンバーとは決して親しくなりませんでした.[PAWN_pronoun]は[PAWN_possessive]新しい故郷から離れて,森をさまよい動物の世話していました.</desc>
 	</SoleSurvivor63>
 	<Hunter73>
-		<title>hunter</title>
-		<titleShort>hunter</titleShort>
-		<desc>[PAWN_nameDef] was a master hunter.
+		<title>狩りの達人</title>
+		<titleShort>狩人</titleShort>
+		<desc>[PAWN_nameDef]は狩人の達人でした.
 
-[PAWN_pronoun] learned to track and trap any animal in the most dangerous of places, and had deep knowledge of many ingenious methods for taking down specific large animals.</desc>
+[PAWN_pronoun]は最も危険な場所であらゆる動物でも追跡して罠を仕掛けることを学び,特定の大型動物を倒すための巧妙な方法について深い豊富な知識を持っていました.</desc>
 	</Hunter73>
 	<MechanoidHacker93>
 		<title>メカノイドハッカー</title>
@@ -3355,11 +3359,11 @@ Found alone and adopted by another band, [PAWN_pronoun] never became close with 
 [PAWN_pronoun]は,親友の死を目のあたりにしたとき,彼の人間性としての思いやりも同時に失われました.こんな境遇の中,新しい知識欲が沸き上がってきました.</desc>
 	</PlagueProdigy12>
 	<MadScientist2>
-		<title>mad scientist</title>
-		<titleShort>scientist</titleShort>
-		<desc>[PAWN_nameDef]'s lust for knowledge was only matched by [PAWN_possessive] disdain for anyone who would stand in the way of [PAWN_possessive] research.
+		<title>狂気の科学者</title>
+		<titleShort>科学者</titleShort>
+		<desc>[PAWN_nameDef]の知識への渇望は,[PAWN_possessive]研究の邪魔になる自分と釣り合わない全ての人に対して[PAWN_possessive]軽蔑を向けました.
 
-Traveling from world to world, [PAWN_pronoun] sought answers to questions few dared to ask.</desc>
+[PAWN_pronoun]は世界中を旅しながら,あえて尋ねない質問への答えを探しました.</desc>
 	</MadScientist2>
 	<PoorKid18>
 		<title>貧しい児童</title>
@@ -3386,11 +3390,11 @@ Traveling from world to world, [PAWN_pronoun] sought answers to questions few da
 長い期間を友人もいないまま,独りで過ごしました.[PAWN_pronoun]心は繊細ですが,[PAWN_pronoun]は,実に良く自分の感情を押し殺す方法を身につけました.</desc>
 	</SpaceExplorer53>
 	<UrbworldUrchin87>
-		<title>urbworld urchin</title>
-		<titleShort>urchin</titleShort>
-		<desc>Meredith was born in the darkest slums of [PAWN_possessive] urban homeworld. Neglected by [PAWN_possessive] mother, [PAWN_pronoun] learned to survive on [PAWN_possessive] own, battling for every scrap of food [PAWN_pronoun] saw.
+		<title>街の悪ガキ</title>
+		<titleShort>悪ガキ</titleShort>
+		<desc>メレディスは,[PAWN_possessive]故郷街にある最も危険なスラムで生まれました.[PAWN_possessive]母親に無視されて,[PAWN_pronoun]は[PAWN_possessive]自身で生き残ることを学び,[PAWN_pronoun]は汚れた刃物で切った食べ物の切れ端と格闘していました.
 
-Eventually, as [PAWN_possessive] talents exceeded [PAWN_possessive] peers, [PAWN_pronoun] ascended from the depths to the surface streets and left [PAWN_possessive] mother behind.</desc>
+最終的に,[PAWN_possessive]才能が[PAWN_possessive]仲間を上回り,[PAWN_pronoun]は危険なスラムから地上の世界まで成り上がり,[PAWN_possessive]母親を置き去りにしました.</desc>
 	</UrbworldUrchin87>
 	<Smuggler23>
 		<title>密輸業者</title>
@@ -3414,11 +3418,11 @@ Eventually, as [PAWN_possessive] talents exceeded [PAWN_possessive] peers, [PAWN
 [PAWN_pronoun]は,武器の精通者として知られ,優れたパイロットでもありました.</desc>
 	</DestroyerGeneral26>
 	<StreetUrchin53>
-		<title>street urchin</title>
-		<titleShort>urchin</titleShort>
-		<desc>Born to a poor family on an urbworld, [PAWN_nameDef] was abandoned on the streets at a young age.
+		<title>街の悪ガキ</title>
+		<titleShort>悪ガキ</titleShort>
+		<desc>アーブワールドで貧しい家庭に生まれた[PAWN_nameDef]は,幼い頃に路上に棄てられました.
 
-[PAWN_pronoun] learned to steal and kill to survive the ruthless streets, gaining skills in melee and ranged combat. There was little time for talk in [PAWN_possessive] life.</desc>
+[PAWN_pronoun]は冷酷な街を生き残るために盗みや殺すことを学び,格闘と射撃スキルを獲得しました.[PAWN_possessive]人生に,人と話す時間はほとんどありませんでした.</desc>
 	</StreetUrchin53>
 	<SerialMurderer47>
 		<title>連続殺人者</title>
@@ -3435,11 +3439,11 @@ Eventually, as [PAWN_possessive] talents exceeded [PAWN_possessive] peers, [PAWN
 しかしながら,協調性が欠けている事が,たやすく,両親や教師と対立させました.</desc>
 	</KidScientist53>
 	<MadScientist31>
-		<title>mad scientist</title>
-		<titleShort>scientist</titleShort>
-		<desc>After finishing [PAWN_possessive] education, [PAWN_nameDef] was hired by the planet's leading genetic researcher. Later, [PAWN_pronoun] was caught running illegal, inhumane experiments.
+		<title>狂気の科学者</title>
+		<titleShort>科学者</titleShort>
+		<desc>[PAWN_possessive]教育が終った後,[PAWN_nameDef]は惑星で一番大きな遺伝子研究所に雇われました.その後,[PAWN_pronoun]は違法で非人道的な実験を行っていたのが発覚して逮捕されました.
 
-Despite [PAWN_possessive] family's influence, [PAWN_pronoun] was convicted and sentenced to hard labor on a penal colony.</desc>
+[PAWN_possessive]家族の働きかけもかかわらず,[PAWN_pronoun]は有罪判決を受けて,刑務所惑星での重労働を宣告されました.</desc>
 	</MadScientist31>
 	<HelpDeskWorker31>
 		<title>コールセンター</title>
@@ -3534,11 +3538,11 @@ Despite [PAWN_possessive] family's influence, [PAWN_pronoun] was convicted and s
 		<desc>クローン培養工場における生産品の収穫作業は,ほとんどをクローン人間自身によって成されていました - とりわけ,それらのシムたちは,社会性を持つ傾向がありました.このクローンも,そのような一体で,培養工場から脱走して,他の星を目指しました.</desc>
 	</CloneFarmer58>
 	<GangMember16>
-		<title>gang member</title>
-		<titleShort>gang kid</titleShort>
-		<desc>[PAWN_nameDef] grew up without parents. [PAWN_possessive] whole life was spent alone, fighting for survival on the streets.
+		<title>ギャングの一員</title>
+		<titleShort>悪ガキ</titleShort>
+		<desc>[PAWN_nameDef]は両親が居ないまま育ちました.[PAWN_possessive]生活を一人で過ごし,路上で生き残るために戦いました.
 
-No matter how hard it became to survive, [PAWN_pronoun] never gave up.</desc>
+生き残ることがどんなに困難になっても,[PAWN_pronoun]は決してあきらめませんでした.</desc>
 	</GangMember16>
 	<GangBoss49>
 		<title>ギャングのボス</title>
@@ -3569,11 +3573,11 @@ No matter how hard it became to survive, [PAWN_pronoun] never gave up.</desc>
 彼の人間の父親は,彼の母親を裏切り,殺すさまを目撃してからというもの,彼女は,自分の手によって何名の人間が死んでいくのか見たいと熱望していました.</desc>
 	</Killer41>
 	<Healer35>
-		<title>healer</title>
-		<titleShort>healer</titleShort>
-		<desc>[PAWN_nameDef] took the time to admire the beauty of the world. 
+		<title>ヒーラー</title>
+		<titleShort>回復師</titleShort>
+		<desc>[PAWN_nameDef]は世界がどれだけ美しいか賞賛するのに時間をかけました。
 
-[PAWN_possessive] passive-aggressiveness surfaced once in a while, but [PAWN_pronoun] tried to adapt to [PAWN_possessive] changing life.</desc>
+[PAWN_possessive]消極的な攻撃性がたまに表われましたが,[PAWN_pronoun]は人生を変えようと[PAWN_possessive]人生に適応しようとしました.</desc>
 	</Healer35>
 	<ProfessionalGamer76>
 		<title>プロゲーマー</title>
@@ -3754,11 +3758,11 @@ Mattは,彼の仲間から,ゲリラ戦術のトレーニングと,戦闘方法�
 危険な機械装置や,可燃性の化学薬品のそばで過ごし,[PAWN_pronoun]は,自分自身への応急手当の施し方を,かなり学びました.痛い目に遭っているにもかかわらず,[PAWN_pronoun]は,火を避けるようにはなりませんでした.</desc>
 	</MachineFixer31>
 	<StreetUrchin11>
-		<title>street urchin</title>
-		<titleShort>grifter</titleShort>
-		<desc>After running away from home, [PAWN_nameDef] had to live on the streets.
+		<title>街の悪ガキ</title>
+		<titleShort>ペテン師</titleShort>
+		<desc>家から逃げ出した後,[PAWN_nameDef]は路上で生活しなければなりませんでした.
 
-[PAWN_pronoun] grew up fast, and learned early that [PAWN_pronoun] had to figure out how to fool people into connecting with her.</desc>
+[PAWN_pronoun]は急速に成長して,[PAWN_pronoun]がいかにして人々をだまし,彼女を必要と思わせる方法を学びました.</desc>
 	</StreetUrchin11>
 	<SpaceMerchant97>
 		<title>宇宙商人</title>
@@ -3889,11 +3893,11 @@ Markusは,古参兵でした - [PAWN_pronoun]は,好戦的な亜人間襲撃者�
 [PAWN_pronoun]は,正面装備を集めるのに非常に取り憑かれており,しばしば,自分のオリジナル装備に変更を加えていました.</desc>
 	</BattleMechanic27>
 	<VideoGamer16>
-		<title>video gamer</title>
-		<titleShort>gamer</titleShort>
-		<desc>[PAWN_nameDef] grew up on a midworld, mostly locked in [PAWN_possessive] room, playing video games. [PAWN_pronoun] was warm-hearted, with a deep fondness for animals.
+		<title>ビデオゲーマー</title>
+		<titleShort>ゲーマー</titleShort>
+		<desc>[PAWN_nameDef]はミッドワールドで育ち,そのほとんどを[PAWN_possessive]部屋に閉じ籠って,ビデオゲームを遊んでいました.[PAWN_pronoun]は優しかったので動物たちを深く愛していました.
 
-As [PAWN_pronoun] grew up, [PAWN_pronoun] turned to drugs to enhance [PAWN_possessive] reality. During these trying times [PAWN_pronoun] found passion and refuge in the gym.</desc>
+[PAWN_pronoun]が成長するにつれて,[PAWN_pronoun]は[PAWN_possessive]現実的な力を強化するためにドラッグに興味を向けました.このような苦しい時期に[PAWN_pronoun]は,ジムにその情熱と避難先を見つけました.</desc>
 	</VideoGamer16>
 	<DischargedSoldier53>
 		<title>除籍兵士</title>
@@ -3922,11 +3926,11 @@ As [PAWN_pronoun] grew up, [PAWN_pronoun] turned to drugs to enhance [PAWN_posse
 [PAWN_possessive]人生で初めて,[PAWN_pronoun]は命令も作戦目的も持っていませんでした.[PAWN_pronoun]は,挫折から立ち上がり,不確実な自由に向かって突き進みました.</desc>
 	</SuperSoldier99>
 	<SuperSoldier95>
-		<title>super soldier</title>
-		<titleShort>soldier</titleShort>
-		<desc>Product of a super-soldier program run by a now-deposed government, [PAWN_nameDef] was lost. [PAWN_pronoun] survived the final suicide attack on the enemy mothership. What now?
+		<title>超人兵</title>
+		<titleShort>兵士</titleShort>
+		<desc>現在廃止された政府機関によって実行された超人兵士計画の成果である[PAWN_nameDef]は行方不明になりました.[PAWN_pronoun]は敵艦への最後の特攻自爆攻撃を生き延びました.その後は？
 
-For the first time in [PAWN_possessive] life, [PAWN_pronoun] had no orders, no objectives. [PAWN_pronoun] rose from wreckage and strove towards uncertainty, towards freedom.</desc>
+[PAWN_possessive]人生で初めて,[PAWN_pronoun]には与えられた命令も目標もありませんでした.[PAWN_pronoun]が残骸から立ち上がり,不確実な未来と自由に向かって立ち向かいました.</desc>
 	</SuperSoldier95>
 	<HeadjackAddict4>
 		<title>神経プラグ中毒</title>
@@ -4262,11 +4266,11 @@ For the first time in [PAWN_possessive] life, [PAWN_pronoun] had no orders, no o
 		<desc>[PAWN_nameDef]は,神を敬い,産まれた地を愛して,育ちました.[PAWN_pronoun]は,正真正銘の無骨な少年でした.[PAWN_pronoun]は,常に敬意を得ようと,頼まれた以上に熱心に働いていました.</desc>
 	</CountryChild95>
 	<SpaceMarine5>
-		<title>space marine</title>
-		<titleShort>marine</titleShort>
-		<desc>[PAWN_nameDef] joined Interplanetary Marines to travel the stars fight for [PAWN_possessive] planet. [PAWN_pronoun] distinguished [PAWN_objective]self in several battles.
+		<title>宇宙海兵隊員</title>
+		<titleShort>海兵隊員</titleShort>
+		<desc>[PAWN_nameDef]は惑星間海兵隊に志願して,[PAWN_possessive]惑星から星間戦争を旅しました.[PAWN_pronoun]はいくつかの戦いで[PAWN_objective]抜群な戦果をあげました.
 
-[PAWN_possessive] experiences desensitized [PAWN_objective] to people around [PAWN_objective], and [PAWN_possessive] social skills degraded. But, [PAWN_pronoun] did learn how to fight.</desc>
+[PAWN_possessive]体験は[PAWN_objective]周りの人々に対して[PAWN_objective]感情の反応鈍化させて,[PAWN_possessive]社交スキルは低下しました.しかし,[PAWN_pronoun]は戦う方法を学びとりました.</desc>
 	</SpaceMarine5>
 	<RebelWriter82>
 		<title>反抗的執筆家</title>
@@ -4344,16 +4348,16 @@ For the first time in [PAWN_possessive] life, [PAWN_pronoun] had no orders, no o
 この絶望的な境遇が,不遇に立ち向かわせ,[PAWN_pronoun]を生き残らせ,成功させました.</desc>
 	</DiscardedYouth93>
 	<Mercenary20>
-		<title>mercenary</title>
-		<titleShort>mercenary</titleShort>
-		<desc>After escaping [PAWN_possessive] home planet, [PAWN_nameDef] fell in with a band of mercenaries. [PAWN_pronoun] fought alongside [PAWN_possessive] brothers and sisters in arms for many years.
+		<title>傭兵</title>
+		<titleShort>傭兵</titleShort>
+		<desc>[PAWN_possessive]故郷の惑星を出た後,[PAWN_nameDef]は傭兵の一団と共に暮らしました.[PAWN_pronoun]は長年[PAWN_possessive]兄弟姉妹と腕を組んで戦いました.
 
-One day, they were caught in a fight they couldn't win. Refusing to retreat, [PAWN_nameDef] was shot down by [PAWN_possessive] enemies. [PAWN_pronoun] was alarmed to awake in a heap of corpses, mysteriously unharmed.</desc>
+ある日,彼らは勝てない戦いに巻き込まれました.退却を拒否した[PAWN_nameDef]は[PAWN_possessive]敵に撃たれて倒されました.[PAWN_pronoun]は,不思議なことに無傷のまま死体の山の中で目覚めて警戒しました.</desc>
 	</Mercenary20>
 	<DisasterSurvivor29>
-		<title>disaster survivor</title>
-		<titleShort>survivor</titleShort>
-		<desc>[PAWN_nameDef]'s planet collided with a small moon. Everything [PAWN_pronoun] knew as home was destroyed, and [PAWN_possessive] entire family died. [PAWN_pronoun] was left in the ruins to fend for [PAWN_objective]self.</desc>
+		<title>災害生存者</title>
+		<titleShort>生存者</titleShort>
+		<desc>[PAWN_nameDef]の惑星は小さな月と衝突しました.[PAWN_pronoun]は母星が破壊されたことを知っており,[PAWN_possessive]家族全員が亡くなりました.[PAWN_pronoun]は遺跡に残されたまま,[PAWN_objective]自身のために生き延びました.</desc>
 	</DisasterSurvivor29>
 	<ExplorerWriter10>
 		<title>探検小説家</title>
@@ -4835,11 +4839,11 @@ Midworldで組立工として働き,[PAWN_nameDef]は,廃棄部品から,冷凍�
 [PAWN_pronoun]は,プライドと自分の惑星への愛国心をもって役目を果たしています.</desc>
 	</SpaceNavyTech12>
 	<ChildSpy84>
-		<title>child spy</title>
-		<titleShort>spy</titleShort>
-		<desc>Children are often presumed innocent, and so make ideal spies. [PAWN_nameDef] was trained in the arts of infiltration and information-gathering when [PAWN_pronoun] was very young.
+		<title>子供スパイ</title>
+		<titleShort>スパイ</titleShort>
+		<desc>子どもたちはしばしば無害と思われるため,理想的なスパイになります.[PAWN_nameDef]は,[PAWN_pronoun]が非常に若かったときに潜入と情報収集の分野で訓練されました.
 
-[PAWN_possessive] spent years behind enemy lines, gathering intel in a brutal war. During this time, [PAWN_pronoun] had limited opportunity for education.</desc>
+[PAWN_possessive]は残忍な戦争で情報を集め,敵の支配地域の後方で何年も過ごしました.この間,[PAWN_pronoun]は教育を受ける機会が限られていました.</desc>
 	</ChildSpy84>
 	<Defector95>
 		<title>逃走者</title>
@@ -4915,18 +4919,18 @@ Midworldで組立工として働き,[PAWN_nameDef]は,廃棄部品から,冷凍�
 [PAWN_pronoun]はどれだけ危険で野蛮であっても挑戦を受け入れてきました.他の者はキリングマシーンと呼んでいました.</desc>
 	</Warlordess14>
 	<Computer80>
-		<title>computer</title>
-		<titleShort>computer</titleShort>
-		<desc>As a child, [PAWN_nameDef] crafted complex algorithms. [PAWN_pronoun] was used as a "human computer" for most of [PAWN_possessive] childhood. This left [PAWN_objective] socially awkward and rather scrawny.
+		<title>人間コンピューター</title>
+		<titleShort>天才児</titleShort>
+		<desc>子供の頃,[PAWN_nameDef]は複雑なアルゴリズムを完成させました.[PAWN_pronoun]は,[PAWN_possessive]幼年期の大半を「人間コンピューター」として利用されて過ごしました.その結果[PAWN_objective]は社会的に厄介で,かなり見すぼらしい姿になりました.
 
-        Despite the solitary confinement, [PAWN_nameDef] developed a great imagination to occupy [PAWN_possessive] idle time.</desc>
+孤独な監禁状態にもかかわらず,[PAWN_nameDef]は[PAWN_possessive]無駄な待機時間を活用するための素晴らしい想像力を発展させました.</desc>
 	</Computer80>
 	<ComputerEngineer36>
-		<title>computer engineer</title>
-		<titleShort>engineer</titleShort>
-		<desc>Leveraging [PAWN_possessive] childhood experience, [PAWN_nameDef] became a computer engineer. [PAWN_pronoun] also learned to craft delicate sculptures and random electronics for fun.
+		<title>コンピューター技術者</title>
+		<titleShort>技術者</titleShort>
+		<desc>[PAWN_possessive]の子供時代の経験を生かして,[PAWN_nameDef]はコンピューター技術者になりました.[PAWN_pronoun]は,繊細な彫刻や適当な電子技術作品を楽しみながら作ることも学びました.
 
-        [PAWN_nameDef] became fond of technology and mostly gave up on talking to people. Using computers as friends has left [PAWN_nameDef] unable to care for others.</desc>
+[PAWN_nameDef]は技術が大好きになり,ほとんどの場合で人と会話することをあきらめました.コンピューターを友人として利用しはじめると,[PAWN_nameDef]は他の人と世間話すらできなくなります.</desc>
 	</ComputerEngineer36>
 	<CommonerHeir5>
 		<title>平民出の後継者</title>
@@ -4943,33 +4947,43 @@ Midworldで組立工として働き,[PAWN_nameDef]は,廃棄部品から,冷凍�
 [PAWN_nameDef]の出自のせいで,それに同意しなかった他の君主達が [PAWN_objective]に重罪の濡れ衣を着せたので,皇帝は [PAWN_objective]追放せざるを得ませんでした.</desc>
 	</CommonerLord45>
 	<RebelliousStudent74>
-		<title>Rebellious student</title>
-		<titleShort>Student</titleShort>
-		<desc>[PAWN_nameDef] had a shot at an education, but [PAWN_pronoun] rebelled against the injustices [PAWN_pronoun] saw and was expelled from three schools. This left [PAWN_objective] with a sense of integrity, but a lack of social skills.
+		<title>反抗的な生徒</title>
+		<titleShort>学生</titleShort>
+		<desc>[PAWN_nameDef]は教育を受けましたが,[PAWN_pronoun]は[PAWN_pronoun]が見た不正に反抗して,3つの学校から追放された.これにより,[PAWN_objective]には合理的な感覚は残りましたが,社交スキルは不足したままでした.
 
-        [PAWN_nameDef] sought self-actualization. [PAWN_pronoun] spent [PAWN_possessive] days meditating and practicing katana and staff fighting techniques.</desc>
+[PAWN_nameDef]は自己実現を求めました.[PAWN_pronoun]は[PAWN_possessive]修行の日々を過ごし,カタナとスタッフによる戦闘技術と瞑想を行い,練習を続けました.</desc>
 	</RebelliousStudent74>
 	<TournamentFighter28>
-		<title>Tournament fighter</title>
-		<titleShort>Fighter</titleShort>
-		<desc>Motivated by the violence in [PAWN_possessive] environment, [PAWN_nameDef] studied martial arts, eventually signing up for an unarmed fighting tournament.
+		<title>トーナメント戦士</title>
+		<titleShort>戦士</titleShort>
+		<desc>[PAWN_possessive]環境で暴力中心の生活をさせられた[PAWN_nameDef]は武道を学び,最終的に素手による格闘トーナメントに参加しました.
 
-        Unlike [PAWN_possessive] opponents, [PAWN_nameDef] looked to the ancient warriors for guidance. [PAWN_pronoun] trained from dusk till dawn, perfecting [PAWN_possessive] skills.</desc>
+[PAWN_possessive]の敵たちとは違い,[PAWN_nameDef]は古株の戦士たちに指導を求めました.[PAWN_pronoun]は夕暮れから夜明けまで訓練され,[PAWN_possessive]持つ技能を完成させました.</desc>
 	</TournamentFighter28>
 	<SpaceyachtPilot89>
-		<title>Spaceyacht pilot</title>
-		<titleShort>Pilot</titleShort>
-		<desc>[PAWN_nameDef] ferried wealthy businessmen and politicians to and from his home world.
+		<title>宇宙ヨットの船員</title>
+		<titleShort>航法士</titleShort>
+		<desc>[PAWN_nameDef]は,裕福な実業家や政治家たちを故郷に送迎していました.
 
-        Witnessing the depths of hedonism these people descended to changed [PAWN_objective] in ways not even [PAWN_pronoun] understood.</desc>
+[PAWN_pronoun]でさえ完全には理解できなかった宇宙の景色は,これらの乗客たちの価値観が変化するような[PAWN_objective]旅の奥深さを目撃しました。</desc>
 	</SpaceyachtPilot89>
 	<HypnocultLeader61>
-		<title>Hypnocult leader</title>
-		<titleShort>Cultist</titleShort>
-		<desc>Desiring to understand people, [PAWN_nameDef] learned hypnotism and discovered [PAWN_possessive] talent for the art.
+		<title>催眠指導者</title>
+		<titleShort>宗教家</titleShort>
+		<desc>[PAWN_nameDef]は人々を理解することを望み,催眠術を学んで[PAWN_possessive]技術に才を見つけました.
 
-        [PAWN_pronoun] gathered followers and formed a cult around [PAWN_possessive] vibrant personality. The authorities discovered [PAWN_possessive] illegal operations, and [PAWN_nameDef] fled before [PAWN_pronoun] could be arrested.</desc>
+[PAWN_pronoun]は信者を集め,[PAWN_possessive]活気のあるキャラクターを中心に新興宗教を形成しました.当局は[PAWN_possessive]違法な心理操作を発見し,[PAWN_pronoun]を逮捕する前に[PAWN_nameDef]は逃走しました.</desc>
 	</HypnocultLeader61>
+	<ShunnedGirl30>
+		<title>嫌われ者の少女</title>
+		<titleShort>嫌われ者</titleShort>
+		<desc>フレイアは貧しい小さな家庭に生まれました.彼女は容赦なくいじめられ,殴られ,憎まれていました.彼女は成長するにつれて,銃に興味を持つようになった.普段は本で勉強していましたが,たまには本物を使った練習もしました.フレイアは後に自分に美術の才能を見つけて,絵の描き方を独学ではじめました.</desc>
+	</ShunnedGirl30>
+	<ArtStudent6>
+		<title>美術生</title>
+		<titleShort>芸術家</titleShort>
+		<desc>何年も学んだ後,フレイアは美術大学に入学し,彼女の持つ技術をさらに高めることができました.彼女は良い成績で卒業した後,美術業界に就職した.彼女は個人的な依頼を受けてなかなかの進歩を遂げて,何とかまともな生計を立てることができました.</desc>
+	</ArtStudent6>
 	<Punk30>
 		<title>パンク</title>
 		<titleShort>パンク</titleShort>
