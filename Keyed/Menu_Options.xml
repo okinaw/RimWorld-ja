@@ -37,6 +37,7 @@
   <TemperatureMode>気候モード</TemperatureMode>
   <ShowRealtimeClock>実時間を示す時計を表示する</ShowRealtimeClock>
   <MaxNumberOfPlayerSettlements>コロニーの最大数: {0}</MaxNumberOfPlayerSettlements>
+  <MapDragSensitivity>マウスのドラッグ感度(マップ上)</MapDragSensitivity>
   <PlantWindSway>風に木がなびく効果</PlantWindSway>
   <EnableTestMapSizes>テストマップサイズを有効にする</EnableTestMapSizes>
   <MaxPermadeathAutosaveIntervalInfo>パーマデスモードでの,オートセーブ間隔は  {0}日です.</MaxPermadeathAutosaveIntervalInfo>

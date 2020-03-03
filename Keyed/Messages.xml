@@ -59,6 +59,7 @@
   <MessageMustDesignateHuntable>狩猟対象にする 動物を 指定してください.</MessageMustDesignateHuntable>
   <MessageMustDesignateTameable>手なずける 動物を 指定してください.</MessageMustDesignateTameable>
   <MessageMustDesignateClaimable>放棄された 構造物を 指定してください.</MessageMustDesignateClaimable>
+  <MessageMustDesignateDeconstructibleMechCluster>分解する前に,メカクラスターを破壊する必要があります.</MessageMustDesignateDeconstructibleMechCluster>
   <MessageMustDesignateSmoothableSurface>粗い岩の表面を 指定してください.</MessageMustDesignateSmoothableSurface>
   <MessageNothingCanRemoveThickRoofs>分厚い天井は取り除けません.</MessageNothingCanRemoveThickRoofs>
   <MessageAlreadyInStorage>既に保管庫になっています,必要ならより優先度を高くすることができます.</MessageAlreadyInStorage>
@@ -95,7 +96,7 @@
   <MessagePsychicAmplifierNoSensitivity>{PAWN_pronoun}の精神的感受性が皆無なので,{PAWN_labelShort}はサイコ増幅器を使用できません.</MessagePsychicAmplifierNoSensitivity>
   <MessageLostImplantLevelFromHediff>{PAWN_labelShort}は,{2}が原因でインプラントレベルを{1}失った.</MessageLostImplantLevelFromHediff>
   <MessageReceivedBrainDamageFromHediff>{PAWN_labelShort}は,{2}が原因で脳に{1}ダメージを受けた.</MessageReceivedBrainDamageFromHediff>
-  <MessageWentOverPsychicEntropyLimit>{PAWN_labelShort}のサイコエントロピー量が,安全な上限値を超えています.</MessageWentOverPsychicEntropyLimit>
+  <MessageWentOverPsychicEntropyLimit>{PAWN_labelShort}の精神汚染量が,安全な上限値を超えています.</MessageWentOverPsychicEntropyLimit>
 
   <MessageNuzzledPawnGaveNameTo>懐いてきた{1}に {NAMER_nameFull}は {NAMEE_nameFull}と名前をつけました.</MessageNuzzledPawnGaveNameTo>
 
