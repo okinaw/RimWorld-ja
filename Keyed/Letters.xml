@@ -286,9 +286,9 @@
   <!-- Techprints -->
   <LetterTechprintAppliedLabel>適用される研究設計書：{PROJECT_label}</LetterTechprintAppliedLabel>
   <LetterTechprintAppliedPartIntro>研究設計書は次の研究計画に適用されている：{PROJECT_label}.</LetterTechprintAppliedPartIntro>
-  <LetterTechprintAppliedPartJustUnlocked>研究計画の研究設計書の前提を完了しました！ これで、研究者たちは研究設備で実際にテクノロジーを利用する方法の研究を開始できます。</LetterTechprintAppliedPartJustUnlocked>
-  <LetterTechprintAppliedPartNotUnlockedYet>この研究計画の研究設計書の前提はまだ満たされていません。{0}の研究設計書を応用するにはまだまだ遠いようです.研究計画には合計{1}が必要です.</LetterTechprintAppliedPartNotUnlockedYet>
-  <LetterTechprintAppliedPartAlreadyUnlocked>この研究計画の研究設計書の前提条件はすでに満たされています.追加された研究設計書によって、{PROJECT_label}の研究進展が進みました. 残っていた研究作業の半分に相当する,{0}ポイントが完了しました.</LetterTechprintAppliedPartAlreadyUnlocked>
+  <LetterTechprintAppliedPartJustUnlocked>研究計画で研究設計書の前提条件を完了しました！ これで、研究者たちは研究設備で実際にテクノロジーを利用する方法の研究を開始できます。</LetterTechprintAppliedPartJustUnlocked>
+  <LetterTechprintAppliedPartNotUnlockedYet>この研究計画で研究設計書の前提はまだ満たされていません。{0}の研究設計書を応用するにはまだまだ遠いようです.研究計画には合計{1}が必要です.</LetterTechprintAppliedPartNotUnlockedYet>
+  <LetterTechprintAppliedPartAlreadyUnlocked>この研究計画で研究設計書の前提条件はすでに満たされています.追加された研究設計書によって、{PROJECT_label}の研究進展が進みました. 残っていた研究作業の半分に相当する,{0}ポイントが完了しました.</LetterTechprintAppliedPartAlreadyUnlocked>
   <LetterTechprintAppliedPartAlreadyResearched>この研究計画は既に完全に研究されているために,研究設計書は知識をまったく向上させませんでした.</LetterTechprintAppliedPartAlreadyResearched>
   <LetterTechprintAppliedPartExpAwarded>研究設計書を適用することで,{PAWN_labelShort}は,{1}スキルで{0}分の経験値を得ました.</LetterTechprintAppliedPartExpAwarded>
 

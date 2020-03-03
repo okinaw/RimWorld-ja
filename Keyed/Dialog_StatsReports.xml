@@ -126,6 +126,9 @@
   <Stat_Hediff_PreventsInfection_Desc>これが感染症を予防するかどうか.</Stat_Hediff_PreventsInfection_Desc>
   <Stat_Thing_Terrain_Supports_Desc>この地形が支えられるもの.</Stat_Thing_Terrain_Supports_Desc>
   <Stat_Thing_TerrainRequirement_Desc>これは,このタイプの地形にだけ設置できます.</Stat_Thing_TerrainRequirement_Desc>
+  <Stat_Thing_Terrain_Fine_Name>検討済</Stat_Thing_Terrain_Fine_Name>
+  <Stat_Thing_Terrain_Fine_Value>美しい</Stat_Thing_Terrain_Fine_Value>
+  <Stat_Thing_Terrain_Fine_Desc>この床は美しいと見なされて,Royalty(DLC)に適合しています.</Stat_Thing_Terrain_Fine_Desc>
   <Stat_Thing_PowerConsumption_Desc>この建築物が電力網から消費する電気量.</Stat_Thing_PowerConsumption_Desc>
   <Stat_Thing_BodyPartEfficiency_Desc>この身体部分の総合的な効率.</Stat_Thing_BodyPartEfficiency_Desc>
   <Stat_Thing_Weapon_Biocoded_Name>生体認証</Stat_Thing_Weapon_Biocoded_Name>
