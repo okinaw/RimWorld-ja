@@ -110,6 +110,7 @@
 
   <Horse.label>ウマ</Horse.label>
   <Horse.description>短い毛と長いたてがみ,そして長い尾を持つ大型の有蹄哺乳動物です.馬は古くから家畜化されてきました.</Horse.description>
+  <Horse.race.meatLabel>馬肉</Horse.race.meatLabel>
   <Horse.tools.head.label>頭部</Horse.tools.head.label>
   <Horse.tools.left_hoof.label>左蹄</Horse.tools.left_hoof.label>
   <Horse.tools.right_hoof.label>右蹄</Horse.tools.right_hoof.label>
@@ -124,6 +125,7 @@
 
   <Yak.label>ヤク</Yak.label>
   <Yak.description>ヤクは頑丈な牛で,筋肉質な体と短く太い脚をもっています.蹄は丸くて割れていて,雪の中を歩くのに役立ちます.</Yak.description>
+  <Yak.race.meatLabel>牛肉(ヤク)</Yak.race.meatLabel>
   <Yak.tools.head.label>頭部</Yak.tools.head.label>
   <Yak.tools.left_hoof.label>左蹄</Yak.tools.left_hoof.label>
   <Yak.tools.right_hoof.label>右蹄</Yak.tools.right_hoof.label>
