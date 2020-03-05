@@ -16,7 +16,7 @@
   <Fabrication.label>組立製造</Fabrication.label>
   <Fabrication.description>コンポーネント組み立てから,パワーアーマー建造までの,ハイテクプロジェクトの遂行能力がある組立製造台を作成できるようになります.</Fabrication.description>
   <Fabrication.discoveredLetterTitle>概要：先進コンポーネントの入手</Fabrication.discoveredLetterTitle>
-  <Fabrication.discoveredLetterText>コンポーネント工作台を建築する技術を手に入れ\nましたが,建設を開始するには先進コンポーネン\nトがいくつか必要です.\n\nあなたは色々な方法で先進コンポーネントを集め\nることが可能です.\n\n・すべてのアウトランダーの拠点では,先進コン\n　ポーネントを販売しています。キャラバンを送\n　って購入してください。\n\n・訪問するトレーダーによっては、先進コンポー\n　ネントを販売しています。通信器で彼らを招待\n　するか来訪するのを待ちましょう。\n\n・クエストの中には,先進コンポーネントが報酬\n　になるものもあります.\n\n・特別な脅威の中には,撃破することで先進コン\n　ポーネントを落とします.</Fabrication.discoveredLetterText>
+  <Fabrication.discoveredLetterText>コンポーネント工作台を建築する技術を手に入れ\nましたが,建設を開始するには先進コンポーネン\nトがいくつか必要です.\n\nあなたは色々な方法で先進コンポーネントを集め\nることが可能です.\n\n・すべてのアウトランダーの拠点では,先進コン\n　ポーネントを販売しています.キャラバンを送\n　って購入してください.\n\n・訪問するトレーダーによっては、先進コンポー\n　ネントを販売しています.通信器で彼らを招待\n　するか来訪するのを待ちましょう.\n\n・クエストの中には,先進コンポーネントが報酬\n　になるものもあります.\n\n・特別な脅威の中には,撃破することで先進コン\n　ポーネントを落とします.</Fabrication.discoveredLetterText>
 
   <AdvancedFabrication.label>先進組立製造</AdvancedFabrication.label>
   <AdvancedFabrication.description>並コンポーネントや他の素材から,先進コンポーネントを加工できるようになります.</AdvancedFabrication.description>
