@@ -255,7 +255,7 @@
   <PriceTypeDesc>この価格は {0}です</PriceTypeDesc>
   <ColonyCount>コロニーが取引可能なこのアイテムの数です.\n\nトレードビーコン近くの,軌道上トレーダーにだけアイテムを売ることができます.</ColonyCount>
   <TraderCount>トレイダーが 持っているアイテム数</TraderCount>
-  <AcceptButton>受諾</AcceptButton>
+  <AcceptButton>許可</AcceptButton>
   <ResetButton>リセット</ResetButton>
   <CancelButton>中止</CancelButton>
   <CloseButton>閉じる</CloseButton>
