@@ -678,7 +678,7 @@
   <Reward_Goodwill>{0_name}との友好関係は{1}改善した</Reward_Goodwill>
 
   <!-- Bladelink -->
-  <BondedWith>登録者：{PAWN_labelShort}</BondedWith>
+  <BondedWith>登録者：{0}</BondedWith>
   <NotBonded>未登録</NotBonded>
   <BladelinkBondedToSomeoneElse>誰かが登録済</BladelinkBondedToSomeoneElse>
 
