@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Surgical cut: Makes it possible to remove inner organs without harming outer body parts -->
+
+  <SurgicalCut.label>手術死</SurgicalCut.label>
+  <SurgicalCut.deathMessage>{0}は手術中に息絶えた</SurgicalCut.deathMessage>
+
+
+  <!-- Execution cut: Makes it possible to distinguish execution damage from others -->
+
+  <ExecutionCut.label>処刑</ExecutionCut.label>
+  <ExecutionCut.deathMessage>{0}は処刑された</ExecutionCut.deathMessage>
+
+</LanguageData>
