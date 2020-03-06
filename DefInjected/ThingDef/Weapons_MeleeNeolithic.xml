@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <MeleeWeapon_Club.label>クラブ</MeleeWeapon_Club.label>
+  <MeleeWeapon_Club.description>最も古い人類が手にした武器.尖った枝が付いている棒で力一杯に敵を打ちのめす物です.</MeleeWeapon_Club.description>
+  <MeleeWeapon_Club.tools.handle.label>柄</MeleeWeapon_Club.tools.handle.label>
+  <MeleeWeapon_Club.tools.head.label>頭</MeleeWeapon_Club.tools.head.label>
+
+  <MeleeWeapon_Ikwa.label>イクワ</MeleeWeapon_Ikwa.label>
+  <MeleeWeapon_Ikwa.description>短い柄に長い刃の穂先が付けられた武器で,素早く突き刺すことで体内の急所を狙えるように作られています.</MeleeWeapon_Ikwa.description>
+  <MeleeWeapon_Ikwa.tools.handle.label>柄</MeleeWeapon_Ikwa.tools.handle.label>
+  <MeleeWeapon_Ikwa.tools.head.label>頭</MeleeWeapon_Ikwa.tools.head.label>
+  <MeleeWeapon_Ikwa.tools.edge.label>刃</MeleeWeapon_Ikwa.tools.edge.label>
+
+  <MeleeWeapon_Knife.label>ナイフ</MeleeWeapon_Knife.label>
+  <MeleeWeapon_Knife.description>人類が作った最も古い工具のひとつ,ナイフは工具としても,武器としても使えます.</MeleeWeapon_Knife.description>
+  <MeleeWeapon_Knife.tools.handle.label>柄</MeleeWeapon_Knife.tools.handle.label>
+  <MeleeWeapon_Knife.tools.blade.label>刃</MeleeWeapon_Knife.tools.blade.label>
+  <MeleeWeapon_Knife.tools.point.label>先</MeleeWeapon_Knife.tools.point.label>
+
+  <MeleeWeapon_Spear.label>スピア</MeleeWeapon_Spear.label>
+  <MeleeWeapon_Spear.description>近接戦闘用に,棒の先に尖った物をつけたものです.</MeleeWeapon_Spear.description>
+  <MeleeWeapon_Spear.tools.shaft.label>軸</MeleeWeapon_Spear.tools.shaft.label>
+  <MeleeWeapon_Spear.tools.point.label>先</MeleeWeapon_Spear.tools.point.label>
+
+</LanguageData>

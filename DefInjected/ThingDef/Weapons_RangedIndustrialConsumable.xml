@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Bullet_DoomsdayRocket.label>最終ロケット兵器弾頭</Bullet_DoomsdayRocket.label>
+
+  <Bullet_Rocket.label>ロケット弾</Bullet_Rocket.label>
+
+  <Gun_DoomsdayRocket.label>最終ロケット兵器</Gun_DoomsdayRocket.label>
+  <Gun_DoomsdayRocket.description>一回限りのロケット兵器です.</Gun_DoomsdayRocket.description>
+  <Gun_DoomsdayRocket.tools.barrel.label>銃身</Gun_DoomsdayRocket.tools.barrel.label>
+  <Gun_DoomsdayRocket.verbs.Verb_ShootOneUse.label>最終ロケット兵器</Gun_DoomsdayRocket.verbs.Verb_ShootOneUse.label>
+
+  <Gun_TripleRocket.label>三連装ロケットランチャー</Gun_TripleRocket.label>
+  <Gun_TripleRocket.description>一回限りの三連装ロケットランチャーです.</Gun_TripleRocket.description>
+  <Gun_TripleRocket.tools.barrel.label>銃身</Gun_TripleRocket.tools.barrel.label>
+  <Gun_TripleRocket.verbs.Verb_ShootOneUse.label>三連装ロケットランチャー</Gun_TripleRocket.verbs.Verb_ShootOneUse.label>
+
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Bullet_ChargeBlasterHeavy.label>ブラスター弾</Bullet_ChargeBlasterHeavy.label>
+
+  <Bullet_InfernoCannon.label>焼夷弾</Bullet_InfernoCannon.label>
+
+  <Bullet_NeedleGun.label>ニードル弾</Bullet_NeedleGun.label>
+
+  <Gun_ChargeBlasterHeavy.label>重ブラスター砲</Gun_ChargeBlasterHeavy.label>
+  <Gun_ChargeBlasterHeavy.description>メカノイド製の制圧用ブラスター兵器です.</Gun_ChargeBlasterHeavy.description>
+  <Gun_ChargeBlasterHeavy.tools.barrel.label>銃身</Gun_ChargeBlasterHeavy.tools.barrel.label>
+  <Gun_ChargeBlasterHeavy.verbs.Verb_Shoot.label>重ブラスター砲</Gun_ChargeBlasterHeavy.verbs.Verb_Shoot.label>
+
+  <Gun_InfernoCannon.label>焼夷弾投射器</Gun_InfernoCannon.label>
+  <Gun_InfernoCannon.description>メカノイド製の焼夷弾投射器です.</Gun_InfernoCannon.description>
+  <Gun_InfernoCannon.tools.barrel.label>銃身</Gun_InfernoCannon.tools.barrel.label>
+  <Gun_InfernoCannon.verbs.Verb_Shoot.label>焼夷弾投射器</Gun_InfernoCannon.verbs.Verb_Shoot.label>
+
+  <Gun_Needle.label>ニードル銃</Gun_Needle.label>
+  <Gun_Needle.description>メカノイドが使用する射撃武器です.その針のように細い発射体にちなんで名付けられ,非常に命中精度の高いニードル弾を単発で発射します.チャージ兵器よりもダメージは少ないが,射程がとても長く遠くまで届きます.</Gun_Needle.description>
+  <Gun_Needle.tools.barrel.label>銃身</Gun_Needle.tools.barrel.label>
+  <Gun_Needle.verbs.Verb_Shoot.label>ニードル銃</Gun_Needle.verbs.Verb_Shoot.label>
+
+</LanguageData>
