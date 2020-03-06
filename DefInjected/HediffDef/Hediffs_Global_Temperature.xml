@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <Heatstroke.label>熱中症</Heatstroke.label>
+  <Heatstroke.description>高熱や太陽光への過度の露出によって引き起こされる身体機能の一般的な熱暴走です.犠牲者はめまいや衰弱や混乱したりします.冷たい場所で過ごすことで回復しますが,高熱のままが続くと,熱中症は悪化し続けて最終的に死亡します.</Heatstroke.description>
+  <Heatstroke.stages.initial-0.label>初期</Heatstroke.stages.initial-0.label>
+  <Heatstroke.stages.initial-1.label>初期段階</Heatstroke.stages.initial-1.label>
+  <Heatstroke.stages.minor.label>わずかに</Heatstroke.stages.minor.label>
+  <Heatstroke.stages.serious.label>深刻な</Heatstroke.stages.serious.label>
+  <Heatstroke.stages.extreme.label>致命的</Heatstroke.stages.extreme.label>
+
+  <Hypothermia.label>低体温症</Hypothermia.label>
+  <Hypothermia.description>危険なほど体幹温度が低い状態です.身体を温めない限り,低体温症は悪化して最終的に死亡します.患者を温かい場所で温めれば,すぐに回復します.寒冷地では暖かい衣服を着用して低体温症を避けれます.</Hypothermia.description>
+  <Hypothermia.stages.shivering-0.label>初期</Hypothermia.stages.shivering-0.label>
+  <Hypothermia.stages.shivering-1.label>初期段階</Hypothermia.stages.shivering-1.label>
+  <Hypothermia.stages.minor.label>わずかに</Hypothermia.stages.minor.label>
+  <Hypothermia.stages.serious.label>深刻な</Hypothermia.stages.serious.label>
+  <Hypothermia.stages.extreme.label>致命的</Hypothermia.stages.extreme.label>
+
+  <HypothermicSlowdown.label>低体温による動作緩慢</HypothermicSlowdown.label>
+  <HypothermicSlowdown.description>極寒を生き抜くために一部の生物が使う特別な生命機能です.生物身体で起こる化学反応は,暖かくしようとする代わりに,非常に低体温にもかかわらず内部から凍結しないように適応します.身体機能は著しく低下して.能力も低下しますが,寒さは永久には続きません.一部の生物学者たちは,それを覚醒したまま冬眠している状態だとしています.</HypothermicSlowdown.description>
+  <HypothermicSlowdown.stages.minor-0.label>軽度</HypothermicSlowdown.stages.minor-0.label>
+  <HypothermicSlowdown.stages.minor-1.label>軽度</HypothermicSlowdown.stages.minor-1.label>
+  <HypothermicSlowdown.stages.moderate.label>中程度</HypothermicSlowdown.stages.moderate.label>
+  <HypothermicSlowdown.stages.serious.label>重大</HypothermicSlowdown.stages.serious.label>
+  <HypothermicSlowdown.stages.extreme.label>極度</HypothermicSlowdown.stages.extreme.label>
+
+</LanguageData>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <SandInEyes.label>砂</SandInEyes.label>
+  <SandInEyes.description>砂が目に入りました.これにより視力を喪失しますが,数分以内に直ります.</SandInEyes.description>
+  <SandInEyes.labelNoun>砂</SandInEyes.labelNoun>
+
+  <DirtInEyes.label>土</DirtInEyes.label>
+  <DirtInEyes.description>土が目に入りました.これにより視力を喪失しますが,数分以内に直ります.</DirtInEyes.description>
+  <DirtInEyes.labelNoun>土</DirtInEyes.labelNoun>
+
+  <MudInEyes.label>泥</MudInEyes.label>
+  <MudInEyes.description>泥が目に入りました.これにより視力を喪失しますが,数分以内に直ります.</MudInEyes.description>
+  <MudInEyes.labelNoun>泥</MudInEyes.labelNoun>
+
+  <GravelInEyes.label>砂利</GravelInEyes.label>
+  <GravelInEyes.description>砂利が目に入りました.これにより視力を喪失しますが,数分以内に直ります.</GravelInEyes.description>
+  <GravelInEyes.labelNoun>砂利</GravelInEyes.labelNoun>
+
+  <WaterInEyes.label>水</WaterInEyes.label>
+  <WaterInEyes.description>水が目に入りました.これにより視力を喪失しますが,数分以内に直ります.</WaterInEyes.description>
+  <WaterInEyes.labelNoun>水</WaterInEyes.labelNoun>
+
+</LanguageData>
