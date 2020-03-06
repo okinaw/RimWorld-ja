@@ -112,12 +112,12 @@
   <ModNotMadeForThisVersion_Newer>このMODは,最新のRimworld本体のバージョン用に作られているので,恐らく正常動作しないと思われます.</ModNotMadeForThisVersion_Newer>
   <MessageModNeedsWellFormattedTargetVersion>MODには,ターゲットとなるバージョン番号を正しく"About.xml"に書く必要があります.このように: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
   <MessageModNeedsWellFormattedPackageId>Mod needs a unique, properly formatted packageId in About.xml. It must must meet following requirements:\n\n  - Alphanumeric characters and dot only.\n  - No spaces.\n  - At least one dot.\n  - No repeated dots in a row, or starting or ending with a dot.\n  - 60 characters or less.\n  - Cannot contain word "Ludeon".\n\nFor example:\n&lt;packageId&gt;AuthorName.ModName&lt;/packageId&gt;\n&lt;packageId&gt;AuthorName.ModName.Specific&lt;/packageId&gt;</MessageModNeedsWellFormattedPackageId>
-  <ModHadLoadFolderIssues>This mod has issues in LoadFolders.xml, that you need to resolve before uploading:</ModHadLoadFolderIssues>
-  <ModLoadFolderDoesntExist>Folder {0} specified for version {1} doesn't exist.</ModLoadFolderDoesntExist>
-  <ModLoadFolderMalformedVersion>Malformed version string '{0}'. Correct format is Major.Minor (e.g. 1.1)</ModLoadFolderMalformedVersion>
-  <ModLoadFolderListEmpty>The list of load folders for version {0} is empty.</ModLoadFolderListEmpty>
-  <ModLoadFolderRepeatingFolder>Version {0} lists the same folder more than once: {1}.</ModLoadFolderRepeatingFolder>
-  <ModLoadFolderOutOfOrder>Invalid version order: {0} should come before {1}.</ModLoadFolderOutOfOrder>
+  <ModHadLoadFolderIssues>このModは,LoadFolders.xmlに問題があり,アップロード前に解決が必要.</ModHadLoadFolderIssues>
+  <ModLoadFolderDoesntExist>Version{1}に指定された{0}フォルダーが無い.</ModLoadFolderDoesntExist>
+  <ModLoadFolderMalformedVersion>不正なversion表記「{0}」.正確な書式は大更新.小更新（例：1.1）です</ModLoadFolderMalformedVersion>
+  <ModLoadFolderListEmpty>Version{0}のLoadFoldersリストが空です.</ModLoadFolderListEmpty>
+  <ModLoadFolderRepeatingFolder>Version{0}は同じフォルダーを複数回リストしている:{1}.</ModLoadFolderRepeatingFolder>
+  <ModLoadFolderOutOfOrder>無効なVersion順序:{0}は{1}の前に来る必要あり.</ModLoadFolderOutOfOrder>
   <ModLoadFolderOutOfOrderDefault>無効なバージョン順序：「デフォルト」を最初に定義する必要があります。</ModLoadFolderOutOfOrderDefault>
   <ModLoadFolderDefinesUnsupportedGameVersion>バージョン{0}はLoadFolders.xmlで定義されていますが,Modに含まれるAbout.xmlの「supportedVersions」には載っていません。</ModLoadFolderDefinesUnsupportedGameVersion>
   <DragToReorder>順序変更はドラッグする</DragToReorder>
