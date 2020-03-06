@@ -136,6 +136,7 @@
   <QuestOutcomeInfo_UnknownOrSuccess>このクエストを完了した.</QuestOutcomeInfo_UnknownOrSuccess>
   <QuestOutcomeInfo_Failed>このクエストに失敗した.</QuestOutcomeInfo_Failed>
   <JumpToTargetCustom>{0}へジャンプする</JumpToTargetCustom>
+  <SelectHiveTargets>巣を選択</SelectHiveTargets>
   <QuestChallengeRatingTip>挑戦難易度です.これはあなたの現在の強さと比較してクエストがどの程度難しいかを示す一般的な評価です.挑戦しがいのあるクエストは,より大きな報酬が望めます.\n\n星1つ：通常\n星2つ：難しい\n星3つ：過激\n星4つ：至難</QuestChallengeRatingTip>
   <QuestAcceptanceRequirementsDescription>このクエストを受けるには,次のものが必要</QuestAcceptanceRequirementsDescription>
   <QuestBedroomRequirementsUnsatisfied>タイトルの要件を満たす無料のベッドルーム</QuestBedroomRequirementsUnsatisfied>

@@ -37,6 +37,7 @@
   <DaysToRecover>{0} 日で回復</DaysToRecover>
   <Ineffective>効果なし</Ineffective>
   <Illegal>非合法</Illegal>
+  <DetectionChance>発見率</DetectionChance>
   <Race>種</Race>
   <Description>概要</Description>
   <Equipment>装備</Equipment>
@@ -224,6 +225,11 @@
   <PsychicEntropyPainFocus>{0}の苦痛に精神が集中</PsychicEntropyPainFocus>
   <ConditionCauserRadius>範囲 {0}</ConditionCauserRadius>
   <DurationLeft>残り時間 {0}</DurationLeft>
+
+  <!-- Scanning -->
+  <UserScanAbility>使用者の検出速度</UserScanAbility>
+  <ScanAverageInterval>平均検出間隔</ScanAverageInterval>
+  <ScanningProgressToGuaranteedFind>作業の状態を検出</ScanningProgressToGuaranteedFind>
 
   <!-- Fermentation barrel -->
   <ContainsWort>内容物 {0} / {1} 麦汁</ContainsWort>

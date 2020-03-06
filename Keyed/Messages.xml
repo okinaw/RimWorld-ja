@@ -347,8 +347,6 @@
   <MessagePawnLeaving>{0}は離脱している.</MessagePawnLeaving>
   <MessagePawnsLeaving>{0}は離脱している.</MessagePawnsLeaving>
 
-  <MessageThingInstalledPermanently>警告：{0_label}は,一度インストールすると移動できません.</MessageThingInstalledPermanently>
-
   <MessageMonumentDestroyedBecauseOfDisallowedBuilding>許可されていない建築物を内部に建設したために,記念碑は破壊されました.</MessageMonumentDestroyedBecauseOfDisallowedBuilding>
 
   <MessageNoResearchBenchForTechprint>適用不可：到達可能で誰にも使用されていない研究設備がありません.</MessageNoResearchBenchForTechprint>
