@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Rural -->
+
+  <BriefPonytail.label>ショートポニー</BriefPonytail.label>
+  <Princess.label>プリンセス</Princess.label>
+  <Scatman.label>スキャットマン</Scatman.label>
+
+
+  <!-- Urban -->
+
+  <Lackland.label>ラックランド</Lackland.label>
+  <Revolt.label>レボルト</Revolt.label>
+  <Pigtails.label>ピッグテール</Pigtails.label>
+  <Afro.label>アフロ</Afro.label>
+  <Bob.label>ボブ</Bob.label>
+  <Burgundy.label>バーガンディ</Burgundy.label>
+  <Troubadour.label>トルバドール</Troubadour.label>
+  <GreasySwoop.label>グリース</GreasySwoop.label>
+  <Cleopatra.label>クレオパトラ</Cleopatra.label>
+  <Cute.label>キュート</Cute.label>
+  <Decent.label>エレガント</Decent.label>
+  <FancyBun.label>ファンシーバン</FancyBun.label>
+
+
+  <!-- Urban/Rural -->
+
+  <Senorita.label>セニョリータ</Senorita.label>
+  <Flowy.label>フラウニー</Flowy.label>
+  <Long.label>ロング</Long.label>
+  <Mop.label>モップ</Mop.label>
+  <Wavy.label>ウェーブ</Wavy.label>
+  <Messy.label>メッシ</Messy.label>
+  <Curly.label>カール</Curly.label>
+  <Fringe.label>フリンジ</Fringe.label>
+  <Frozen.label>フローズン</Frozen.label>
+  <Ponytails.label>ポニーテール</Ponytails.label>
+  <Bowlcut.label>ボウカット</Bowlcut.label>
+  <Bravo.label>ブラボー</Bravo.label>
+  <Recruit.label>リクルート</Recruit.label>
+  <Rockstar.label>ロックスター</Rockstar.label>
+  <Snazzy.label>スナズィー</Snazzy.label>
+
+
+  <!-- Punk -->
+
+  <Firestarter.label>ファイヤースターター</Firestarter.label>
+  <Junkie.label>ジャンキー</Junkie.label>
+  <Scrapper.label>スクラパー</Scrapper.label>
+  <Randy.label>ランディ</Randy.label>
+  <Rookie.label>ロッキー</Rookie.label>
+  <Spikes.label>スパイク</Spikes.label>
+
+
+  <!-- Tribal -->
+
+  <ShaveTopBraid.label>編み込みトップ</ShaveTopBraid.label>
+  <BraidedKnot.label>編み込みノット</BraidedKnot.label>
+  <Keeper.label>キーパー</Keeper.label>
+  <Primal.label>プライマル</Primal.label>
+  <Warden.label>ワーデン</Warden.label>
+  <Elder.label>エルダー</Elder.label>
+  <Locks.label>ロック</Locks.label>
+  <Savage.label>サベージ</Savage.label>
+  <Sticky.label>スティッキー</Sticky.label>
+
+
+  <!-- Other mix -->
+
+  <Shaved.label>坊主</Shaved.label>
+  <Tuft.label>タフト</Tuft.label>
+  <ScorpionTail.label>スコーピオン</ScorpionTail.label>
+  <Topdog.label>トップドック</Topdog.label>
+  <Mohawk.label>モヒカン</Mohawk.label>
+
+</LanguageData>
