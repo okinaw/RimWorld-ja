@@ -134,13 +134,13 @@
   <QuestPartShuttleLeaveDelay>{0}を離陸しているシャトル</QuestPartShuttleLeaveDelay>
   <QuestPartShuttleLeaveDelayDesc>シャトルは{1}を出発します.クエスト{0}で,出発する前にシャトルに以下の人物かアイテムを積み込む必要があります.\n\n{2}</QuestPartShuttleLeaveDelayDesc>
 
-  <DisallowedBuildingInsideMonument>Monument will be destroyed</DisallowedBuildingInsideMonument>
-  <DisallowedBuildingInsideMonumentDesc>You've built a disallowed building inside one of your monuments. The monument will be considered destroyed in {0}.</DisallowedBuildingInsideMonumentDesc>
+  <DisallowedBuildingInsideMonument>モニュメントが破壊される</DisallowedBuildingInsideMonument>
+  <DisallowedBuildingInsideMonumentDesc>あなたは記念碑の中に許可されていない建築物を建設しました.記念碑は{0}に破壊されたとみなされます.</DisallowedBuildingInsideMonumentDesc>
 
-  <ActivatorCountdown>Countdown activator {0}</ActivatorCountdown>
-  <ActivatorCountdownDesc>There is a countdown activator ticking down,preparing to awaken nearby mechanoids.</ActivatorCountdownDesc>
-  <ActivatorCountdownMultiple>{0} countdown activators</ActivatorCountdownMultiple>
-  <ActivatorCountdownDescMultiple>There are {0} countdown activators ticking down,preparing to awaken nearby mechanoids.</ActivatorCountdownDescMultiple>
+  <ActivatorCountdown>活性化装置が起動 {0}</ActivatorCountdown>
+  <ActivatorCountdownDesc>周辺のメカノイドたち呼び覚ます休眠活性化装置が秒読みを開始しました.</ActivatorCountdownDesc>
+  <ActivatorCountdownMultiple>{0}個の活性化装置が起動</ActivatorCountdownMultiple>
+  <ActivatorCountdownDescMultiple>マップ内にある{0}個の休眠活性化装置が周辺のメカノイドたち呼び覚ます秒読みを開始しました.</ActivatorCountdownDescMultiple>
 
   <QuestExpiresSoon>クエストが期限切れ:\n(残り{0})</QuestExpiresSoon>
   <QuestExpiresSoonDesc>クエスト「{0}」が\nあと{1}後で期限を迎えます.</QuestExpiresSoonDesc>
