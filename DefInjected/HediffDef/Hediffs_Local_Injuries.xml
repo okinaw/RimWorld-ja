@@ -33,6 +33,7 @@
 
   <ChemicalBurn.label>化学的やけど</ChemicalBurn.label>
   <ChemicalBurn.description>化学薬品などが原因のやけどです.</ChemicalBurn.description>
+  <ChemicalBurn.comps.HediffComp_GetsPermanent.permanentLabel>化学的火傷痕</ChemicalBurn.comps.HediffComp_GetsPermanent.permanentLabel>
   <ChemicalBurn.comps.HediffComp_TendDuration.labelTendedWell>包帯</ChemicalBurn.comps.HediffComp_TendDuration.labelTendedWell>
   <ChemicalBurn.comps.HediffComp_TendDuration.labelTendedWellInner>縫合</ChemicalBurn.comps.HediffComp_TendDuration.labelTendedWellInner>
   <ChemicalBurn.comps.HediffComp_TendDuration.labelSolidTendedWell>セット</ChemicalBurn.comps.HediffComp_TendDuration.labelSolidTendedWell>
