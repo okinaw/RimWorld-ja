@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <MarriageCeremony.label>結婚式</MarriageCeremony.label>
+
+  <Party.label>パーティー</Party.label>
+  <Party.calledOffMessage>パーティーは中止になりました.</Party.calledOffMessage>
+  <Party.finishedMessage>パーティーは終わりました.</Party.finishedMessage>
+  <Party.letterText>{ORGANIZER_labelShort}はパーティーを開いています！参加する全員が娯楽の欲求を回復し,社交的にも活発になり,持続する良い気分で心情を押し上げます.</Party.letterText>
+
+</LanguageData>
