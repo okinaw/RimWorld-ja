@@ -306,8 +306,8 @@
   <CommandSendShuttleFailMissingRequiredThing>必要なアイテムか人物の一部が足りません.</CommandSendShuttleFailMissingRequiredThing>
 
   <!-- Place blueprints -->
-  <CommandPlaceBlueprints>青写真を配置</CommandPlaceBlueprints>
-  <CommandPlaceBlueprintsDesc>可能な場合,必要なすべての青写真を配置します.</CommandPlaceBlueprintsDesc>
+  <CommandPlaceBlueprints>研究設計書を配置</CommandPlaceBlueprints>
+  <CommandPlaceBlueprintsDesc>可能な場合,必要なすべての研究設計書を配置します.</CommandPlaceBlueprintsDesc>
 
   <!-- Cancel monument marker -->
   <CommandCancelMonumentMarker>中止</CommandCancelMonumentMarker>
