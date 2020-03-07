@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <GoJuiceHigh.stages.high_on_gojuice.label>ゴージュースでハイになっている</GoJuiceHigh.stages.high_on_gojuice.label>
+  <GoJuiceHigh.stages.high_on_gojuice.description>気が昂ぶってはいるが意識はしっかりしている.私は今にもお前を撃ち抜かんと飛翔する弾丸なのだ.</GoJuiceHigh.stages.high_on_gojuice.description>
+
+  <GoJuiceWithdrawal.stages.gojuice_withdrawal.label>ゴージュース禁断症状</GoJuiceWithdrawal.stages.gojuice_withdrawal.label>
+  <GoJuiceWithdrawal.stages.gojuice_withdrawal.description>全てがぼんやりしていて考えをまとめられない.手足が重くて体もだるい.空腹だし全身に痛みがある.おまけに,目の焦点がきちんと合わないのは何故なんだ？</GoJuiceWithdrawal.stages.gojuice_withdrawal.description>
+
+</LanguageData>
