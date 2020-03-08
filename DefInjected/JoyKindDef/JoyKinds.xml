@@ -1,19 +1,36 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-    <Meditative.label>静かなひととき</Meditative.label>
+  <!-- Requiring nothing -->
 
-    <Social.label>人付き合い</Social.label>
+  <Meditative.label>solitary relaxation</Meditative.label>
+  <Social.label>social interaction</Social.label>
 
-    <Gaming_Dexterity.label>ゲーム(器用さ)</Gaming_Dexterity.label>
-    <Gaming_Cerebral.label>ゲーム(頭脳)</Gaming_Cerebral.label>
 
-    <Television.label>テレビ鑑賞</Television.label>
+  <!-- horseshoes/hoopstone, billiards -->
 
-    <Telescope.label>天体観測</Telescope.label>
+  <Gaming_Dexterity.label>dexterity play</Gaming_Dexterity.label>
 
-    <Chemical.label>薬物消費</Chemical.label>
 
-    <Gluttonous.label>どか食い</Gluttonous.label>
+  <!-- chess/game-of-ur, poker -->
+
+  <Gaming_Cerebral.label>cerebral play</Gaming_Cerebral.label>
+
+
+  <!-- tube TV, flatscreen TV, megascreen TV -->
+
+  <Television.label>television watching</Television.label>
+
+
+  <!-- telescope, TODO, TODO -->
+
+  <Telescope.label>telescope study</Telescope.label>
+
+
+  <!-- Item consumption -->
+
+  <Chemical.label>chemical consumption</Chemical.label>
+  <Gluttonous.label>food consumption</Gluttonous.label>
+
 
 </LanguageData>
