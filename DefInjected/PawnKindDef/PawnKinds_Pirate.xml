@@ -1,11 +1,25 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-    <Drifter.label>ならず者</Drifter.label>
+  <!-- Povery tier - drifter -->
 
-	<Scavenger.label>略奪者</Scavenger.label>
+  <Drifter.label>drifter</Drifter.label>
+  <Drifter.labelPlural>drifters</Drifter.labelPlural>
 
-	<Thrasher.label>殺し屋</Thrasher.label>
 
-	<Pirate.label>宙賊</Pirate.label>
+  <!-- Low tier - scavenger, thrasher -->
+
+  <Scavenger.label>scavenger gunner</Scavenger.label>
+  <Scavenger.labelPlural>scavenger gunners</Scavenger.labelPlural>
+
+  <Thrasher.label>scavenger thrasher</Thrasher.label>
+  <Thrasher.labelPlural>scavenger thrashers</Thrasher.labelPlural>
+
+
+  <!-- Mid tier - pirate -->
+
+  <Pirate.label>pirate gunner</Pirate.label>
+  <Pirate.labelPlural>pirate gunners</Pirate.labelPlural>
+
+
 </LanguageData>
