@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Slaughter.headerTip>屠殺</Slaughter.headerTip>
+  <FollowDrafted.headerTip>主人が徴兵されてる間も追従します</FollowDrafted.headerTip>
+  <FollowFieldwork.headerTip>主人が屋外で活動している間も追従する(狩猟,手懐け)</FollowFieldwork.headerTip>
+  <Hunt.headerTip>ハンターが狩る予定の獲物に印を付けます.</Hunt.headerTip>
+  <Tame.headerTip>野生動物を手懐けます.</Tame.headerTip>
+
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Trainable_Obedience.headerTip>防御</Trainable_Obedience.headerTip>
+  <Trainable_Release.headerTip>攻撃</Trainable_Release.headerTip>
+  <Trainable_Rescue.headerTip>救助</Trainable_Rescue.headerTip>
+  <Trainable_Haul.headerTip>運搬</Trainable_Haul.headerTip>
+  <Trainable_Tameness.headerTip>家畜</Trainable_Tameness.headerTip>
+
+</LanguageData>

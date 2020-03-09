@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Age.label>年齢</Age.label>
+  <Master.label>主人</Master.label>
+  <MedicalCare.headerTip>治療</MedicalCare.headerTip>
+  <AllowedArea.label>制限ゾーン</AllowedArea.label>
+  <AllowedAreaWide.label>制限ゾーン</AllowedAreaWide.label>
+  <HostilityResponse.headerTip>敵愾心</HostilityResponse.headerTip>
+  <Outfit.label>服装</Outfit.label>
+  <DrugPolicy.label>薬物適用方針</DrugPolicy.label>
+  <FoodRestriction.label>食事制限</FoodRestriction.label>
+
+</LanguageData>
