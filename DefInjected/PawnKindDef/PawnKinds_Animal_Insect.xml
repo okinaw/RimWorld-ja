@@ -1,10 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-    <Megascarab.label>メガスカラベ</Megascarab.label>
+  <Megascarab.label>メガスカラベ</Megascarab.label>
+  <Megascarab.lifeStages.0.label>子メガスカラベ</Megascarab.lifeStages.0.label>
 
-	<Spelopede.label>スペロピード</Spelopede.label>
+  <Spelopede.label>スペロピード</Spelopede.label>
+  <Spelopede.lifeStages.0.label>子スペロピード</Spelopede.lifeStages.0.label>
 
-	<Megaspider.label>メガスパイダー</Megaspider.label>
+  <Megaspider.label>メガスパイダー</Megaspider.label>
+  <Megaspider.lifeStages.0.label>子メガスパイダー</Megaspider.lifeStages.0.label>
 
 </LanguageData>

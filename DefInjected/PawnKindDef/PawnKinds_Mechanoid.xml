@@ -4,21 +4,24 @@
   <!-- Centipede -->
 
   <Mech_Centipede.label>機械化ムカデ</Mech_Centipede.label>
+  <Mech_Centipede.labelPlural>機械化ムカデたち</Mech_Centipede.labelPlural>
 
 
   <!-- Lancer - fast mid-range shooter -->
 
   <Mech_Lancer.label>機械化ランス</Mech_Lancer.label>
+  <Mech_Lancer.labelPlural>機械化ランスたち</Mech_Lancer.labelPlural>
 
 
   <!-- Scyther - fast melee -->
 
   <Mech_Scyther.label>機械化カマキリ</Mech_Scyther.label>
+  <Mech_Scyther.labelPlural>機械化カマキリたち</Mech_Scyther.labelPlural>
 
 
   <!-- Pikeman - slow sniper weak at close range -->
 
   <Mech_Pikeman.label>機械化パイク</Mech_Pikeman.label>
-  <Mech_Pikeman.labelPlural>機械化パイク</Mech_Pikeman.labelPlural>
+  <Mech_Pikeman.labelPlural>機械化パイクたち</Mech_Pikeman.labelPlural>
 
 </LanguageData>

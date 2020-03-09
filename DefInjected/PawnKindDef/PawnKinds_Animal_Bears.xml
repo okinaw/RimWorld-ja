@@ -1,8 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-    <Bear_Grizzly.label>グリズリー</Bear_Grizzly.label>
+  <Bear_Grizzly.label>グリズリー</Bear_Grizzly.label>
+  <Bear_Grizzly.labelPlural>グリズリーたち</Bear_Grizzly.labelPlural>
+  <Bear_Grizzly.lifeStages.0.label>グリズリーの子熊</Bear_Grizzly.lifeStages.0.label>
+  <Bear_Grizzly.lifeStages.0.labelPlural>グリズリーの子熊たち</Bear_Grizzly.lifeStages.0.labelPlural>
 
-    <Bear_Polar.label>ホッキョクグマ</Bear_Polar.label>
+  <Bear_Polar.label>ホッキョクグマ</Bear_Polar.label>
+  <Bear_Polar.labelPlural>ホッキョクグマたち</Bear_Polar.labelPlural>
+  <Bear_Polar.lifeStages.0.label>ホッキョクグマの子熊</Bear_Polar.lifeStages.0.label>
+  <Bear_Polar.lifeStages.0.labelPlural>ホッキョクグマの子熊たち</Bear_Polar.lifeStages.0.labelPlural>
 
 </LanguageData>

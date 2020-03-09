@@ -1,11 +1,23 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-    <Cassowary.label>ヒクイドリ</Cassowary.label>
-    <Cassowary.labelPlural>ヒクイドリ</Cassowary.labelPlural>
-    <Emu.label>エミュー</Emu.label>
-    <Ostrich.label>ダチョウ</Ostrich.label>
-    <Ostrich.labelPlural>ダチョウ</Ostrich.labelPlural>
-    <Turkey.label>シチメンチョウ</Turkey.label>
+  <Cassowary.label>ヒクイドリ</Cassowary.label>
+  <Cassowary.labelPlural>ヒクイドリ</Cassowary.labelPlural>
+  <Cassowary.lifeStages.0.label>ヒクイドリのヒナ</Cassowary.lifeStages.0.label>
+  <Cassowary.lifeStages.1.label>ヒクイドリの若鳥</Cassowary.lifeStages.1.label>
+
+  <Emu.label>エミュー</Emu.label>
+  <Emu.lifeStages.0.label>エミューのヒナ</Emu.lifeStages.0.label>
+  <Emu.lifeStages.1.label>エミューの若鳥</Emu.lifeStages.1.label>
+
+  <Ostrich.label>ダチョウ</Ostrich.label>
+  <Ostrich.labelPlural>ダチョウ</Ostrich.labelPlural>
+  <Ostrich.lifeStages.0.label>ダチョウのヒナ</Ostrich.lifeStages.0.label>
+  <Ostrich.lifeStages.1.label>ダチョウの若鳥</Ostrich.lifeStages.1.label>
+
+  <Turkey.label>シチメンチョウ</Turkey.label>
+  <Turkey.labelPlural>シチメンチョウ</Turkey.labelPlural>
+  <Turkey.lifeStages.0.label>シチメンチョウのヒナ</Turkey.lifeStages.0.label>
+  <Turkey.lifeStages.1.label>シチメンチョウの若鳥</Turkey.lifeStages.1.label>
 
 </LanguageData>

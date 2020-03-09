@@ -29,12 +29,14 @@
   <!-- Alpaca -->
 
   <Alpaca.label>アルパカ</Alpaca.label>
+  <Alpaca.lifeStages.0.label>子アルパカ</Alpaca.lifeStages.0.label>
 
 
   <!-- Duck -->
 
   <Duck.label>アヒル</Duck.label>
-  <Duck.lifeStages.duckling.label>duckling</Duck.lifeStages.duckling.label>
+  <Duck.lifeStages.duckling.label>アヒルのヒナ</Duck.lifeStages.duckling.label>
+  <Duck.lifeStages.1.label>アヒルの若鳥</Duck.lifeStages.1.label>
 
 
   <!-- Bison -->
@@ -56,6 +58,8 @@
 
   <Goose.label>ガチョウ</Goose.label>
   <Goose.labelPlural>ガチョウ</Goose.labelPlural>
+  <Goose.lifeStages.0.label>ガチョウのヒナ</Goose.lifeStages.0.label>
+  <Goose.lifeStages.1.label>ガチョウの若鳥</Goose.lifeStages.1.label>
 
 
   <!-- Sheep -->
@@ -73,8 +77,6 @@
   <Horse.label>ウマ</Horse.label>
   <Horse.lifeStages.foal.label>子ウマ</Horse.lifeStages.foal.label>
   <Horse.lifeStages.foal.labelPlural>子ウマ</Horse.lifeStages.foal.labelPlural>
-  <Horse.lifeStages.stallion.labelMale>牡ウマ</Horse.lifeStages.stallion.labelMale>
-  <Horse.lifeStages.mare.labelFemale>牝ウマ</Horse.lifeStages.mare.labelFemale>
   <Horse.labelMale>牡ウマ</Horse.labelMale>
   <Horse.labelMalePlural>牡ウマ</Horse.labelMalePlural>
   <Horse.labelFemale>牝ウマ</Horse.labelFemale>
@@ -92,6 +94,7 @@
   <!-- Guinea Pig -->
 
   <GuineaPig.label>モルモット</GuineaPig.label>
+  <GuineaPig.lifeStages.0.label>子モルモット</GuineaPig.lifeStages.0.label>
 
 
   <!-- Donkey -->

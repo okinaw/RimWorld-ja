@@ -1,8 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-    <Hare.label>ノウサギ</Hare.label>
+  <Hare.label>ノウサギ</Hare.label>
+  <Hare.lifeStages.0.label>子ノウサギ</Hare.lifeStages.0.label>
 
-    <Snowhare.label>ユキウサギ</Snowhare.label>
+  <Snowhare.label>ユキウサギ</Snowhare.label>
+  <Snowhare.lifeStages.0.label>子ユキウサギ</Snowhare.lifeStages.0.label>
 
 </LanguageData>

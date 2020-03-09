@@ -1,22 +1,18 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Slave.label>slave</Slave.label>
-  <Slave.labelPlural>slaves</Slave.labelPlural>
+  <Slave.label>奴隷</Slave.label>
+  <Slave.labelPlural>奴隷達</Slave.labelPlural>
 
-  <WildMan.label>wild man</WildMan.label>
-  <WildMan.labelPlural>wild men</WildMan.labelPlural>
-  <WildMan.labelMale>male wild man</WildMan.labelMale>
-  <WildMan.labelMalePlural>male wild men</WildMan.labelMalePlural>
-  <WildMan.labelFemale>wild woman</WildMan.labelFemale>
-  <WildMan.labelFemalePlural>wild women</WildMan.labelFemalePlural>
+  <WildMan.label>野蛮人</WildMan.label>
+  <WildMan.labelPlural>野蛮人の男</WildMan.labelPlural>
+  <WildMan.labelMalePlural>野蛮人の男達</WildMan.labelMalePlural>
+  <WildMan.labelFemale>野蛮人の女</WildMan.labelFemale>
+  <WildMan.labelFemalePlural>野蛮人の女達</WildMan.labelFemalePlural>
 
-  <StrangerInBlack.label>stranger in black</StrangerInBlack.label>
-  <StrangerInBlack.labelPlural>strangers in black</StrangerInBlack.labelPlural>
-  <StrangerInBlack.labelMale>man in black</StrangerInBlack.labelMale>
-  <StrangerInBlack.labelMalePlural>male strangers in black</StrangerInBlack.labelMalePlural>
-  <StrangerInBlack.labelFemale>woman in black</StrangerInBlack.labelFemale>
-  <StrangerInBlack.labelFemalePlural>female strangers in black</StrangerInBlack.labelFemalePlural>
-
+  <StrangerInBlack.label>黒衣の不審者</StrangerInBlack.label>
+  <StrangerInBlack.labelPlural>黒衣の不審者達</StrangerInBlack.labelPlural>
+  <StrangerInBlack.labelFemale>黒衣の女</StrangerInBlack.labelFemale>
+  <StrangerInBlack.labelMale>黒衣の男</StrangerInBlack.labelMale>
 
 </LanguageData>

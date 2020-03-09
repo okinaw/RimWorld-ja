@@ -1,12 +1,26 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<Squirrel.label>リス</Squirrel.label>
-	<Alphabeaver.label>アルファビーバー</Alphabeaver.label>
-    <Capybara.label>カピバラ</Capybara.label>
-    <Chinchilla.label>チンチラ</Chinchilla.label>
-	<Boomrat.label>ボムネズミ</Boomrat.label>
-	<Raccoon.label>アライグマ</Raccoon.label>
-	<Rat.label>ネズミ</Rat.label>
+  <Squirrel.label>リス</Squirrel.label>
+  <Squirrel.lifeStages.0.label>子リス</Squirrel.lifeStages.0.label>
+
+  <Alphabeaver.label>アルファビーバー</Alphabeaver.label>
+  <Alphabeaver.lifeStages.0.label>子アルファビーバー</Alphabeaver.lifeStages.0.label>
+
+  <Capybara.label>カピバラ</Capybara.label>
+  <Capybara.lifeStages.0.label>子カピバラ</Capybara.lifeStages.0.label>
+
+  <Chinchilla.label>チンチラ</Chinchilla.label>
+  <Chinchilla.lifeStages.0.label>子チンチラ</Chinchilla.lifeStages.0.label>
+
+  <Boomrat.label>ボムネズミ</Boomrat.label>
+  <Boomrat.lifeStages.0.label>子ボムネズミ</Boomrat.lifeStages.0.label>
+
+  <Raccoon.label>アライグマ</Raccoon.label>
+  <Raccoon.lifeStages.0.label>子アライグマ</Raccoon.lifeStages.0.label>
+
+  <Rat.label>ネズミ</Rat.label>
+  <Rat.lifeStages.0.label>子ネズミ</Rat.lifeStages.0.label>
+  <Rat.lifeStages.1.label>若ネズミ</Rat.lifeStages.1.label>
 
 </LanguageData>

@@ -1,28 +1,38 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-    <Deer.label>シカ</Deer.label>
-    <Deer.labelPlural>シカ</Deer.labelPlural>
-    <Deer.labelMale>オスジカ</Deer.labelMale>
-    <Deer.labelFemale>メスジカ</Deer.labelFemale>
+  <Deer.label>シカ</Deer.label>
+  <Deer.labelPlural>シカ</Deer.labelPlural>
+  <Deer.lifeStages.0.label>子シカ</Deer.lifeStages.0.label>
+  <Deer.lifeStages.0.labelMale>子オジカ</Deer.lifeStages.0.labelMale>
+  <Deer.lifeStages.0.labelFemale>子メジカ</Deer.lifeStages.0.labelFemale>
+  <Deer.lifeStages.1.labelMale>若オジカ</Deer.lifeStages.1.labelMale>
+  <Deer.lifeStages.1.labelFemale>若メジカ</Deer.lifeStages.1.labelFemale>
+  <Deer.labelMale>オスジカ</Deer.labelMale>
+  <Deer.labelFemale>メスジカ</Deer.labelFemale>
 
-    <Ibex.label>アイベックス</Ibex.label>
-    <Ibex.labelPlural>アイベックス</Ibex.labelPlural>
-    <Ibex.labelMale>オスアイベックス</Ibex.labelMale>
-    <Ibex.labelFemale>メスアイベックス</Ibex.labelFemale>
+  <Ibex.label>アイベックス</Ibex.label>
+  <Ibex.labelPlural>アイベックス</Ibex.labelPlural>
+  <Ibex.lifeStages.0.label>子アイベックス</Ibex.lifeStages.0.label>
+  <Ibex.lifeStages.1.labelMale>オス若アイベックス</Ibex.lifeStages.1.labelMale>
+  <Ibex.lifeStages.1.labelFemale>メス若アイベックス</Ibex.lifeStages.1.labelFemale>
+  <Ibex.labelMale>オスアイベックス</Ibex.labelMale>
+  <Ibex.labelFemale>メスアイベックス</Ibex.labelFemale>
 
-    <Elk.label>ヘラジカ</Elk.label>
-    <Elk.labelPlural>ヘラジカ</Elk.labelPlural>
-    <Elk.lifeStages.elk_calf.label>子ヘラジカ</Elk.lifeStages.elk_calf.label>
-    <Elk.lifeStages.elk_calf.labelPlural>子ヘラジカ</Elk.lifeStages.elk_calf.labelPlural>
+  <Elk.label>ヘラジカ</Elk.label>
+  <Elk.labelPlural>ヘラジカ</Elk.labelPlural>
+  <Elk.lifeStages.elk_calf.label>子ヘラジカ</Elk.lifeStages.elk_calf.label>
+  <Elk.lifeStages.elk_calf.labelPlural>子ヘラジカ</Elk.lifeStages.elk_calf.labelPlural>
 
-    <Caribou.label>カリブー</Caribou.label>
-    <Caribou.labelPlural>カリブー</Caribou.labelPlural>
-    <Caribou.lifeStages.caribou_calf.label>子カリブー</Caribou.lifeStages.caribou_calf.label>
-    <Caribou.lifeStages.caribou_calf.labelPlural>子カリブー</Caribou.lifeStages.caribou_calf.labelPlural>
+  <Caribou.label>カリブー</Caribou.label>
+  <Caribou.labelPlural>カリブー</Caribou.labelPlural>
+  <Caribou.lifeStages.caribou_calf.label>子カリブー</Caribou.lifeStages.caribou_calf.label>
+  <Caribou.lifeStages.caribou_calf.labelPlural>子カリブー</Caribou.lifeStages.caribou_calf.labelPlural>
 
-    <WildBoar.label>イノシシ</WildBoar.label>
+  <WildBoar.label>イノシシ</WildBoar.label>
+  <WildBoar.lifeStages.0.label>ウリボウ</WildBoar.lifeStages.0.label>
 
-    <Tortoise.label>カメ</Tortoise.label>
+  <Tortoise.label>カメ</Tortoise.label>
+  <Tortoise.lifeStages.0.label>子カメ</Tortoise.lifeStages.0.label>
 
 </LanguageData>

@@ -1,14 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <SpaceRefugee.label>space refugee</SpaceRefugee.label>
-  <SpaceRefugee.labelPlural>space refugees</SpaceRefugee.labelPlural>
+  <SpaceRefugee.label>流浪者</SpaceRefugee.label>
+  <SpaceRefugee.labelPlural>流浪者達</SpaceRefugee.labelPlural>
 
-  <SpaceRefugee_Clothed.label>space refugee</SpaceRefugee_Clothed.label>
-  <SpaceRefugee_Clothed.labelPlural>space refugees</SpaceRefugee_Clothed.labelPlural>
+  <SpaceRefugee_Clothed.label>遭難者</SpaceRefugee_Clothed.label>
+  <SpaceRefugee_Clothed.labelPlural>遭難者達</SpaceRefugee_Clothed.labelPlural>
 
-  <AncientSoldier.label>ancient soldier</AncientSoldier.label>
-  <AncientSoldier.labelPlural>ancient soldiers</AncientSoldier.labelPlural>
-
+  <AncientSoldier.label>古代の戦士</AncientSoldier.label>
+  <AncientSoldier.labelPlural>古代の戦士達</AncientSoldier.labelPlural>
 
 </LanguageData>
