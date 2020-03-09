@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- AmbushEdge.xml -->
+
+  <AmbushEdge.label>待ち伏せ</AmbushEdge.label>
+  <AmbushEdge.description>待ち伏せ</AmbushEdge.description>
+
+
+  <!-- AmbushHidden.xml-->
+
+  <AmbushHidden.label>待ち伏せ</AmbushHidden.label>
+  <AmbushHidden.description>待ち伏せ</AmbushHidden.description>
+
+
+  <!-- BanditCamp.xml-->
+
+  <BanditCamp.label>山賊キャンプ</BanditCamp.label>
+  <BanditCamp.description>山賊たちのキャンプです.</BanditCamp.description>
+  <BanditCamp.approachingReportString>{0}を攻撃中</BanditCamp.approachingReportString>
+  <BanditCamp.approachOrderString>{0}を攻撃</BanditCamp.approachOrderString>
+  <BanditCamp.arrivedLetter>敵の前哨基地がこのエリアにあります.</BanditCamp.arrivedLetter>
+
+  <!-- DownedRefugee.xml -->
+
+  <DownedRefugee.label>行き倒れの難民</DownedRefugee.label>
+  <DownedRefugee.description>孤立して助けを求めている行き倒れの難民です.</DownedRefugee.description>
+
+
+  <!-- ItemStash.xml -->
+
+  <ItemStash.label>埋蔵品</ItemStash.label>
+  <ItemStash.description>隠された貴重な品々</ItemStash.description>
+
+
+  <!-- Manhunters.xml -->
+
+  <Manhunters.label>人狩りの群れ</Manhunters.label>
+  <Manhunters.description>人を狩ろうとしている動物の群れ</Manhunters.description>
+  <Manhunters.arrivedLetter>ヒト狩りの動物がこのエリアに居ます.</Manhunters.arrivedLetter>
+
+
+  <!-- Outpost.xml -->
+
+  <Outpost.label>前哨基地</Outpost.label>
+  <Outpost.description>警備されている小規模な前哨基地です.</Outpost.description>
+  <Outpost.approachingReportString>{0}を攻撃中</Outpost.approachingReportString>
+  <Outpost.approachOrderString>{0}を攻撃</Outpost.approachOrderString>
+  <Outpost.arrivedLetter>敵の前哨基地がこのエリアにあります.</Outpost.arrivedLetter>
+
+
+  <!-- PossibleUnknownThreatMarker.xml -->
+
+  <PossibleUnknownThreatMarker.label>未知の脅威の可能性</PossibleUnknownThreatMarker.label>
+  <PossibleUnknownThreatMarker.description>この場所には未知の脅威が存在する可能性があります.</PossibleUnknownThreatMarker.description>
+
+
+  <!-- PreciousLump.xml-->
+
+  <PreciousLump.label>希少鉱物の岩塊</PreciousLump.label>
+  <PreciousLump.description>この場所には希少鉱物の岩塊があります.</PreciousLump.description>
+
+
+  <!-- PrisonerWillingToJoin.xml-->
+
+  <PrisonerWillingToJoin.label>囚人キャンプ</PrisonerWillingToJoin.label>
+  <PrisonerWillingToJoin.description>この場所には,敵対勢力に捕らわれた囚人が居ます.救助できれば参加するでしょう.</PrisonerWillingToJoin.description>
+
+
+  <!-- SleepingMechanoids.xml-->
+
+  <SleepingMechanoids.label>スリープ状態のメカノイド</SleepingMechanoids.label>
+  <SleepingMechanoids.description>機能休眠中のメカノイドのグループがいます.</SleepingMechanoids.description>
+  <SleepingMechanoids.arrivedLetter>機能休眠中メカノイドが,このエリアにいます.\n\nあなたが彼らに接触したとき,起きだすかも,起きださないかもしれません,気を付けて</SleepingMechanoids.arrivedLetter>
+
+
+  <!-- Turrets.xml-->
+
+  <Turrets.label>タレット</Turrets.label>
+  <Turrets.description>この場所には敵のタレットが設置されています.</Turrets.description>
+  <Turrets.arrivedLetter>敵のタレットがこのエリアにあります.</Turrets.arrivedLetter>
+
+</LanguageData>
