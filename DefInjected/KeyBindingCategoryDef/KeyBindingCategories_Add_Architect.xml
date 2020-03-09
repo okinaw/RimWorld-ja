@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Architect_Orders.label>命令タブ</Architect_Orders.label>
+  <Architect_Orders.description>アーキテクトメニューの「命令」タブのショートカットキー</Architect_Orders.description>
+
+  <Architect_Zone.label>ゾーンタブ</Architect_Zone.label>
+  <Architect_Zone.description>アーキテクトメニューの「ゾーン」タブのショートカットキー</Architect_Zone.description>
+
+  <Architect_Structure.label>建築タブ</Architect_Structure.label>
+  <Architect_Structure.description>アーキテクトメニューの「建築」タブのショートカットキー</Architect_Structure.description>
+
+  <Architect_Production.label>製造タブ</Architect_Production.label>
+  <Architect_Production.description>アーキテクトメニューの「製造」タブのショートカットキー</Architect_Production.description>
+
+  <Architect_Furniture.label>家具タブ</Architect_Furniture.label>
+  <Architect_Furniture.description>アーキテクトメニューの「家具」タブのショートカットキー</Architect_Furniture.description>
+
+  <Architect_Power.label>電力タブ</Architect_Power.label>
+  <Architect_Power.description>アーキテクトメニューの「電力」タブのショートカットキー</Architect_Power.description>
+
+  <Architect_Security.label>防衛タブ</Architect_Security.label>
+  <Architect_Security.description>アーキテクトメニューの「防衛」タブのショートカットキー</Architect_Security.description>
+
+  <Architect_Misc.label>その他タブ</Architect_Misc.label>
+  <Architect_Misc.description>アーキテクトメニューの「その他」タブのショートカットキー</Architect_Misc.description>
+
+  <Architect_Floors.label>フロアタブ</Architect_Floors.label>
+  <Architect_Floors.description>アーキテクトメニューの「フロア」タブのショートカットキー</Architect_Floors.description>
+
+  <Architect_Joy.label>娯楽タブ</Architect_Joy.label>
+  <Architect_Joy.description>アーキテクトメニューの「Recreation」タブのショートカットキー</Architect_Joy.description>
+
+  <Architect_Ship.label>宇宙船タブ</Architect_Ship.label>
+  <Architect_Ship.description>アーキテクトメニューの「宇宙船」タブのショートカットキー</Architect_Ship.description>
+
+  <Architect_Temperature.label>冷暖房タブ</Architect_Temperature.label>
+  <Architect_Temperature.description>アーキテクトメニューの「冷暖房」タブのショートカットキー</Architect_Temperature.description>
+
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MainTab_Architect.label>アーキテクトタブ切替</MainTab_Architect.label>
+  <MainTab_Work.label>優先順位タブ切替</MainTab_Work.label>
+  <MainTab_Restrict.label>制限タブ切替</MainTab_Restrict.label>
+  <MainTab_Assign.label>服装・任命タブ切替</MainTab_Assign.label>
+  <MainTab_Animals.label>家畜タブ切替</MainTab_Animals.label>
+  <MainTab_Wildlife.label>野生動物タブ切替</MainTab_Wildlife.label>
+  <MainTab_Research.label>研究タブ切替</MainTab_Research.label>
+  <MainTab_Quests.label>クエストタブ切替</MainTab_Quests.label>
+  <MainTab_World.label>ワールドマップタブ切替</MainTab_World.label>
+  <MainTab_History.label>歴史タブ切替</MainTab_History.label>
+
+</LanguageData>
