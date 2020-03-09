@@ -247,8 +247,8 @@
   <TextMote_ProductWasted>生産物\n水の泡となる</TextMote_ProductWasted>
   <TextMote_RecruitFail>勧誘に失敗\n成功率 {0}</TextMote_RecruitFail>
   <TextMote_ResistanceReduced>敵対心\n{0} から {1}</TextMote_ResistanceReduced>
-  <TextMote_TameFail>手なづけられなかった\n成功率 {0}</TextMote_TameFail>
-  <TextMote_TameSuccess>手なづけた!\n成功率 {0}</TextMote_TameSuccess>
+  <TextMote_TameFail>手懐けられなかった\n成功率 {0}</TextMote_TameFail>
+  <TextMote_TameSuccess>手懐けた!\n成功率 {0}</TextMote_TameSuccess>
   <TextMote_TrainFail>{0} 調教に失敗\n成功率 {1}</TextMote_TrainFail>
   <TextMote_TrainSuccess>{0} 調教に成功!\n成功率 {1}</TextMote_TrainSuccess>
   <TextMote_FixBrokenDownBuildingFail>修理に失敗</TextMote_FixBrokenDownBuildingFail>
