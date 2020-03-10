@@ -17,7 +17,7 @@
 
   <Plasteel.label>プラスチール</Plasteel.label>
   <Plasteel.description>ユニークな分子構造により 極めて強い高度な航宙艦構造素材です.</Plasteel.description>
-  <Plasteel.stuffProps.stuffAdjective>プラスチール製</Plasteel.stuffProps.stuffAdjective>
+  <Plasteel.stuffProps.stuffAdjective>プラスチール</Plasteel.stuffProps.stuffAdjective>
 
   <WoodLog.label>木材</WoodLog.label>
   <WoodLog.description>樹木や他繊維状植物から採取した木材.建造物や武器を作るのに使われます.キャンプファイヤーや発電器の燃料としても適し,バイオ燃料に精製することも可能です.イザと言うときは,角材が,武器や脚としても使うことも可能です.</WoodLog.description>
