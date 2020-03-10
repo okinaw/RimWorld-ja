@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <!-- Forbid -->
@@ -314,7 +314,7 @@
   <CommandCancelMonumentMarkerDesc>この記念碑のマーカーを完全に削除します.</CommandCancelMonumentMarkerDesc>
 
   <!-- View quest -->
-  <CommandViewQuest>クエストを確認：{0}</CommandViewQuest>
+  <CommandViewQuest>クエスト確認\n{0}</CommandViewQuest>
   <CommandViewQuestDesc>このクエストの詳細をクエストタブで確認します.</CommandViewQuestDesc>
   <CommandOpenLinkedQuest>リンクしたクエストを開く</CommandOpenLinkedQuest>
   <CommandOpenLinkedQuestDesc>クエストタブでリンクしたクエストを確認します.</CommandOpenLinkedQuestDesc>
