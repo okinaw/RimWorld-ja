@@ -53,7 +53,4 @@
     <ForagedNutritionPerDay.label>食料調達量</ForagedNutritionPerDay.label>
     <ForagedNutritionPerDay.description>このキャラクターが,キャラバン隊として旅行中に,一日に自動的に調達する食料の量です.</ForagedNutritionPerDay.description>
 
-    <ShootingAccuracyTurret.label>精密射撃</ShootingAccuracyTurret.label>
-    <ShootingAccuracyTurret.description>射撃距離毎の命中率です.命中率は様々な要因でも変化します.命中率に関しての説明は,射手を選んだ後に,目標をマウスオーバーすると確認することができます.</ShootingAccuracyTurret.description>
-
 </LanguageData>
