@@ -25,10 +25,10 @@
   <Cryptosleep.description>生体活動を仮死状態にさせる,冬眠カプセルを作成できるようになります.</Cryptosleep.description>
 
   <ReconArmor.label>リーコンアーマー</ReconArmor.label>
-  <ReconArmor.description>リーコンアーマー,偵察移動中の防御を必要とする長距離偵察部隊が使用する軽量型のパワードアーマースーツです.これらの作成には先進コンポーネントが必要なことに注意してください.</ReconArmor.description>
+  <ReconArmor.description>リーコンアーマー,リーコンヘルメットを作成できます。偵察移動中の防御を必要とする長距離偵察部隊が使用する軽量型のパワードアーマースーツです.これらの作成には先進コンポーネントが必要なことに注意してください.</ReconArmor.description>
 
-  <PoweredArmor.label>パワーアーマー</PoweredArmor.label>
-  <PoweredArmor.description>パワーアーマー,パワーアーマ－ヘルメットを作れるようになります.これらの作成には先進コンポーネントが必要なことに注意してください.</PoweredArmor.description>
+  <PoweredArmor.label>マリーンーアーマー</PoweredArmor.label>
+  <PoweredArmor.description>マリーンアーマー,マリーンヘルメットを作れるようになります.これらの作成には先進コンポーネントが必要なことに注意してください.</PoweredArmor.description>
 
   <ChargedShot.label>チャージライフル</ChargedShot.label>
   <ChargedShot.description>追加ダメージを与えるパルスチャージされた弾丸を発射する武器を作成できるようになります.これらの作成には先進コンポーネントが必要なことに注意してください.</ChargedShot.description>
