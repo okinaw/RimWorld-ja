@@ -1,38 +1,38 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-    <StuffEffectMultiplierInsulation_Cold.label>断熱材 - 低温 - 素材効果の掛け率</StuffEffectMultiplierInsulation_Cold.label>
-    <StuffEffectMultiplierInsulation_Heat.label>断熱材 - 高温 - 素材効果の掛け率</StuffEffectMultiplierInsulation_Heat.label>
-    <StuffEffectMultiplierArmor.label>アーマー - 素材効果の掛け率</StuffEffectMultiplierArmor.label>
+  <StuffEffectMultiplierArmor.label>防御率: 材料効果倍率</StuffEffectMultiplierArmor.label>
+  <StuffEffectMultiplierInsulation_Cold.label>断熱(低温): 材料効果倍率</StuffEffectMultiplierInsulation_Cold.label>
+  <StuffEffectMultiplierInsulation_Heat.label>断熱(高温): 材料効果倍率</StuffEffectMultiplierInsulation_Heat.label>
 
-    <ArmorRating_Sharp.label>アーマー - 突刺系</ArmorRating_Sharp.label>
-    <ArmorRating_Sharp.description>弾丸,ナイフ,爆発,動物の咬傷などの鋭利なダメージへのアーマーです.\n\nこれは攻撃がアーマーによって影響をうける確率です.一旦,攻撃が通ると,50%の確率で完璧に跳ね返されるか.50%の確率で,部分的に吸収されて,半分の威力で打撲系ダメージに変換されます.大きいアーマー貫通力(AP)を持った攻撃は,この計算をキャンセルさせます.</ArmorRating_Sharp.description>
+  <ArmorRating_Sharp.label>防御率(鋭利系)</ArmorRating_Sharp.label>
+  <ArmorRating_Sharp.description>防御率(鋭利系)\n──────────────────────────────────────\n\nこの防具が弾丸やナイフの刺突や爆発や動物の噛み傷など\n鋭利なダメージに対する防御効果の評価(%)です.\n\nダメージを受けると,最初に,この防御力は攻撃が持つAP値に\nよって減少します.次に,残った防御力と,0%から100%までの\n乱数と比較します.\n\n- 乱数が防御力の半分未満の場合:\n　受けたダメージはダメージを与えずに跳ね返されます.\n\n- 乱数が防御力の半分を超えて,防御力よりも低い場合:\n　ダメージは半減した上で打撲系ダメージに変化します.\n\n- 乱数が防御力よりも大きな場合:\n　アーマーによるダメージの低減効果はありません.\n\n──────────────────────────────────────\n\n例えば,AP貫通が10(%)で20ダメージの攻撃に対して,\n衣服の90%の防御力の場合では,\n\n防御力90%－AP貫通10%＝残った防御力は80%で,\n\n1.乱数が0%から40%の場合:\n　残り防御力80%の半分までの40%で,ダメージを無傷で\n　跳ね返す可能性は40%です.\n\n2.乱数が41%から80%の場合:\n　残り防御力の半分より高い41%から80%までは,ダメージが\n　半減する可能性は40%です.半減すると10ダメージ.\n\n3.乱数が81%から100%の場合:\n　残り防御力を無視してダメージが全て入る可能性は\n　20%です.この場合は20ダメージ.\n\n──────────────────────────────────────\n\n外側から内側に向かって,各レイヤー層の服装ごとの防御力\nの計算(無傷/半減/貫通)が行われ,最終的に肉体に届いた時点\nでダメージが計算されます.\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</ArmorRating_Sharp.description>
 
-	<ArmorRating_Blunt.label>アーマー - 打撲系</ArmorRating_Blunt.label>
-	<ArmorRating_Blunt.description>拳・クラブによる殴打,落石などの殴打系ダメージへのアーマーです.\n\nこれは攻撃がアーマーによって影響をうける確率です.一旦,攻撃が通ると,50%の確率で完璧に跳ね返されるか.50%の確率で,部分的に吸収されて,半分の威力になります.大きいアーマー貫通力(AP)を持った攻撃は,この計算をキャンセルさせます.</ArmorRating_Blunt.description>
+  <ArmorRating_Blunt.label>防御率(打撲系)</ArmorRating_Blunt.label>
+  <ArmorRating_Blunt.description>防御率(打撲系)\n──────────────────────────────────────\n\nこの防具が拳やクラブからの衝撃や岩の崩落などの\n打撲系ダメージに与える防御効果の評価(%)です.\n\nダメージを受けると,最初に,この防御力は攻撃が持つAP値に\nよって減少します.次に,残った防御力と,0%から100%までの\n乱数と比較します.\n\n- 乱数が防御力の半分未満の場合:\n　受けたダメージはダメージを与えずに跳ね返されます.\n\n- 乱数が防御力の半分を超えて,防御力よりも低い場合:\n　ダメージは半減した上で打撲系ダメージに変化します.\n\n- 乱数が防御力よりも大きな場合:\n　アーマーによるダメージの低減効果はありません.\n\n──────────────────────────────────────\n\n例えば,AP貫通が10(%)で20ダメージの攻撃に対して,\n衣服の90%の防御力の場合では,\n\n防御力90%－AP貫通10%＝残った防御力は80%で,\n\n1.乱数が0%から40%の場合:\n　残り防御力80%の半分までの40%で,ダメージを無傷で\n　跳ね返す可能性は40%です.\n\n2.乱数が41%から80%の場合:\n　残り防御力の半分より高い41%から80%までは,ダメージが\n　半減する可能性は40%です.半減すると10ダメージ.\n\n3.乱数が81%から100%の場合:\n　残り防御力を無視してダメージが全て入る可能性は\n　20%です.この場合は20ダメージ.\n\n──────────────────────────────────────\n\n外側から内側に向かって,各レイヤー層の服装ごとの防御力\nの計算(無傷/半減/貫通)が行われ,最終的に肉体に届いた時点\nでダメージが計算されます.\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</ArmorRating_Blunt.description>
 
-	<ArmorRating_Heat.label>アーマー - 熱系</ArmorRating_Heat.label>
-	<ArmorRating_Heat.description>炎のような温度系ダメージへのアーマーです.\n\nこれは攻撃がアーマーによって影響をうける確率です.一旦,攻撃が通ると,50%の確率で完璧に跳ね返されるか.50%の確率で,部分的に吸収されて,半分の威力になります.大きいアーマー貫通力(AP)を持った攻撃は,この計算をキャンセルさせます.</ArmorRating_Heat.description>
+  <ArmorRating_Heat.label>防御率(熱系)</ArmorRating_Heat.label>
+  <ArmorRating_Heat.description>防御率(熱系)\n──────────────────────────────────────\n\nこの防具がやけどのような熱に関係するダメージに\n対する防御効果の評価(%)です.\n\nダメージを受けると,最初に,この防御力は攻撃が持つAP値に\nよって減少します.次に,残った防御力と,0%から100%までの\n乱数と比較します.\n\n- 乱数が防御力の半分未満の場合:\n　受けたダメージはダメージを与えずに跳ね返されます.\n\n- 乱数が防御力の半分を超えて,防御力よりも低い場合:\n　ダメージは半減した上で打撲系ダメージに変化します.\n\n- 乱数が防御力よりも大きな場合:\n　アーマーによるダメージの低減効果はありません.\n\n──────────────────────────────────────\n\n例えば,AP貫通が10(%)で20ダメージの攻撃に対して,\n衣服の90%の防御力の場合では,\n\n防御力90%－AP貫通10%＝残った防御力は80%で,\n\n1.乱数が0%から40%の場合:\n　残り防御力80%の半分までの40%で,ダメージを無傷で\n　跳ね返す可能性は40%です.\n\n2.乱数が41%から80%の場合:\n　残り防御力の半分より高い41%から80%までは,ダメージが\n　半減する可能性は40%です.半減すると10ダメージ.\n\n3.乱数が81%から100%の場合:\n　残り防御力を無視してダメージが全て入る可能性は\n　20%です.この場合は20ダメージ.\n\n──────────────────────────────────────\n\n外側から内側に向かって,各レイヤー層の服装ごとの防御力\nの計算(無傷/半減/貫通)が行われ,最終的に肉体に届いた時点\nでダメージが計算されます.\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</ArmorRating_Heat.description>
 
-	<Insulation_Cold.label>断熱材(低温)</Insulation_Cold.label>
-	<Insulation_Cold.description>この衣服が改善する,快適温度の低温側への補正値です.大きいほど低い温度でも何とかなります.</Insulation_Cold.description>
+  <Insulation_Cold.label>断熱性(低温)</Insulation_Cold.label>
+  <Insulation_Cold.description>断熱性(低温)\n──────────────────────────────────────\n\nこの服装が着用者が快適に感じる最低気温をどれだけ向上させるかを表します.値が高ければ,より寒い(冷たい)温度の中で生き残ることができます.</Insulation_Cold.description>
 
-	<Insulation_Heat.label>断熱材(高温)</Insulation_Heat.label>
-	<Insulation_Heat.description>この衣服が改善する,快適温度の高温側への補正値です.大きいほど高い気温でも何とかなります.</Insulation_Heat.description>
+  <Insulation_Heat.label>断熱性(高温)</Insulation_Heat.label>
+  <Insulation_Heat.description>断熱性(高温)\n──────────────────────────────────────\n\nこの服装が着用者が快適に感じる最高気温をどれだけ向上させるかを表します.値が高ければ,より暖かい(熱い)温度の中で生き残ることができます.</Insulation_Heat.description>
 
-	<EnergyShieldEnergyMax.label>シールドエネルギー最大量</EnergyShieldEnergyMax.label>
-	<EnergyShieldEnergyMax.description>シールドベルトのチャージ一回分の最大エネルギー量です.エネルギーが多いほど,より多くのダメージを吸収します.</EnergyShieldEnergyMax.description>
+  <EnergyShieldEnergyMax.label>シールドエネルギー最大量</EnergyShieldEnergyMax.label>
+  <EnergyShieldEnergyMax.description>シールドベルトのシールドが一度に蓄えることができる最大エネルギー量.より多くのエネルギー量があれば,より多くのダメージを吸収できます.</EnergyShieldEnergyMax.description>
 
-	<EnergyShieldRechargeRate.label>シールドリチャージ量</EnergyShieldRechargeRate.label>
-	<EnergyShieldRechargeRate.description>シールドベルトが壊れてさえなければ,単位時間あたりのリチャージ量です.</EnergyShieldRechargeRate.description>
-	<EnergyShieldRechargeRate.formatString>{0}/秒</EnergyShieldRechargeRate.formatString>
+  <EnergyShieldRechargeRate.label>シールドリチャージ量</EnergyShieldRechargeRate.label>
+  <EnergyShieldRechargeRate.description>パーソナルシールドが壊れてさえなければ,単位時間あたりのリチャージ量です.</EnergyShieldRechargeRate.description>
+  <EnergyShieldRechargeRate.formatString>{0}/秒</EnergyShieldRechargeRate.formatString>
 
-	<SmokepopBeltRadius.label>スモークポップベルト展張半径</SmokepopBeltRadius.label>
-	<SmokepopBeltRadius.description>スモークポップベルトが発動したときに,見えにくくする半径です.</SmokepopBeltRadius.description>
-	<SmokepopBeltRadius.formatString>{0} c</SmokepopBeltRadius.formatString>
+  <SmokepopBeltRadius.label>煙幕展開半径</SmokepopBeltRadius.label>
+  <SmokepopBeltRadius.description>スモークポップベルトが発動したときに,煙幕で命中が難しくなる半径です.</SmokepopBeltRadius.description>
+  <SmokepopBeltRadius.formatString>{0}セル</SmokepopBeltRadius.formatString>
 
-	<EquipDelay.label>装着し易さ</EquipDelay.label>
-	<EquipDelay.description>アイテムの装着・脱着に要する時間です.</EquipDelay.description>
-	<EquipDelay.formatString>{0}秒</EquipDelay.formatString>
+  <EquipDelay.label>装備時間</EquipDelay.label>
+  <EquipDelay.description>このアイテムを装備したり装備を外すのにかかる時間です.</EquipDelay.description>
+  <EquipDelay.formatString>{0}秒</EquipDelay.formatString>
 
 </LanguageData>
