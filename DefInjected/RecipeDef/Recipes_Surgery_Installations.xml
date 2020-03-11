@@ -105,6 +105,7 @@
   <InstallPainstopper.description>ペインストッパーを移植します.</InstallPainstopper.description>
   <InstallPainstopper.jobString>ペインストッパーを移植中</InstallPainstopper.jobString>
 
+
   <!-- Hediffs_BodyParts_Bionic.xml -->
 
   <!-- Bionic eye -->
@@ -154,6 +155,13 @@
   <InstallBionicEar.label>強化耳 移植</InstallBionicEar.label>
   <InstallBionicEar.description>強化耳を移植します.</InstallBionicEar.description>
   <InstallBionicEar.jobString>強化耳を移植中</InstallBionicEar.jobString>
+
+
+  <!-- Death acidifier -->
+
+  <InstallDeathAcidifier.label>死亡自壊装置 移植</InstallDeathAcidifier.label>
+  <InstallDeathAcidifier.description>死亡自壊装置を移植します.</InstallDeathAcidifier.description>
+  <InstallDeathAcidifier.jobString>死亡自壊装置を移植中</InstallDeathAcidifier.jobString>
 
 
   <!-- Hediffs_BodyParts_Archotech.xml -->
