@@ -1,26 +1,42 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<UnfinishedSculpture.label>彫刻(未完成)</UnfinishedSculpture.label>
+  <UnfinishedSculpture.label>彫刻(未完成)</UnfinishedSculpture.label>
+  <UnfinishedSculpture.description>未完成の彫刻です.</UnfinishedSculpture.description>
 
-    <UnfinishedGun.label>銃(未完成)</UnfinishedGun.label>
+  <UnfinishedGun.label>銃(未完成)</UnfinishedGun.label>
+  <UnfinishedGun.description>未完成の銃です.</UnfinishedGun.description>
 
-	<UnfinishedWeapon.label>武器(未完成)</UnfinishedWeapon.label>
+  <UnfinishedWeapon.label>武器(未完成)</UnfinishedWeapon.label>
+  <UnfinishedWeapon.description>未完成の武器です.</UnfinishedWeapon.description>
 
-	<UnfinishedArmor.label>アーマー(未完成)</UnfinishedArmor.label>
+  <UnfinishedArmor.label>アーマー(未完成)</UnfinishedArmor.label>
+  <UnfinishedArmor.description>未完成のアーマーです.</UnfinishedArmor.description>
 
-    <UnfinishedTechArmor.label>アーマー(未完成)</UnfinishedTechArmor.label>
-    
-    <UnfinishedMetallicTechArmor.label>アーマー(未完成)</UnfinishedMetallicTechArmor.label>
+  <UnfinishedTechArmor.label>ハイテクアーマー(未完成)</UnfinishedTechArmor.label>
+  <UnfinishedTechArmor.description>未完成のハイテクアーマーです.</UnfinishedTechArmor.description>
 
-	<UnfinishedApparel.label>衣服(未完成)</UnfinishedApparel.label>
+  <UnfinishedMetallicTechArmor.label>金属アーマー(未完成)</UnfinishedMetallicTechArmor.label>
+  <UnfinishedMetallicTechArmor.description>未完成の金属アーマーです.</UnfinishedMetallicTechArmor.description>
 
-	<UnfinishedBelt.label>ベルト(未完成)</UnfinishedBelt.label>
+  <UnfinishedApparel.label>衣服(未完成)</UnfinishedApparel.label>
+  <UnfinishedApparel.description>未完成のpiece of an apparelです.</UnfinishedApparel.description>
 
-	<UnfinishedComponent.label>コンポーネント(未完成)</UnfinishedComponent.label>
+  <UnfinishedBelt.label>ベルト(未完成)</UnfinishedBelt.label>
+  <UnfinishedBelt.description>未完成のpiece of a beltです.</UnfinishedBelt.description>
 
-  <!-- ======================= Minified things ========================= -->
+  <UnfinishedComponent.label>コンポーネント(未完成)</UnfinishedComponent.label>
+  <UnfinishedComponent.description>未完成のcomponentです.</UnfinishedComponent.description>
 
-	<MinifiedThing.label>(梱包)</MinifiedThing.label>
+  <UnfinishedHealthItemProsthetic.label>人造部位(未完成)</UnfinishedHealthItemProsthetic.label>
+  <UnfinishedHealthItemProsthetic.description>未完成の人造部位です.</UnfinishedHealthItemProsthetic.description>
+
+  <UnfinishedHealthItemBionic.label>強化部位(未完成)</UnfinishedHealthItemBionic.label>
+  <UnfinishedHealthItemBionic.description>未完成の強化部位です.</UnfinishedHealthItemBionic.description>
+
+
+  <!-- Minified things -->
+
+  <MinifiedThing.label>(梱包)</MinifiedThing.label>
 
 </LanguageData>
