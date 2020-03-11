@@ -67,5 +67,6 @@
 
   <Artillery_Mortar.label>迫撃砲(榴弾)</Artillery_Mortar.label>
   <Artillery_Mortar.description>爆発する榴弾を打ち出せる迫撃砲です.曲射弾道で壁を越えて敵を攻撃でき,長射程ですが命中精度が低いのが欠点です.</Artillery_Mortar.description>
+  <Artillery_Mortar.verbs.Verb_Shoot.label>迫撃砲(榴弾)</Artillery_Mortar.verbs.Verb_Shoot.label>
 
 </LanguageData>
