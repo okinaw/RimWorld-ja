@@ -46,9 +46,9 @@
 
   <!-- Death Acidifier -->
 
-  <DeathAcidifier.label>装備融解装置</DeathAcidifier.label>
-  <DeathAcidifier.description>取り付けられている装備融解装置です.</DeathAcidifier.description>
-  <DeathAcidifier.labelNoun>装備融解装置</DeathAcidifier.labelNoun>
+  <DeathAcidifier.label>死亡自壊装置</DeathAcidifier.label>
+  <DeathAcidifier.description>取り付けられている死亡自壊装置です.</DeathAcidifier.description>
+  <DeathAcidifier.labelNoun>死亡自壊装置</DeathAcidifier.labelNoun>
 
 
   <!-- Bionic ear -->
