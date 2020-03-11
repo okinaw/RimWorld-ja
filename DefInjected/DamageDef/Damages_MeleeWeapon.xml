@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <Cut.label>斬る</Cut.label>
@@ -23,13 +23,13 @@
   <Scratch.label>裂く</Scratch.label>
   <Scratch.deathMessage>{0}は爪で引き裂かれて死んだ</Scratch.deathMessage>
 
-  <ScratchToxic.label>毒爪で裂く</ScratchToxic.label>
+  <ScratchToxic.label>裂く</ScratchToxic.label>
   <ScratchToxic.deathMessage>{0}は毒の爪で引き裂かれて死んだ</ScratchToxic.deathMessage>
 
   <Bite.label>噛む</Bite.label>
   <Bite.deathMessage>{0}は噛まれて死んだ</Bite.deathMessage>
 
   <ToxicBite.label>噛む</ToxicBite.label>
-  <ToxicBite.deathMessage>{0}は噛まれて死んだ</ToxicBite.deathMessage>
+  <ToxicBite.deathMessage>{0}は毒牙に噛まれて死んだ</ToxicBite.deathMessage>
 
 </LanguageData>
