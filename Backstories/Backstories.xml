@@ -863,7 +863,9 @@
 
   <ColonyKid47>
     <title>コロニー少年</title>
-    <titleShort>コロニー少年</titleShort>
+    <titleFemale>コロニー少女</titleFemale>
+    <titleShort>コロニー少女</titleShort>
+    <titleShortFemale>屋外女主人</titleShortFemale>
     <desc>[PAWN_nameDef]は,小さなコロニーに住む,二人のドクターの子供として生まれました.[PAWN_possessive]両親がもとで,[PAWN_pronoun]は,いつも科学と薬品に興味を持っていました.\n\n[PAWN_nameDef]は,本当に,他の子達と上手くやっていく事が出来なかった結果,引っ込み思案で,内気な子になりました.</desc>
   </ColonyKid47>
 
@@ -1105,7 +1107,8 @@
 
   <CrimeBossChild39>
     <title>ボスの子供</title>
-    <titleShort>犯罪少年</titleShort>
+    <titleShort>非行少年</titleShort>
+    <titleShortFemale>非行少女</titleShortFemale>
     <desc>[PAWN_nameDef]は,悪評高い犯罪者集団のボスの養子として引き取られました.[PAWN_pronoun]は,密輸から機知に富んだ殺しの方法まで,ファミリービジネスにおける,あらゆる面を叩き込まれました.\n\nファミリーが襲撃されたとき,[PAWN_possessive]父は[PAWN_pronoun]に,秘密の冷凍睡眠装置に入って隠れるよう指示しました.</desc>
   </CrimeBossChild39>
 
@@ -1183,7 +1186,9 @@
 
   <Delinquent13>
     <title>非行少年</title>
+    <titleFemale>非行少女</titleFemale>
     <titleShort>非行少年</titleShort>
+    <titleShortFemale>非行少女</titleShortFemale>
     <desc>[PAWN_nameDef]は[PAWN_possessive]子供時代の大半を酒場の裏で過ごしました.逃げ出すのに失敗した後,[PAWN_pronoun]は軍隊に押し込まれました.</desc>
   </Delinquent13>
 
@@ -1459,7 +1464,8 @@
 
   <FarmerBoy88>
     <title>農家の少年</title>
-    <titleShort>農家</titleShort>
+    <titleFemale>農家の少女</titleFemale>
+    <titleShort>農家の子</titleShort>
     <desc>彼が7歳の頃にBenjaminの両親は火事で死にました.彼は叔父の農場で育ち,田畑を耕したり肉体労働をしました.\n\n彼は両親についての質問に答えることが耐えられなかったので,彼は,社会と接触する代わりに,熱心に働きました.</desc>
   </FarmerBoy88>
 
@@ -1555,7 +1561,9 @@
 
   <FireScarredChild1>
     <title>火傷跡少年</title>
-    <titleShort>傷跡</titleShort>
+    <titleFemale>火傷跡少女</titleFemale>
+    <titleShort>傷跡少年</titleShort>
+    <titleShortFemale>傷跡少女</titleShortFemale>
     <desc>Dusterは,ひどい火事で顔と腕が焼けただれるまでは,平凡な少年時代を過ごす活発な少年でした.たとえ火傷の跡が消えても,火には一切,近づかなくなりました.</desc>
   </FireScarredChild1>
 
@@ -1803,6 +1811,7 @@
 
   <HackerKid98>
     <title>ハッカー少年</title>
+    <titleFemale>ハッカー少女</titleFemale>
     <titleShort>ハッカー</titleShort>
     <desc>High-tech worldの出で,[PAWN_nameDef]は,少年時代にコンピュータハッキングを覚えました.\n\n多くの時間を独りでいじり回す事に費やしたことは,[PAWN_objective]コンピュータに詳しくさせましたが,人間関係には疎くさせました.</desc>
   </HackerKid98>
@@ -1991,7 +2000,9 @@
 
   <IcePlanetChild95>
     <title>氷惑星の少年</title>
+    <titleFemale>氷惑星の少女</titleFemale>
     <titleShort>氷の少年</titleShort>
+    <titleShortFemale>氷の少女</titleShortFemale>
     <desc>凍った月面,荒野の海で,[PAWN_nameDef]は,動物達と,少しの頑強な船乗り達だけを仲間として育ちました.\n\n社会的な相互関係の欠如は,彼を,エンジニアリングに対して興味を持たせることになりました - 代わりに人間らしさが失われました.</desc>
   </IcePlanetChild95>
 
@@ -2723,6 +2734,7 @@
 
   <MusicalKid86>
     <title>音楽少年</title>
+    <titleFemale>音楽少女</titleFemale>
     <titleShort>音楽家</titleShort>
     <desc>子供の頃,[PAWN_nameDef]は楽器を演奏したり歌ったりする才能がありました.[PAWN_pronoun]は専門家のトレーニングを受け,リサイタルやコンサートで演奏するのが大好きでしたが,過度な賞賛で[PAWN_pronoun]は[PAWN_objective]少し自己執着するようになりました.</desc>
   </MusicalKid86>
@@ -3296,6 +3308,7 @@
 
   <ReEducatedYouth23>
     <title>再教育少年</title>
+    <titleFemale>再教育少女</titleFemale>
     <titleShort>再教育者</titleShort>
     <desc>[PAWN_nameDef]は,Midworldで,政府が若者の面倒をみる施設に住んでいました.\n\n[PAWN_pronoun]は,新しい教育プロクラムの為に,両親から引き離された子供達が,たくさんいる中の一人でした.</desc>
   </ReEducatedYouth23>
@@ -3699,7 +3712,9 @@
 
   <SpaceFanboy22>
     <title>宇宙マニア少年</title>
+    <titleFemale>宇宙マニア少女</titleFemale>
     <titleShort>マニア少年</titleShort>
+    <titleShortFemale>マニア少女</titleShortFemale>
     <desc>[PAWN_nameDef]は,宇宙旅行を夢見ていました.[PAWN_pronoun]は,古い交番を,自分の宇宙船と見立てて,未知なる物を見に行く遊びをしていました.</desc>
   </SpaceFanboy22>
 
@@ -4125,6 +4140,7 @@
 
   <TechEnthusiast28>
     <title>オタク少年</title>
+    <titleFemale>オタク少女</titleFemale>
     <titleShort>オタク</titleShort>
     <desc>Michaelは,子供の頃,あらゆる最新式の電子機器を持っていました.[PAWN_pronoun]は,他の子と遊ぶ代わりに,AIとゲームをして過ごしていました.[PAWN_pronoun]はいつも,知らない人とは気まずい思いをしていました.</desc>
   </TechEnthusiast28>
@@ -4727,7 +4743,9 @@
 
   <YouthDelinquent30>
     <title>非行少年</title>
+    <titleFemale>非行少女</titleFemale>
     <titleShort>非行少年</titleShort>
+    <titleShortFemale>非行少女</titleShortFemale>
     <desc>[PAWN_nameDef]は,著名なソムリエの一人っ子でした.彼の両親は,彼にも,同じ専門職を引き継ぐ事を期待しましたが,少年院へ3級入所送致の後となっては,この見込みは無くなりました.\n\n拘置中に,[PAWN_nameDef]は持ち手を作るスキルに熟練し,鳥類学への興味を示しました.</desc>
   </YouthDelinquent30>
 
