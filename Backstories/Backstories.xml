@@ -70,7 +70,7 @@
   <Adventurer19>
     <title>冒険家</title>
     <titleShort>冒険家</titleShort>
-    <desc>冒険に飢えた[PAWN_nameDef]の心は,[PAWN_pronoun]に数多くの惑星へと足を運ばせました.目新しいもの,刺激的なものを探し求める冒険の旅で,輝けるグリッターワールドや,戦乱に荒れる暗黒の有毒惑星を訪れました.\n\n[PAWN_pronoun]は可能な限り働こうとせず,手っ取り早く金を得るために人としての一線を越えることもしばしばでした.あらゆる仕事の中で,料理を最も嫌いました.</desc>
+    <desc>冒険に飢えた[PAWN_nameDef]の心は,[PAWN_pronoun]に数多くの惑星へと足を運ばせました.目新しいもの,刺激的なものを探し求める冒険の旅で,輝けるグリッターワールド(Glitterworld)や,戦乱に荒れる暗黒の有毒惑星を訪れました.\n\n[PAWN_pronoun]は可能な限り働こうとせず,手っ取り早く金を得るために人としての一線を越えることもしばしばでした.あらゆる仕事の中で,料理を最も嫌いました.</desc>
   </Adventurer19>
 
   <AdventuringChild30>
@@ -202,7 +202,7 @@
   <Architect28>
     <title>建築士</title>
     <titleShort>建築士</titleShort>
-    <desc>[PAWN_nameDef]は建物の設計と建築を行っていました.グリッターワールドにある[PAWN_possessive]自宅では,建築に関する技術的な側面の大部分をAIが担っていました.このことは工芸において[PAWN_possessive]芸術性の限界を引き上げる効果がありましたが,同時に[PAWN_pronoun]が建築現場で自分の手を汚す必要がないことも意味しました.</desc>
+    <desc>[PAWN_nameDef]は建物の設計と建築を行っていました.グリッターワールド(Glitterworld)にある[PAWN_possessive]自宅では,建築に関する技術的な側面の大部分をAIが担っていました.このことは工芸において[PAWN_possessive]芸術性の限界を引き上げる効果がありましたが,同時に[PAWN_pronoun]が建築現場で自分の手を汚す必要がないことも意味しました.</desc>
   </Architect28>
 
   <ArchotechSpy75>
@@ -238,7 +238,7 @@
   <ArtfulDodger78>
     <title>芸術的な詐欺師</title>
     <titleShort>詐欺師</titleShort>
-    <desc>Robinは,Urbworldの中の一つで育ち,生まれてからずっと,自活しなければなりませんでした.彼は,誰も信用せず,説得力を頼みの綱にし,抜け目なく生き残りました.\n\n彼は,言葉を覚えると同じくらい,すぐにナイフと火器に熟練しました.</desc>
+    <desc>Robinは,アーブワールド(Urbworld)の中の一つで育ち,生まれてからずっと,自活しなければなりませんでした.彼は,誰も信用せず,説得力を頼みの綱にし,抜け目なく生き残りました.\n\n彼は,言葉を覚えると同じくらい,すぐにナイフと火器に熟練しました.</desc>
   </ArtfulDodger78>
 
   <ArtifactHunter48>
@@ -248,7 +248,7 @@
   </ArtifactHunter48>
 
   <ArtificerRampant95>
-    <title>熟練工 rampant</title>
+    <title>熟練工</title>
     <titleShort>熟練工</titleShort>
     <desc>発見する事へのスリルと,自身の誇大妄想癖に満たされた,[PAWN_nameDef]は,必要であれば,法や慣習を破ってでも,既存のデバイスを改良して新しいデバイスを発明することを始めました.\n\n[PAWN_pronoun]は,作業に必要な素材を集めるためのクルーを結成しました - 邪魔をしてくる外部の人間に対処するためにも</desc>
   </ArtificerRampant95>
@@ -269,7 +269,7 @@
   <ArtisticWeirdo56>
     <title>芸術的奇人</title>
     <titleShort>奇人</titleShort>
-    <desc>[PAWN_nameDef]は,Midworldの巨大都市繁華街近くの家で育ちました.\n\n[PAWN_pronoun]は,絵画と,創造的な作業に才能を見せましたが,しばしば奇怪な行動をするので,友達は少ししかいませんでした.</desc>
+    <desc>[PAWN_nameDef]は,ミッドワールド(Midworld)の巨大都市繁華街近くの家で育ちました.\n\n[PAWN_pronoun]は,絵画と,創造的な作業に才能を見せましたが,しばしば奇怪な行動をするので,友達は少ししかいませんでした.</desc>
   </ArtisticWeirdo56>
 
   <ArtsPatron54>
@@ -293,7 +293,7 @@
   <AspergersRebel13>
     <title>アスペルガー反逆者</title>
     <titleShort>反逆者</titleShort>
-    <desc>[PAWN_nameDef]は,戦争によって破壊された,過去には先進的だったRimworldで,反逆者として育ちました.\n\n[PAWN_pronoun]アスペルガー症候群は,彼が社交性に苦しみ,人を心配することができないことを意味します,しかし,研究と射撃のような困難なスキルを,素早く身につけました.</desc>
+    <desc>[PAWN_nameDef]は,戦争によって破壊された,過去には先進的だったリムワールド(Rimworld)で,反逆者として育ちました.\n\n[PAWN_pronoun]アスペルガー症候群は,彼が社交性に苦しみ,人を心配することができないことを意味します,しかし,研究と射撃のような困難なスキルを,素早く身につけました.</desc>
   </AspergersRebel13>
 
   <AspiringEngineer58>
@@ -450,7 +450,7 @@
   <BlessedChild46>
     <title>福音児童</title>
     <titleShort>福音者</titleShort>
-    <desc>[PAWN_nameDef]は,Midworldの霊的なグループにとって縁起の良い出来事の下で生まれ,[PAWN_possessive]子供時代を通して,盲目的に崇拝されました.\n\n[PAWN_pronoun]は,貧しい者の世話や,信者に手を差し伸べる事を,若いときから学びました.</desc>
+    <desc>[PAWN_nameDef]は,ミッドワールド(Midworld)の霊的なグループにとって縁起の良い出来事の下で生まれ,[PAWN_possessive]子供時代を通して,盲目的に崇拝されました.\n\n[PAWN_pronoun]は,貧しい者の世話や,信者に手を差し伸べる事を,若いときから学びました.</desc>
   </BlessedChild46>
 
   <BloodgameSurvivor6>
@@ -474,7 +474,7 @@
   <Bodyguard58>
     <title>ボディガード</title>
     <titleShort>ボディガード</titleShort>
-    <desc>Midworldで,[PAWN_nameDef]は,金を払ってくれた者を,危害を加える者から守る職業に従事していました.[PAWN_pronoun]は,多くの格闘術に長け,[PAWN_pronoun]の邪魔をする者には,無慈悲で容赦ないことが,良く知られていました.</desc>
+    <desc>ミッドワールド(Midworld)で,[PAWN_nameDef]は,金を払ってくれた者を,危害を加える者から守る職業に従事していました.[PAWN_pronoun]は,多くの格闘術に長け,[PAWN_pronoun]の邪魔をする者には,無慈悲で容赦ないことが,良く知られていました.</desc>
   </Bodyguard58>
 
   <BodyguardTrainee54>
@@ -522,13 +522,13 @@
   <BoyScout42>
     <title>ボーイスカウト</title>
     <titleShort>スカウト</titleShort>
-    <desc>[PAWN_nameDef]は,Midworldのボーイスカウトでした.\n\n[PAWN_pronoun]は,屋外で元気に育ち,怪我を手当てする基礎知識などを含んだ,たくさんのサバイバルスキルを身につけました.</desc>
+    <desc>[PAWN_nameDef]は,ミッドワールド(Midworld)のボーイスカウトでした.\n\n[PAWN_pronoun]は,屋外で元気に育ち,怪我を手当てする基礎知識などを含んだ,たくさんのサバイバルスキルを身につけました.</desc>
   </BoyScout42>
 
   <BoySoldier14>
     <title>少年兵</title>
     <titleShort>兵士</titleShort>
-    <desc>戦争は変わらないだろう - しかし,兵士は別であろう\n\n暴力的なUrbworldに生まれ,[PAWN_nameDef]は,外部勢力と戦う為に,若い時から訓練され,良い兵士になりました.</desc>
+    <desc>戦争は変わらないだろう - しかし,兵士は別であろう\n\n暴力的なアーブワールド(Urbworld)に生まれ,[PAWN_nameDef]は,外部勢力と戦う為に,若い時から訓練され,良い兵士になりました.</desc>
   </BoySoldier14>
 
   <Brave88>
@@ -552,7 +552,7 @@
   <BrothelGofer84>
     <title>売春宿の使い走り</title>
     <titleShort>使い走り</titleShort>
-    <desc>一世紀に渡る経済崩壊によって破壊された,蒸気機関が主流のMidworldに生まれた,[PAWN_nameDef]は,若い頃から,行商や,靴磨き,針子などの働きに出ていました - [PAWN_pronoun]は掛け持ちしていました.\nしかし,[PAWN_pronoun]は,売春宿の使い走りとして最も知られており,媚薬を吸う道具や,薬など全てを,娼婦達の部屋まで運んでいました.</desc>
+    <desc>一世紀に渡る経済崩壊によって破壊された,蒸気機関が主流のミッドワールド(Midworld)に生まれた,[PAWN_nameDef]は,若い頃から,行商や,靴磨き,針子などの働きに出ていました - [PAWN_pronoun]は掛け持ちしていました.\nしかし,[PAWN_pronoun]は,売春宿の使い走りとして最も知られており,媚薬を吸う道具や,薬など全てを,娼婦達の部屋まで運んでいました.</desc>
   </BrothelGofer84>
 
   <BrutalThief59>
@@ -606,7 +606,7 @@
   <CaravanChild29>
     <title>キャラバン隊の子供</title>
     <titleShort>子供</titleShort>
-    <desc>[PAWN_nameDef]は,Urbworldの貿易船で,起業家精神あふれる母と,ぼんやりした父との間に生まれました.男性として生まれ,"彼女"は男性のスタッフを嫌い,いつも母親の事に興味を持っていました.\n\nついに,彼女は,彼女の母親と一緒に,Glitterworldへ向かい,自分の貯金を使い,彼女が満足する身体を手に入れました.</desc>
+    <desc>[PAWN_nameDef]は,アーブワールド(Urbworld)の貿易船で,起業家精神あふれる母と,ぼんやりした父との間に生まれました.男性として生まれ,"彼女"は男性のスタッフを嫌い,いつも母親の事に興味を持っていました.\n\nついに,彼女は,彼女の母親と一緒に,Glitterworldへ向かい,自分の貯金を使い,彼女が満足する身体を手に入れました.</desc>
   </CaravanChild29>
 
   <Caravaneer53>
@@ -636,7 +636,7 @@
   <CasketBuilder52>
     <title>棺職人</title>
     <titleShort>職人</titleShort>
-    <desc>[PAWN_nameDef]は,冷凍睡眠への魅力に取り憑かれ,その不思議なテクノロジーを学ぶことに人生を費やしてきました.\n\nMidworldで組立工として働き,[PAWN_nameDef]は,廃棄部品から,冷凍睡眠器の実験用プロトタイプを作っていました.残念ながら,[PAWN_pronoun]が最終的なコンポーネントを捜している間に,[PAWN_possessive]母星は絨毯爆撃されていまいました.</desc>
+    <desc>[PAWN_nameDef]は,冷凍睡眠への魅力に取り憑かれ,その不思議なテクノロジーを学ぶことに人生を費やしてきました.\n\nミッドワールド(Midworld)で組立工として働き,[PAWN_nameDef]は,廃棄部品から,冷凍睡眠器の実験用プロトタイプを作っていました.残念ながら,[PAWN_pronoun]が最終的なコンポーネントを捜している間に,[PAWN_possessive]母星は絨毯爆撃されていまいました.</desc>
   </CasketBuilder52>
 
   <Castaway57>
@@ -660,37 +660,37 @@
   <CaveChild17>
     <title>洞窟児</title>
     <titleShort>洞窟児</titleShort>
-    <desc>[PAWN_nameDef]は,ツンドラ気候惑星の洞窟の中で育ち,「Wizards」として知られる旅一座のグループに養子として引き取られました.クルーと旅を続けてから,Wizardsは,[PAWN_objective]宇宙について驚くべき話を伝えました.\n\nある日,Wizardsはスカベンジから戻って来ませんでした.何年も待った後,[PAWN_nameDef]は,彼らを探しに宇宙へでました.</desc>
+    <desc>[PAWN_nameDef]は,ツンドラ気候惑星のケイブワールド(Caveworld)の中で育ち,「Wizards」として知られる旅一座のグループに養子として引き取られました.クルーと旅を続けてから,Wizardsは,[PAWN_objective]宇宙について驚くべき話を伝えました.\n\nある日,Wizardsはスカベンジから戻って来ませんでした.何年も待った後,[PAWN_nameDef]は,彼らを探しに宇宙へでました.</desc>
   </CaveChild17>
 
   <CaveChild30>
     <title>洞窟児</title>
     <titleShort>洞窟児</titleShort>
-    <desc>[PAWN_nameDef]は,ツンドラ気候惑星の洞窟の中で育ち,「Wizards」として知られる旅一座のグループに養子として引き取られました.クルーと旅を続けてから,Wizardsは,[PAWN_objective]宇宙について驚くべき話を伝えました.\n\nある日,Wizardsはスカベンジから戻って来ませんでした.何年も待った後,[PAWN_nameDef]は,彼らを探しに宇宙へでました.</desc>
+    <desc>[PAWN_nameDef]は,ツンドラ気候惑星のケイブワールド(Caveworld)の中で育ち,「Wizards」として知られる旅一座のグループに養子として引き取られました.クルーと旅を続けてから,Wizardsは,[PAWN_objective]宇宙について驚くべき話を伝えました.\n\nある日,Wizardsはスカベンジから戻って来ませんでした.何年も待った後,[PAWN_nameDef]は,彼らを探しに宇宙へでました.</desc>
   </CaveChild30>
 
   <CaveworldIlluminator23>
-    <title>ケイブワールドの導き手</title>
+    <title>Caveworldの導き手</title>
     <titleShort>導き手</titleShort>
-    <desc>穴居人は共通して,[PAWN_nameDef]のように特に視力が良い人はセージとして崇拝されました.[PAWN_pronoun]は生物発光するキノコで穴を掘る場所や危険なモノの近くにマーキングしました.</desc>
+    <desc>ケイブワールド(Caveworld)の穴居人は共通して,[PAWN_nameDef]のように特に視力が良い人はセージとして崇拝されました.[PAWN_pronoun]は生物発光するキノコで穴を掘る場所や危険なモノの近くにマーキングしました.</desc>
   </CaveworldIlluminator23>
 
   <CaveworldTender20>
-    <title>ケイブワールドの世話人</title>
+    <title>Caveworldの世話人</title>
     <titleShort>洞窟児</titleShort>
-    <desc>[PAWN_nameDef]は,地表が荒れ果てた惑星の地下深く,複雑に入り組んだ洞窟で育ちました.[PAWN_pronoun]は他の子供達と共に,部族の作物であるキノコ類の世話をして働きました.</desc>
+    <desc>[PAWN_nameDef]は,地表が荒れ果てた惑星の地下深く,複雑に入り組んだケイブワールド(Caveworld)の洞窟で育ちました.[PAWN_pronoun]は他の子供達と共に,部族の作物であるキノコ類の世話をして働きました.</desc>
   </CaveworldTender20>
 
   <CaveworldTunneler48>
     <title>Caveworldの坑夫</title>
     <titleShort>坑夫</titleShort>
-    <desc>[PAWN_nameDef]は,地下深く複雑に入り組んだ巨大な洞窟の中で,坑夫の仕事をしていました.\n\n[PAWN_pronoun]は,臭いの違いで洞窟の中を行き来できるぐらいに,岩石について非常に良く知ってました.</desc>
+    <desc>[PAWN_nameDef]は,ケイブワールド(Caveworld)の地下深く複雑に入り組んだ巨大な洞窟の中で,坑夫の仕事をしていました.\n\n[PAWN_pronoun]は,臭いの違いで洞窟の中を行き来できるぐらいに,岩石について非常に良く知ってました.</desc>
   </CaveworldTunneler48>
 
   <CharityWorker36>
     <title>ボランティア</title>
     <titleShort>ボランティア</titleShort>
-    <desc>Glitterworldは,ここに住めるラッキーな人々に,天国のような安心と快適さを提供しますが,[PAWN_nameDef]は,人々が貧困に喘いでいる,近くの惑星を無視できませんでした.[PAWN_pronoun]は,自分の時間を使って,必要としている人たちへの寄付と援助を訴えています.</desc>
+    <desc>グリッターワールド(Glitterworld)は,ここに住めるラッキーな人々に,天国のような安心と快適さを提供しますが,[PAWN_nameDef]は,人々が貧困に喘いでいる,近くの惑星を無視できませんでした.[PAWN_pronoun]は,自分の時間を使って,必要としている人たちへの寄付と援助を訴えています.</desc>
   </CharityWorker36>
 
   <Chef52>
@@ -708,7 +708,7 @@
   <Chemist78>
     <title>化学者</title>
     <titleShort>化学者</titleShort>
-    <desc>[PAWN_nameDef]は繁栄しているMidworldでの高名な化学者でした.\n\n人間をビーストに変えてしまう非人道的な実験後,[PAWN_pronoun]は逮捕され,遙か遠くのRimworldに追放されました.</desc>
+    <desc>[PAWN_nameDef]は繁栄しているミッドワールド(Midworld)での高名な化学者でした.\n\n人間をビーストに変えてしまう非人道的な実験後,[PAWN_pronoun]は逮捕され,遙か遠くのリムワールド(Rimworld)に追放されました.</desc>
   </Chemist78>
 
   <ChessMaster67>
@@ -762,7 +762,7 @@
   <ChildSlave58>
     <title>子供の奴隷</title>
     <titleShort>奴隷</titleShort>
-    <desc>Grahamは,Rimworldの貧しい家に生まれました.若い時に,彼の父が,彼を奴隷商人に売り渡して以来,何度も何度も,売られ続けてきました.ある将軍は,彼を,子供労働者の一部として買い,鉱山に送り込んで,機械の面倒をさせたり,共に働かせました.</desc>
+    <desc>Grahamは,リムワールド(Rimworld)の貧しい家に生まれました.若い時に,彼の父が,彼を奴隷商人に売り渡して以来,何度も何度も,売られ続けてきました.ある将軍は,彼を,子供労働者の一部として買い,鉱山に送り込んで,機械の面倒をさせたり,共に働かせました.</desc>
   </ChildSlave58>
 
   <ChildSpy47>
@@ -962,7 +962,7 @@
   <ConstructionEngineer32>
     <title>建築士</title>
     <titleShort>大工</titleShort>
-    <desc>[PAWN_nameDef]は,Midworldの大工でした.[PAWN_pronoun]は,事務所から大聖堂まで何でも,チームを率いて建築します.\n\n[PAWN_pronoun]は仕事が忙しく,外食ばかりしていたので,[PAWN_pronoun]は料理をしません.</desc>
+    <desc>[PAWN_nameDef]は,ミッドワールド(Midworld)の大工でした.[PAWN_pronoun]は,事務所から大聖堂まで何でも,チームを率いて建築します.\n\n[PAWN_pronoun]は仕事が忙しく,外食ばかりしていたので,[PAWN_pronoun]は料理をしません.</desc>
   </ConstructionEngineer32>
 
   <ConstructionGrunt84>
@@ -1064,7 +1064,7 @@
   <CostumeCrafter41>
     <title>コス衣装製作者</title>
     <titleShort>コスプレイヤー</titleShort>
-    <desc>[PAWN_nameDef]は,日中はMidworldのサラリーマンとして働き,夜は,ＳＦコスプレ用のモンスター衣装を念入りに作っていました.\n\n[PAWN_pronoun]は,縫製に関して素晴らしい技術を身につけました.残念なことに,インスタント食品以上の手の込んだ料理ができるということが犠牲になりました.</desc>
+    <desc>[PAWN_nameDef]は,日中はミッドワールド(Midworld)のサラリーマンとして働き,夜は,ＳＦコスプレ用のモンスター衣装を念入りに作っていました.\n\n[PAWN_pronoun]は,縫製に関して素晴らしい技術を身につけました.残念なことに,インスタント食品以上の手の込んだ料理ができるということが犠牲になりました.</desc>
   </CostumeCrafter41>
 
   <Counselor26>
@@ -1145,7 +1145,7 @@
   <DataDecoder39>
     <title>データデコーダ</title>
     <titleShort>デコーダ</titleShort>
-    <desc>Glitterworldに生まれ,[PAWN_nameDef]は,情報文書化プロセスに非常に興味を持ち,直ぐに,上級Glitterpediaの書記官になりました.\n\n[PAWN_pronoun]は,自己学習の能力が高いのですが,[PAWN_pronoun]は,人付き合いが苦手でできません.</desc>
+    <desc>グリッターワールド(Glitterworld)に生まれ,[PAWN_nameDef]は,情報文書化プロセスに非常に興味を持ち,直ぐに,上級Glitterpediaの書記官になりました.\n\n[PAWN_pronoun]は,自己学習の能力が高いのですが,[PAWN_pronoun]は,人付き合いが苦手でできません.</desc>
   </DataDecoder39>
 
   <DedicatedStudent12>
@@ -1213,7 +1213,7 @@
   <DestroyerGeneral26>
     <title>駆逐艦司令</title>
     <titleShort>司令官</titleShort>
-    <desc>[PAWN_nameDef]は,強力なMidworld軍の中で,駆逐艦司令の地位を確保しました.\n\n[PAWN_pronoun]は,武器の精通者として知られ,優れたパイロットでもありました.</desc>
+    <desc>[PAWN_nameDef]は,強力なミッドワールド(Midworld)軍の中で,駆逐艦司令の地位を確保しました.\n\n[PAWN_pronoun]は,武器の精通者として知られ,優れたパイロットでもありました.</desc>
   </DestroyerGeneral26>
 
   <Digger66>
@@ -1267,7 +1267,7 @@
   <DisplacedNoble83>
     <title>没落貴族</title>
     <titleShort>貴族</titleShort>
-    <desc>Urbworldに生まれ,巨大3都市の支配者,[PAWN_nameDef]の将来は明るいものでした - [PAWN_possessive]一家が暴動反乱によって転覆するまでは.国外追放は,[PAWN_nameDef]に,きつい仕事と戦闘を引き合わせましたが,気位の高い潔癖性は残ったままでした.</desc>
+    <desc>アーブワールド(Urbworld)に生まれ,巨大3都市の支配者,[PAWN_nameDef]の将来は明るいものでした - [PAWN_possessive]一家が暴動反乱によって転覆するまでは.国外追放は,[PAWN_nameDef]に,きつい仕事と戦闘を引き合わせましたが,気位の高い潔癖性は残ったままでした.</desc>
   </DisplacedNoble83>
 
   <DoomsdayPariah24>
@@ -1520,7 +1520,7 @@
   <FeralChild96>
     <title>野生児</title>
     <titleShort>生存者</titleShort>
-    <desc>[PAWN_nameDef]と,[PAWN_possessive]家族は,辛くとも生き,離れたRimworldの仲間と一緒に繁栄していました.\n\nある日,メカノイドの一群が襲いかかり,Robertの仲間を全員殺してしまいました.それからの彼は,レイダーのグループが,彼を見つけるまでの間,砂漠の中を独りで生きてきました.</desc>
+    <desc>[PAWN_nameDef]と,[PAWN_possessive]家族は,辛くとも生き,離れたリムワールド(Rimworld)の仲間と一緒に繁栄していました.\n\nある日,メカノイドの一群が襲いかかり,Robertの仲間を全員殺してしまいました.それからの彼は,レイダーのグループが,彼を見つけるまでの間,砂漠の中を独りで生きてきました.</desc>
   </FeralChild96>
 
   <FerventResearcher72>
@@ -1532,7 +1532,7 @@
   <FeudalFarmBoy0>
     <title>封建世界の農家の子</title>
     <titleShort>奴隷</titleShort>
-    <desc>[PAWN_nameDef]は,中世時代の農夫の子供で,親の跡を継ぐことを期待されていました.[PAWN_pronoun]は,優しい農家の子供として躾けられました.\n\n[PAWN_pronoun]は,遺伝子操作として知られる,Midworldの科学と共存した,一風変わった封建的王国に住んでしました.</desc>
+    <desc>[PAWN_nameDef]は,中世時代の農夫の子供で,親の跡を継ぐことを期待されていました.[PAWN_pronoun]は,優しい農家の子供として躾けられました.\n\n[PAWN_pronoun]は,遺伝子操作として知られる,ミッドワールド(Midworld)の科学と共存した,一風変わった封建的王国に住んでしました.</desc>
   </FeudalFarmBoy0>
 
   <FeudalLordling56>
@@ -1726,21 +1726,21 @@
   </GlitterworldEmpath26>
 
   <GlitterworldKid85>
-    <title>グリッターワールドの子供</title>
+    <title>Glitterworldの子供</title>
     <titleShort>グリッター育ち</titleShort>
-    <desc>Glitterworldでの遺伝子操作された"完璧すぎる子供",Chazはとてもシャイで,両親よりも,引っ込み思案の神経質でした.[PAWN_pronoun]は,もっぱら,科学を勉強したり,薬学,ガーデニングを趣味としてやっていました.\n\n10代の時,[PAWN_pronoun]は静かな暮らしを探しに,家を飛び出しました.</desc>
+    <desc>グリッターワールド(Glitterworld)での遺伝子操作された"完璧すぎる子供",Chazはとてもシャイで,両親よりも,引っ込み思案の神経質でした.[PAWN_pronoun]は,もっぱら,科学を勉強したり,薬学,ガーデニングを趣味としてやっていました.\n\n10代の時,[PAWN_pronoun]は静かな暮らしを探しに,家を飛び出しました.</desc>
   </GlitterworldKid85>
 
   <GlitterworldNerd20>
     <title>Glitterworldのオタク</title>
-    <titleShort>Nerd</titleShort>
+    <titleShort>オタク</titleShort>
     <desc>[PAWN_nameDef]は,[PAWN_pronoun]が生まれた時から,テクノロジーが好きでした.10歳の時に,[PAWN_pronoun]は,所持していたメカノイドを改造しようとしました.\n\n[PAWN_pronoun]のテクノロジーにこだわり過ぎることは,[PAWN_pronoun]が芸術や文化を正しく理解出来ないことを意味しています.</desc>
   </GlitterworldNerd20>
 
   <GlitterworldOfficer60>
     <title>Glitterworld士官</title>
     <titleShort>士官</titleShort>
-    <desc>Glitterworldは平和的な世界とは言うものの,彼らは,依然として戦争前夜のままでした.[PAWN_nameDef]の部隊が実際に作戦行動をとっているのは希でした.\n\n[PAWN_pronoun]は, 芸術的な趣味を追い求めてるけれども,[PAWN_possessive]部下が,格闘技で楽しませてくれる事を好み,[PAWN_nameDef]は戦いを面白がっています.</desc>
+    <desc>グリッターワールド(Glitterworld)は平和的な世界とは言うものの,彼らは,依然として戦争前夜のままでした.[PAWN_nameDef]の部隊が実際に作戦行動をとっているのは希でした.\n\n[PAWN_pronoun]は, 芸術的な趣味を追い求めてるけれども,[PAWN_possessive]部下が,格闘技で楽しませてくれる事を好み,[PAWN_nameDef]は戦いを面白がっています.</desc>
   </GlitterworldOfficer60>
 
   <GlitterworldRoyal24>
@@ -1800,13 +1800,13 @@
   <GunKid30>
     <title>銃マニア</title>
     <titleShort>銃マニア</titleShort>
-    <desc>Urbworldで大きくなった[PAWN_nameDef]は,楽ではありませんでした.毎日が,苦労と汚れ,飢え,年長のギャングにまみれていました.\n\n彼の住むちっぽけな世界で,彼は,情熱を傾けるもの - 銃,戦術,戦史を学びました.</desc>
+    <desc>アーブワールド(Urbworld)で大きくなった[PAWN_nameDef]は,楽ではありませんでした.毎日が,苦労と汚れ,飢え,年長のギャングにまみれていました.\n\n彼の住むちっぽけな世界で,彼は,情熱を傾けるもの - 銃,戦術,戦史を学びました.</desc>
   </GunKid30>
 
   <Gymnast48>
     <title>体操選手</title>
     <titleShort>体操選手</titleShort>
-    <desc>若い頃の[PAWN_nameDef]はプロの体操選手でした.その実力のおかげで,[PAWN_pronoun]は母星を離れてグリッターワールドの大学に入学することができました.\n\n体操で職を得る機会に恵まれなかったため,[PAWN_pronoun]は無職のまま多額の借金を抱えて大学を去りました.</desc>
+    <desc>若い頃の[PAWN_nameDef]はプロの体操選手でした.その実力のおかげで,[PAWN_pronoun]は母星を離れてグリッターワールド(Glitterworld)の大学に入学することができました.\n\n体操で職を得る機会に恵まれなかったため,[PAWN_pronoun]は無職のまま多額の借金を抱えて大学を去りました.</desc>
   </Gymnast48>
 
   <HackerKid98>
@@ -1855,7 +1855,7 @@
   <HedgeFundManager54>
     <title>ヘッジファンドマネージャ</title>
     <titleShort>銀行家</titleShort>
-    <desc>豊かなUrbworldで,トップヘッジファンドマネージャをしている[PAWN_nameDef]が,よこしまな意図をもって甘い言葉で魅了したクライアントのポートフォリオは,急速に成長していた.その取引が,あまりに話がうま過ぎるとバレると,[PAWN_pronoun]は,賞金首となってしまい惑星を逃げ出さなければならない羽目になった.\n\n[PAWN_pronoun]が星々をさまよっている間,彼は芸術の中に情熱を見つけ,上流階級のお客様用の傑作画を作るようになりました.</desc>
+    <desc>豊かなアーブワールド(Urbworld)で,トップヘッジファンドマネージャをしている[PAWN_nameDef]が,よこしまな意図をもって甘い言葉で魅了したクライアントのポートフォリオは,急速に成長していた.その取引が,あまりに話がうま過ぎるとバレると,[PAWN_pronoun]は,賞金首となってしまい惑星を逃げ出さなければならない羽目になった.\n\n[PAWN_pronoun]が星々をさまよっている間,彼は芸術の中に情熱を見つけ,上流階級のお客様用の傑作画を作るようになりました.</desc>
   </HedgeFundManager54>
 
   <HelpDeskWorker31>
@@ -1879,7 +1879,7 @@
   <Hermit82>
     <title>隠者</title>
     <titleShort>隠者</titleShort>
-    <desc>人間関係の軋轢に疲れ切ってしまった[PAWN_nameDef]は,広々とした場所での素朴な生活を送る為に,ごみごみとしたMidworldの街を離れました.[PAWN_pronoun]は生きていくのに必要な,簡素なツールを作ったり,[PAWN_possessive]庭の手入れをしたりして,生涯を独りで過ごしました.</desc>
+    <desc>人間関係の軋轢に疲れ切ってしまった[PAWN_nameDef]は,広々とした場所での素朴な生活を送る為に,ごみごみとしたミッドワールド(Midworld)の街を離れました.[PAWN_pronoun]は生きていくのに必要な,簡素なツールを作ったり,[PAWN_possessive]庭の手入れをしたりして,生涯を独りで過ごしました.</desc>
   </Hermit82>
 
   <Herpetologist3>
@@ -2047,19 +2047,19 @@
   <ImperialStudent49>
     <title>帝国の学生</title>
     <titleShort>学生</titleShort>
-    <desc>[PAWN_nameDef]は,銃が禁止され護身術が奨励されていた,Midworldの帝国で学んでいました.比較的に安全な環境は,[PAWN_objective]に植物の研究に集中できる機会を与えました.</desc>
+    <desc>[PAWN_nameDef]は,銃が禁止され護身術が奨励されていた,ミッドワールド(Midworld)の帝国で学んでいました.比較的に安全な環境は,[PAWN_objective]に植物の研究に集中できる機会を与えました.</desc>
   </ImperialStudent49>
 
   <IndustrialOrphan13>
-    <title>工業世界の孤児</title>
+    <title>Indworldの孤児</title>
     <titleShort>孤児</titleShort>
-    <desc>[PAWN_nameDef]は自分の親の事を知りません.[PAWN_pronoun]幼少の記憶には,鉱山での苦役と,[PAWN_possessive]工業世界の養護施設の事しかありません.\n\nこれが理由で,[PAWN_pronoun]は正式な教育を受けていませんでした.</desc>
+    <desc>[PAWN_nameDef]は自分の親の事を知りません.[PAWN_pronoun]幼少の記憶には,鉱山での苦役と,[PAWN_possessive]インダストリアルワールド(Indworld)の養護施設の事しかありません.\n\nこれが理由で,[PAWN_pronoun]は正式な教育を受けていませんでした.</desc>
   </IndustrialOrphan13>
 
   <IndworldUrchin73>
     <title>Indworldの悪ガキ</title>
     <titleShort>悪ガキ</titleShort>
-    <desc>[PAWN_nameDef]は,産業革命が起きて間もない時代の路地で育ちました.[PAWN_pronoun]は盗みや,物乞い,捨てられた機械をあさって過ごし,常に貧しさから抜け出す方法を探していました.</desc>
+    <desc>[PAWN_nameDef]は,産業革命が起きて間もないインダストリアルワールド(Indworld)の路地で育ちました.[PAWN_pronoun]は盗みや,物乞い,捨てられた機械をあさって過ごし,常に貧しさから抜け出す方法を探していました.</desc>
   </IndworldUrchin73>
 
   <Infantry99>
@@ -2137,7 +2137,7 @@
   <JoywireArtist8>
     <title>ジョイワイヤーアーチスト</title>
     <titleShort>ジョイワイヤ</titleShort>
-    <desc>[PAWN_nameDef]は,Urbworldのラボで,最先端のジョイワイヤーソフトウェアを,ユーザーの好みに,最大限,同調するように開発する仕事をしていました.\n\n地方政府が,ジョイワイヤー製造に過酷な制限を課すと,[PAWN_pronoun]は,[PAWN_possessive]製品をブラックマーケットで売りさばき始めました.</desc>
+    <desc>[PAWN_nameDef]は,アーブワールド(Urbworld)のラボで,最先端のジョイワイヤーソフトウェアを,ユーザーの好みに,最大限,同調するように開発する仕事をしていました.\n\n地方政府が,ジョイワイヤー製造に過酷な制限を課すと,[PAWN_pronoun]は,[PAWN_possessive]製品をブラックマーケットで売りさばき始めました.</desc>
   </JoywireArtist8>
 
   <JungleKid31>
@@ -2149,7 +2149,7 @@
   <JunkyardMechanic51>
     <title>ジャンクヤードメカニック</title>
     <titleShort>メカニック</titleShort>
-    <desc>幼少期に見込みが無いと捨てられ,[PAWN_nameDef]は,Urbworldのジャンクヤードを経営するボスによって助けられました.ボスは,[PAWN_nameDef]に,危険で厳しい作業を押しつけました.\n\n[PAWN_nameDef]は,非常に機械に詳しくなりましたが,[PAWN_pronoun]は殆ど他の事は,できずに育ちました.</desc>
+    <desc>幼少期に見込みが無いと捨てられ,[PAWN_nameDef]は,アーブワールド(Urbworld)のジャンクヤードを経営するボスによって助けられました.ボスは,[PAWN_nameDef]に,危険で厳しい作業を押しつけました.\n\n[PAWN_nameDef]は,非常に機械に詳しくなりましたが,[PAWN_pronoun]は殆ど他の事は,できずに育ちました.</desc>
   </JunkyardMechanic51>
 
   <KidScientist53>
@@ -2197,7 +2197,7 @@
   <LazyProgrammer3>
     <title>使えないプログラマ</title>
     <titleShort>プログラマ</titleShort>
-    <desc>[PAWN_nameDef]は,Urbworld地元の企業に対抗する競争力を持った,独立したソフトウェア開発者でした.\n\n[PAWN_pronoun]法律的にいかがわしい手法は,未解決の知的所有権盗用の申し立て件数を,増加させるきっかけとなりました.</desc>
+    <desc>[PAWN_nameDef]は,アーブワールド(Urbworld)地元の企業に対抗する競争力を持った,独立したソフトウェア開発者でした.\n\n[PAWN_pronoun]法律的にいかがわしい手法は,未解決の知的所有権盗用の申し立て件数を,増加させるきっかけとなりました.</desc>
   </LazyProgrammer3>
 
   <LineInfanteer20>
@@ -2317,7 +2317,7 @@
   <MafiaBoss17>
     <title>マフィアのボス</title>
     <titleShort>ボス</titleShort>
-    <desc>[PAWN_nameDef]は,Urbworldにおける犯罪組織の上級幹部でした.\n\n[PAWN_pronoun]は,役人に賄賂を配り,子分の忠誠を維持し,借金の取り立てをしていました - 必要とあらば,ありとあらゆる手段を使って</desc>
+    <desc>[PAWN_nameDef]は,アーブワールド(Urbworld)における犯罪組織の上級幹部でした.\n\n[PAWN_pronoun]は,役人に賄賂を配り,子分の忠誠を維持し,借金の取り立てをしていました - 必要とあらば,ありとあらゆる手段を使って</desc>
   </MafiaBoss17>
 
   <Mailman2>
@@ -2349,7 +2349,7 @@
   <MasterChef48>
     <title>主任料理人</title>
     <titleShort>シェフ</titleShort>
-    <desc>Glitterworld世界で,[PAWN_nameDef]は,有名な料理店の皿洗いの仕事を見つけた後,徐々に頭角を表してきました.\n\n数年後,[PAWN_pronoun]が用意した市長への食事に,誰かが毒物を混入した時に,[PAWN_possessive]経歴は終焉を迎えました.仕事を失い,[PAWN_pronoun]は,もう一度,仕事を探しに星を後にしました.</desc>
+    <desc>グリッターワールド(Glitterworld)世界で,[PAWN_nameDef]は,有名な料理店の皿洗いの仕事を見つけた後,徐々に頭角を表してきました.\n\n数年後,[PAWN_pronoun]が用意した市長への食事に,誰かが毒物を混入した時に,[PAWN_possessive]経歴は終焉を迎えました.仕事を失い,[PAWN_pronoun]は,もう一度,仕事を探しに星を後にしました.</desc>
   </MasterChef48>
 
   <MasterTrader65>
@@ -2379,7 +2379,7 @@
   <MechanoidNerd10>
     <title>メカノイドオタク</title>
     <titleShort>メカノイドオタク</titleShort>
-    <desc>[PAWN_nameDef]はUrbworldで,唯一の子供の兄弟でのメカノイドデザイナーでした.彼らは機械への興味を徐々に膨らませていき,ついには,[PAWN_pronoun]は,[PAWN_possessive]自身の機械を作れると思い込むようになりました.\n\n残念ながら,友達より,技術書が好きなことが,[PAWN_objective]独りぼっちにさせてしまいました.</desc>
+    <desc>[PAWN_nameDef]はアーブワールド(Urbworld)で,唯一の子供の兄弟でのメカノイドデザイナーでした.彼らは機械への興味を徐々に膨らませていき,ついには,[PAWN_pronoun]は,[PAWN_possessive]自身の機械を作れると思い込むようになりました.\n\n残念ながら,友達より,技術書が好きなことが,[PAWN_objective]独りぼっちにさせてしまいました.</desc>
   </MechanoidNerd10>
 
   <MechWarVeteran77>
@@ -2573,37 +2573,37 @@
   <Microbiologist12>
     <title>細菌生物学者</title>
     <titleShort>生物学者</titleShort>
-    <desc>疫病が[PAWN_nameDef]の故郷Urbworldを襲いました.[PAWN_nameDef]と他の研究者は,この病気が生物兵器によることを示しましたが,人々は彼らに敵意を表し病気の責任を責めました.\n\n[PAWN_nameDef]は,母星が混沌とした世界になるギリギリ前に脱出しました.</desc>
+    <desc>疫病が[PAWN_nameDef]の故郷アーブワールド(Urbworld)を襲いました.[PAWN_nameDef]と他の研究者は,この病気が生物兵器によることを示しましたが,人々は彼らに敵意を表し病気の責任を責めました.\n\n[PAWN_nameDef]は,母星が混沌とした世界になるギリギリ前に脱出しました.</desc>
   </Microbiologist12>
 
   <MidworldCadet83>
     <title>Midworld士官候補生</title>
     <titleShort>士官候補生</titleShort>
-    <desc>宇宙間航行が栄えているMidworldのハイテク世界で育ち,[PAWN_nameDef]は,星を出て,増大する宇宙空間の中で生きていきたいを望んでいました.\n\n[PAWN_pronoun]は勉学に優れ,[PAWN_possessive]母星の中で最も名声のある海軍兵学校に入学する資格を得ました.</desc>
+    <desc>宇宙間航行が栄えているミッドワールド(Midworld)のハイテク世界で育ち,[PAWN_nameDef]は,星を出て,増大する宇宙空間の中で生きていきたいを望んでいました.\n\n[PAWN_pronoun]は勉学に優れ,[PAWN_possessive]母星の中で最も名声のある海軍兵学校に入学する資格を得ました.</desc>
   </MidworldCadet83>
 
   <MidworldGeek18>
     <title>Midworldのオタク</title>
     <titleShort>オタク</titleShort>
-    <desc>[PAWN_nameDef]は,都市近郊の静かな所で育ちました.彼は,人付き合いが大の苦手でしたが,若い時の,彼のコンピューターへの興味は,本物の才能へと花開きました.</desc>
+    <desc>[PAWN_nameDef]は,ミッドワールド(Midworld)にある都市近郊の静かな所で育ちました.彼は,人付き合いが大の苦手でしたが,若い時の,彼のコンピューターへの興味は,本物の才能へと花開きました.</desc>
   </MidworldGeek18>
 
   <MidworldLoner80>
     <title>Midworld孤独好き</title>
     <titleShort>孤独好き</titleShort>
-    <desc>[PAWN_nameDef]は,穏やかで,平凡なMidworldに生まれました.\n\n[PAWN_pronoun]には,たくさんの友達がいたのに, [PAWN_pronoun]は独りで,ネット動画を見ながら[PAWN_possessive]原チャリをいじくり回すか,自分で組み合わせたライフル銃を持ったプラモデルの兵隊を撃って,過ごすようになりました.</desc>
+    <desc>[PAWN_nameDef]は,穏やかで,平凡なミッドワールド(Midworld)に生まれました.\n\n[PAWN_pronoun]には,たくさんの友達がいたのに, [PAWN_pronoun]は独りで,ネット動画を見ながら[PAWN_possessive]原チャリをいじくり回すか,自分で組み合わせたライフル銃を持ったプラモデルの兵隊を撃って,過ごすようになりました.</desc>
   </MidworldLoner80>
 
   <MidworldSailor91>
     <title>Midworldの船員</title>
     <titleShort>船員</titleShort>
-    <desc>[PAWN_nameDef]は,自国の海軍に加わりました.数年後,下士官として,彼は,スキルを使い船で反乱を起こしました.\n\nついには,[PAWN_nameDef]は,よく訓練された凶暴な海賊グループのリーダーになりました.これからは,彼専任のコックが彼のために料理します.</desc>
+    <desc>[PAWN_nameDef]は,ミッドワールド(Midworld)にある自国の海軍に加わりました.数年後,下士官として,彼は,スキルを使い船で反乱を起こしました.\n\nついには,[PAWN_nameDef]は,よく訓練された凶暴な海賊グループのリーダーになりました.これからは,彼専任のコックが彼のために料理します.</desc>
   </MidworldSailor91>
 
   <MidworldSketcher71>
     <title>Midworldの絵描き</title>
     <titleShort>絵描き</titleShort>
-    <desc>[PAWN_nameDef]は,貧しくとも愛されて育ちました.\n\n[PAWN_pronoun]は,彼の父から受け継いだ,芸術的な素質を持っている事がわかりました.[PAWN_pronoun]の母は,勤勉や決心が役に立つものと彼に教えました.すくすくと成長し,[PAWN_nameDef]は,テクノロジーや戦史に惹きつけられるようになりました.</desc>
+    <desc>[PAWN_nameDef]は,ミッドワールド(Midworld)で貧しくとも愛されて育ちました.\n\n[PAWN_pronoun]は,彼の父から受け継いだ,芸術的な素質を持っている事がわかりました.[PAWN_pronoun]の母は,勤勉や決心が役に立つものと彼に教えました.すくすくと成長し,[PAWN_nameDef]は,テクノロジーや戦史に惹きつけられるようになりました.</desc>
   </MidworldSketcher71>
 
   <MilitantChild49>
@@ -2675,7 +2675,7 @@
   <MilitaryRecruit49>
     <title>新兵</title>
     <titleShort>新兵</titleShort>
-    <desc>[PAWN_nameDef]は,Midworldの強烈な軍国主義的独裁政権下に生まれました.\n\n若い頃から,[PAWN_pronoun]は,優れた戦士になる為に訓練されてきました.彼らは,銃の使い方や,白兵戦の戦い方を,[PAWN_objective]教えてきました.</desc>
+    <desc>[PAWN_nameDef]は,ミッドワールド(Midworld)の強烈な軍国主義的独裁政権下に生まれました.\n\n若い頃から,[PAWN_pronoun]は,優れた戦士になる為に訓練されてきました.彼らは,銃の使い方や,白兵戦の戦い方を,[PAWN_objective]教えてきました.</desc>
   </MilitaryRecruit49>
 
   <MilitaryTrainee20>
@@ -2711,7 +2711,7 @@
   <MobHenchman53>
     <title>子分</title>
     <titleShort>子分</titleShort>
-    <desc>奴隷狩りの船によって,母星から"救助"された,[PAWN_nameDef]は,Urbworldの犯罪王の元に売られていき,そこで子分として使役させられました.[PAWN_pronoun]は,ローテクな殴り合いと,威嚇を専門としました.</desc>
+    <desc>奴隷狩りの船によって,母星から"救助"された,[PAWN_nameDef]は,アーブワールド(Urbworld)の犯罪王の元に売られていき,そこで子分として使役させられました.[PAWN_pronoun]は,ローテクな殴り合いと,威嚇を専門としました.</desc>
   </MobHenchman53>
 
   <Model99>
@@ -2802,7 +2802,7 @@
   <NewAgeDuelist27>
     <title>新世代デュエリスト</title>
     <titleShort>デュエリスト</titleShort>
-    <desc>[PAWN_nameDef]は,戦うことに魅せられていました.[PAWN_possessive]両親は,旅行がちだったので,[PAWN_pronoun]は,多くの異なる格闘スタイル,第76代柔道から,悪名高い,'Urbworldスタイル空手'を見ることができました.\n\n礼儀正しい子供なので,殆どのファイターは,[PAWN_possessive]トレーニング中のリクエストにも答えてくれました - 寸止めは[PAWN_objective]退屈にさせましたが.</desc>
+    <desc>[PAWN_nameDef]は,戦うことに魅せられていました.[PAWN_possessive]両親は,旅行がちだったので,[PAWN_pronoun]は,多くの異なる格闘スタイル,第76代柔道から,悪名高い,'アーブワールド(Urbworld)スタイル空手'を見ることができました.\n\n礼儀正しい子供なので,殆どのファイターは,[PAWN_possessive]トレーニング中のリクエストにも答えてくれました - 寸止めは[PAWN_objective]退屈にさせましたが.</desc>
   </NewAgeDuelist27>
 
   <NinjaAssassin31>
@@ -2844,7 +2844,7 @@
   <OptimisticChild30>
     <title>脳天気な子供</title>
     <titleShort>楽天家</titleShort>
-    <desc>Keesは愛情のある両親に恵まれ,midworldで楽しい人生を送っていました.彼は楽天家で,友達を作ることや友達の話を聞くことが好きな社交的な少年でした.彼の想像はアイデアや疑問によってドンドン膨らむかもしれません.</desc>
+    <desc>Keesは愛情のある両親に恵まれ,ミッドワールド(Midworld)で楽しい人生を送っていました.彼は楽天家で,友達を作ることや友達の話を聞くことが好きな社交的な少年でした.彼の想像はアイデアや疑問によってドンドン膨らむかもしれません.</desc>
   </OptimisticChild30>
 
   <OrbitalReservist22>
@@ -3219,7 +3219,7 @@
   <QuietNerd97>
     <title>正真正銘のガリ勉</title>
     <titleShort>ガリ勉</titleShort>
-    <desc>[PAWN_nameDef]はMidworld世界にすむ両親から溺愛されて育ちました.他の子達と遊ぶかわりに,[PAWN_pronoun]は,飽きずに読書に耽っていました.\n\n[PAWN_pronoun]は,著しく乱暴では無いですが,肉体作業には苦労しました.</desc>
+    <desc>[PAWN_nameDef]はミッドワールド(Midworld)にすむ両親から溺愛されて育ちました.他の子達と遊ぶかわりに,[PAWN_pronoun]は,飽きずに読書に耽っていました.\n\n[PAWN_pronoun]は,著しく乱暴では無いですが,肉体作業には苦労しました.</desc>
   </QuietNerd97>
 
   <RaiderKing38>
@@ -3310,7 +3310,7 @@
     <title>再教育少年</title>
     <titleFemale>再教育少女</titleFemale>
     <titleShort>再教育者</titleShort>
-    <desc>[PAWN_nameDef]は,Midworldで,政府が若者の面倒をみる施設に住んでいました.\n\n[PAWN_pronoun]は,新しい教育プロクラムの為に,両親から引き離された子供達が,たくさんいる中の一人でした.</desc>
+    <desc>[PAWN_nameDef]は,ミッドワールド(Midworld)で,政府が若者の面倒をみる施設に住んでいました.\n\n[PAWN_pronoun]は,新しい教育プロクラムの為に,両親から引き離された子供達が,たくさんいる中の一人でした.</desc>
   </ReEducatedYouth23>
 
   <Regent9>
@@ -3334,7 +3334,7 @@
   <RenownedProfessor51>
     <title>高名な教授</title>
     <titleShort>教授</titleShort>
-    <desc>[PAWN_nameDef]の惜しみない思いやりと知識への愛情が[PAWN_objective]教師生活へと駆り立て,[PAWN_pronoun]は,Urbworldの学会で最も知られた者の一人になりました.\n\n[PAWN_possessive]ホログラム講義は,全支持者から尊敬をうけ,少数の学生を, [PAWN_pronoun]が思いやりや忍耐についての広い範囲を説いた[PAWN_possessive]ゼミに受け入れました.</desc>
+    <desc>[PAWN_nameDef]の惜しみない思いやりと知識への愛情が[PAWN_objective]教師生活へと駆り立て,[PAWN_pronoun]は,アーブワールド(Urbworld)の学会で最も知られた者の一人になりました.\n\n[PAWN_possessive]ホログラム講義は,全支持者から尊敬をうけ,少数の学生を, [PAWN_pronoun]が思いやりや忍耐についての広い範囲を説いた[PAWN_possessive]ゼミに受け入れました.</desc>
   </RenownedProfessor51>
 
   <Reporter71>
@@ -3352,7 +3352,7 @@
   <RichBoy9>
     <title>お大尽な子</title>
     <titleShort>裕福な子</titleShort>
-    <desc>[PAWN_nameDef]は,Midworldで親の愛と,可愛いペット,たくさんのお金に恵まれて育ちました - 友達は一人もいませんが.\n\n[PAWN_pronoun]は,[PAWN_possessive]父から,「貧乏人の奴らは,金だけが目当てだ」と,いつも言われていました.ですから,[PAWN_pronoun]は,ほとんどの時間,独りでいるか,他の子供とケンカして過ごしました.</desc>
+    <desc>[PAWN_nameDef]は,ミッドワールド(Midworld)で親の愛と,可愛いペット,たくさんのお金に恵まれて育ちました - 友達は一人もいませんが.\n\n[PAWN_pronoun]は,[PAWN_possessive]父から,「貧乏人の奴らは,金だけが目当てだ」と,いつも言われていました.ですから,[PAWN_pronoun]は,ほとんどの時間,独りでいるか,他の子供とケンカして過ごしました.</desc>
   </RichBoy9>
 
   <RichKid61>
@@ -3424,7 +3424,7 @@
   <RunawayDancer35>
     <title>逃亡したダンサー</title>
     <titleShort>ダンサー</titleShort>
-    <desc>科学の力によって育ち,科学を目指した,[PAWN_nameDef]は科学を放り出しました.その代わり,[PAWN_pronoun]は,多くの世界(魅惑のGlitterworldから危険なRimworldまで)の群衆の前でダンスを披露したいと思っています.\n\nこのような職業には,ほほ笑みながらも,衣装の下にはピストルを隠し持つ能力が要求されました.</desc>
+    <desc>科学の力によって育ち,科学を目指した,[PAWN_nameDef]は科学を放り出しました.その代わり,[PAWN_pronoun]は,多くの世界(魅惑のグリッターワールド(Glitterworld)から危険なリムワールド(Rimworld)まで)の群衆の前でダンスを披露したいと思っています.\n\nこのような職業には,ほほ笑みながらも,衣装の下にはピストルを隠し持つ能力が要求されました.</desc>
   </RunawayDancer35>
 
   <SanitationCaptain29>
@@ -3485,7 +3485,7 @@
   <Sculptor63>
     <title>彫刻家</title>
     <titleShort>彫刻家</titleShort>
-    <desc>[PAWN_nameDef]は,人と同じくらいの塊の石を削ることから始めました,すぐにもっと大きな物に手を出し始めました.掘削ロボットと一緒に,[PAWN_pronoun]は,鋭利な側面に緩やかに傾斜をつける方法を学びました.直ぐに,[PAWN_pronoun]が住んでいるGlitterworldの自然公園に,その大きな彫刻が置かれました.</desc>
+    <desc>[PAWN_nameDef]は,人と同じくらいの塊の石を削ることから始めました,すぐにもっと大きな物に手を出し始めました.掘削ロボットと一緒に,[PAWN_pronoun]は,鋭利な側面に緩やかに傾斜をつける方法を学びました.直ぐに,[PAWN_pronoun]が住んでいるグリッターワールド(Glitterworld)の自然公園に,その大きな彫刻が置かれました.</desc>
   </Sculptor63>
 
   <SelflessHunter61>
@@ -3635,7 +3635,7 @@
   <SmallTownKid41>
     <title>田舎の子供</title>
     <titleShort>村の子供</titleShort>
-    <desc>[PAWN_nameDef]は,Midworldの田園に囲まれた孤立した村で育ちました.\n\n[PAWN_possessive]両親は,[PAWN_objective]幅広い役にたつ家事を教えました.平和で安全な子供時代は,人生の辛い部分などを微塵も感じさせませんでした.</desc>
+    <desc>[PAWN_nameDef]は,ミッドワールド(Midworld)の田園に囲まれた孤立した村で育ちました.\n\n[PAWN_possessive]両親は,[PAWN_objective]幅広い役にたつ家事を教えました.平和で安全な子供時代は,人生の辛い部分などを微塵も感じさせませんでした.</desc>
   </SmallTownKid41>
 
   <Smuggler23>
@@ -3647,7 +3647,7 @@
   <SocialPariah3>
     <title>社会の除け者</title>
     <titleShort>のけ者</titleShort>
-    <desc>[PAWN_nameDef]の家族は,周囲とうまく調和することはありません.この家族は,彼ら社会の厳格な習慣に適合できないため,変人として扱われました.これが元で,彼らは冷凍睡眠装置に押し込まれたのちに,二度と顔を合わせることが無いよう,他のRimworldに向け送られました.</desc>
+    <desc>[PAWN_nameDef]の家族は,周囲とうまく調和することはありません.この家族は,彼ら社会の厳格な習慣に適合できないため,変人として扱われました.これが元で,彼らは冷凍睡眠装置に押し込まれたのちに,二度と顔を合わせることが無いよう,他のリムワールド(Rimworld)に向け送られました.</desc>
   </SocialPariah3>
 
   <SoftwareDeveloper84>
@@ -3721,7 +3721,7 @@
   <SpaceHumanitarian9>
     <title>宇宙的人道主義者</title>
     <titleShort>活動家</titleShort>
-    <desc>過密したUrbworldにはびこる食料不足を見てしまったあと,[PAWN_nameDef]は,[PAWN_possessive]人生を,不運な人達を助ける事に捧げようと決めました.この改革運動は,空腹と病気への対処方法を教えました.</desc>
+    <desc>過密したアーブワールド(Urbworld)にはびこる食料不足を見てしまったあと,[PAWN_nameDef]は,[PAWN_possessive]人生を,不運な人達を助ける事に捧げようと決めました.この改革運動は,空腹と病気への対処方法を教えました.</desc>
   </SpaceHumanitarian9>
 
   <SpaceHunter79>
@@ -3755,7 +3755,7 @@
   </SpaceMarine51>
 
   <SpaceMarine9>
-    <title>航宙海兵隊員 marine</title>
+    <title>航宙海兵隊員</title>
     <titleShort>海兵隊員</titleShort>
     <desc>[PAWN_nameDef]は,帝国航宙戦士団のエリート隊員でした.極めて激しい訓練の下におかれると,[PAWN_pronoun]は顕著な戦闘能力を発揮しました.\n\n[PAWN_possessive]部隊の疑似的宗教感と信念は,戦争の惨禍に巻き込まれてる間中,思慮分別を保ち続ける助けになりました.</desc>
   </SpaceMarine9>
@@ -3791,7 +3791,7 @@
   </SpaceNavyTech12>
 
   <SpaceNerd97>
-    <title>スペースヲタク nerd</title>
+    <title>スペースヲタク</title>
     <titleShort>スペースヲタク</titleShort>
     <desc>[PAWN_nameDef]は,[PAWN_possessive]中で大好きなスーパーヒーローオールマイトのようなカッコイイ者になりたがっていました.[PAWN_pronoun]はスペースアドベンチャーや新世界の探検を夢見ていました.[PAWN_pronoun]はチョコレートも夢見て...スペースチョコレート</desc>
   </SpaceNerd97>
@@ -3943,7 +3943,7 @@
   <StarforceCadet79>
     <title>士官候補生</title>
     <titleShort>士官候補生</titleShort>
-    <desc>The Star EmpireのGlitterworld首都(Amen-Ti)の出で,Sam Wissaは,穏やかな幼少期を送りました.\n\n青春時代に,Samは,宇宙軍に加わる事が,帝国に貢献できる方法になると考え,そのように決めました.</desc>
+    <desc>The Star Empireのグリッターワールド(Glitterworld)首都(Amen-Ti)の出で,Sam Wissaは,穏やかな幼少期を送りました.\n\n青春時代に,Samは,宇宙軍に加わる事が,帝国に貢献できる方法になると考え,そのように決めました.</desc>
   </StarforceCadet79>
 
   <StarKnight5>
@@ -4045,7 +4045,7 @@
   <StreetPeddler66>
     <title>街の行商人</title>
     <titleShort>行商人</titleShort>
-    <desc>強奪や路上強盗が当たり前の,Midworldの工業社会で育った[PAWN_nameDef]は,小さな安物の宝石作りや,マッチ売りで,家族の家計を手助けしていました.</desc>
+    <desc>強奪や路上強盗が当たり前の,ミッドワールド(Midworld)の工業社会で育った[PAWN_nameDef]は,小さな安物の宝石作りや,マッチ売りで,家族の家計を手助けしていました.</desc>
   </StreetPeddler66>
 
   <StreetRat81>
@@ -4069,7 +4069,7 @@
   <StreetUrchin53>
     <title>街の悪ガキ</title>
     <titleShort>悪ガキ</titleShort>
-    <desc>アーブワールドで貧しい家庭に生まれた[PAWN_nameDef]は,幼い頃に路上に棄てられました.\n\n[PAWN_pronoun]は冷酷な街を生き残るために盗みや殺すことを学び,格闘と射撃スキルを獲得しました.[PAWN_possessive]人生に,人と話す時間はほとんどありませんでした.</desc>
+    <desc>アーブワールド(Urbworld)で貧しい家庭に生まれた[PAWN_nameDef]は,幼い頃に路上に棄てられました.\n\n[PAWN_pronoun]は冷酷な街を生き残るために盗みや殺すことを学び,格闘と射撃スキルを獲得しました.[PAWN_possessive]人生に,人と話す時間はほとんどありませんでした.</desc>
   </StreetUrchin53>
 
   <Student65>
@@ -4238,7 +4238,7 @@
   <ToolMechanic77>
     <title>ツールメカニック</title>
     <titleShort>メカニック</titleShort>
-    <desc>[PAWN_nameDef]は,埃まみれのRimworldで,有名なツールメカニックでした.\n\nスキャンダルによって[PAWN_possessive]農園が閉鎖したあと,[PAWN_pronoun]は生きる為,物を作るナイフやハンマーを研ぐ為に部族に加わり,集落を巡って自分の商品を取引していました.</desc>
+    <desc>[PAWN_nameDef]は,埃まみれのリムワールド(Rimworld)で,有名なツールメカニックでした.\n\nスキャンダルによって[PAWN_possessive]農園が閉鎖したあと,[PAWN_pronoun]は生きる為,物を作るナイフやハンマーを研ぐ為に部族に加わり,集落を巡って自分の商品を取引していました.</desc>
   </ToolMechanic77>
 
   <Torturer37>
@@ -4280,13 +4280,13 @@
   <TransferStudent10>
     <title>編入生</title>
     <titleShort>学生</titleShort>
-    <desc>Midworldに生まれ,[PAWN_pronoun]両親は,より良い教育を受けさせる為,近くにあるGlitterworldに,[PAWN_objective]送ることができるぐらい裕福でした.\n\n[PAWN_nameDef]は,才能を持った学生で,Glitterworldでの学習期間中は,素晴らしい成績を残しました.けれども,裕福な家族を持ったことにより,[PAWN_pronoun]は単純労働に手を出す事は決して有りませんでした.</desc>
+    <desc>ミッドワールド(Midworld)に生まれ,[PAWN_pronoun]両親は,より良い教育を受けさせる為,近くにあるグリッターワールド(Glitterworld)に,[PAWN_objective]送ることができるぐらい裕福でした.\n\n[PAWN_nameDef]は,才能を持った学生で,グリッターワールドでの学習期間中は,素晴らしい成績を残しました.けれども,裕福な家族を持ったことにより,[PAWN_pronoun]は単純労働に手を出す事は決して有りませんでした.</desc>
   </TransferStudent10>
 
   <TraumatizedYouth87>
     <title>トラウマ</title>
     <titleShort>トラウマ</titleShort>
-    <desc>[PAWN_nameDef]は,心地良いMidworldに住んでいました.\n\n[PAWN_pronoun]人造母は心臓病にかかりました.絶望感の中,[PAWN_nameDef]の父は,無実な人を誘拐し,その心臓を取り出しました.[PAWN_nameDef]の父は逮捕され,子供心に傷を負いました.</desc>
+    <desc>[PAWN_nameDef]は,心地良いミッドワールド(Midworld)に住んでいました.\n\n[PAWN_pronoun]人造母は心臓病にかかりました.絶望感の中,[PAWN_nameDef]の父は,無実な人を誘拐し,その心臓を取り出しました.[PAWN_nameDef]の父は逮捕され,子供心に傷を負いました.</desc>
   </TraumatizedYouth87>
 
   <TreasureHunter82>
@@ -4339,8 +4339,8 @@
 
   <UpperUrbworlder12>
     <title>Urbworldの上流階級</title>
-    <titleShort>上流urber</titleShort>
-    <desc>[PAWN_nameDef]は,一流のUrbworldで,幼少時代の免責特権を持っていました.貧困層が密集した都市部の,遙か上層のアパートに住み,[PAWN_pronoun]は,[PAWN_possessive]ほとんどの時間を,読書と,[PAWN_pronoun]が窓を通して見た都市景観の描写をして過ごしていました.</desc>
+    <titleShort>上流アーブ</titleShort>
+    <desc>[PAWN_nameDef]は,アーブワールド(Urbworld)で上流階級の家に産まれ,幼少時代の免責特権を持っていました.貧困層が密集した都市部の,遙か上層のアパートに住み,[PAWN_pronoun]は,[PAWN_possessive]ほとんどの時間を,読書と,[PAWN_pronoun]が窓を通して見た都市景観の描写をして過ごしていました.</desc>
   </UpperUrbworlder12>
 
   <UprightDiplomat49>
@@ -4360,43 +4360,43 @@
   <UrbworldArmyBrat84>
     <title>Urbworldの軍事オタク</title>
     <titleShort>軍事オタク</titleShort>
-    <desc>[PAWN_nameDef]は,Urbworldの軍事基地で育ちました.[PAWN_pronoun]は,戦闘するには若すぎたので,[PAWN_pronoun]は他の方法で役に立てるよう学習していました.\n\n[PAWN_pronoun]は,銃や,装備に精通するようになりましたが,未だに,それらには触らせてもらえていません.</desc>
+    <desc>[PAWN_nameDef]は,アーブワールド(Urbworld)の軍事基地で育ちました.[PAWN_pronoun]は,戦闘するには若すぎたので,[PAWN_pronoun]は他の方法で役に立てるよう学習していました.\n\n[PAWN_pronoun]は,銃や,装備に精通するようになりましたが,未だに,それらには触らせてもらえていません.</desc>
   </UrbworldArmyBrat84>
 
   <UrbworldChild56>
-    <title>アーブワールドの子供</title>
+    <title>Urbworldの子供</title>
     <titleShort>アーブ育ち</titleShort>
-    <desc>[PAWN_nameDef]は,アーブワールドで隔離されて育てられました.[PAWN_possessive]上級生への憎しみで[PAWN_objective]頻繁に独房に入れられ,[PAWN_objective]内向的な子供にしました.\n\n[PAWN_pronoun]が街中に出された後,[PAWN_pronoun]は戦争ゲームを楽しみ,仮想世界でさまざまな兵器を使いこなすようになりました.</desc>
+    <desc>[PAWN_nameDef]は,アーブワールド(Urbworld)で隔離されて育てられました.[PAWN_possessive]上級生への憎しみで[PAWN_objective]頻繁に独房に入れられ,[PAWN_objective]内向的な子供にしました.\n\n[PAWN_pronoun]が街中に出された後,[PAWN_pronoun]は戦争ゲームを楽しみ,仮想世界でさまざまな兵器を使いこなすようになりました.</desc>
   </UrbworldChild56>
 
   <UrbworldCriminal80>
     <title>Urbworldの犯罪者</title>
     <titleShort>犯罪者</titleShort>
-    <desc>人口過剰のurbworldの劣悪な環境の中で生まれ,Vladimirは飢えと寒さを免れるためにしょうもない罪を犯していました.\n\n強盗と殺人は彼にとって日常茶飯事でした.Vladimirは生き残ることは,勝ち続けることだと学びました.</desc>
+    <desc>人口過剰のアーブワールド(Urbworld)の劣悪な環境の中で生まれ,Vladimirは飢えと寒さを免れるためにしょうもない罪を犯していました.\n\n強盗と殺人は彼にとって日常茶飯事でした.Vladimirは生き残ることは,勝ち続けることだと学びました.</desc>
   </UrbworldCriminal80>
 
   <UrbworldDrone32>
-    <title>アーブワールドのドローン</title>
+    <title>Urbworldのドローン</title>
     <titleShort>ドローン</titleShort>
-    <desc>[PAWN_nameDef]は,大きなアーブワールドで無謀な建設ドローンとして働きました.[PAWN_pronoun]は[PAWN_pronoun]が受けた残忍な社会実験からは解放されましたが,[PAWN_pronoun]は自発的な考えと率先した行動をとれません.</desc>
+    <desc>[PAWN_nameDef]は,大きなアーブワールド(Urbworld)で無謀な建設ドローンとして働きました.[PAWN_pronoun]は[PAWN_pronoun]が受けた残忍な社会実験からは解放されましたが,[PAWN_pronoun]は自発的な考えと率先した行動をとれません.</desc>
   </UrbworldDrone32>
 
   <UrbworldEnforcer11>
     <title>Urbworldの法の番人</title>
     <titleShort>法の番人</titleShort>
-    <desc>[PAWN_nameDef]は,古代Urbworldの法の番人でした.\n\n[PAWN_pronoun]は,宮殿に住んでいる貪欲なUrbworldの貴族階級を守る為に, 地下深くにいる食人カルト集団を根絶やしにするという,もっとも人間性の悪いところに対処していました.</desc>
+    <desc>[PAWN_nameDef]は,古代アーブワールド(Urbworld)の法の番人でした.\n\n[PAWN_pronoun]は,宮殿に住んでいる貪欲なアーブワールドの貴族階級を守る為に, 地下深くにいる食人カルト集団を根絶やしにするという,もっとも人間性の悪いところに対処していました.</desc>
   </UrbworldEnforcer11>
 
   <UrbworldEntrepreneur14>
     <title>Urbworldの経営者</title>
     <titleShort>経営者</titleShort>
-    <desc>Urbworldは,もっとも苦難な所です.それより誰かが,会社を経営しなければなりません.\n\n[PAWN_nameDef]は,トレードスキル(不正な取引や,テクニカルアナリシス)を身につけました.[PAWN_pronoun]は,社会インテリマシーンです.</desc>
+    <desc>アーブワールド(Urbworld)は,もっとも苦難な所です.それより誰かが,会社を経営しなければなりません.\n\n[PAWN_nameDef]は,トレードスキル(不正な取引や,テクニカルアナリシス)を身につけました.[PAWN_pronoun]は,社会インテリマシーンです.</desc>
   </UrbworldEntrepreneur14>
 
   <UrbworldHooligan12>
     <title>Urbworldのチンピラ</title>
     <titleShort>チンピラ</titleShort>
-    <desc>[PAWN_nameDef]は危険なurbworldで育ちました.[PAWN_pronoun]は日々の糧を得る方法を早々に学びました…犯罪によって.この方法では,料理や生育スキルの入る余地がありませんでした.</desc>
+    <desc>[PAWN_nameDef]は危険なアーブワールド(Urbworld)で育ちました.[PAWN_pronoun]は日々の糧を得る方法を早々に学びました…犯罪によって.この方法では,料理や生育スキルの入る余地がありませんでした.</desc>
   </UrbworldHooligan12>
 
   <UrbworldPimp93>
@@ -4408,11 +4408,11 @@
   <UrbworldPolitican92>
     <title>Urbworldの政治家</title>
     <titleShort>政治家</titleShort>
-    <desc>Urbworldの,ほとんどを保有している企業群が,賄賂を受け取ることは秘密ではありません.Vladimirも,そのような社長の一人です.\n\n彼は,快適なペントハウスに住みながらも,どうやって,人々の夢や希望を,巧みに扱ったらよいかを学びました.</desc>
+    <desc>アーブワールド(Urbworld)の,ほとんどを保有している企業群が,賄賂を受け取ることは秘密ではありません.Vladimirも,そのような社長の一人です.\n\n彼は,快適なペントハウスに住みながらも,どうやって,人々の夢や希望を,巧みに扱ったらよいかを学びました.</desc>
   </UrbworldPolitican92>
 
   <UrbworldRebel56>
-    <title>アーブワールドの反乱者</title>
+    <title>Urbworldの反乱者</title>
     <titleShort>反乱者</titleShort>
     <desc>[PAWN_nameDef]の世界のほとんどの人々は,オンラインハイブマインドに参加するために自分自身の個性をあきらめました.[PAWN_nameDef]は,テクノロジーを完全に拒否した反乱勢力に参加しました.</desc>
   </UrbworldRebel56>
@@ -4432,7 +4432,7 @@
   <UrbworldUrchin61>
     <title>Urbworldの悪ガキ</title>
     <titleShort>悪ガキ</titleShort>
-    <desc>Meredithは,Urbworldの暗黒スラム街に生まれました.母親から育児放棄された彼は,目にした食べかすの為にでも争い,独りで生き残る方法を身につけました.\n\nついには,彼の才能は他を圧倒し,彼は闇の底から地表へと這い上がりました.母親を置き去りにして.</desc>
+    <desc>Meredithは,アーブワールド(Urbworld)の暗黒スラム街に生まれました.母親から育児放棄された彼は,目にした食べかすの為にでも争い,独りで生き残る方法を身につけました.\n\nついには,彼の才能は他を圧倒し,彼は闇の底から地表へと這い上がりました.母親を置き去りにして.</desc>
   </UrbworldUrchin61>
 
   <UrbworldUrchin87>
@@ -4456,31 +4456,31 @@
   <VatgrownAssassin20>
     <title>Vatgrown暗殺者</title>
     <titleShort>クローン</titleShort>
-    <desc>Vasは,ヒトとしてでは無く,氷の心臓を持った暗殺者として作られました.彼は,科学者によるバイオ工学の産物で,殺し屋として訓練されました.彼は,死や,生への執着,感情を持たないように教育されました.</desc>
+    <desc>Vasは,ヒトとしてでは無く,氷の心臓を持った暗殺者として作られました.彼はクローン培養槽育ち(vat-grown)で,科学者によるバイオ工学の産物の殺し屋として訓練されました.彼は,死や,生への執着,感情を持たないように教育されました.</desc>
   </VatgrownAssassin20>
 
   <VatgrownMedic53>
     <title>Vatgrown軍医</title>
     <titleShort>軍医</titleShort>
-    <desc>衛生兵になるべく育てられ,[PAWN_nameDef]は,薬物はもちろん,銃の扱いの訓練も受けました.怪我を負った兵士がやって来た時の,お気に入りのフレーズは,"Life or death?"でした,ほとんどの兵士は,Lifeを選びましたが. </desc>
+    <desc>クローン培養槽育ち(vat-grown)で,衛生兵として育てられた[PAWN_nameDef]は,薬物はもちろん,銃の扱いの訓練も受けました.怪我を負った兵士がやって来た時の,お気に入りのフレーズは,"生か死か?"でした,ほとんどの兵士は,生きることを選びましたが. </desc>
   </VatgrownMedic53>
 
   <VatgrownScientist91>
     <title>Vatgrown 科学者</title>
     <titleShort>科学者</titleShort>
-    <desc>[PAWN_nameDef]は,物理学と化学に完璧に特化した科学者になるべく育成されました.\n\n[PAWN_pronoun]製作者は,[PAWN_objective]頭脳設計の補助教材として使い,[PAWN_pronoun]は,ついに優れた頭脳を持ち,研究を続けています.</desc>
+    <desc>[PAWN_nameDef]は,クローン培養槽育ち(vat-grown)で物理学と化学に完璧に特化した科学者になるべく育成されました.\n\n[PAWN_pronoun]製作者は,[PAWN_objective]頭脳設計の補助教材として使い,[PAWN_pronoun]は,ついに優れた頭脳を持ち,研究を続けています.</desc>
   </VatgrownScientist91>
 
   <VatgrownSlavegirl67>
     <title>Vatgrownな奴隷少女</title>
     <titleShort>奴隷少女</titleShort>
-    <desc>Emmieは,人造培養人間(vat-grown)で,Urbworldの不正規研究所の奴隷でした.幼女の時に,彼女は,料理と掃除,主人に仕えることだけを教えられました.彼女の子供時代は,ただそれだけでした.</desc>
+    <desc>Emmieは,クローン培養槽育ち(vat-grown)で,アーブワールド(Urbworld)の不正規研究所の奴隷でした.幼女の時に,彼女は,料理と掃除,主人に仕えることだけを教えられました.彼女の子供時代は,ただそれだけでした.</desc>
   </VatgrownSlavegirl67>
 
   <VatgrownSoldier8>
     <title>Vatgrownの兵士</title>
     <titleShort>Vatgrown</titleShort>
-    <desc>[PAWN_nameDef]は,人として作られたのではなく,破壊の手段として作られました.バイオ兵器施設の中で育ち,[PAWN_possessive]成長促進される過程で戦闘技術を教わって,いまだに[PAWN_nameDef]は,あらゆる種類での戦闘癖を持ち,人類と接触することを嫌がっています.</desc>
+    <desc>[PAWN_nameDef]は,人として作られたのではなく,破壊の手段として作られました.バイオ兵器施設の中で生まれたクローン培養槽育ち(vat-grown)で,[PAWN_possessive]成長促進される過程で戦闘技術を教わって,いまだに[PAWN_nameDef]は,あらゆる種類での戦闘癖を持ち,人類と接触することを嫌がっています.</desc>
   </VatgrownSoldier8>
 
   <VengefulChild43>
@@ -4522,7 +4522,7 @@
   <VideoGamer55>
     <title>テレビゲーマー</title>
     <titleShort>ゲーマー</titleShort>
-    <desc>[PAWN_nameDef]は,Midworldに育ち,ほとんど,自分の部屋に閉じこもって,テレビゲームをしていました.[PAWN_pronoun]は,動物に深い愛情と思いやりを持っていました.\n\n[PAWN_pronoun]が大きくなると,[PAWN_pronoun]は,自分の本質を高める為にドラッグに手をだしました.そうしているときに,[PAWN_pronoun]は情熱を見つけ,ジムに逃げ込みました.</desc>
+    <desc>[PAWN_nameDef]は,ミッドワールド(Midworld)に育ち,ほとんど,自分の部屋に閉じこもって,テレビゲームをしていました.[PAWN_pronoun]は,動物に深い愛情と思いやりを持っていました.\n\n[PAWN_pronoun]が大きくなると,[PAWN_pronoun]は,自分の本質を高める為にドラッグに手をだしました.そうしているときに,[PAWN_pronoun]は情熱を見つけ,ジムに逃げ込みました.</desc>
   </VideoGamer55>
 
   <VideoProducer83>
@@ -4576,7 +4576,7 @@
   <VRDesigner87>
     <title>VRデザイナ</title>
     <titleShort>ゲーム制作者</titleShort>
-    <desc>[PAWN_nameDef]は,グリッターワールド市民向けの仮想現実シミュレーターを開発していました.世界の細部に細心の注意を払い,風景をより本物らしくするため,植物について可能な限り学びました.</desc>
+    <desc>[PAWN_nameDef]は,グリッターワールド(Glitterworld)市民向けの仮想現実シミュレーターを開発していました.世界の細部に細心の注意を払い,風景をより本物らしくするため,植物について可能な限り学びました.</desc>
   </VRDesigner87>
 
   <WanderingCrafter42>
@@ -4588,7 +4588,7 @@
   <WanderingHealer52>
     <title>流浪の癒し手</title>
     <titleShort>癒し手</titleShort>
-    <desc>[PAWN_nameDef]は,医者になる為に勉強していましたが,平和なMidworldなりの別なやり方での練習方法に満足していませんでした.\n\nそのため,[PAWN_pronoun]は,住み慣れた地を離れて,[PAWN_pronoun]をもっと必要としている人々がいる辺境の地へ旅立ちました.</desc>
+    <desc>[PAWN_nameDef]は,医者になる為に勉強していましたが,平和なミッドワールド(Midworld)なりの別なやり方での練習方法に満足していませんでした.\n\nそのため,[PAWN_pronoun]は,住み慣れた地を離れて,[PAWN_pronoun]をもっと必要としている人々がいる辺境の地へ旅立ちました.</desc>
   </WanderingHealer52>
 
   <WarBastard60>
@@ -4666,7 +4666,7 @@
   <WealthyStudent59>
     <title>富裕学生</title>
     <titleShort>学生</titleShort>
-    <desc>[PAWN_nameDef]は,Glitterworldの裕福な家庭に生まれました.[PAWN_pronoun]は,カスピアン工科大学で学び,数学とコンピュータプログラミングに優秀な成績を残しました.\n\n[PAWN_nameDef]は,清潔な無菌環境で育ちました.[PAWN_pronoun]は,農場や家畜を見たことがありません.</desc>
+    <desc>[PAWN_nameDef]は,グリッターワールド(Glitterworld)の裕福な家庭に生まれました.[PAWN_pronoun]は,カスピアン工科大学で学び,数学とコンピュータプログラミングに優秀な成績を残しました.\n\n[PAWN_nameDef]は,清潔な無菌環境で育ちました.[PAWN_pronoun]は,農場や家畜を見たことがありません.</desc>
   </WealthyStudent59>
 
   <Weaver63>
@@ -4738,7 +4738,7 @@
   <YoungPsychologist58>
     <title>若い心理学者</title>
     <titleShort>サイコ</titleShort>
-    <desc>[PAWN_nameDef]は,貧しいMidworldで生まれ,[PAWN_possessive]母親のタクシーの助手席で育ちました.\n\n歩行者を眺め,くる日もくる日も,乗客の話を聞きていると,[PAWN_pronoun]は,人の本当の目的を理解するのが,すぐに上手くなりました.</desc>
+    <desc>[PAWN_nameDef]は,貧しいミッドワールド(Midworld)で生まれ,[PAWN_possessive]母親のタクシーの助手席で育ちました.\n\n歩行者を眺め,くる日もくる日も,乗客の話を聞きていると,[PAWN_pronoun]は,人の本当の目的を理解するのが,すぐに上手くなりました.</desc>
   </YoungPsychologist58>
 
   <YouthDelinquent30>
