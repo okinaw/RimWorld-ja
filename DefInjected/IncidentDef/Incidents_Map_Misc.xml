@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Good -->
+
+  <ResourcePodCrash.label>輸送ポッド落下</ResourcePodCrash.label>
+  <PsychicSoothe.label>サイコスード</PsychicSoothe.label>
+  <SelfTame.label>新たなペット</SelfTame.label>
+
+  <AmbrosiaSprout.label>アンブロージアの発芽</AmbrosiaSprout.label>
+  <AmbrosiaSprout.letterText>すぐ近くのミステリアスなアンブロージアの木立で新芽が発芽しました!.成長するまで待てば,美味しくて喜ばしい,プチ病みつきになるフルーツを収穫できるでしょう.</AmbrosiaSprout.letterText>
+  <AmbrosiaSprout.letterLabel>アンブロージアの発芽</AmbrosiaSprout.letterLabel>
+
+  <FarmAnimalsWanderIn.label>新たな家畜</FarmAnimalsWanderIn.label>
+
+  <WandererJoin.label>新たな入植者</WandererJoin.label>
+  <WandererJoin.letterText>{PAWN_title}と名乗る{PAWN_nameDef}が到着して,コロニーに加わりました.\n\n{PAWN_pronoun}は役に立ちたいと思っているので自分から去ることは無いでしょう.もし{PAWN_nameDef}を必要としないなら,{PAWN_objective}追放したり奴隷として売るか,もっと簡単に殺してしまうこともできます.しかし,コロニーの入植者達は,この騒ぎに気が付くでしょう.</WandererJoin.letterText>
+  <WandererJoin.letterLabel>新たな入植者:{PAWN_nameDef}</WandererJoin.letterLabel>
+
+  <RefugeePodCrash.label>輸送ポッド落下</RefugeePodCrash.label>
+
+
+  <!-- Neutral -->
+
+  <ThrumboPasses.label>スランボの群れ</ThrumboPasses.label>
+
+  <RansomDemand.label>身代金要求</RansomDemand.label>
+  <RansomDemand.letterLabel>身代金要求</RansomDemand.letterLabel>
+
+  <MeteoriteImpact.label>隕石衝突</MeteoriteImpact.label>
+  <MeteoriteImpact.letterText>大きな隕石がこのエリアを襲いました.それは{0}の塊を残しました.</MeteoriteImpact.letterText>
+  <MeteoriteImpact.letterLabel>メテオ</MeteoriteImpact.letterLabel>
+
+  <HerdMigration.label>大群の移動</HerdMigration.label>
+  <HerdMigration.letterText>{0}の群れが,このエリアを通り過ぎようとしています.\n\n彼らは挑発されない限り,攻撃してきません.</HerdMigration.letterText>
+  <HerdMigration.letterLabel>{0}の大移動</HerdMigration.letterLabel>
+
+  <WildManWandersIn.label>放浪の野蛮人</WildManWandersIn.label>
+  <WildManWandersIn.letterText>野生動物と暮らす人間が,このエリアに彷徨って来ました.{0}と呼ばれています.\n\nあなたは{PAWN_objective}手懐けることができます.</WildManWandersIn.letterText>
+  <WildManWandersIn.letterLabel>放浪の野蛮人</WildManWandersIn.letterLabel>
+
+
+  <!-- Bad -->
+
+  <PsychicDrone.label>サイコドローン</PsychicDrone.label>
+
+  <ToxicFallout.label>死の灰</ToxicFallout.label>
+  <ToxicFallout.letterLabel>死の灰</ToxicFallout.letterLabel>
+
+  <VolcanicWinter.label>火山の冬</VolcanicWinter.label>
+  <VolcanicWinter.letterLabel>火山の冬</VolcanicWinter.letterLabel>
+
+  <HeatWave.label>熱波</HeatWave.label>
+  <HeatWave.letterLabel>熱波</HeatWave.letterLabel>
+
+  <ColdSnap.label>寒波</ColdSnap.label>
+  <ColdSnap.letterLabel>寒波</ColdSnap.letterLabel>
+
+  <Flashstorm.label>ゲリラ雷雨</Flashstorm.label>
+  <Flashstorm.letterLabel>ゲリラ雷雨</Flashstorm.letterLabel>
+
+  <ShortCircuit.label>電力線ショート</ShortCircuit.label>
+  <CropBlight.label>農作物の疫病</CropBlight.label>
+  <Alphabeavers.label>アルファビーバー</Alphabeavers.label>
+
+</LanguageData>
