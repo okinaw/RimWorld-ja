@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <SolarFlare.label>太陽フレア</SolarFlare.label>
@@ -13,6 +13,7 @@
 
   <PsychicDrone.label>サイコドローン</PsychicDrone.label>
   <PsychicDrone.description>離れたところにある強力なAIが,人々を狂気へいざなおうとサイコウェーブを照射しています.</PsychicDrone.description>
+  <PsychicDrone.descriptionFuture>[psychicDroneLevel]なサイコドローンが,[gameConditionDuration_duration]の[map_definite]周辺地域を襲い,性別が[psychicDroneGender]な人々全員を狂気へと追いやります.</PsychicDrone.descriptionFuture>
   <PsychicDrone.endMessage>サイコドローンは終わろうとしている.</PsychicDrone.endMessage>
   <PsychicDrone.letterText>{0}の入植者たちは不安と怒りの波動を感じました！\n\n遠い場所から憎しみの発生器が動作しています.{0}だけに影響するよう調整された軌道増幅器を介して,この場所にサイキックドローンを放射しています.数日の間,何人かの心情はかなり悪化します.\n\nサイコドローンの強度は{1}です.</PsychicDrone.letterText>
 
@@ -23,21 +24,25 @@
 
   <ToxicFallout.label>死の灰</ToxicFallout.label>
   <ToxicFallout.description>少し遠い所で発生した,もくもくと立ち上がる有毒な塵が,ゆっくりと惑星全体を覆っていきます.屋根の無い所にいる人は,ゆっくりと毒に冒され,外にあるものは腐食するでしょう.</ToxicFallout.description>
+  <ToxicFallout.descriptionFuture>毒性がある塵の雲が[map_definite]周辺地域を[gameConditionDuration_duration]で覆って,屋外にいる動植物たちを殺します.</ToxicFallout.descriptionFuture>
   <ToxicFallout.endMessage>死の灰は峠を越したようてす.</ToxicFallout.endMessage>
   <ToxicFallout.letterText>少し遠い所で発生した,もくもくと立ち上がる有毒な塵が,ゆっくりと惑星全体を覆っています.\n\n屋根の無い所にいる人や動物はみな,大気圏外から降ってくる毒性がある塵にゆっくりと冒されます\n\n現象がなくなるまで数日から一ヶ月以上かかるでしょう.</ToxicFallout.letterText>
 
   <VolcanicWinter.label>火山の冬 </VolcanicWinter.label>
   <VolcanicWinter.description>大規模噴火による火山灰が,大気を覆ってしまった為,地表に届く日射量が著しく減っています.気温はより寒くなり植物の成長が遅くなるでしょう.</VolcanicWinter.description>
+  <VolcanicWinter.descriptionFuture>上層大気に火山灰のチリが堆積して,[gameConditionDuration_duration]の[map_definite]周辺の日照量を減らして,地域の生態系に深刻な損害を与えます.</VolcanicWinter.descriptionFuture>
   <VolcanicWinter.endMessage>ほとんどの火山灰は落ち着いてきた.</VolcanicWinter.endMessage>
   <VolcanicWinter.letterText>遠くの巨大火山が爆発し100万立方キロメートルの火山灰を大気中に放出しています.\n\n大気中の火山灰によって太陽光が遮られるでしょう.気温は下がり,日照量が少なくなれば作物の成長も悪くなるでしょう,影響が無くなるまで数週間から数ヶ月かかるでしょう.</VolcanicWinter.letterText>
 
   <HeatWave.label>熱波</HeatWave.label>
   <HeatWave.description>この辺り一帯を猛暑が襲います.</HeatWave.description>
+  <HeatWave.descriptionFuture>熱波は[gameConditionDuration_duration]のために[map_definite]周辺地域を高温の大気で覆い,作物を傷めて,時には冷房の無い場所の人や動物たちを殺します.</HeatWave.descriptionFuture>
   <HeatWave.endMessage>熱波は過ぎ去った.</HeatWave.endMessage>
   <HeatWave.letterText>異常な熱波が始まります.\n\nもし人々が熱中症に罹ると,熱波はいとも簡単に殺すことができます.クーラーを作るか,山奥深くに篭もって,冷温状態を維持してください.</HeatWave.letterText>
 
   <ColdSnap.label>寒波</ColdSnap.label>
   <ColdSnap.description>この辺り一帯を寒波が襲います.</ColdSnap.description>
+  <ColdSnap.descriptionFuture>寒波は[gameConditionDuration_duration]のために[map_definite]周辺地域を冷気で覆い,適切な保護の無い場所にいる人や動物や作物を傷つけます.</ColdSnap.descriptionFuture>
   <ColdSnap.endMessage>寒波は過ぎ去った.</ColdSnap.endMessage>
   <ColdSnap.letterText>異常な寒波が始まります.\n\n寒波は低体温症を誘発させ,いとも簡単に殺すことができます.生き抜くため,暖房施設があるか,適切な服を着ているかを確認し,作物は枯れる前に収穫します.</ColdSnap.letterText>
 
