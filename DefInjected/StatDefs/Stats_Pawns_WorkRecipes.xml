@@ -23,6 +23,7 @@
 
   <FoodPoisonChance.label>食中毒・発生率</FoodPoisonChance.label>
   <FoodPoisonChance.description>このキャラクターが料理したときに,うかつにも料理を汚染してしまう確率です.一時的な食中毒は当たった人を衰弱させます.</FoodPoisonChance.description>
+  <FoodPoisonChance.labelForFullStatList>食中毒・発生率(料理)</FoodPoisonChance.labelForFullStatList>
 
   <DrugCookingSpeed.label>ドラッグ・速度</DrugCookingSpeed.label>
   <DrugCookingSpeed.description>この人が作る,ビール,ティー,ジョイントのような単純なドラッグを作る速度です.</DrugCookingSpeed.description>

@@ -9,5 +9,6 @@
 
   <ConstructionSpeedFactor.label>建造速度</ConstructionSpeedFactor.label>
   <ConstructionSpeedFactor.description>建築速度への掛率です.石材などのある素材で建てる場合に遅くなり,木材のような素材では早くなります.</ConstructionSpeedFactor.description>
+  <ConstructionSpeedFactor.labelForFullStatList>建造速度(材料係数)</ConstructionSpeedFactor.labelForFullStatList>
 
 </LanguageData>
