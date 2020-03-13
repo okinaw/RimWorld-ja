@@ -1,13 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<CrashedPsychicEmanatorShipPart.label>宇宙船の一部</CrashedPsychicEmanatorShipPart.label>
-    <CrashedPsychicEmanatorShipPart.description>宇宙船の一部と思われる不思議な破片.あらゆる種類の凶悪な自衛機構や,魅力的な素材を含んでいると思われます.このてのテクノロジーは危険をはらんでいます.</CrashedPsychicEmanatorShipPart.description>
+  <!-- Note this is a ConditionCauser -->
 
-	<CrashedPoisonShipPart.label>汚染された宇宙船の一部</CrashedPoisonShipPart.label>
-    <CrashedPoisonShipPart.description>宇宙船の一部と思われる不思議な破片.あらゆる種類の凶悪な自衛機構や,魅力的な素材を含んでいると思われます.そのなかの一つが,この辺り一帯を汚染しているようです.</CrashedPoisonShipPart.description>
+  <PsychicDronerShipPart.label>宇宙船の一部(サイコ)</PsychicDronerShipPart.label>
+  <PsychicDronerShipPart.description>宇宙船の一部と思われる不思議な破片.あらゆる種類の凶悪な自衛機構や,魅力的な素材を含んでいると思われます.このてのテクノロジーは危険をはらんでいます.</PsychicDronerShipPart.description>
 
-    <ShipChunk.label>宇宙船の残骸</ShipChunk.label>
-    <ShipChunk.description>宇宙船の残骸.使えそうな資源を得るために分解できます.</ShipChunk.description>
+
+  <!-- Defoliator ship part -->
+
+  <DefoliatorShipPart.label>宇宙船の一部(汚染)</DefoliatorShipPart.label>
+  <DefoliatorShipPart.description>宇宙船の一部と思われる不思議な破片.あらゆる種類の凶悪な自衛機構や,魅力的な素材を含んでいると思われます.そのなかの一つが,この辺り一帯を汚染しているようです.</DefoliatorShipPart.description>
+
+
+  <!-- Misc -->
+
+  <ShipChunk.label>宇宙船の残骸</ShipChunk.label>
+  <ShipChunk.description>宇宙船の残骸.使えそうな資源を得るために分解できます.</ShipChunk.description>
 
 </LanguageData>
