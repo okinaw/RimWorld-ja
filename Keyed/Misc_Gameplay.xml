@@ -675,7 +675,7 @@
 \n{0}</Reward_Items>
   <Reward_Items_Caravan>受け取った（合計 {1}個):
 \n{0}</Reward_Items_Caravan>
-  <Reward_Goodwill>{0_name}との友好関係は{1}改善した</Reward_Goodwill>
+  <Reward_Goodwill>{0_name}との友好関係が{1}改善する</Reward_Goodwill>
 
   <!-- Bladelink -->
   <BondedWith>登録者：{0}</BondedWith>
