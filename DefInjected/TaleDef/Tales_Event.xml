@@ -6,10 +6,10 @@
 	    <li>tale_noun->[PAWN_nameDef],惑星から脱出する</li>
 	    <li>tale_noun->[PAWN_nameDef],宇宙への旅立ち</li>
 	
-	    <li>image->[PAWN_nameFull]は,[circumstance_group] 宇宙へと打ち上げられている</li>
-	    <li>image->[PAWN_nameFull]は,[circumstance_group] 天に向かっている</li>
-	    <li>image->[PAWN_nameFull]は,[circumstance_group] 重力圏離脱速度に向けて加速している</li>
-	    <li>image->[PAWN_nameFull]は,[circumstance_group] ロケットを操縦している</li>
+	    <li>image->[PAWN_nameDef]は,[circumstance_group] 宇宙へと打ち上げられている</li>
+	    <li>image->[PAWN_nameDef]は,[circumstance_group] 天に向かっている</li>
+	    <li>image->[PAWN_nameDef]は,[circumstance_group] 重力圏離脱速度に向けて加速している</li>
+	    <li>image->[PAWN_nameDef]は,[circumstance_group] ロケットを操縦している</li>
 	
 	    <li>circumstance_phrase->[TerrainFeature]を前にして</li>
 	    <li>circumstance_phrase->途方もない力を使って</li>
@@ -33,15 +33,15 @@
 	<SocialFight.label>ケンカ</SocialFight.label>
     <SocialFight.rulePack.rulesStrings>
         <li>tale_noun->[INITIATOR_nameDef]が[RESPONDER_nameDef][fight_name_present]</li>
-	    <li>image->[INITIATOR_nameFull]は,[circumstance_group] [RESPONDER_nameFull]を侮辱している</li>
-	    <li>image->[INITIATOR_nameFull]は,[circumstance_group] [RESPONDER_nameFull]を罵っている</li>
-	    <li>image->[INITIATOR_nameFull]は,[circumstance_group] [RESPONDER_nameFull]を脅している</li>
-	    <li>image->[INITIATOR_nameFull]は,[circumstance_group] [RESPONDER_nameFull]を怖がらせている</li>
-	    <li>image->[INITIATOR_nameFull]は,[circumstance_group] [RESPONDER_nameFull]を攻撃している</li>
-	    <li>image->[INITIATOR_nameFull]は,[circumstance_group] [RESPONDER_nameFull]を暴行している</li>
-	    <li>image->[INITIATOR_nameFull]は,[circumstance_group] [RESPONDER_nameFull]を殴っている</li>
-	    <li>image->[INITIATOR_nameFull]は,[circumstance_group] [RESPONDER_nameFull]を蹴っている</li>
-	    <li>image->[INITIATOR_nameFull]は,[circumstance_group] [RESPONDER_nameFull]を委縮させる</li>
+	    <li>image->[INITIATOR_nameDef]は,[circumstance_group] [RESPONDER_nameDef]を侮辱している</li>
+	    <li>image->[INITIATOR_nameDef]は,[circumstance_group] [RESPONDER_nameDef]を罵っている</li>
+	    <li>image->[INITIATOR_nameDef]は,[circumstance_group] [RESPONDER_nameDef]を脅している</li>
+	    <li>image->[INITIATOR_nameDef]は,[circumstance_group] [RESPONDER_nameDef]を怖がらせている</li>
+	    <li>image->[INITIATOR_nameDef]は,[circumstance_group] [RESPONDER_nameDef]を攻撃している</li>
+	    <li>image->[INITIATOR_nameDef]は,[circumstance_group] [RESPONDER_nameDef]を暴行している</li>
+	    <li>image->[INITIATOR_nameDef]は,[circumstance_group] [RESPONDER_nameDef]を殴っている</li>
+	    <li>image->[INITIATOR_nameDef]は,[circumstance_group] [RESPONDER_nameDef]を蹴っている</li>
+	    <li>image->[INITIATOR_nameDef]は,[circumstance_group] [RESPONDER_nameDef]を委縮させる</li>
 	    <li>fight_name_present->に暴行する</li>
 	    <li>fight_name_present->に攻撃する</li>
 	    <li>fight_name_present->と闘う</li>
@@ -73,10 +73,10 @@
 	    <li>tale_noun->[PAWN_nameDef]が崩落事故から身を躱す</li>
 	    <li>tale_noun->[PAWN_nameDef]の近くに落下物が粉々になる</li>
 	
-	    <li>image->[PAWN_nameFull]は,[circumstance_group] 崩落してきた岩のかけらを飛び跳ねて避ける</li>
-	    <li>image->[PAWN_nameFull]は,[circumstance_group] なんとか崩落事故を避ける</li>
-	    <li>image->[PAWN_nameFull]は,[circumstance_group] 落ちてきた天井を避ける</li>
-	    <li>image->[PAWN_nameFull]は,[circumstance_group] 落石で死ぬところを免れる</li>
+	    <li>image->[PAWN_nameDef]は,[circumstance_group] 崩落してきた岩のかけらを飛び跳ねて避ける</li>
+	    <li>image->[PAWN_nameDef]は,[circumstance_group] なんとか崩落事故を避ける</li>
+	    <li>image->[PAWN_nameDef]は,[circumstance_group] 落ちてきた天井を避ける</li>
+	    <li>image->[PAWN_nameDef]は,[circumstance_group] 落石で死ぬところを免れる</li>
 	
 	    <li>circumstance_phrase->一面の塵と粉塵の中に消えるよう</li>
 	    <li>circumstance_phrase->近くにある物全てを粉々にする程の規模の中</li>
