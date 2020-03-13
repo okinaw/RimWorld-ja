@@ -1,39 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- ImmediateAttack -->
-
   <ImmediateAttack.letterLabelEnemy>襲撃</ImmediateAttack.letterLabelEnemy>
-  <ImmediateAttack.arrivalTextEnemy>彼らは今すぐにでも襲ってきます.\n\n警戒 - 彼らは利口な戦術を使ってやって来ます.\nタレットを無効化しようとし,トラップに注意を払うでしょう.</ImmediateAttack.arrivalTextEnemy>
+  <ImmediateAttack.arrivalTextEnemy>襲撃者たちは今すぐにでも襲ってきます.</ImmediateAttack.arrivalTextEnemy>
   <ImmediateAttack.letterLabelFriendly>援軍</ImmediateAttack.letterLabelFriendly>
-  <ImmediateAttack.arrivalTextFriendly>彼らは,すぐに,あなたを助けに来ます.</ImmediateAttack.arrivalTextFriendly>
+  <ImmediateAttack.arrivalTextFriendly>救援に来た援軍は,即座に助けに来てくれます.</ImmediateAttack.arrivalTextFriendly>
 
   <ImmediateAttackFriendly.letterLabelEnemy>襲撃</ImmediateAttackFriendly.letterLabelEnemy>
-  <ImmediateAttackFriendly.arrivalTextEnemy>彼らは今すぐにでも襲ってきます!\n\n注意してください！彼らは狡猾な作戦を仕掛けてきます.</ImmediateAttackFriendly.arrivalTextEnemy>
+  <ImmediateAttackFriendly.arrivalTextEnemy>襲撃者たちは今すぐにでも襲ってきます.\n\n注意！\n彼らは狡猾な作戦を立て,タレットの範囲を避けたり,気が付いた罠を避けるでしょう.</ImmediateAttackFriendly.arrivalTextEnemy>
   <ImmediateAttackFriendly.letterLabelFriendly>援軍</ImmediateAttackFriendly.letterLabelFriendly>
-  <ImmediateAttackFriendly.arrivalTextFriendly>彼らは,すぐに,あなたを助けに来ます.</ImmediateAttackFriendly.arrivalTextFriendly>
+  <ImmediateAttackFriendly.arrivalTextFriendly>救援に来た援軍は,即座に助けに来てくれます.</ImmediateAttackFriendly.arrivalTextFriendly>
 
+  <ImmediateAttackSmart.letterLabelEnemy>襲撃(作戦)</ImmediateAttackSmart.letterLabelEnemy>
+  <ImmediateAttackSmart.arrivalTextEnemy>彼らは今すぐにでも襲ってきます.\n\n注意！\n彼らは狡猾な作戦を立て,タレットの範囲を避けたり,気が付いた罠を避けるでしょう.</ImmediateAttackSmart.arrivalTextEnemy>
+  <ImmediateAttackSmart.letterLabelFriendly>援軍</ImmediateAttackSmart.letterLabelFriendly>
+  <ImmediateAttackSmart.arrivalTextFriendly>救援に来た援軍は,即座に助けに来てくれます.</ImmediateAttackSmart.arrivalTextFriendly>
 
-  <!-- StageThenAttack -->
+  <StageThenAttack.letterLabelEnemy>襲撃(遅延)</StageThenAttack.letterLabelEnemy>
+  <StageThenAttack.arrivalTextEnemy>襲撃たちは,しばらく準備を整えて,その後で攻撃を開始するでしょう.\nコロニーを防衛する準備を行うか,先制攻撃を仕掛けましょう.</StageThenAttack.arrivalTextEnemy>
+  <StageThenAttack.letterLabelFriendly>援軍(遅延)</StageThenAttack.letterLabelFriendly>
+  <StageThenAttack.arrivalTextFriendly>救援に来た援軍は,助けに向かう前に,しばらくの間,準備を整えるようです.</StageThenAttack.arrivalTextFriendly>
 
-  <StageThenAttack.letterLabelEnemy>襲撃</StageThenAttack.letterLabelEnemy>
-  <StageThenAttack.arrivalTextEnemy>彼らは,しばらくの間,準備を整えて,それから攻撃してくるでしょう.\n\n身を守る準備をするか,先制攻撃を仕掛けてください.</StageThenAttack.arrivalTextEnemy>
-  <StageThenAttack.letterLabelFriendly>援軍</StageThenAttack.letterLabelFriendly>
-  <StageThenAttack.arrivalTextFriendly>彼らは,あなたを助けに行く前に,しばらくの間,準備を整えるでしょう.</StageThenAttack.arrivalTextFriendly>
-
-
-  <!--ImmediateAttackSappers -->
-
-  <ImmediateAttackSappers.letterLabelEnemy>襲撃</ImmediateAttackSappers.letterLabelEnemy>
-  <ImmediateAttackSappers.arrivalTextEnemy>彼らは,あなたの防御を破るためにトンネルを掘ろうとしています.</ImmediateAttackSappers.arrivalTextEnemy>
-
-
-  <!--Siege -->
+  <ImmediateAttackSappers.letterLabelEnemy>襲撃(壁壊)</ImmediateAttackSappers.letterLabelEnemy>
+  <ImmediateAttackSappers.arrivalTextEnemy>襲撃たちはは,あなたの防御を破るためにトンネルを掘ろうとしています.</ImmediateAttackSappers.arrivalTextEnemy>
 
   <Siege.letterLabelEnemy>包囲</Siege.letterLabelEnemy>
-  <Siege.arrivalTextEnemy>彼らは,離れた所に迫撃砲を配置して包囲しようとしています.あなたは待つことも,こちらから打って出ることもできます.</Siege.arrivalTextEnemy>
-  <Siege.letterLabelFriendly>援軍</Siege.letterLabelFriendly>
-  <Siege.arrivalTextFriendly>彼らは,あなたを助ける為に包囲作戦をとるようです.</Siege.arrivalTextFriendly>
+  <Siege.arrivalTextEnemy>彼らは,離れた所に迫撃砲を配置してコロニーを包囲しようとしています.\nコロニーを防衛する準備を行うか,先制攻撃を仕掛けましょう.</Siege.arrivalTextEnemy>
+  <Siege.letterLabelFriendly>援軍(包囲)</Siege.letterLabelFriendly>
+  <Siege.arrivalTextFriendly>救援に来た援軍は,あなたを助ける為に敵を包囲する作戦を取るようです.</Siege.arrivalTextFriendly>
 
   <SiegeMechanoid.letterLabelEnemy>メカノイドの包囲</SiegeMechanoid.letterLabelEnemy>
   <SiegeMechanoid.arrivalTextEnemy>メカノイドは直接攻撃してくるのではなく,コロニーの周辺にメカクラスターを構築しています.完全に脅威を排除するには,メカクラスターを攻撃する必要があります.\n\nメカクラスターは最初は休止状態なので,時間をかけて攻撃方法を計画できます.\n\n攻撃されるまで休眠し続けるかもしれないし,起動時限装置や接近反応装置が仕掛けられているかもしれません.\n\n休眠状態だとしてもメカクラスターは無害ではありません.休眠状態でも,時々メカノイド襲撃者の援軍を呼んだりするので,放置すると最終的にもっとひどい結果になるかもしれません.</SiegeMechanoid.arrivalTextEnemy>
