@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Sentence_SocialFightStarted.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef]を怒りに駆り立て,[RECIPIENT_pronoun]はケンカを始めた!</li>
+  </Sentence_SocialFightStarted.rulePack.rulesStrings>
+
+</LanguageData>
