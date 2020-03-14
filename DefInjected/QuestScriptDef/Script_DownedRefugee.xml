@@ -2,17 +2,17 @@
 <LanguageData>
 
   <OpportunitySite_DownedRefugee.questDescriptionRules.rulesStrings>
-    <li>questDescription(askerIsNull==true)->[refugee_nameDef]は,我々に助けを求めてきました. [refugee_pronoun]は怪我をしていて動けません.\n\n[refugee_nameDef]は,[refugee_age]歳の[refugee_title]です. [refugee_pronoun]は,もしあなたが[refugee_objective]救出してくれるなら,あなたのコロニーに加わることを約束しました.\n\n[refugee_nameDef]は[allSitePartsDescriptionsExceptFirst]と言っています.[pawnInvolvedInQuestInfo]</li>
-    <li>questDescription(asker_factionLeader==True)->[asker_faction_name][asker_faction_leaderTitle]の[asker_nameDef]が,[asker_possessive]の友人が旅行中に負傷したと連絡してきました. 救出対象者は[refugee_nameIndef]という名前で,[refugee_age]歳の[refugee_title]です.\n\n[asker_nameDef]は[refugee_nameDef]を直接救助に向かう余裕がないが,[refugee_nameDef]の場所を教えるので,[refugee_objective]を救助できれば,[refugee_pronoun]はあなたのコロニーに加わると言っています.\n\n脅威について,[asker_nameDef]は\n[allSitePartsDescriptionsExceptFirst]と言っています.[pawnInvolvedInQuestInfo]</li>
-    <li>pawnInvolvedInQuestInfo(priority=1)->[refugee_pawnInvolvedInQuestInfo]</li>
-    <li>pawnInvolvedInQuestInfo-></li>
+  <li>questDescription(askerIsNull==true)->クエストの依頼:\n[refugee_nameDef]は,我々に助けを求めてきました. [refugee_pronoun]は怪我をしていて動けません.\n[refugee_nameDef]は,[refugee_age]歳の[refugee_title]です. もしあなたが[refugee_objective]救出してくれるなら,[refugee_pronoun]はあなたのコロニーに加わると約束しました.\n\n脅威について[refugee_nameDef]は\n[allSitePartsDescriptionsExceptFirst]\nと言っています.[pawnInvolvedInQuestInfo]</li>
+  <li>questDescription(asker_factionLeader==True)->クエストの依頼:\n[asker_faction_name][asker_faction_leaderTitle]の[asker_nameDef]が,[asker_possessive]の友人が旅行中に負傷したと連絡してきました. 救出対象者は[refugee_nameIndef]という名前で,[refugee_age]歳の[refugee_title]です.\n\n[asker_nameDef]は[refugee_nameDef]を直接救助に向かう余裕がないため,[refugee_nameDef]の場所を教えるので,[refugee_objective]を救助してもらえれば,[refugee_pronoun]はあなたのコロニーに加わると言っています.\n\n脅威について,[asker_nameDef]は\n[allSitePartsDescriptionsExceptFirst]\nと言っています.[pawnInvolvedInQuestInfo]</li>
+  <li>pawnInvolvedInQuestInfo(priority=1)->[refugee_pawnInvolvedInQuestInfo]</li>
+  <li>pawnInvolvedInQuestInfo-></li>
   </OpportunitySite_DownedRefugee.questDescriptionRules.rulesStrings>
 
   <OpportunitySite_DownedRefugee.questNameRules.rulesStrings>
-    <li>questName->[refugee_nameDef]を救え</li>
-    <li>questName->[refugee_nameDef]の救助</li>
-    <li>questName->[refugee_nameDef]の救出</li>
-    <li>questName->[refugee_nameDef]の救い主</li>
+  <li>questName->[refugee_nameDef]を救え</li>
+  <li>questName->[refugee_nameDef]の救助</li>
+  <li>questName->[refugee_nameDef]の救出</li>
+  <li>questName->[refugee_nameDef]の救い主</li>
   </OpportunitySite_DownedRefugee.questNameRules.rulesStrings>
 
   <OpportunitySite_DownedRefugee.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>クエストの期限切れ：[resolvedQuestName]</OpportunitySite_DownedRefugee.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>

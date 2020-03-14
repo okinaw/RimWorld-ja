@@ -2,18 +2,18 @@
 <LanguageData>
 
   <OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings>
-    <li>questDescription->[asker_faction_name][asker_faction_leaderTitle]の[asker_nameDef]から通信が届きました.どうやら,近くにキャンプに拠点を置いた[siteFaction_pawnsPlural]はキャラバンを襲撃しているようです.討伐対象のキャンプは[siteFaction_name]の支配下にあります.\n\n[asker_nameDef]は,私たちにキャンプを破壊するように要請しています.つまり,全ての敵とタレットの排除です.\n[asker_label]は「[sitePart0_description]」だと伝えてきました.\n\nもし成功すれば, [allRewardsDescriptions]</li>
-    <li>singleThingDescriptionOptional(priority=1)->\n\n[singleThingDescription]</li>
-    <li>singleThingDescriptionOptional-></li>
+  <li>questDescription->クエストの依頼:\n[asker_faction_name][asker_faction_leaderTitle]の[asker_nameDef]から通信が届きました.どうやら,近くにキャンプを作り拠点を設置した[siteFaction_pawnsPlural]はキャラバンを襲撃しているようです.\n討伐対象のキャンプは[siteFaction_name]の支配下にあります.\n\nクエストの目的：\n[asker_nameDef]は,私たちにキャンプを破壊するように要請しています.つまり,全ての敵とタレットの排除です.\n\n脅威について,[asker_label]は\n[sitePart0_description]\nだと伝えてきました.\n\nもし成功すれば,\n[allRewardsDescriptions]</li>
+  <li>singleThingDescriptionOptional(priority=1)->\n\n[singleThingDescription]</li>
+  <li>singleThingDescriptionOptional-></li>
   </OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings>
 
   <OpportunitySite_BanditCamp.questNameRules.rulesStrings>
-    <li>questName->賞金首[asker_nameDef]のキャンプ</li>
-    <li>questName->[enemyFaction_pawnsPlural]のキャンプ</li>
-    <li>questName->山賊キャンプ</li>
-    <li>questName->襲撃者キャンプ</li>
-    <li>questName->壊し屋キャンプ</li>
-    <li>questName->[asker_nameDef]を援助</li>
+  <li>questName->賞金首[asker_nameDef]のキャンプ</li>
+  <li>questName->[enemyFaction_pawnsPlural]のキャンプ</li>
+  <li>questName->山賊キャンプ</li>
+  <li>questName->襲撃者キャンプ</li>
+  <li>questName->壊し屋キャンプ</li>
+  <li>questName->[asker_nameDef]の援助要請</li>
   </OpportunitySite_BanditCamp.questNameRules.rulesStrings>
 
   <OpportunitySite_BanditCamp.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>クエストの期限切れ：[resolvedQuestName]</OpportunitySite_BanditCamp.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
