@@ -668,14 +668,14 @@
   <PawnTooltipGenderAndKindLabel>{0} {1}</PawnTooltipGenderAndKindLabel>
 
   <!-- Rewards -->
-  <Reward_Pawn_DropPod>{0_age}歳の{0_title}という名前の{0_nameDef}が輸送ポッドで到着した{0_relationInfoInParentheses}</Reward_Pawn_DropPod>
-  <Reward_Pawn_WalkIn>{0_age}歳の{0_title}という名前の{0_nameDef}が輸送ポッドで到着して加わった{0_relationInfoInParentheses}</Reward_Pawn_WalkIn>
-  <Reward_Pawn_Caravan>{0_age}歳の{0_title}という名前の{0_nameDef}が加わった{0_relationInfoInParentheses}</Reward_Pawn_Caravan>
-  <Reward_Items>以下の資源が入った輸送ポッドが到着した（合計 {1}個）：
+  <Reward_Pawn_DropPod>{0_age}歳の{0_title}という名前の{0_nameDef}が輸送ポッドで到着する\n{0_relationInfoInParentheses}</Reward_Pawn_DropPod>
+  <Reward_Pawn_WalkIn>{0_age}歳の{0_title}という名前の{0_nameDef}が輸送ポッドで到着して加わる.\n{0_relationInfoInParentheses}</Reward_Pawn_WalkIn>
+  <Reward_Pawn_Caravan>{0_age}歳の{0_title}という名前の{0_nameDef}が加わった.\n{0_relationInfoInParentheses}</Reward_Pawn_Caravan>
+  <Reward_Items>以下の資源が入った輸送ポッドが到着します（合計 {1}個）：
 \n{0}</Reward_Items>
   <Reward_Items_Caravan>受け取った（合計 {1}個):
 \n{0}</Reward_Items_Caravan>
-  <Reward_Goodwill>{0_name}との友好関係が{1}改善する</Reward_Goodwill>
+  <Reward_Goodwill>{0_name}との友好関係が +{1} 改善します</Reward_Goodwill>
 
   <!-- Bladelink -->
   <BondedWith>登録者：{0}</BondedWith>
