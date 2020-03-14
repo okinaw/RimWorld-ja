@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-    <SignalAction_Letter.label>signal action - letter</SignalAction_Letter.label>
-
-    <SignalAction_Ambush.label>signal action - ambush</SignalAction_Ambush.label>
+  <SignalAction_Letter.label>信号発信:警告</SignalAction_Letter.label>
+  <SignalAction_Ambush.label>信号発信:待ち伏せ</SignalAction_Ambush.label>
 
 </LanguageData>

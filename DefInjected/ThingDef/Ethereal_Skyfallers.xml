@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DropPodIncoming.label>輸送ポッド (到着)</DropPodIncoming.label>
+  <DropPodLeaving.label>輸送ポッド (出発)</DropPodLeaving.label>
+  <ShipChunkIncoming.label>宇宙船のガラクタ (落下)</ShipChunkIncoming.label>
+
+
+  <!-- Only for back-compatibility, crashed ship parts were unified with mech clusters from 1.0 to 1.1 -->
+
+  <CrashedShipPartIncoming.label>古代宇宙船パーツ (墜落)</CrashedShipPartIncoming.label>
+  <MeteoriteIncoming.label>隕石 (衝突)</MeteoriteIncoming.label>
+
+</LanguageData>

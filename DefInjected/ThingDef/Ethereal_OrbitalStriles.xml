@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-    <Bombardment.label>起動爆撃</Bombardment.label>
-
-    <PowerBeam.label>パワービーム</PowerBeam.label>
+  <Bombardment.label>起動爆撃</Bombardment.label>
+  <PowerBeam.label>パワービーム</PowerBeam.label>
 
 </LanguageData>
