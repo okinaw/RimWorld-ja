@@ -2,27 +2,27 @@
 <LanguageData>
 
   <TradeRequest.questDescriptionRules.rulesStrings>
-    <li>questDescription->A nearby settlement, [settlement_label], has a special trade request. They would like to purchase:\n\n  [requestedThingCount]x [requestedThing_label] [qualityInfo](worth [requestedThingMarketValue_money])\n\nIn return, [allRewardsDescriptions]\n\nIf you want to make the trade, send a caravan with the requested items. The estimated travel time is [estimatedTravelTime_duration].</li>
-    <li>qualityInfo(requestedThingHasQuality==True,priority=1)->of normal+ quality </li>
+    <li>questDescription->クエストの内容:\nコロニーの近くにある拠点, [settlement_label] から,特別な交易依頼が届きました. 彼らは以下の物を購入したいと希望しています：\n\n　[requestedThing_label] x[requestedThingCount][qualityInfo] (価値 [requestedThingMarketValue_money])\n\n見返りとして, [allRewardsDescriptions]\n\n交易に興味があれば,要求された品を載せたキャラバン隊を指定された拠点に送ってください.到着までかかる推定時間は[estimatedTravelTime_duration]です.</li>
+    <li>qualityInfo(requestedThingHasQuality==True,priority=1)->：普通以上の品質 </li>
     <li>qualityInfo-></li>
   </TradeRequest.questDescriptionRules.rulesStrings>
 
   <TradeRequest.questNameRules.rulesStrings>
-    <li>questName->Caravan to [settlement_label]</li>
-    <li>questName->Trade with [settlement_label]</li>
-    <li>questName->Selling to [settlement_label]</li>
-    <li>questName->Supplies for [settlement_label]</li>
-    <li>questName->A [special] [trade]</li>
-    <li>special->Special</li>
-    <li>special->Unique</li>
-    <li>special->Non-traditional</li>
-    <li>trade->Trade</li>
-    <li>trade->Exchange</li>
-    <li>trade->Deal</li>
-    <li>trade->Offer</li>
+    <li>questName->[settlement_label]へのキャラバン隊</li>
+    <li>questName->[settlement_label]との交易</li>
+    <li>questName->[settlement_label]に販売する</li>
+    <li>questName->[settlement_label]の特需</li>
+    <li>questName->とても[special][trade]</li>
+    <li>special->特別な</li>
+    <li>special->風変わりな</li>
+    <li>special->普段と違う</li>
+    <li>trade->交易依頼</li>
+    <li>trade->交換依頼</li>
+    <li>trade->取引依頼</li>
+    <li>trade->商売の申し出</li>
   </TradeRequest.questNameRules.rulesStrings>
 
   <TradeRequest.root.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.label.slateRef>[asker_faction_royalFavorLabel]</TradeRequest.root.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.label.slateRef>
-  <TradeRequest.root.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.text.slateRef>Who should be credited with [asker_faction_royalFavorLabel] for fulfilling the trade request?</TradeRequest.root.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.text.slateRef>
+  <TradeRequest.root.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.text.slateRef>この[asker_faction_royalFavorLabel]との交易依頼を果たした功績は誰のものですか？</TradeRequest.root.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.text.slateRef>
 
 </LanguageData>

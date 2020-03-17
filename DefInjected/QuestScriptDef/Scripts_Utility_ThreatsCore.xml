@@ -43,5 +43,5 @@
     <li>numGroupsOf(raidCount==3)->集団が3つ:</li>
     <li>numGroupsOf(raidCount>=4)->集団が[raidCount]つ:</li>
   </Util_RaidDelayRepeatable.questDescriptionRules.rulesStrings>
-  
+
 </LanguageData>
