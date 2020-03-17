@@ -15,7 +15,7 @@
   <LoggedIntoSteamAs>{0}としてSteamにログイン済</LoggedIntoSteamAs>
 
   <!-- ToCommaList() -->
-  <ToCommaListAnd>{0}と{1}</ToCommaListAnd>
+  <ToCommaListAnd>{0} と {1}</ToCommaListAnd>
 
   <!-- General-use words -->
   <Yes>はい</Yes>
