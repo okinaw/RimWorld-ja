@@ -3967,7 +3967,7 @@
   <StarSquire9>
     <title>星を駆ける伊達男</title>
     <titleShort>だて男</titleShort>
-    <desc>Medievalworldに生まれた,[PAWN_nameDef]の最初の記憶は,夜の星空を見上げていた事でした.\n\nそれ以来,[PAWN_pronoun]は,星々に満たされた天国の真ん中で,squiringする夢をみました.[PAWN_pronoun] focus on that vision left [PAWN_objective] somewhat single-minded.</desc>
+    <desc>Medievalworldに生まれた,[PAWN_nameDef]の最初の記憶は,夜の星空を見上げていた事でした.\n\nそれ以来,[PAWN_pronoun]は,星々に満たされた天国の真ん中で,女性をエスコートする夢をみました.[PAWN_pronoun]はそのビジョンに夢中になって,[PAWN_objective]はいくらか一途になりました.</desc>
   </StarSquire9>
 
   <StateEngineer60>
