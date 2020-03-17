@@ -185,10 +185,10 @@
   <LetterLabelPeaceTalks_TalksFlounder>和平交渉 難航</LetterLabelPeaceTalks_TalksFlounder>
   <LetterPeaceTalks_TalksFlounder>交渉は難航している.代表団は,基本的な敬意を払って,かろうじて明確に伝えることができたが,主となる問題について親展を得ることは出来なかった.\n\n {0}との関係: 変化無し</LetterPeaceTalks_TalksFlounder>
   <LetterLabelPeaceTalks_Success>和平交渉 成功</LetterLabelPeaceTalks_Success>
-  <LetterPeaceTalks_Success>交渉は成功した.代表団は,幾つかの実質的な問題に対して,新しい相互理解に達した.\n\n {0}との関係は {1}によって改善した.</LetterPeaceTalks_Success>
+  <LetterPeaceTalks_Success>交渉は成功した.代表団は,幾つかの実質的な問題に対して,新しい相互理解に達した.\n\n {0}との関係は +{1} 改善した.</LetterPeaceTalks_Success>
   <LetterLabelPeaceTalks_Triumph>和平交渉 大勝利</LetterLabelPeaceTalks_Triumph>
-  <LetterPeaceTalks_Triumph>交渉は大勝利に終わった! 代表団は,迅速に個人レベルでお互いに理解し合い,最も難しい問題に対する,お互いの展望のため,心から集まった.\n\n {0}との関係は {1}によって改善した.\n\n 貴方のキャラバン隊が出発のとき,{0}は贈り物を申し出た: {2}</LetterPeaceTalks_Triumph>
-  <PeaceTalksSocialXPGain>交渉人 {PAWN_labelShort}は {1}経験値をためた.</PeaceTalksSocialXPGain>
+  <LetterPeaceTalks_Triumph>交渉は大勝利に終わった! 代表団は,迅速に個人レベルでお互いに理解し合い,最も難しい問題に対する,お互いの展望のため,心から集まった.\n\n {0}との関係は + {1} 改善した.\n\n 貴方のキャラバン隊が出発するとき,{0}は贈り物を申し出た: {2}</LetterPeaceTalks_Triumph>
+  <PeaceTalksSocialXPGain>交渉人 {PAWN_labelShort}は {1}経験値を獲得した.</PeaceTalksSocialXPGain>
 
   <!-- Run wild mental break -->
   <LetterRunWildMentalBreak>{0}は文明にうんざりしています.\n\n{PAWN_pronoun}は,野生動物達は常に自由だということに気がつきました.{PAWN_pronoun}は,あなたの派閥を離れて,動物達と共に生きていくことに決めました.\n\nあなたは,{PAWN_objective}手懐けて連れ戻す試みができます.</LetterRunWildMentalBreak>
