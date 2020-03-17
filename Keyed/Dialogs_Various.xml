@@ -170,6 +170,9 @@
   <MeleeWarmupTime>構える時間</MeleeWarmupTime>
   <CooldownTime>排出時間</CooldownTime>
   <DisarmedTime>解除時間</DisarmedTime>
+  <ChargingTime>再充電時間</ChargingTime>
+  <ChargingNext>次回再充電({1}の場合)は：{0}\n充電間隔：{2}</ChargingNext>
+  <ShutDown>機能停止</ShutDown>
   <BurstShotFireRate>連射速度</BurstShotFireRate>
   <Range>射程</Range>
   <StoppingPower>威力</StoppingPower>

@@ -50,6 +50,9 @@
   <Rename>命名</Rename>
   <RenameAnimal>動物の名前を変更</RenameAnimal>
   <RenameColonist>ニックネームを変更</RenameColonist>
+  <RenounceTitle>称号を放棄</RenounceTitle>
+  <TitleOfFaction>{1}の{0}</TitleOfFaction>
+  <RenounceTitleDescription>この行動によって,{PAWN_nameDef}は{PAWN_possessive}持つ称号「{TITLE}」を失います.称号を放棄しても補償されません.\n\nこれによって以下の影響が出ます.\n\n{EFFECTS}</RenounceTitleDescription>
   <UnknownLower>身元不明</UnknownLower>
   <On>On</On>
   <Off>Off</Off>
@@ -220,6 +223,7 @@
   <DormantCompSealed>密封した</DormantCompSealed>
   <DormantCompBeacon>メカノイドが降下する準備を完了</DormantCompBeacon>
   <DormantCompExpired>期限切れ</DormantCompExpired>
+  <InitiatesIn>状況開始</InitiatesIn>
   <SendSignalOnCountdownCompTime>{0}で起動</SendSignalOnCountdownCompTime>
   <PsychicEntropy>精神汚染</PsychicEntropy>
   <PsychicEntropyPainFocus>{0}の苦痛に精神が集中</PsychicEntropyPainFocus>
