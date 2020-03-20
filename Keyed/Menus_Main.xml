@@ -97,7 +97,7 @@
   <ModClickToSelect>クリックして選択</ModClickToSelect>
   <ModClickToGoToWebsite>クリックでサイトを開く</ModClickToGoToWebsite>
   <Source>ソース</Source>
-  <ModTargetVersion>ゲームバージョン</ModTargetVersion>
+  <ModTargetVersion>対応ゲームバージョン</ModTargetVersion>
   <ModPackageId>ID</ModPackageId>
   <ModMustLoadBefore>次の前にロードする必要あり：{0}.</ModMustLoadBefore>
   <ModMustLoadAfter>次の後にロードする必要があり：{0}.</ModMustLoadAfter>
