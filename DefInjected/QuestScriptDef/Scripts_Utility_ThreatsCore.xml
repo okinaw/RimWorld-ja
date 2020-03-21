@@ -2,6 +2,7 @@
 <LanguageData>
 
   <Util_GenerateSite.root.singleSitePartRules.slateRef>
+   <rulesStrings>
     <li>root(priority=1,sitePart==ClimateAdjuster)->地域の温度を[temperatureOffset]だけ変動させる気候調整機がある</li>
     <li>root(priority=1,sitePart==PsychicDroner)->[affectedGender]性に対象を調整されたサイコドローン装置がある</li>
     <li>root(priority=1,sitePart==PsychicSuppressor)->[affectedGender]性に対象を調整されたサイコサプレッサー装置がある</li>
@@ -23,6 +24,7 @@
     <li>root(priority=1,sitePart==MechCluster)->敵対的なメカノイドのメカクラスターがある</li>
     <li>root(priority=1,sitePart==PossibleUnknownThreatMarker)->未知の脅威があるかもしれない</li>
     <li>root->[label]がある</li>
+   </rulesStrings>
   </Util_GenerateSite.root.singleSitePartRules.slateRef>
 
   <Util_MechCluster.questDescriptionRules.rulesStrings>
