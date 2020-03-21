@@ -286,6 +286,7 @@
   <FinalPrice>最終価格</FinalPrice>
   <GiftModeTip>贈答モード - {0}への贈答品.</GiftModeTip>
   <TradeModeTip>取り引きモードへ戻る</TradeModeTip>
+  <TradeCaravanRequestDeniedDueTitle>{NEGOTIATOR_nameDef}には交渉に必要な爵位:{TITLE}がないため,{FACTION_name}はキャラバン隊を送りません.</TradeCaravanRequestDeniedDueTitle>
 
   <!-- Sellable items -->
   <SellableItemsTitle>トレーダーの買う気がある物</SellableItemsTitle>

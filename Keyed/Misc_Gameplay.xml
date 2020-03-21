@@ -50,9 +50,10 @@
   <Rename>命名</Rename>
   <RenameAnimal>動物の名前を変更</RenameAnimal>
   <RenameColonist>ニックネームを変更</RenameColonist>
-  <RenounceTitle>称号を放棄</RenounceTitle>
+  <RenounceTitle>爵位を放棄</RenounceTitle>
   <TitleOfFaction>{1}の{0}</TitleOfFaction>
-  <RenounceTitleDescription>この行動によって,{PAWN_nameDef}は{PAWN_possessive}持つ称号「{TITLE}」を失います.称号を放棄しても補償されません.\n\nこれによって以下の影響が出ます.\n\n{EFFECTS}</RenounceTitleDescription>
+  <RenounceTitleDescription>この行動によって,{PAWN_nameDef}は{PAWN_possessive}持つ爵位「{TITLE}」を失います.爵位を放棄しても補償されません.\n\nこれによって以下の影響が出ます.\n\n{EFFECTS}</RenounceTitleDescription>
+  <RenounceTitleWillLoosePermits>{PAWN_possessive}はこれらの権限を失います</RenounceTitleWillLoosePermits>
   <UnknownLower>身元不明</UnknownLower>
   <On>On</On>
   <Off>Off</Off>

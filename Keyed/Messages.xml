@@ -282,6 +282,7 @@
   <GoodwillChangedReason_UsedItem>{TARGET_labelShort}に {ITEM_labelShort}を使いました.</GoodwillChangedReason_UsedItem>
   <GoodwillChangedReason_UsedAbility>{1}で{0}を使用した</GoodwillChangedReason_UsedAbility>
   <GoodwillChangedReason_RemovedBodyPart>{0}を 摘出しました.</GoodwillChangedReason_RemovedBodyPart>
+  <GoodwillChangedReason_RemovedImplant>{0}を 摘出しました.</GoodwillChangedReason_RemovedImplant>
   <GoodwillChangedReason_DowngradedImplant>{0}のグレードを落とした.</GoodwillChangedReason_DowngradedImplant>
   <GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>{0}を 不必要にインストールしました.</GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>
   <GoodwillChangedReason_CapturedPawn>{1_labelShort}を 捕らえました.</GoodwillChangedReason_CapturedPawn>
@@ -298,6 +299,8 @@
   <GoodwillChangedReason_UsedForbiddenThing>{PAWN_labelShort} が{CULPRIT}を使用した</GoodwillChangedReason_UsedForbiddenThing>
   <GoodwillChangedReason_SoldPawn>{0_labelShort}を 売却した</GoodwillChangedReason_SoldPawn>
   <GoodwillChangedReason_EuthanizedPawn>{PAWN_labelShort}を 安楽死させた</GoodwillChangedReason_EuthanizedPawn>
+  <GoodwillChangedReason_RequestedMilitaryAid>援軍を要請した</GoodwillChangedReason_RequestedMilitaryAid>
+  <GoodwillChangedReason_RequestedTrader>トレーダーを要請した</GoodwillChangedReason_RequestedTrader>
 
   <MessageGiftGivenButNotAppreciated>{0}は貢ぎ物を受け取りましたが 感謝の欠片もありません.</MessageGiftGivenButNotAppreciated>
 

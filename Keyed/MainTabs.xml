@@ -141,7 +141,7 @@
   <QuestAcceptanceRequirementsDescription>このクエストを受けるには,次のものが必要</QuestAcceptanceRequirementsDescription>
   <QuestBedroomRequirementsUnsatisfied>タイトルの要件を満たす無料のベッドルーム</QuestBedroomRequirementsUnsatisfied>
   <QuestBedroomRequirementsUnsatisfiedSingle>タイトルの要件を満たす無料のベッドルーム一室</QuestBedroomRequirementsUnsatisfiedSingle>
-  <QuestNoColonistWithTitle>称号が{0}の入植者です.</QuestNoColonistWithTitle>
+  <QuestNoColonistWithTitle>爵位が{0}の入植者です.</QuestNoColonistWithTitle>
   <AcceptRoyalFavor>{FACTION_royalFavorLabel}を承諾する</AcceptRoyalFavor>
   <AcceptRoyalFavorDesc>{FACTION_name}から{FACTION_royalFavorLabel}の報酬を受け取るかどうか.\n\nこれを無効にすると,{FACTION_name}は代わりに他の種類の報酬を提供します.\n\nこの設定は新規のクエストにのみ影響します.</AcceptRoyalFavorDesc>
   <RoyalFavorOn>現在,{FACTION_royalFavorLabel}の受け取りを選択中です.</RoyalFavorOn>

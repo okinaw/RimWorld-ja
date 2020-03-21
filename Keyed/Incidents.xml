@@ -111,7 +111,7 @@
   <CaravanMeeting_Attack>攻撃</CaravanMeeting_Attack>
   <CaravanMeeting_MoveOn>立ち去る</CaravanMeeting_MoveOn>
   <CaravanMeeting_TradeIncapable>商取引できるメンバーがいない</CaravanMeeting_TradeIncapable>
-  <CaravanMeeting_NoPermit>取引には{1_name}からの称号{0}が必要</CaravanMeeting_NoPermit>
+  <CaravanMeeting_NoPermit>{1_name}の爵位{0}を持つ商人が必要</CaravanMeeting_NoPermit>
 
   <!-- Caravan request -->
   <LetterLabelCaravanRequest>キャラバン隊派遣要請</LetterLabelCaravanRequest>
