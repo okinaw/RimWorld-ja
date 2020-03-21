@@ -148,7 +148,7 @@
   <QuestTargetDestroyInspectStringShort>{0}はこれの破壊を希望している.</QuestTargetDestroyInspectStringShort>
   <ShuttleDelayInspectString>{0}のシャトルで出発</ShuttleDelayInspectString>
   <ShuttleLeaveDelayInspectString>{0}を出発</ShuttleLeaveDelayInspectString>
-  <ShouldDepartOnShuttleInspectString>Should depart on shuttle</ShouldDepartOnShuttleInspectString>
+  <ShouldDepartOnShuttleInspectString>シャトルで出発する必要があります</ShouldDepartOnShuttleInspectString>
   <WorldObjectTimeout>残り時間: {0}</WorldObjectTimeout>
   <ClickToSortByThisColumn>この列でソートする</ClickToSortByThisColumn>
   <WorkPriorityShiftClickTip>Shift + click:優先順位を上げる\nShift + right click: 優先順位を下げる</WorkPriorityShiftClickTip>
