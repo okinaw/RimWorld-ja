@@ -2,7 +2,7 @@
 <LanguageData>
 
   <GutWorms.label>回虫</GutWorms.label>
-  <GutWorms.description>腸内に寄生する寄生虫です.嘔吐を引き起こします.また寄生虫は,犠牲者の食物を消費して,空腹になる速さを増加します.</GutWorms.description>
+  <GutWorms.description>腸内に寄生する寄生虫です.嘔吐を引き起こします.また寄生虫は,犠牲者の食べた物を消費して,空腹になる速さを増加します.</GutWorms.description>
 
   <MuscleParasites.label>せん毛虫</MuscleParasites.label>
   <MuscleParasites.description>筋肉の内側に寄生する寄生虫です.これにより筋力の低下と協調性の欠如を引き起こします.</MuscleParasites.description>
