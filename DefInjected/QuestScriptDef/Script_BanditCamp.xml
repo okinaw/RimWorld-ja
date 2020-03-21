@@ -2,7 +2,7 @@
 <LanguageData>
 
   <OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings>
-  <li>questDescription->クエストの依頼:\n[asker_faction_name][asker_faction_leaderTitle]の[asker_nameDef]から通信が届きました.どうやら,近くにキャンプを作り拠点を設置した[siteFaction_pawnsPlural]はキャラバンを襲撃しているようです.\n討伐対象のキャンプは[siteFaction_name]の支配下にあります.\n\nクエストの目的：\n[asker_nameDef]は,私たちにキャンプを破壊するように要請しています.つまり,全ての敵とタレットの排除です.\n\n脅威について,[asker_label]は\n[sitePart0_description]\nだと伝えてきました.\n\nもし成功すれば,\n[allRewardsDescriptions]</li>
+  <li>questDescription->クエストの依頼:\n[asker_faction_name][asker_faction_leaderTitle]の[asker_nameDef]から通信が届きました.どうやら,近くにキャンプを作り拠点を設置した[siteFaction_pawnsPlural]はキャラバンを襲撃しているようです.\n討伐対象のキャンプは[siteFaction_name]の支配下にあります.\n\nクエストの目的：\n[asker_nameDef]は,私たちにキャンプを破壊するように要請しています.つまり,全ての敵とタレットの排除です.\n\n予想される脅威について,[asker_label]の報告では\n[sitePart0_description]だそうです.\n\nもし成功すれば,\n[allRewardsDescriptions]</li>
   </OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings>
 
   <OpportunitySite_BanditCamp.questNameRules.rulesStrings>

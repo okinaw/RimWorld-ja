@@ -3,26 +3,26 @@
 
   <Util_GenerateSite.root.singleSitePartRules.slateRef>
    <rulesStrings>
-    <li>root(priority=1,sitePart==ClimateAdjuster)->地域の温度を[temperatureOffset]だけ変動させる気候調整機がある</li>
-    <li>root(priority=1,sitePart==PsychicDroner)->[affectedGender]性に対象を調整されたサイコドローン装置がある</li>
-    <li>root(priority=1,sitePart==PsychicSuppressor)->[affectedGender]性に対象を調整されたサイコサプレッサー装置がある</li>
-    <li>root(priority=1,sitePart==WeatherController)->そこには,地域全体の天候を[weather_label]にする気象制御装置がある</li>
-    <li>root(priority=1,sitePart==SmokeSpewer)->地域全体に煙を吐き出す排煙装置がある</li>
-    <li>root(priority=1,sitePart==SunBlocker)->そこには,日光を遮る装置がある</li>
-    <li>root(priority=1,sitePart==EMIDynamo)->そこには,地域全体の電気設備を使えなくするEMI発電装置がある</li>
-    <li>root(priority=1,sitePart==ToxicSpewer)->そこには,地域全体を毒で汚染する毒物散布装置がある</li>
-    <li>root(priority=1,sitePart==RaidSource)->そこには,[enemiesCount]名の敵が守っていて,[mtbDays]ごとに襲撃してくる敵の集結地点がある</li>
-    <li>root(priority=1,sitePart==Outpost)->[enemiesCount]名の敵が守っている場所に敵の前哨基地がある</li>
-    <li>root(priority=1,sitePart==BanditCamp)->[enemiesCount]名の敵が守っている場所に,山賊のキャンプがある</li>
-    <li>root(priority=1,sitePart==Manhunters,count==1)->狂暴化して人を襲う[kindLabel]が一匹,近くにいる</li>
-    <li>root(priority=1,sitePart==Manhunters,count>1)->狂暴化して人を襲う[kindLabel]が[count]匹,近くにいる</li>
-    <li>root(priority=1,sitePart==SleepingMechanoids,count==1)->休眠中のメカノイドが1体,近くにいる</li>
-    <li>root(priority=1,sitePart==SleepingMechanoids,count>1)->休眠中のメカノイドが[count]体,近くにいる</li>
+    <li>root(priority=1,sitePart==ClimateAdjuster)->地域の温度を[temperatureOffset]だけ変動させる気候調整機</li>
+    <li>root(priority=1,sitePart==PsychicDroner)->[affectedGender]性に対象を調整されたサイコドローン装置</li>
+    <li>root(priority=1,sitePart==PsychicSuppressor)->[affectedGender]性に対象を調整されたサイコサプレッサー装置</li>
+    <li>root(priority=1,sitePart==WeatherController)->そこには,地域全体の天候を[weather_label]にする気象制御装置</li>
+    <li>root(priority=1,sitePart==SmokeSpewer)->地域全体に煙を吐き出す排煙装置</li>
+    <li>root(priority=1,sitePart==SunBlocker)->そこには,日光を遮る装置</li>
+    <li>root(priority=1,sitePart==EMIDynamo)->そこには,地域全体の電気設備を使えなくするEMI発電装置</li>
+    <li>root(priority=1,sitePart==ToxicSpewer)->そこには,地域全体を毒で汚染する毒物散布装置</li>
+    <li>root(priority=1,sitePart==RaidSource)->そこには,[enemiesCount]名の敵が守っていて,[mtbDays]ごとに襲撃してくる敵の集結地点</li>
+    <li>root(priority=1,sitePart==Outpost)->[enemiesCount]名の敵が守っている敵の前哨基地</li>
+    <li>root(priority=1,sitePart==BanditCamp)->[enemiesCount]名の敵が守っている山賊のキャンプ</li>
+    <li>root(priority=1,sitePart==Manhunters,count==1)->狂暴化して人を襲う[kindLabel]が近くに一匹</li>
+    <li>root(priority=1,sitePart==Manhunters,count>1)->狂暴化して人を襲う[kindLabel]が近くに[count]匹</li>
+    <li>root(priority=1,sitePart==SleepingMechanoids,count==1)->休眠中のメカノイドが近くに1体</li>
+    <li>root(priority=1,sitePart==SleepingMechanoids,count>1)->休眠中のメカノイドが近くに[count]体</li>
     <li>root(priority=1,sitePart==Turrets)->「[threatsInfo]」の防備</li>
-    <li>root(priority=1,sitePart==AmbushEdge)->敵が通りかかる人を待ち伏せして待ち構えている</li>
-    <li>root(priority=1,sitePart==AmbushHidden)->敵が通りかかる人を待ち伏せして待ち構えている</li>
-    <li>root(priority=1,sitePart==MechCluster)->敵対的なメカノイドのメカクラスターがある</li>
-    <li>root(priority=1,sitePart==PossibleUnknownThreatMarker)->未知の脅威があるかもしれない</li>
+    <li>root(priority=1,sitePart==AmbushEdge)->通りかかる人を待ち伏せして待ち構えている敵</li>
+    <li>root(priority=1,sitePart==AmbushHidden)->通りかかる人を待ち伏せして待ち構えている敵</li>
+    <li>root(priority=1,sitePart==MechCluster)->敵対的なメカノイドのメカクラスター</li>
+    <li>root(priority=1,sitePart==PossibleUnknownThreatMarker)->未知の脅威</li>
     <li>root->[label]がある</li>
    </rulesStrings>
   </Util_GenerateSite.root.singleSitePartRules.slateRef>
