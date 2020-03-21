@@ -18,7 +18,7 @@
     <li>root(priority=1,sitePart==Manhunters,count>1)->狂暴化して人を襲う[kindLabel]が[count]匹,近くにいる</li>
     <li>root(priority=1,sitePart==SleepingMechanoids,count==1)->休眠中のメカノイドが1体,近くにいる</li>
     <li>root(priority=1,sitePart==SleepingMechanoids,count>1)->休眠中のメカノイドが[count]体,近くにいる</li>
-    <li>root(priority=1,sitePart==Turrets)->[threatsInfo]に守られている</li>
+    <li>root(priority=1,sitePart==Turrets)->「[threatsInfo]」の防備</li>
     <li>root(priority=1,sitePart==AmbushEdge)->敵が通りかかる人を待ち伏せして待ち構えている</li>
     <li>root(priority=1,sitePart==AmbushHidden)->敵が通りかかる人を待ち伏せして待ち構えている</li>
     <li>root(priority=1,sitePart==MechCluster)->敵対的なメカノイドのメカクラスターがある</li>
