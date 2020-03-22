@@ -16,7 +16,7 @@
   <TheRichExplorer.label>リッチ エクスプローラー</TheRichExplorer.label>
   <TheRichExplorer.description>人々は,きらびやかな生活を捨てた,あなたの事を'クレイジー'と呼ぶでしょうけど,あなたは,いつも星々を探検することに憧れていました－シミュレーターでの探検はもう終わりです.今,冷凍冬眠カプセルでの長い旅も終わりました.未知のRimWorldに降り立ち,その眼で確かめる時が来たのです.</TheRichExplorer.description>
   <TheRichExplorer.scenario.name>リッチ エクスプローラー</TheRichExplorer.scenario.name>
-  <TheRichExplorer.scenario.summary>装備に恵まれた,ひとりの冒険者が,この世界に降り立ちます.</TheRichExplorer.scenario.summary>
+  <TheRichExplorer.scenario.summary>装備に恵まれた冒険者が,ひとりでこの世界に降り立ちます.</TheRichExplorer.scenario.summary>
   <TheRichExplorer.scenario.description>人々は,きらびやかな生活を捨てた,あなたの事を'クレイジー'と呼ぶでしょうけど,あなたは,いつも星々を探検することに憧れていました－シミュレーターでの探検はもう終わりです.今,冷凍冬眠カプセルでの長い旅も終わりました.未知のRimWorldに降り立ち,その眼で確かめる時が来たのです.</TheRichExplorer.scenario.description>
   <TheRichExplorer.scenario.parts.GameStartDialog.text>ニューロシミュレーション,ホロ・ゲーム,などでは,あなたを満足させません.あなたはもっと－勇気や人生の帰結点,歴史書で語られているようなもの,を求めています.\n\n今,10年にも渡る冷凍冬眠の旅が終わり,この良く分からないRimworldに降り立ちました.本当の歴史が貴方を待っているのです.</TheRichExplorer.scenario.parts.GameStartDialog.text>
 
@@ -30,7 +30,7 @@
   <NakedBrutality.label>ネイキッド</NakedBrutality.label>
   <NakedBrutality.description>あなたは簡単な手術をするために,麻酔による深い眠りに落ちました.今,あなたは遠く離れた惑星大気圏に,突入する脱出ポッドの中で目を覚ましました.あなたは全裸で,単身,全く所持品は持っていません.生き残ることができますか？\n\n【警告】:このシナリオには,全く見込みがありません - 極めて非常に難しく,どんな事でも死に直結します.</NakedBrutality.description>
   <NakedBrutality.scenario.name>ネイキッド</NakedBrutality.scenario.name>
-  <NakedBrutality.scenario.summary>全裸,単身,徹底的に下準備無し.生き残ることができますか？極めて非常に難しく,不公平です.</NakedBrutality.scenario.summary>
+  <NakedBrutality.scenario.summary>全裸,単身,何も準備無しです.生き残れるのか？\n極限状態で非常に難しく,不公平な難易度です.</NakedBrutality.scenario.summary>
   <NakedBrutality.scenario.description>あなたは簡単な手術をするため,麻酔によって深い眠りへと落ちていました.あなたは今,遠く離れた惑星の,大気圏に突入している脱出ポッドの中で目を覚ましました.あなたは全裸で,単身,何も所持品を持っていません.生き残ることができますか？\n\n【警告】:このシナリオには,全く見込みがありません - 極めて,非常に難しく どんな些細な事でも死に直結します.</NakedBrutality.scenario.description>
   <NakedBrutality.scenario.parts.GameStartDialog.text>簡単な手術だと思っていた.たった１時間の麻酔だと思っていた,絶対に安全な筈だった.\n\nまさに今,あなたは辺境の星Rimworldの大気圏に突入する脱出ポッドの中で目を覚ましました.\n\n全身を覆う不可思議なツルツルした物の事はさておき,あなたは全裸です,何の準備もなく,補給品もなし,道具もありません.生き残ることができるでしょうか？</NakedBrutality.scenario.parts.GameStartDialog.text>
 
