@@ -32,7 +32,7 @@
   <TreatmentExpiresIn>治療効果切れまで{0}</TreatmentExpiresIn>
   <NextTendIn>{0} 後に看る</NextTendIn>
   <TendQuality>看病品質</TendQuality>
-  <MissingMedicalBillIngredient>{0} がいない</MissingMedicalBillIngredient>
+  <MissingMedicalBillIngredient>{0} がない</MissingMedicalBillIngredient>
   <Immunity>免疫</Immunity>
   <DaysToRecover>{0} 日で回復</DaysToRecover>
   <Ineffective>効果なし</Ineffective>
