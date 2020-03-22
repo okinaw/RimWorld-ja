@@ -18,10 +18,10 @@
   <SeasonPermanentSummer>常夏</SeasonPermanentSummer>
   <SeasonPermanentWinter>常冬</SeasonPermanentWinter>
 
-  <QuadrumAprimay>第1四半季</QuadrumAprimay>
-  <QuadrumJugust>第2四半季</QuadrumJugust>
-  <QuadrumSeptober>第3四半季</QuadrumSeptober>
-  <QuadrumDecembary>第4四半季</QuadrumDecembary>
+  <QuadrumAprimay>第一</QuadrumAprimay>
+  <QuadrumJugust>第二</QuadrumJugust>
+  <QuadrumSeptober>第三</QuadrumSeptober>
+  <QuadrumDecembary>第四</QuadrumDecembary>
 
   <QuadrumAprimay_Short>卯月</QuadrumAprimay_Short>
   <QuadrumJugust_Short>文月</QuadrumJugust_Short>
