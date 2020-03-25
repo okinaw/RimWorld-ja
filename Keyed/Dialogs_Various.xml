@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <Confirm>了承</Confirm>
@@ -206,7 +206,7 @@
   <RecruitDifficulty>説得の難易度</RecruitDifficulty>
   <MarketValue>標準小売価格</MarketValue>
   <Covers>カバー</Covers>
-  <CreatedAt>で作成</CreatedAt>
+  <CreatedAt>作成</CreatedAt>
   <Layer>層</Layer>
   <CoverEffectiveness>カバー効力</CoverEffectiveness>
   <CoverEffectivenessExplanation>銃撃戦において,このカバーに身を隠したときの効力を表します.％の数値が高いほど,より銃弾をブロックします.</CoverEffectivenessExplanation>
