@@ -521,8 +521,9 @@
 
   <BoyScout42>
     <title>ボーイスカウト</title>
+    <titleFemale>ガールスカウト</titleFemale>
     <titleShort>スカウト</titleShort>
-    <desc>[PAWN_nameDef]は,ミッドワールド(Midworld)のボーイスカウトでした.\n\n[PAWN_pronoun]は,屋外で元気に育ち,怪我を手当てする基礎知識などを含んだ,たくさんのサバイバルスキルを身につけました.</desc>
+    <desc>[PAWN_nameDef]は,ミッドワールド(Midworld)のスカウト団に所属していました.\n\n[PAWN_pronoun]は,屋外で元気に育ち,怪我を手当てする基礎知識などを含んだ,たくさんのサバイバルスキルを身につけました.</desc>
   </BoyScout42>
 
   <BoySoldier14>
