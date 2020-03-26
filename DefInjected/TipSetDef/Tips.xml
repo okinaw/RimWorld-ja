@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- Interface -->
@@ -24,7 +24,7 @@
   <GameplayTips.tips.17>戦闘で援軍が必要な場合は,通信器を使って同盟している派閥に連絡しましょう.</GameplayTips.tips.17>
   <GameplayTips.tips.18>狂気に陥った動物は,あなたの敵を含むあらゆる人間を攻撃します.これをうまく利用しましょう.</GameplayTips.tips.18>
   <GameplayTips.tips.19>EMP兵器の爆発は,タレットや迫撃砲シールドや弾丸シールドを一時的に無効化にします.</GameplayTips.tips.19>
-  <GameplayTips.tips.20>EMP兵器の爆発はシールドベルトのシールドを即座時壊します.</GameplayTips.tips.20>
+  <GameplayTips.tips.20>EMP兵器の爆発はシールドベルトのシールドを即時破壊します.</GameplayTips.tips.20>
 
   <!-- Hunting -->
   <GameplayTips.tips.21>隠密狩猟率のステータスは,動物からの反撃率を減らします.それらは狩人が持つ動物スキルと射撃スキルの影響を受けます.</GameplayTips.tips.21>
@@ -61,7 +61,7 @@
   <GameplayTips.tips.44>輸送ポッドを使用して,贈り物を他の派閥の拠点に直接送ることができます.これは敵対派閥もです.これによって,派閥との友好関係を改善できます.</GameplayTips.tips.44>
 
   <!-- Misc -->
-  <GameplayTips.tips.45>囚人たちを1つの監獄に集めることでスペースを節約できます.ただし,一緒にいる囚人たち全員で脱出しようとします.</GameplayTips.tips.45>
+  <GameplayTips.tips.45>囚人たちを1つの監獄に集めることでスペースを節約できます.ただし,一緒にいる囚人たち全員で脱獄しようとします.</GameplayTips.tips.45>
   <GameplayTips.tips.46>敵派閥の拠点は厳重に守られています.あなたは無理にそれらを攻撃する必要はありませんが,もしあなたがそれを試みることを選択したなら,準備を万全にしてください.</GameplayTips.tips.46>
   <GameplayTips.tips.47>イヌやネコなどのかわいい飼いならされたコロニーの動物たちはあなたの入植者にすり寄って,心情を改善します.</GameplayTips.tips.47>
   <GameplayTips.tips.48>草食動物は,草の多いゾーンを割り当てましょう.彼らはそこに生えている草を食べてくれるし,餌をやる必要もなくなります.</GameplayTips.tips.48>
@@ -71,7 +71,7 @@
   <GameplayTips.tips.52>仕事と移動速度は明るさの影響を受けます.暗闇ではすべてが遅くなります.</GameplayTips.tips.52>
   <GameplayTips.tips.53>岩盤天井の地下深くにある洞窟では,外が熱波でも寒波でも,常に温度が安定しています.</GameplayTips.tips.53>
   <GameplayTips.tips.54>山岳内のコロニーは守りやすいです.デメリットは,人々が地下であまりにも長い時間を過ごして気が狂ってしまうことと,巨大な昆虫たちの襲撃です.</GameplayTips.tips.54>
-  <GameplayTips.tips.55>囚人たちは,心情が高ければ,より早く説得に応じるし,脱獄する事も減ります.</GameplayTips.tips.55>
+  <GameplayTips.tips.55>囚人たちは,心情が高ければ,より早く説得に応じるし,脱獄を試す事も減ります.</GameplayTips.tips.55>
   <GameplayTips.tips.56>複数の研究設備を設置すれば,複数の研究者が同時に研究作業することができます.</GameplayTips.tips.56>
   <GameplayTips.tips.57>間欠泉は周囲を壁で囲まれている場合,部屋の中を加熱します.これは危険な場合もあれば,温室として役に立つ場合もあります.</GameplayTips.tips.57>
   <GameplayTips.tips.58>爆発によって爆風範囲内の火を消せます.これを使えば,迫撃砲の砲弾は他に選択肢がない場合に火災を止めるのに役立ちます.</GameplayTips.tips.58>
