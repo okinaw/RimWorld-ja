@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Threats -->
+
+  <Ambush.label>待ち伏せ</Ambush.label>
+  <Ambush.description>待ち伏せによる戦闘が継続中です.</Ambush.description>
+
+</LanguageData>
