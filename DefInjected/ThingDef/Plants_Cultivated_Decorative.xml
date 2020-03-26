@@ -1,10 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-    <Plant_Rose.label>バラ</Plant_Rose.label>
-    <Plant_Rose.description>美しく栽培された花です.</Plant_Rose.description>
+  <Plant_Rose.label>バラ</Plant_Rose.label>
+  <Plant_Rose.description>美しく栽培された花で,バラは太古の昔から愛の象徴でした.</Plant_Rose.description>
 
-    <Plant_Daylily.label>ユリ</Plant_Daylily.label>
-    <Plant_Daylily.description>美しく栽培された花です.</Plant_Daylily.description>
+  <Plant_Daylily.label>ユリ</Plant_Daylily.label>
+  <Plant_Daylily.description>幅広い花びらと寿命の短い栽培された美しいユリの花です.ヤマユリはとても美しいですが,頻繁に植え替えなければなりません.</Plant_Daylily.description>
 
 </LanguageData>
