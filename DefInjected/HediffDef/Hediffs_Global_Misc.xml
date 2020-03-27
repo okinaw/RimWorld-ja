@@ -13,7 +13,7 @@
   <Anesthetic.description>血流中に睡眠薬を投与します.麻酔は生物を意識不明にします.</Anesthetic.description>
   <Anesthetic.stages.wearing_off.label>効き目が薄い</Anesthetic.stages.wearing_off.label>
   <Anesthetic.stages.woozy.label>めまい</Anesthetic.stages.woozy.label>
-  <Anesthetic.stages.sedated.label>沈静</Anesthetic.stages.sedated.label>
+  <Anesthetic.stages.sedated.label>鎮静</Anesthetic.stages.sedated.label>
 
   <CatatonicBreakdown.label>緊張性衰弱</CatatonicBreakdown.label>
   <CatatonicBreakdown.description>精神的なショック症状で,完全に意識を保てなくなります.犠牲者は倒れて,意識不明になります.</CatatonicBreakdown.description>
