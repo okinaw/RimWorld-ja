@@ -185,7 +185,7 @@
   <CannotMissingHealthActivities>優先できない ({0}能力が無い)</CannotMissingHealthActivities>
 
   <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
-  <CannotGenericAlreadyAm>{2_labelShort}は すでに {0}中です</CannotGenericAlreadyAm>
+  <CannotGenericAlreadyAm>{2_labelShort}は すでに {0}最中です</CannotGenericAlreadyAm>
   <CannotGenericAlreadyAmCustom>すでに {0}</CannotGenericAlreadyAmCustom>
 
   <CannotPrioritizeWorkTypeDisabled>優先できない ({0}はできない)</CannotPrioritizeWorkTypeDisabled>
