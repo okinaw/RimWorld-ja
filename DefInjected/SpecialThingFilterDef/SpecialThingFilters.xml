@@ -25,7 +25,9 @@
   <AllowNonBurnableWeapons.label>不燃武器を許可</AllowNonBurnableWeapons.label>
   <AllowBurnableWeapons.label>可燃武器を許可</AllowBurnableWeapons.label>
   <AllowBiocodedWeapons.label>生体認証武器を許可</AllowBiocodedWeapons.label>
-  <AllowNonBiocodedWeapons.label>認証不要武器を許可</AllowNonBiocodedWeapons.label>
+  <AllowNonBiocodedWeapons.label>認証のない武器を許可</AllowNonBiocodedWeapons.label>
+  <AllowBiocodedApparel.label>生体認証衣服を許可</AllowBiocodedApparel.label>
+  <AllowNonBiocodedApparel.label>認証のない衣服を許可</AllowNonBiocodedApparel.label>
 
   <AllowNonDeadmansApparel.label>穢れない衣服を許可</AllowNonDeadmansApparel.label>
   <AllowNonDeadmansApparel.description>死体が,一度も着用したことの無い衣服を許可する.たいていの人間は死体が着ていた服を見ると不安になり,トレーダーも引き取りません.</AllowNonDeadmansApparel.description>
