@@ -4079,11 +4079,11 @@
     <desc>[PAWN_nameDef]は,化学と量子力学を趣味で学んでいました.\n\n[PAWN_pronoun]は,他の人を説得して,身体を使った作業をさせることが,とても得意で,人生最後まで,手作業をすることはありませんでした.</desc>
   </Student65>
 
-  <StudentEngineer81>
+  <StudentEngineer34>
     <title>技術者の卵</title>
     <titleShort>技術者</titleShort>
     <desc>神童と呼ばれた,[PAWN_nameDef]は,航空宇宙兵器と技術に関する特別な訓練プログラムを受けました.\n\nある日,彼は,リスに腕輪を与えて,なかよしになろうと頑張りました.リスが,彼を噛んでからは,"リスくん"というニックネームを付けられました.\n\n[PAWN_nameDef]は,手作業に関することは,自分には相応しくないと信じるようになりました.</desc>
-  </StudentEngineer81>
+  </StudentEngineer34>
 
   <StudentSocialite89>
     <title>社交界名士の学生</title>
