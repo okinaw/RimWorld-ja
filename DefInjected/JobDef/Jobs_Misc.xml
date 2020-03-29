@@ -33,7 +33,7 @@
   <RefuelAtomic.reportString>TargetA に給油中</RefuelAtomic.reportString>
   <FillFermentingBarrel.reportString>TargetA を詰めている</FillFermentingBarrel.reportString>
   <TakeBeerOutOfFermentingBarrel.reportString>TargetA を汲み出している</TakeBeerOutOfFermentingBarrel.reportString>
-  <ApplyTechprint.reportString>研究設計書をTargetBに適用中</ApplyTechprint.reportString>
+  <ApplyTechprint.reportString>TargetBに適用中</ApplyTechprint.reportString>
   <UnloadInventory.reportString>TargetA 荷下ろししている</UnloadInventory.reportString>
   <UnloadYourInventory.reportString>持ち物を荷下ろししている</UnloadYourInventory.reportString>
   <HaulToTransporter.reportString>TargetA 運んでいる</HaulToTransporter.reportString>
