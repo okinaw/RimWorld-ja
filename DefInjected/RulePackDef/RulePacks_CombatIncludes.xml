@@ -3,6 +3,7 @@
 
   <Combat_MeleeIncludes.rulePack.rulesStrings>
     <li>r_logentry->[action],[result].</li>
+    <li>r_logentry(priority=-10)->[action].</li>
 
     <li>implement(IMPLEMENTOWNER_type==weapon,p=2)->[INITIATOR_possessive][WEAPON_label]の[TOOL_label]</li>
     <li>implement(IMPLEMENTOWNER_type==weapon,p=1)->[INITIATOR_possessive][WEAPON_label]</li>
