@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <Bullet_ChargeLance.label>レイルガン装弾</Bullet_ChargeLance.label>
+  <Bullet_ChargeLance.label>チャージランス弾</Bullet_ChargeLance.label>
 
   <Bullet_ChargeRifle.label>チャージライフル弾</Bullet_ChargeRifle.label>
 
-  <Gun_ChargeLance.label>レイルガン</Gun_ChargeLance.label>
-  <Gun_ChargeLance.description>メカノイド製のレイルガン,槍状の物体を高速度で射出します.</Gun_ChargeLance.description>
+  <Gun_ChargeLance.label>チャージランス</Gun_ChargeLance.label>
+  <Gun_ChargeLance.description>メカノイド製のチャージ武器で,槍状の物体を高速度で射出します.</Gun_ChargeLance.description>
   <Gun_ChargeLance.tools.barrel.label>銃身</Gun_ChargeLance.tools.barrel.label>
-  <Gun_ChargeLance.verbs.Verb_Shoot.label>レイルガン</Gun_ChargeLance.verbs.Verb_Shoot.label>
+  <Gun_ChargeLance.verbs.Verb_Shoot.label>チャージランス</Gun_ChargeLance.verbs.Verb_Shoot.label>
 
   <Gun_ChargeRifle.label>チャージライフル</Gun_ChargeRifle.label>
   <Gun_ChargeRifle.description>エネルギーを弾丸のように打ち出すライフルです.</Gun_ChargeRifle.description>
