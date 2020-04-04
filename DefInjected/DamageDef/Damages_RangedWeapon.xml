@@ -3,8 +3,8 @@
 
   <!-- Temporary hack; ranged weapons need to use the old pre-flavorful-combat system to avoid a rebalance cascade. -->
 
-  <RangedStab.label>突き刺す</RangedStab.label>
-  <RangedStab.deathMessage>{0}は突き刺されて死んだ.</RangedStab.deathMessage>
+  <RangedStab.label>貫通</RangedStab.label>
+  <RangedStab.deathMessage>{0}は貫通されて死んだ</RangedStab.deathMessage>
 
   <Bullet.label>撃つ</Bullet.label>
   <Bullet.deathMessage>{0}は撃たれて死んだ</Bullet.deathMessage>
