@@ -7,7 +7,7 @@
   <Contents>運んだ資材</Contents>
   <ContainedResources>作成に必要なリソース</ContainedResources>
   <ForPrisonerUse>囚人が 使用</ForPrisonerUse>
-  <InPrisonCell>In prison cell:囚人用</InPrisonCell>
+  <InPrisonCell>刑務所の独房:囚人用</InPrisonCell>
   <ForColonistUse>入植者が 使用</ForColonistUse>
   <MedicalBed>医療用</MedicalBed>
   <Owner>所有者</Owner>
@@ -113,9 +113,9 @@
   <BadTemperature>温度が適していない</BadTemperature>
   <IdealFermentingTemperature>理想的な発酵温度</IdealFermentingTemperature>
   <DrugEffectMultiplier>{0} 効果掛け率: {1}</DrugEffectMultiplier>
-  <CaravanVisiting>訪問中 {0}</CaravanVisiting>
-  <CaravanEntering>参加中 {0}</CaravanEntering>
-  <CaravanAttacking>攻撃中 {0}</CaravanAttacking>
+  <CaravanVisiting>{0}へ訪問に向かっています</CaravanVisiting>
+  <CaravanEntering>{0}へ向かっています</CaravanEntering>
+  <CaravanAttacking>{0}へ攻撃に向かっています</CaravanAttacking>
   <CaravanOfferingGifts>{0}へ貢ぎ物を申し入れる</CaravanOfferingGifts>
   <CaravanTrading>{0} と取引中</CaravanTrading>
   <WasWornByCorpse>死体が着用して穢れた</WasWornByCorpse>
@@ -230,6 +230,7 @@
   <PsychicEntropyPainFocus>{0}の苦痛に精神が集中</PsychicEntropyPainFocus>
   <ConditionCauserRadius>範囲 {0}</ConditionCauserRadius>
   <DurationLeft>残り時間 {0}</DurationLeft>
+  <AnyOf>いずれか</AnyOf>
 
   <!-- Scanning -->
   <UserScanAbility>使用者の検出速度</UserScanAbility>
@@ -666,7 +667,7 @@
   <PawnTooltipWithPrimaryEquipNoDesc>{0}\n{1}\n{2}</PawnTooltipWithPrimaryEquipNoDesc>
   <PawnTooltipNoDescNoPrimaryEquip>{0}\n{1}</PawnTooltipNoDescNoPrimaryEquip>
   <PawnTooltipPsychicEntropy>精神汚染：{0}/{1}\n汚染進行率：{2}/{3}秒(0になるまで{4}秒)\n\n精神汚染は、サイコ放射を実行した後に増加します.\n安全限界を超えると,長期的な健康へ影響が出る可能性があります.\n精神汚染が0に到達するたびに,サイコ酔いが発生します.</PawnTooltipPsychicEntropy>
-  <PawnTooltipPsychicEntropyPainFocus>身体の痛みは心を痛みに集中させて,雑念を消し去ります.これには,精神汚染からの回復が早くなるという副作用があります.</PawnTooltipPsychicEntropyPainFocus>
+  <PawnTooltipPsychicEntropyPainFocus>痛みは精神を集中させて,精神汚染の回復が早くなります.\n\n痛みの強さ：{0}\n精神汚染の回復ボーナス：{1}</PawnTooltipPsychicEntropyPainFocus>
   <PawnTooltipPsychicEntropyLimit>精神汚染の安全限界を切替えます.\n\n精神汚染の安全限界を超えると,長期的な精神障害や過剰摂取による重大な脳ダメージなど,健康に深刻な影響を引き起こす可能性があります.精神汚染の安全限界値が高いほど,その反動はより危険になります.</PawnTooltipPsychicEntropyLimit>
 
   <!-- Pawn tooltip description -->
