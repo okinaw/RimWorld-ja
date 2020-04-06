@@ -472,7 +472,7 @@
   <ShowBeautyToggleButton>美しさの可視 切り替え\n\nマウスポイントした場所の,美しさとして知られる値を表示します</ShowBeautyToggleButton>
   <ShowRoomStatsToggleButton>ステータスの可視 切り替え\n\nマウスポイントした場所の,ルームステータスを表示します</ShowRoomStatsToggleButton>
   <ShowColonistBarToggleButton>入植者アイコンバー 切り替え\n\n全入植者のアイコンとステータスを画面中央上部に表示します.\n\n入植者バーを右クリックしてドラッグすれば,入植者の並びを変更することが出来ます</ShowColonistBarToggleButton>
-  <AutoHomeAreaToggleButton>自動的に, 新しい 建物・ 機材の まわりを 村ゾーンに 指定します.</AutoHomeAreaToggleButton>
+  <AutoHomeAreaToggleButton>コロニーゾーン自動配置\n\n新しい建物や機材の周囲に自動的にコロニーゾーンを設定します.</AutoHomeAreaToggleButton>
   <AutoRebuildButton>破壊された建物を自動的に再復興するか切り替えます.</AutoRebuildButton>
   <CategorizedResourceReadoutToggleButton>リソース表示のカテゴリー別表示の切り替え</CategorizedResourceReadoutToggleButton>
   <ShowAnimalNamesToggleButton>家畜の名前表示を切り替え</ShowAnimalNamesToggleButton>
