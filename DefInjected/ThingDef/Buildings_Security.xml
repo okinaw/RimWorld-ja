@@ -4,7 +4,7 @@
   <!-- Low cover -->
 
   <Sandbags.label>土のう</Sandbags.label>
-  <Sandbags.description>土砂を詰めたバッグを,鉄製の杭で固定しています.土のうは見た目が悪いですが,射撃戦闘では素晴らしいカバーを与えます.</Sandbags.description>
+  <Sandbags.description>土砂を詰めたバッグを,鉄製の杭で固定しています.土のうは見た目が悪いですが,射撃戦闘では素晴らしい遮蔽効果を与えます.</Sandbags.description>
 
   <Barricade.label>バリケード</Barricade.label>
   <Barricade.description>撃ち込まれる銃弾の遮蔽物として使用できる腰の高さがある防護壁.バリケードは見た目が汚いですが,土のうよりも良い遮蔽率を持っています.</Barricade.description>
