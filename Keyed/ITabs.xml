@@ -51,6 +51,8 @@
   <PrisonerReleaseRelationGainsDesc>囚人を開放すると,囚人が所属している派閥との友好関係が改善します.どれぐらい改善するかは,解放された囚人の健康状態と精神状態の影響を受けます。</PrisonerReleaseRelationGainsDesc>
   <PrisonBreakMTBDays>次回脱獄間隔</PrisonBreakMTBDays>
   <PrisonBreakMTBDaysDescription>脱獄の試み実行までの平均的な間隔日数です.前回の脱獄以降の心情や流動性や経過時間に影響されます.\n\nこの数値は睡眠時間を無視するので,実際の脱獄までの間隔はこれより遅くなります.</PrisonBreakMTBDaysDescription>
+  <Never>絶対ない</Never>
+  <NotWhileAsleep>眠ていない時</NotWhileAsleep>
   <SlavePrice>奴隷価格</SlavePrice>
   <GetsFood>食べ物を 与えます</GetsFood>
   <DoctorsCare>医者に 診せます</DoctorsCare>
@@ -174,5 +176,6 @@
   <DismissQuest>このクエストを閉じて,履歴タブに移動する.\n\nクエストはいつでも非表示にできます.その間も結果と有効期限は通常どおりに進行します.却下したクエストに関する通知は受け取りません.</DismissQuest>
   <UnDismissQuest>このクエストの却下を撤回する.\n\nクエストは利用可能タブか進行中タブに戻り,通知が再び有効になります.</UnDismissQuest>
   <QuestDismissed>却下されクエストはここに存在します.\n\n有効期限切れまで,非表示にできます.</QuestDismissed>
+  <DeleteQuest>このクエストを削除して,リストから永久に削除する.</DeleteQuest>
 
 </LanguageData>
