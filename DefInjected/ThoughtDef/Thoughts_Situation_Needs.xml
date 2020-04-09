@@ -80,30 +80,30 @@
   <!-- Chemical fascination -->
 
   <DrugDesireFascination.stages.chemical_want.label>薬物が欲しい</DrugDesireFascination.stages.chemical_want.label>
-  <DrugDesireFascination.stages.chemical_want.description>私は薬物のことしか考えられない.ひさしぶりに服用したい.</DrugDesireFascination.stages.chemical_want.description>
+  <DrugDesireFascination.stages.chemical_want.description>私は薬物のことしか考えられない.もっと体験してみたい.</DrugDesireFascination.stages.chemical_want.description>
   <DrugDesireFascination.stages.chemical_hunger.label>薬物が無いと苦しい</DrugDesireFascination.stages.chemical_hunger.label>
-  <DrugDesireFascination.stages.chemical_hunger.description>私は薬物のことしか考えられない.そう感じてからかなり長い時間が経ちました.</DrugDesireFascination.stages.chemical_hunger.description>
+  <DrugDesireFascination.stages.chemical_hunger.description>私は薬物のことしか考えられない.もっと強烈に体験してみたい.</DrugDesireFascination.stages.chemical_hunger.description>
   <DrugDesireFascination.stages.chemical_starvation.label>薬物に飢えている</DrugDesireFascination.stages.chemical_starvation.label>
-  <DrugDesireFascination.stages.chemical_starvation.description>私は薬物のことしか考えられない.もうずっとそう感じています.</DrugDesireFascination.stages.chemical_starvation.description>
+  <DrugDesireFascination.stages.chemical_starvation.description>私は薬物のことしか考えられない.もっと欲しい！もっと強いのを！.</DrugDesireFascination.stages.chemical_starvation.description>
 
   <DrugDesireFascinationSatisfied.stages.chemical_comfort.label>薬物で心地よい</DrugDesireFascinationSatisfied.stages.chemical_comfort.label>
-  <DrugDesireFascinationSatisfied.stages.chemical_comfort.description>私は薬物に魅了されていて、少し前にも体験しました.</DrugDesireFascinationSatisfied.stages.chemical_comfort.description>
+  <DrugDesireFascinationSatisfied.stages.chemical_comfort.description>私は薬物に魅了されていて、自分の欲求を満たすのが大好きです.</DrugDesireFascinationSatisfied.stages.chemical_comfort.description>
   <DrugDesireFascinationSatisfied.stages.chemical_satisfaction.label>薬物に大満足</DrugDesireFascinationSatisfied.stages.chemical_satisfaction.label>
-  <DrugDesireFascinationSatisfied.stages.chemical_satisfaction.description>私は薬物に魅了されていて、やっと体験できました.</DrugDesireFascinationSatisfied.stages.chemical_satisfaction.description>
+  <DrugDesireFascinationSatisfied.stages.chemical_satisfaction.description>私は薬物に魅了されていて、ドラッグ摂取に十分満足しています.</DrugDesireFascinationSatisfied.stages.chemical_satisfaction.description>
 
 
   <!-- Chemical interest -->
 
   <DrugDesireInterest.stages.chemical_want.label>薬物が欲しい</DrugDesireInterest.stages.chemical_want.label>
-  <DrugDesireInterest.stages.chemical_want.description>薬物に興味がありました.いくつか試してからしばらく経ちました。</DrugDesireInterest.stages.chemical_want.description>
+  <DrugDesireInterest.stages.chemical_want.description>薬物に興味がありました.もっとやってみたい.</DrugDesireInterest.stages.chemical_want.description>
   <DrugDesireInterest.stages.chemical_hunger.label>薬物が無いと苦しい</DrugDesireInterest.stages.chemical_hunger.label>
-  <DrugDesireInterest.stages.chemical_hunger.description>薬物に興味がありました.私は長い間体験する機会がありませんでした.</DrugDesireInterest.stages.chemical_hunger.description>
+  <DrugDesireInterest.stages.chemical_hunger.description>薬物に興味がありました.もっとたくさん経験したい.</DrugDesireInterest.stages.chemical_hunger.description>
   <DrugDesireInterest.stages.chemical_starvation.label>薬物に飢えている</DrugDesireInterest.stages.chemical_starvation.label>
-  <DrugDesireInterest.stages.chemical_starvation.description>薬物に興味がありました.私が最後に試してからとても長い時間が経ちました.</DrugDesireInterest.stages.chemical_starvation.description>
+  <DrugDesireInterest.stages.chemical_starvation.description>薬物に興味がありました.悪酔いするぐらい薬物に浸りたい.</DrugDesireInterest.stages.chemical_starvation.description>
 
   <DrugDesireInterestSatisfied.stages.chemical_comfort.label>薬物で心地よい</DrugDesireInterestSatisfied.stages.chemical_comfort.label>
-  <DrugDesireInterestSatisfied.stages.chemical_comfort.description>薬物に興味がありました.少し前に少し摂取してみましたが,良い感じです.</DrugDesireInterestSatisfied.stages.chemical_comfort.description>
+  <DrugDesireInterestSatisfied.stages.chemical_comfort.description>薬物に興味がありました.欲求を満たすことができて楽しかったです。.</DrugDesireInterestSatisfied.stages.chemical_comfort.description>
   <DrugDesireInterestSatisfied.stages.chemical_satisfaction.label>薬物に大満足</DrugDesireInterestSatisfied.stages.chemical_satisfaction.label>
-  <DrugDesireInterestSatisfied.stages.chemical_satisfaction.description>薬物に興味がありました.丁度摂取したところで,とても素晴らしいです!</DrugDesireInterestSatisfied.stages.chemical_satisfaction.description>
+  <DrugDesireInterestSatisfied.stages.chemical_satisfaction.description>薬物に興味がありました.最近手に入れた薬物に大変満足しています.</DrugDesireInterestSatisfied.stages.chemical_satisfaction.description>
 
 </LanguageData>
