@@ -278,11 +278,11 @@
     <desc>[PAWN_nameDef]は[PAWN_possessive]一族が管理する芸術品へ投資を行いました.\n\n[PAWN_pronoun]は,贔屓する芸術家を選んで,彼らと協力し,[PAWN_possessive]家族や帝国教会や帝国自体を最も称賛する芸術表現を生み出しました.</desc>
   </ArtsPatron54>
 
-  <ArtStudent6>
+  <ArtStudent79>
     <title>美術生</title>
     <titleShort>芸術家</titleShort>
     <desc>何年も学んだ後,フレイアは美術大学に入学し,彼女の持つ技術をさらに高めることができました.彼女は良い成績で卒業した後,美術業界に就職した.彼女は個人的な依頼を受けてなかなかの進歩を遂げて,何とかまともな生計を立てることができました.</desc>
-  </ArtStudent6>
+  </ArtStudent79>
 
   <AsceticPriest84>
     <title>修得司祭</title>
