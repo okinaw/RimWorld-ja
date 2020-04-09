@@ -35,7 +35,7 @@
   <!-- Power Claw -->
 
   <PowerClaw.label>機械化かぎ爪</PowerClaw.label>
-  <PowerClaw.description>取り付けられた機械化かぎ爪です.</PowerClaw.description>
+  <PowerClaw.description>全ての指に鉤状の爪を持つ機械式の手が付いた戦闘用の義手です。岩を深く切り刻んだり、頭蓋骨を卵の様に砕くほどの力を持ちます。爪は収納することが可能なため、非戦闘時には普通の手と同じように使えますが、全体的に不格好なために移動がやや鈍くなります。</PowerClaw.description>
   <PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>爪</PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>
   <PowerClaw.labelNoun>機械化かぎ爪</PowerClaw.labelNoun>
 
