@@ -8,7 +8,7 @@
   <PawnBeauty.description>この人物の肉体的な魅力です.この値は社交的な相互人間関係に影響します.</PawnBeauty.description>
 
   <ArrestSuccessChance.label>逮捕成功率</ArrestSuccessChance.label>
-  <ArrestSuccessChance.description>この人物が他者を逮捕する力がどれだけ優秀かを表します.\n\nこの値は,逮捕わ行う際の成功確率に影響を与えます.</ArrestSuccessChance.description>
+  <ArrestSuccessChance.description>この人物が他者を逮捕する力がどれだけ優秀かを表します.これは,この人物が抵抗なしに誰かを逮捕できる確率に影響します.</ArrestSuccessChance.description>
 
   <TradePriceImprovement.label>商人の勘</TradePriceImprovement.label>
   <TradePriceImprovement.description>価格について交渉した時に,どれだけ良い条件で売り買いできるかを表します.</TradePriceImprovement.description>
