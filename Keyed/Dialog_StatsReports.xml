@@ -58,6 +58,8 @@
   <StatsReport_WildMan>野人</StatsReport_WildMan>
   <StatsReport_NonToolAttack>攻撃</StatsReport_NonToolAttack>
 
+  <Stat_RecreationType_Desc>いろいろな娯楽の回復手段は,別々の娯楽種類によって満足します.入植者は同じ娯楽を繰り返し行うと飽きてしまうので,いろいろな娯楽種類によって娯楽の欲求を回復手段を用意することは重要です.</Stat_RecreationType_Desc>
+  <Stat_JoyKind_AllTypes>全娯楽種類</Stat_JoyKind_AllTypes>
   <Stat_MineableThing_Name>採掘されたアイテム</Stat_MineableThing_Name>
   <Stat_MineableThing_Desc>これを採掘するときに得られるアイテムです.</Stat_MineableThing_Desc>
   <Stat_SourceSpecies_Name>種族名</Stat_SourceSpecies_Name>
@@ -112,7 +114,7 @@
   <Stat_Hediff_NaturalHealingFactor_Name>自然治癒力</Stat_Hediff_NaturalHealingFactor_Name>
   <Stat_Hediff_NaturalHealingFactor_Desc>自然な負傷回復の全体的な速度に適用される係数.</Stat_Hediff_NaturalHealingFactor_Desc>
   <Stat_Hediff_FoodPoisoningChanceFactor_Name>食中毒の危険係数</Stat_Hediff_FoodPoisoningChanceFactor_Name>
-  <Stat_Hediff_FoodPoisoningChanceFactor_Desc>調理する際に誤って食事を毒化する確率に適用される係数.</Stat_Hediff_FoodPoisoningChanceFactor_Desc>
+  <Stat_Hediff_FoodPoisoningChanceFactor_Desc>食中毒になる可能性に適用される係数.</Stat_Hediff_FoodPoisoningChanceFactor_Desc>
   <Stat_Hediff_BleedingRate_Desc>この状態で出血する速度.</Stat_Hediff_BleedingRate_Desc>
   <Stat_Hediff_Pain_Desc>この状態で生じる痛みの量.</Stat_Hediff_Pain_Desc>
   <Stat_Hediff_PartEfficiency_Desc>これによって影響を受ける身体部分に適用効率のオフセット.</Stat_Hediff_PartEfficiency_Desc>
@@ -131,7 +133,7 @@
   <Stat_Thing_Terrain_Fine_Desc>この床は美しいと見なされて,Royalty(DLC)に適合しています.</Stat_Thing_Terrain_Fine_Desc>
   <Stat_Thing_PowerConsumption_Desc>この建築物が電力網から消費する電気量.</Stat_Thing_PowerConsumption_Desc>
   <Stat_Thing_BodyPartEfficiency_Desc>この身体部分の総合的な効率.</Stat_Thing_BodyPartEfficiency_Desc>
-  <Stat_Thing_Weapon_Biocoded_Name>生体認証</Stat_Thing_Weapon_Biocoded_Name>
-  <Stat_Thing_Weapon_Biocoded_Desc>このアイテムは,設定された個人の生体情報だけを受け付けるように暗号化されています.</Stat_Thing_Weapon_Biocoded_Desc>
+  <Stat_Thing_Biocoded_Name>生体認証</Stat_Thing_Biocoded_Name>
+  <Stat_Thing_Biocoded_Desc>このアイテムは,設定された個人の生体情報だけを受け付けるように暗号化されています.</Stat_Thing_Biocoded_Desc>
 
 </LanguageData>

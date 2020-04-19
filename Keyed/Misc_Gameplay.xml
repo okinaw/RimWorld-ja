@@ -202,7 +202,6 @@
   <GiveGiftViaTransportPodsTradeRequestWarning>警告：輸送ポッドを使って取引要求を完了することはできません.\nあなたが依頼品を輸送ポットで送ると,相手はそれらを贈り物として受け取りますが,彼らは依頼を完了したと思わずあなたに報酬を支払いません.\n\n取引する場合はキャラバンで拠点に入ってください！\n\n積み込んだアイテムを派閥に贈呈してもよろしいですか？</GiveGiftViaTransportPodsTradeRequestWarning>
   <PrisonerLower>囚人</PrisonerLower>
   <PrisonersLower>囚人たち</PrisonersLower>
-  <Complete>完了</Complete>
   <ClickToViewInQuestsTab>クエストタブでこのクエストを確認するにはクリックします</ClickToViewInQuestsTab>
   <Mood>心情</Mood>
   <Quest>クエスト</Quest>
