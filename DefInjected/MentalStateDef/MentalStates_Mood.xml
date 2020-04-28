@@ -53,7 +53,7 @@
   <Wander_Psychotic_Short.label>精神を病んでフラフラする</Wander_Psychotic_Short.label>
   <Wander_Psychotic_Short.beginLetter>{0}は,精神を病んであたりをうろついている.</Wander_Psychotic_Short.beginLetter>
   <Wander_Psychotic_Short.beginLetterLabel>呆然</Wander_Psychotic_Short.beginLetterLabel>
-  <Wander_Psychotic_Short.recoveryMessage>{0} is no longer wandering in a psychotic state.</Wander_Psychotic_Short.recoveryMessage>
+  <Wander_Psychotic_Short.recoveryMessage>{0}は精神を病んでフラフラしなくなった.</Wander_Psychotic_Short.recoveryMessage>
   <Wander_Psychotic_Short.baseInspectLine>精神状態: 精神衰弱</Wander_Psychotic_Short.baseInspectLine>
 
   <Tantrum.label>癇癪持ち</Tantrum.label>
@@ -116,6 +116,6 @@
   <TargetedInsultingSpree.label>侮辱・放言(人物)</TargetedInsultingSpree.label>
   <TargetedInsultingSpree.beginLetterLabel>侮辱・放言(人物)</TargetedInsultingSpree.beginLetterLabel>
   <TargetedInsultingSpree.beginLetter>{0}は[PAWN_possessive]怒りの矛先を{1}にだけ向ける.\n\n[PAWN_pronoun]は{1}をつけ回して侮辱し続けます.</TargetedInsultingSpree.beginLetter>
-  <TargetedInsultingSpree.baseInspectLine>精神状態: {1}への侮辱・放言</TargetedInsultingSpree.baseInspectLine>
+  <TargetedInsultingSpree.baseInspectLine>精神状態: {0}への侮辱・放言</TargetedInsultingSpree.baseInspectLine>
 
 </LanguageData>
