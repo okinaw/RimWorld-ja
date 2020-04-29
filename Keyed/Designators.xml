@@ -124,7 +124,10 @@
   <MustBeOnMovingWater>水車は流水に設置しなければなりません.</MustBeOnMovingWater>
   <InteractionSpotWillOverlap>交流地点は{1_labelShort}の交流地点と重複しています.</InteractionSpotWillOverlap>
   <InteractionSpotOverlaps>交流地点は{1_labelShort}の交流地点と重複しています.</InteractionSpotOverlaps>
-  <MonumentAdjacentToBuilding>モニュメントマーカーを建物のすぐ隣に配置することはできません。</MonumentAdjacentToBuilding>
+  <MonumentOverlapsBuilding>モニュメントは他の建物の上に設置できません.</MonumentOverlapsBuilding>
+  <MonumentAdjacentToBuilding>モニュメントは建物に隣接して設置できません.</MonumentAdjacentToBuilding>
+  <MonumentBadTerrain>モニュメントを支えられない地形には設置できません.</MonumentBadTerrain>
+  <MonumentBlockedPermanently>モニュメントは撤去不可能な障害物の上に設置できません.</MonumentBlockedPermanently>
 
   <!-- Mouse attachments -->
   <ExpandOrCreateZone>{0}を拡張するか\n新しく{1}を作ります.</ExpandOrCreateZone>
@@ -133,7 +136,7 @@
   <!-- Desc helpers -->
   <TransmitsPower>送電します.</TransmitsPower>
   <ConstructionNeeded>建設が必要です.</ConstructionNeeded>
-  <NoColonistWithSkillTip>あなたの{0}はこのスキルを持っていません。</NoColonistWithSkillTip>
+  <NoColonistWithSkillTip>あなたの{0}はこのスキルを持っていません.</NoColonistWithSkillTip>
   <SkillNeededForConstructing>{0}が必要</SkillNeededForConstructing>
   <NoColonistWithAllSkillsForConstructing>あなたの{0}は必要なこのスキルを誰も持っていません.</NoColonistWithAllSkillsForConstructing>
   <AllColonistsWithSkillHaveDisabledConstructingTip>このスキルを持っている全{0}が,{1}に割り当てられていません.</AllColonistsWithSkillHaveDisabledConstructingTip>

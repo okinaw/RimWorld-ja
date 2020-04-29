@@ -142,7 +142,8 @@
   <QuestBedroomRequirementsUnsatisfied>タイトルの要件を満たす無料のベッドルーム</QuestBedroomRequirementsUnsatisfied>
   <QuestBedroomRequirementsUnsatisfiedSingle>タイトルの要件を満たす無料のベッドルーム一室</QuestBedroomRequirementsUnsatisfiedSingle>
   <QuestNoColonistWithTitle>爵位が{0}の入植者です.</QuestNoColonistWithTitle>
-  <ChooseRewards>報酬を選択</ChooseRewards>
+  <ChooseRewards>報酬の希望</ChooseRewards>
+  <ChooseRewardsDesc>他の派閥に将来クエストでどのような種類の報酬を希望するか選択してください.これは,すでに提示されているクエストには影響しません.</ChooseRewardsDesc>
   <AcceptRoyalFavor>{FACTION_royalFavorLabel}を承諾する</AcceptRoyalFavor>
   <AcceptRoyalFavorDesc>{FACTION_name}から{FACTION_royalFavorLabel}の報酬を受け取るかどうか.\n\nこれを無効にすると,{FACTION_name}は代わりに他の種類の報酬を提供します.\n\nこの設定は新規のクエストにのみ影響します.</AcceptRoyalFavorDesc>
   <AcceptGoodwill>好意を受ける</AcceptGoodwill>
