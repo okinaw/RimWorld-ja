@@ -3,6 +3,7 @@
 
   <Confirm>了承</Confirm>
   <GoBack>戻る</GoBack>
+  <WantToContinue>続行しますか?</WantToContinue>
   <OK>[OK]</OK>
   <Close>閉じる</Close>
 
@@ -244,12 +245,13 @@
   <ShotsBeforeRearmExplanation>次回の再装填までに発砲できる回数です.</ShotsBeforeRearmExplanation>
   <PowerConsumption>電力消費量</PowerConsumption>
   <Target>目標</Target>
+  <AbilityTargetDesc>この能力を使用できる対象の種類です.</AbilityTargetDesc>
   <TargetHuman>人間</TargetHuman>
   <TargetAnimal>動物</TargetAnimal>
   <TargetSelf>自分</TargetSelf>
   <TargetGround>地面</TargetGround>
   <ClickToLearnMore>クリックして詳細を見る.</ClickToLearnMore>
-  <ClickToViewFactions>クリックして派閥を表示します。</ClickToViewFactions>
+  <ClickToViewFactions>クリックして派閥を表示します.</ClickToViewFactions>
 
   <!-- Trade -->
   <PositiveBuysNegativeSells>正の数は"買い"\n負の数は"売り"</PositiveBuysNegativeSells>
@@ -486,7 +488,7 @@
   <ConfirmSettleNearFactionBase>この場所は他の派閥と{0}タイル以内なので,彼らはあなたの事を「この土地に割り込んできた部外者」とみなし,彼らの派閥との関係が{1}日毎に悪化していきます.\n\n本当にこの地で良いですか？</ConfirmSettleNearFactionBase>
 
   <!-- Cleanup translation files -->
-  <ConfirmCleanupTranslationFiles>{0}の翻訳ファイルを正規化します。本当によろしいですか？\n\n次のことが実行されます：\n　-&#xA0;翻訳文が欠けている場所には空の要素(TODO)が仮置きされます\n　-&#xA0;それぞれの翻訳文の前に、未翻訳の原文(英語)がコメント文として挿入されます\n　-&#xA0;全ての翻訳文が適切なXMLファイル内に再配置されます\n　-&#xA0;全てのXMLファイルについて書式が自動的に整えられます\n　-&#xA0;旧バージョンで使用されていた要素名(&lt;xxx&gt;&lt;/xxx&gt;)は新しいものに置き換えられます\n　-&#xA0;既存のコメント文は全て削除されます(ただしリスト要素&lt;li&gt;へのコメントは残ります)\n\nXMLファイル以外が削除・変更されることはありません。\n\nこの作業を始める前にゲームの再起動を忘れずに行ってください。最新の翻訳データを読み込んでおく必要があります。\n\nあらかじめ{0}の翻訳ファイルは全てバックアップしておきましょう。</ConfirmCleanupTranslationFiles>
+  <ConfirmCleanupTranslationFiles>{0}の翻訳ファイルを正規化します.本当によろしいですか？\n\n次のことが実行されます：\n　-&#xA0;翻訳文が欠けている場所には空の要素(TODO)が仮置きされます\n　-&#xA0;それぞれの翻訳文の前に、未翻訳の原文(英語)がコメント文として挿入されます\n　-&#xA0;全ての翻訳文が適切なXMLファイル内に再配置されます\n　-&#xA0;全てのXMLファイルについて書式が自動的に整えられます\n　-&#xA0;旧バージョンで使用されていた要素名(&lt;xxx&gt;&lt;/xxx&gt;)は新しいものに置き換えられます\n　-&#xA0;既存のコメント文は全て削除されます(ただしリスト要素&lt;li&gt;へのコメントは残ります)\n\nXMLファイル以外が削除・変更されることはありません.\n\nこの作業を始める前にゲームの再起動を忘れずに行ってください.最新の翻訳データを読み込んでおく必要があります.\n\nあらかじめ{0}の翻訳ファイルは全てバックアップしておきましょう.</ConfirmCleanupTranslationFiles>
   <ConfirmCleanupTranslationFiles_Confirm>はい、バックアップしました</ConfirmCleanupTranslationFiles_Confirm>
 
   <!-- Load transporters -->

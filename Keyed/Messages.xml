@@ -26,7 +26,8 @@
 
   <MessageShipHasLeftCommsRange>{0}は 通信範囲から離れました.</MessageShipHasLeftCommsRange>
 
-  <MessageNeedBeaconToTradeWithShip>商船との取り引きには電源の入った貿易ビーコンが必要です.</MessageNeedBeaconToTradeWithShip>
+  <MessageNeedBeaconToTradeWithShip>トレード船との取り引きには電源の入った貿易ビーコンが必要です.</MessageNeedBeaconToTradeWithShip>
+  <MessageNeedRoyalTitleToCallWithShip>呼び出す側の爵位は{0}以上でなければならない.</MessageNeedRoyalTitleToCallWithShip>
 
   <MessageConditionCauserDespawned>{0}は破壊された.</MessageConditionCauserDespawned>
 
@@ -223,7 +224,8 @@
   <MessageYouHaveToReformCaravanNow>今すぐ,キャラバン隊を再編成しなければなりません.</MessageYouHaveToReformCaravanNow>
 
   <MessageDefendersAttacking>{1}の{0}は {2}を攻撃中です.</MessageDefendersAttacking>
-  <MessageMechanoidsAssembled>メカノイドが組み立てられて,攻撃しています。</MessageMechanoidsAssembled>
+  <MessageMechanoidsAssembled>組み立てられたメカノイドは,クラスターを防衛します.</MessageMechanoidsAssembled>
+  <MessageMechanoidsLeftToAssemble>組立予定のメカノイド数</MessageMechanoidsLeftToAssemble>
   <MessageMechanoidsReinforcementsDrop>メカノイドの降下用ビーコンは,付近に対して強襲ポッドでの援軍を呼び出しました.</MessageMechanoidsReinforcementsDrop>
 
   <MessageSelfTendUnsatisfied>自己治療をする為には {1_labelShort}に 医者の作業を割り当てていなければなりません.</MessageSelfTendUnsatisfied>
