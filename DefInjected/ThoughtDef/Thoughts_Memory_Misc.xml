@@ -96,6 +96,9 @@
 
   <DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>敵のリーダーをやっつけた</DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>
 
+  <DefeatedMechCluster.stages.defeated_mech_cluster.label>メカクラスターを撃退</DefeatedMechCluster.stages.defeated_mech_cluster.label>
+  <DefeatedMechCluster.stages.defeated_mech_cluster.description>残忍な金属の獣たちめ,お前たちは敗北した！</DefeatedMechCluster.stages.defeated_mech_cluster.description>
+
 
   <!-- Banishing pawns -->
 
