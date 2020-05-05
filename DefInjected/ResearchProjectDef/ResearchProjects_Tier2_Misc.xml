@@ -53,7 +53,7 @@
   <!-- Machining and its children sub-tier -->
 
   <Machining.label>精密工作機械</Machining.label>
-  <Machining.description>動作停止した機械生命体を分解し利用可能な金属を回収したり,銃や手榴弾,防弾チョッキを加工する精密工作機械を作れるようになります.</Machining.description>
+  <Machining.description>動作停止した機械生命体を細断して利用可能な金属を回収したり,銃や手榴弾,防弾チョッキを加工する精密工作機械を作れるようになります.</Machining.description>
 
   <SmokepopBelt.label>スモークポップベルト</SmokepopBelt.label>
   <SmokepopBelt.description>自動展張する防御スモークスクリーンを備えた,スモークポップベルトが作れるようになります.</SmokepopBelt.description>
