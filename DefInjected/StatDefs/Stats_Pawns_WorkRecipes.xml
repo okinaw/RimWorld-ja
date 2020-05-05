@@ -32,12 +32,12 @@
   <ButcheryFleshSpeed.description>食肉加工する速度です.</ButcheryFleshSpeed.description>
 
   <ButcheryMechanoidSpeed.label>メカノイド・解体速度</ButcheryMechanoidSpeed.label>
-  <ButcheryMechanoidSpeed.description>メカノイドを解体する速度です.</ButcheryMechanoidSpeed.description>
+  <ButcheryMechanoidSpeed.description>メカノイドを細断する速度です.</ButcheryMechanoidSpeed.description>
 
   <ButcheryFleshEfficiency.label>食肉加工・収率</ButcheryFleshEfficiency.label>
   <ButcheryFleshEfficiency.description>食肉加工後にできる食肉の量です.実際の肉の量は,生物の体格にも関係があります.</ButcheryFleshEfficiency.description>
 
-  <ButcheryMechanoidEfficiency.label>メカノイド・解体収率</ButcheryMechanoidEfficiency.label>
-  <ButcheryMechanoidEfficiency.description>メカノイドを解体する時に得られる収量です.実際の収量は,メカノイドの体格にも関係があります.</ButcheryMechanoidEfficiency.description>
+  <ButcheryMechanoidEfficiency.label>メカノイド・細断率</ButcheryMechanoidEfficiency.label>
+  <ButcheryMechanoidEfficiency.description>メカノイドを細断する時に回収できる資源量です.実際の回収量は,メカノイドの体格にも関係があります.</ButcheryMechanoidEfficiency.description>
 
 </LanguageData>
