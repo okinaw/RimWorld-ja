@@ -85,6 +85,8 @@
   <ViewQuest>クエストを確認</ViewQuest>
   <LastEventsInLife>{PAWN_definite}の一生に起きた最後の出来事</LastEventsInLife>
 
+  <LetterInspirationBeginThanksToHighMoodPart>高く維持された心情のおかげで,[PAWN_nameIndef]はやる気が出ました！</LetterInspirationBeginThanksToHighMoodPart>
+
   <!-- Related pawns -->
   <LetterLabelNoticedRelatedPawns>血縁関係</LetterLabelNoticedRelatedPawns>
   <LetterRelatedPawnsRaidEnemy>あなたのコロニーの{0}か,囚人と,繋がりの有る者が,到着した敵対する {1} グループにいます.\n\nたとえ血が繋がっていても,敵対関係にある以上,依然として襲ってくることには,変わりが無いことに留意してください.\n\n 家族の一員：</LetterRelatedPawnsRaidEnemy>
@@ -216,7 +218,7 @@
 
   <!-- Hibernate complete -->
   <LetterLabelHibernateComplete>反応炉 準備完了</LetterLabelHibernateComplete>
-  <LetterHibernateComplete>Charlon Whitestoneは,反応炉の再起動シーケンスを完了させました.いま,反応炉は打ち上げに必要なパワーの準備が出来ています.</LetterHibernateComplete>
+  <LetterHibernateComplete>(*Name)Charlon Whitestone(/Name)は,反応炉の再起動シーケンスを完了させました.いま,反応炉は打ち上げに必要なパワーの準備が出来ています.</LetterHibernateComplete>
   <LetterHibernateCompleteStandalone>反応炉の再起動シーケンスは完了しました.打ち上げ準備は完了です.</LetterHibernateCompleteStandalone>
 
   <!-- Visitors gave gift -->
@@ -301,7 +303,7 @@
   <LetterQuestCompletedConcluded>期限内にクエスト「{0}」を完了しました.</LetterQuestCompletedConcluded>
 
   <!-- Bladelink -->
-  <LetterBladelinkWeaponBondedLabel>{PAWN_labelShort}と武器の絆</LetterBladelinkWeaponBondedLabel>
+  <LetterBladelinkWeaponBondedLabel>ペルソナ武器との絆：{PAWN_labelShort}</LetterBladelinkWeaponBondedLabel>
   <LetterBladelinkWeaponBonded>{PAWN_labelShort}は,{WEAPON_labelShort}の人格と絆を確立しました.\nこれ以降,{WEAPON_labelShort}は{PAWN_labelShort}以外の人物による使用を拒絶します.</LetterBladelinkWeaponBonded>
 
   <!-- Mech cluster -->

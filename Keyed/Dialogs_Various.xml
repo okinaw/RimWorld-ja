@@ -221,7 +221,26 @@
   <AnimalFilthRateExplanation>動物は,作られた床の上を歩き回ると,床を汚してしまいます.この動物が床を汚す平均の量は {0}セルです.\n\n大きくて,ペットには向かない動物は,より汚すようになります.</AnimalFilthRateExplanation>
   <TimeRecordsCategory>時</TimeRecordsCategory>
   <MiscRecordsCategory>その他</MiscRecordsCategory>
-  <Addictiveness>依存症</Addictiveness>
+  <Chemical>薬物名</Chemical>
+  <HighGain>薬物欲求の増加率(服用毎)</HighGain>
+  <HighFallRate>薬物欲求の低下率(日)</HighFallRate>
+  <HighDuration>薬物欲求の持続日数(服用毎)</HighDuration>
+  <ToleranceGain>耐性増加率(服用毎)</ToleranceGain>
+  <ToleranceFallRate>耐性減少率(日)</ToleranceFallRate>
+  <MinimumToleranceForAddiction>依存症の最小耐性値</MinimumToleranceForAddiction>
+  <SafeDoseInterval>安全な服用間隔(日)</SafeDoseInterval>
+  <Addictiveness>新規依存症の発生率</Addictiveness>
+  <AddictionSeverityInitial>依存症(中毒)の初期重症度</AddictionSeverityInitial>
+  <AddictionSeverityPerDose>依存症(中毒)の重症度(服用毎)</AddictionSeverityPerDose>
+  <AddictionNeedOffset>薬物欲求の回復率(服用毎)</AddictionNeedOffset>
+  <AddictionNeedFallRate>薬物欲求の減少率</AddictionNeedFallRate>
+  <AddictionNeedDoseInterval>薬物欲求の服用間隔</AddictionNeedDoseInterval>
+  <AddictionRecoveryTime>初期依存症(中毒)からの回復期間</AddictionRecoveryTime>
+  <AddictionCost>依存症(中毒)維持コスト</AddictionCost>
+  <RandomODChance>過剰摂取ランダム発生率</RandomODChance>
+  <AlwaysSafe>常に安全</AlwaysSafe>
+  <NeverSafe>常に危険</NeverSafe>
+  <PerDay>{0} / 日</PerDay>
   <PackAnimal>駄載獣</PackAnimal>
   <PackAnimalExplanation>この動物は,キャラバン隊が長い距離,アイテムを運ぶのに適しています.</PackAnimalExplanation>
   <Skill>スキル</Skill>
@@ -252,6 +271,18 @@
   <TargetGround>地面</TargetGround>
   <ClickToLearnMore>クリックして詳細を見る.</ClickToLearnMore>
   <ClickToViewFactions>クリックして派閥を表示します.</ClickToViewFactions>
+  <MeditationFocuses>瞑想活動タイプ</MeditationFocuses>
+  <MeditationFocusesUnlocked>瞑想活動タイプのロック解除</MeditationFocusesUnlocked>
+  <MeditationFocusesPawnDesc>この人物が使用できる瞑想活動の種類です.瞑想する際,人物は瞑想オブジェクトに焦点を合わせてサイフォーカスの上昇率を高めることができます.ただし,その瞑想オブジェクトが使用可能な瞑想活動タイプを提供している場合のみです.各人物は,バックストーリーや特性や社会的地位などに応じて,異なる瞑想活動タイプを利用できます.</MeditationFocusesPawnDesc>
+  <MeditationFocusesDesc>この瞑想オブジェクトが提供する瞑想活動の種類です.瞑想する人物は,この瞑想オブジェクトに意識を集中してサイフォーカスの上昇を増加することが可能ですが,その瞑想活動タイプの1つを利用できる場合に限られます.各人物は,バックストーリーや特性や社会的地位などに応じて,異なる瞑想活動タイプを利用できます.</MeditationFocusesDesc>
+  <MeditationFocusCanUse>次の理由により瞑想活動タイプ:{0}を利用可能:</MeditationFocusCanUse>
+  <MeditationFocusObjects>{0}瞑想オブジェクト</MeditationFocusObjects>
+  <MeditationFocusEnabledByTitle>タイトルを保有：{TITLE}（{FACTION_name}).</MeditationFocusEnabledByTitle>
+  <MeditationFocusEnabledByChildhood>子供時代の背景を持つ</MeditationFocusEnabledByChildhood>
+  <MeditationFocusEnabledByAdulthood>成人後の背景を持つ</MeditationFocusEnabledByAdulthood>
+  <MeditationFocusEnabledByTrait>特性を持つ</MeditationFocusEnabledByTrait>
+  <MeditationFocusDisabledByTrait>特性を持たない</MeditationFocusDisabledByTrait>
+  <EnablesMeditationFocusType>瞑想活動タイプを有効</EnablesMeditationFocusType>
 
   <!-- Trade -->
   <PositiveBuysNegativeSells>正の数は"買い"\n負の数は"売り"</PositiveBuysNegativeSells>
@@ -332,7 +363,9 @@
   <ItemNutritionTip>この食料から摂れる栄養素の数です.\n\n参考情報: 成人は {0}栄養素/日 必要とします.</ItemNutritionTip>
   <AnimalCanGrazeTip>家畜は持ち込んだ食料を食べる代わりに土地で放牧することができます.放牧は,特定の気候帯と温度範囲内でのみ可能です.</AnimalCanGrazeTip>
   <NutritionForagedPerDayTip>一日に調達できる栄養素数.実際の数値は気候帯の食料調達のしやすさも影響します.\n\n{0}</NutritionForagedPerDayTip>
-  <NutritionEatenPerDayTip>一日に摂取する栄養素数.参考までに,簡単な食事は{0}栄養素\n\n食べる: {2}\n\nLegend:\n{1}</NutritionEatenPerDayTip>
+  <NutritionEatenPerDayTip>一日に摂取する栄養素数.参考までに,簡単な食事は栄養素が{0}ある.</NutritionEatenPerDayTip>
+  <CanEat>食用可</CanEat>
+  <Legend>伝説</Legend>
   <MassCarriedSimple>積載量</MassCarriedSimple>
   <MassCapacity>最大積載量</MassCapacity>
   <Mass>重量</Mass>
@@ -368,7 +401,7 @@
   <SplitCaravanThingCountTip>元のキャラバン隊から,分割先のキャラバン隊に持たすことができるアイテムの数</SplitCaravanThingCountTip>
 
   <!-- Caravan misc -->
-  <ConfirmAttackFriendlyFaction>本当に{0}を攻撃してますか？\n\nこれにより、{1}は敵対的になって最終的に彼らはあなたのコロニーを襲撃し始めます！</ConfirmAttackFriendlyFaction>
+  <ConfirmAttackFriendlyFaction>本当に{0}を攻撃してますか？\n\nこれにより,{1}は敵対的になって最終的に彼らはあなたのコロニーを襲撃し始めます！</ConfirmAttackFriendlyFaction>
 
   <!-- Load transporters -->
   <LoadTransporters>{0}を積込む</LoadTransporters>
@@ -488,8 +521,8 @@
   <ConfirmSettleNearFactionBase>この場所は他の派閥と{0}タイル以内なので,彼らはあなたの事を「この土地に割り込んできた部外者」とみなし,彼らの派閥との関係が{1}日毎に悪化していきます.\n\n本当にこの地で良いですか？</ConfirmSettleNearFactionBase>
 
   <!-- Cleanup translation files -->
-  <ConfirmCleanupTranslationFiles>{0}の翻訳ファイルを正規化します.本当によろしいですか？\n\n次のことが実行されます：\n　-&#xA0;翻訳文が欠けている場所には空の要素(TODO)が仮置きされます\n　-&#xA0;それぞれの翻訳文の前に、未翻訳の原文(英語)がコメント文として挿入されます\n　-&#xA0;全ての翻訳文が適切なXMLファイル内に再配置されます\n　-&#xA0;全てのXMLファイルについて書式が自動的に整えられます\n　-&#xA0;旧バージョンで使用されていた要素名(&lt;xxx&gt;&lt;/xxx&gt;)は新しいものに置き換えられます\n　-&#xA0;既存のコメント文は全て削除されます(ただしリスト要素&lt;li&gt;へのコメントは残ります)\n\nXMLファイル以外が削除・変更されることはありません.\n\nこの作業を始める前にゲームの再起動を忘れずに行ってください.最新の翻訳データを読み込んでおく必要があります.\n\nあらかじめ{0}の翻訳ファイルは全てバックアップしておきましょう.</ConfirmCleanupTranslationFiles>
-  <ConfirmCleanupTranslationFiles_Confirm>はい、バックアップしました</ConfirmCleanupTranslationFiles_Confirm>
+  <ConfirmCleanupTranslationFiles>{0}の翻訳ファイルを正規化します.本当によろしいですか？\n\n次のことが実行されます：\n　-&#xA0;翻訳文が欠けている場所には空の要素(TODO)が仮置きされます\n　-&#xA0;それぞれの翻訳文の前に,未翻訳の原文(英語)がコメント文として挿入されます\n　-&#xA0;全ての翻訳文が適切なXMLファイル内に再配置されます\n　-&#xA0;全てのXMLファイルについて書式が自動的に整えられます\n　-&#xA0;旧バージョンで使用されていた要素名(&lt;xxx&gt;&lt;/xxx&gt;)は新しいものに置き換えられます\n　-&#xA0;既存のコメント文は全て削除されます(ただしリスト要素&lt;li&gt;へのコメントは残ります)\n\nXMLファイル以外が削除・変更されることはありません.\n\nこの作業を始める前にゲームの再起動を忘れずに行ってください.最新の翻訳データを読み込んでおく必要があります.\n\nあらかじめ{0}の翻訳ファイルは全てバックアップしておきましょう.</ConfirmCleanupTranslationFiles>
+  <ConfirmCleanupTranslationFiles_Confirm>はい,バックアップしました</ConfirmCleanupTranslationFiles_Confirm>
 
   <!-- Load transporters -->
   <TransportersCaravanWillBeImmobile>何も無いタイルにポッドを送り込むと,キャラバン隊は動けなくなるでしょう.本当に続けますか？</TransportersCaravanWillBeImmobile>
@@ -499,12 +532,15 @@
 
   <!-- Abilities -->
   <AbilityRequiresLOS>射線が必要</AbilityRequiresLOS>
-  <AbilityEntropyGain>エントロピー増大 </AbilityEntropyGain>
+  <AbilityEntropyGain>興奮反応上昇 </AbilityEntropyGain>
+  <AbilityPsyfocusCost>サイフォーカス消費量</AbilityPsyfocusCost>
   <AbilityDuration>効果持続時間</AbilityDuration>
   <AbilityEffectRadius>効果半径</AbilityEffectRadius>
   <AbilityCastingTime>鋳造時間</AbilityCastingTime>
   <AbilityCannotHitTarget>目標への射線が通らない.</AbilityCannotHitTarget>
   <AbilityOccupiedCells>{0}は空白エリアを目標にする必要があります.</AbilityOccupiedCells>
   <AbilityUnwalkable>{0}は移動可能エリアを目標にする必要があります.</AbilityUnwalkable>
+  <AbilityRoofed>{0}は屋根のない場所を目標にする必要があります.</AbilityRoofed>
+  <AbilityCantApplyToMentallyBroken>{0}は精神崩壊した.</AbilityCantApplyToMentallyBroken>
 
 </LanguageData>

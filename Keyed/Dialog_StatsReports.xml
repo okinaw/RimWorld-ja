@@ -31,7 +31,8 @@
   <StatsReport_DifficultyMultiplier>難易度 {0}による掛け率</StatsReport_DifficultyMultiplier>
   <StatsReport_InBed>ベッドで寝ている</StatsReport_InBed>
   <StatsReport_Facilities>設備</StatsReport_Facilities>
-  <StatsReport_BodySize>体格 {0}による掛け率</StatsReport_BodySize>
+  <StatsReport_BodySize>体格 {0}による倍率</StatsReport_BodySize>
+  <StatsReport_HasHediffExplanation>傷付けずに丁寧に屠殺された</StatsReport_HasHediffExplanation>
   <StatsReport_MeleeDPSExplanation>DPS = 近接ダメージ量 * 近接ヒット率 / クールダウン秒</StatsReport_MeleeDPSExplanation>
   <StatsReport_MeleeDamage>近接ダメージ量</StatsReport_MeleeDamage>
   <StatsReport_Cooldown>クールダウン秒</StatsReport_Cooldown>
@@ -57,6 +58,16 @@
   <StatsReport_NotFresh>陳腐</StatsReport_NotFresh>
   <StatsReport_WildMan>野人</StatsReport_WildMan>
   <StatsReport_NonToolAttack>攻撃</StatsReport_NonToolAttack>
+
+  <StatReport_PossibleOffsets>相殺可能</StatReport_PossibleOffsets>
+  <StatsReport_RoomImpressiveness>部屋の印象</StatsReport_RoomImpressiveness>
+  <StatsReport_Lit>光がある</StatsReport_Lit>
+  <StatsReport_GraveFull>{0}がある</StatsReport_GraveFull>
+  <StatsReport_GraveFullAbstract>人の遺体がある</StatsReport_GraveFullAbstract>
+  <StatsReport_GraveCorpseRelatedAbstract>瞑想者は中の遺体と関係がある</StatsReport_GraveCorpseRelatedAbstract>
+  <StatsReport_FromQuality>品質から</StatsReport_FromQuality>
+  <StatsReport_NearbyArtificialStructures>近くに人工構造物がある</StatsReport_NearbyArtificialStructures>
+  <StatsReport_SatisfiesTitle>利用者の前提条件を満たした</StatsReport_SatisfiesTitle>
 
   <Stat_RecreationType_Desc>いろいろな娯楽の回復手段は,別々の娯楽種類によって満足します.入植者は同じ娯楽を繰り返し行うと飽きてしまうので,いろいろな娯楽種類によって娯楽の欲求を回復手段を用意することは重要です.</Stat_RecreationType_Desc>
   <Stat_JoyKind_AllTypes>全娯楽種類</Stat_JoyKind_AllTypes>
@@ -108,14 +119,13 @@
   <Stat_Thing_Surgery_SuccessChanceFactor_CantFail>失敗しない</Stat_Thing_Surgery_SuccessChanceFactor_CantFail>
   <Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>この手術は患者にとって安全です.</Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>
   <Stat_Thing_Surgery_DeathOnFailChance_Desc>この手術が失敗した場合に患者が死亡する確率.</Stat_Thing_Surgery_DeathOnFailChance_Desc>
-  <Stat_Thing_Drug_Addictiveness_Desc>このドラッグの中毒性.</Stat_Thing_Drug_Addictiveness_Desc>
   <Stat_Hediff_TotalBleedFactor_Name>合計出血係数</Stat_Hediff_TotalBleedFactor_Name>
   <Stat_Hediff_TotalBleedFactor_Desc>全体の失血率に適用される係数.</Stat_Hediff_TotalBleedFactor_Desc>
   <Stat_Hediff_NaturalHealingFactor_Name>自然治癒力</Stat_Hediff_NaturalHealingFactor_Name>
   <Stat_Hediff_NaturalHealingFactor_Desc>自然な負傷回復の全体的な速度に適用される係数.</Stat_Hediff_NaturalHealingFactor_Desc>
   <Stat_Hediff_FoodPoisoningChanceFactor_Name>食中毒の危険係数</Stat_Hediff_FoodPoisoningChanceFactor_Name>
   <Stat_Hediff_FoodPoisoningChanceFactor_Desc>食中毒になる可能性に適用される係数.</Stat_Hediff_FoodPoisoningChanceFactor_Desc>
-  <Stat_Hediff_BleedingRate_Desc>この状態で出血する速度.</Stat_Hediff_BleedingRate_Desc>
+  <Stat_Hediff_BleedingRate_Desc>この状態が失血を引き起こす確率.</Stat_Hediff_BleedingRate_Desc>
   <Stat_Hediff_Pain_Desc>この状態で生じる痛みの量.</Stat_Hediff_Pain_Desc>
   <Stat_Hediff_PartEfficiency_Desc>これによって影響を受ける身体部分に適用効率のオフセット.</Stat_Hediff_PartEfficiency_Desc>
   <Stat_Hediff_Affects_Desc>これが影響する精神的な能力.</Stat_Hediff_Affects_Desc>
@@ -135,5 +145,24 @@
   <Stat_Thing_BodyPartEfficiency_Desc>この身体部分の総合的な効率.</Stat_Thing_BodyPartEfficiency_Desc>
   <Stat_Thing_Biocoded_Name>生体認証</Stat_Thing_Biocoded_Name>
   <Stat_Thing_Biocoded_Desc>このアイテムは,設定された個人の生体情報だけを受け付けるように暗号化されています.</Stat_Thing_Biocoded_Desc>
+
+  <!-- Drugs -->
+  <Stat_Thing_Drug_Chemical_Desc>活性化学物質が含まれています.\n\n時には,同じ化学物質が別々のドラッグにも含まれています.これらの色々なドラッグは,それぞれ別な方法で同じ中毒症状を引き起こします.</Stat_Thing_Drug_Chemical_Desc>
+  <Stat_Thing_Drug_HighGainPerDose_Desc>このドラッグの1回分の服用で増加する薬物欲求の割合です.</Stat_Thing_Drug_HighGainPerDose_Desc>
+  <Stat_Thing_Drug_HighFallPerDay_Desc>このドラッグの薬物欲求が1日で減少する割合です。</Stat_Thing_Drug_HighFallPerDay_Desc>
+  <Stat_Thing_Drug_HighDurationPerDose_Desc>このドラッグの効果が1回分の投与で持続する期間です.\n\nこの値は,1回あたりの薬物欲求の増加値と1日あたりの薬物欲求の減少値から計算されます.</Stat_Thing_Drug_HighDurationPerDose_Desc>
+  <Stat_Thing_Drug_ToleranceGainPerDose_Desc>このドラッグを1回服用するたびに,使用者の化学物質に対する耐性値がどれだけ増加するかです.\n\nこれは,同じ化学物質であっても摂取形態によって結果が違う場合があります.</Stat_Thing_Drug_ToleranceGainPerDose_Desc>
+  <Stat_Thing_Drug_ToleranceFallPerDay_Desc>化学物質を服用した者の耐性値が1日あたりどのくらい減少するかです.</Stat_Thing_Drug_ToleranceFallPerDay_Desc>
+  <Stat_Thing_Drug_MinToleranceForAddiction_Desc>このドラッグの依存症(中毒)になる可能性が発生する最小耐性値です.\n\n服用した者の耐性値がこの最小耐性値を下回っている場合,その服用者は新しく依存症にはなりません.</Stat_Thing_Drug_MinToleranceForAddiction_Desc>
+  <Stat_Thing_Drug_SafeDoseInterval_Desc>これ以上ドラッグを服用しなければ,依存症(中毒)になることはありません.\n\nこれは,依存症に対する薬物の最小耐性値,1回の服用量あたりの耐性値の増加値,耐性の減少値から計算されます.\n\n一部のドラッグには安全な間隔が存在しないことに注意してください.そのようなドラッグは,例え初めてでも,どの服用回数でも依存症(中毒)を起こす可能性があります.</Stat_Thing_Drug_SafeDoseInterval_Desc>
+  <Stat_Thing_Drug_RandomODChance_Desc>この薬を服用した際に発生するランダムに過剰摂取が起きる可能性の確率です.ランダムに起きる過剰摂取は,それが初めての服用でも,何度も繰り返した中毒者の100回目の服用だろうと全く関係なく,どのような摂取量であろうと発生する可能性があります.</Stat_Thing_Drug_RandomODChance_Desc>
+  <Stat_Thing_Drug_Addictiveness_Desc>このドラッグの1回服用するたびに依存症(中毒)が発生する確率です.\n\nもしドラッグが中毒者に対して最小耐性値を持っている場合,これが適用されるには現在の耐性値が,そのドラッグの最小耐性値を超えている必要があります.もし最小耐性値がないドラッグの場合,摂取量に関係なく依存症(中毒)を引き起こす可能性があります.</Stat_Thing_Drug_Addictiveness_Desc>
+  <Stat_Thing_Drug_AddictionSeverityInitial_Desc>このドラッグによって引き起こされる新しい依存症(中毒)は,この重症度レベルから始まります.\n\nドラッグの摂取量が増えると依存症(中毒)の重症度が悪化しますが,時間経過で軽減されます.</Stat_Thing_Drug_AddictionSeverityInitial_Desc>
+  <Stat_Thing_Drug_AddictionRecoveryTime_Desc>このドラッグの初期依存症(中毒)から回復するのにどれくらいの期間が必要になるかの日数です.\n\nこれは,新規の依存症(中毒)の重症度を,中毒からの回復率で割って計算されます.服用が続けられている依存症(中毒)はもっと時間がかかります.</Stat_Thing_Drug_AddictionRecoveryTime_Desc>
+  <Stat_Thing_Drug_AddictionSeverityPerDose_Desc>このドラッグを1回服用するたびに,既存の依存症(中毒)にどの程度の重症度が追加されるかです.\n\n依存症(中毒)の重症度は100%を超えることはありません.</Stat_Thing_Drug_AddictionSeverityPerDose_Desc>
+  <Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>依存症(中毒)患者が離脱症状にならないために,どの程度の頻度でこのドラッグを服用する必要があるかです.\n\nこれは,依存症(中毒)患者の欲求減少率と1回の服用量あたりの必要な摂取量から計算されます.</Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>
+  <Stat_Thing_Drug_AddictionNeedOffset_Desc>このドラッグ1回分の服用で,依存症(中毒)患者の薬物欲求をどの程度満たすかの値です.</Stat_Thing_Drug_AddictionNeedOffset_Desc>
+  <Stat_Thing_Drug_AddictionNeedFallRate_Desc>依存症(中毒)患者の,薬物に対しての欲求がどのくらいの速さで減少するかです.</Stat_Thing_Drug_AddictionNeedFallRate_Desc>
+  <Stat_Thing_Drug_AddictionCost_Desc>離脱症状を起こさずに依存症(中毒)を維持するのに1日あたりに服用しなければならない薬物の市場価値です.\n\nこの値は,依存症(中毒)患者の1回分あたりの薬物欲求の必要量と薬物欲求の必要量減少率とこの薬物の市場価値から計算されます.\n\n同じ薬物を別の方法(価格コスト)で入手できるかもしれないことに注意が必要です.</Stat_Thing_Drug_AddictionCost_Desc>
 
 </LanguageData>

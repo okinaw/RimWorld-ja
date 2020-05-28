@@ -127,6 +127,8 @@
   <AcceptedOnBy>{1}が{0}で受けた</AcceptedOnBy>
   <QuestExpiresIn>{0}後に期限切れ</QuestExpiresIn>
   <QuestExpiresOn>{0}に期限切れ</QuestExpiresOn>
+  <QuestAveragePawnMood>ゲストの平均心情（以前{0}）：{1}</QuestAveragePawnMood>
+  <QuestAveragePawnMoodTargets>以前の{1}と比較した{0}の平均心情</QuestAveragePawnMoodTargets>
   <ShuttleArrivesIn>シャトルが{0}で到着</ShuttleArrivesIn>
   <ShuttleArrivesOn>シャトルが{0}に到着</ShuttleArrivesOn>
   <ShuttleDepartsIn>シャトルは{0}で出発</ShuttleDepartsIn>
@@ -134,9 +136,12 @@
   <QuestFinishedAgo>{0}日前に完了</QuestFinishedAgo>
   <AcceptQuest>クエストを受ける</AcceptQuest>
   <AcceptWith>{0_labelShort}で受けます</AcceptWith>
+  <AcceptQuestFor>これで受ける:</AcceptQuestFor>
+  <AcceptQuestForTip>クリックすると,この報酬でこのクエストを受けます。</AcceptQuestForTip>
   <QuestOutcomeInfo_OfferExpired>提案の有効期限が切れた.</QuestOutcomeInfo_OfferExpired>
   <QuestOutcomeInfo_UnknownOrSuccess>このクエストを完了した.</QuestOutcomeInfo_UnknownOrSuccess>
   <QuestOutcomeInfo_Failed>このクエストに失敗した.</QuestOutcomeInfo_Failed>
+  <QuestOutcomeInfo_Invalid>このクエストは受る前に無効になった.</QuestOutcomeInfo_Invalid>
   <JumpToTargetCustom>{0}へジャンプする</JumpToTargetCustom>
   <SelectHiveTargets>巣を選択</SelectHiveTargets>
   <QuestChallengeRatingTip>挑戦難易度です.これはあなたの現在の強さと比較してクエストがどの程度難しいかを示す一般的な評価です.挑戦しがいのあるクエストは,より大きな報酬が望めます.\n\n星1つ：通常\n星2つ：難しい\n星3つ：過激\n星4つ：至難</QuestChallengeRatingTip>
@@ -152,5 +157,10 @@
   <AcceptGoodwillDesc>{FACTION_name}との友好関係の改善を報酬として受け取るかどうか。\n\nこれが無効になっている場合,{FACTION_name}は代わりに他のタイプの報酬を提供します.\n\nこの設定は,新しく生成されたクエストにだけ影響します.</AcceptGoodwillDesc>
   <RoyalFavorOn>現在,{FACTION_royalFavorLabel}の受け取りを選択中です.</RoyalFavorOn>
   <RoyalFavorOff>現在,{FACTION_royalFavorLabel}の受け取りを断っています.</RoyalFavorOff>
+  <GoodwillTip>あなた方と{0_name}との友好度が{1}改善されました.\n\n現在の友好関係：{4} ({5}).\n\n友好関係は派閥同士の一般的な関係を表します.もし{2}を下回ると,その派閥は敵対的になり,あなたのコロニーやキャラバンを襲撃します.もし{3}を上回れば,その派閥はあなたの同盟派閥となり,可能ならあなたを助けるために援軍を送ってくるでしょう.それ例外なら,その派閥は中立の立場を維持して,あなたと自由に取引を行い,通信器で会話もします.</GoodwillTip>
+  <PawnQuestReward>{0_labelShort}が参加した</PawnQuestReward>
+
+  <!-- Health tab -->
+  <CreatesNeed>欲求を作る</CreatesNeed>
 
 </LanguageData>

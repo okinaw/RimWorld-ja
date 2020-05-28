@@ -94,6 +94,7 @@
 
   <NoCryptosleepCasket>冬眠カプセルがない</NoCryptosleepCasket>
   <CryptosleepCasketGuestsNotAllowed>臨時派閥メンバーは不許可</CryptosleepCasketGuestsNotAllowed>
+  <CryptosleepCasketGuestPrisonersNotAllowed>収監された囚人は不許可</CryptosleepCasketGuestPrisonersNotAllowed>
   <NoPrisonerBed>周囲と壁で遮断され.適温な,囚人用ベッドがない</NoPrisonerBed>
   <NoNonPrisonerBed>周囲と壁で遮断され,適温な,入植者用ベッドがない</NoNonPrisonerBed>
   <NoAnimalBed>適温な動物用ベッドがない</NoAnimalBed>
