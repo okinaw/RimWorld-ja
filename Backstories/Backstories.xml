@@ -1536,13 +1536,13 @@
 		<titleShort>補充兵</titleShort>
 		<desc>歴代の傭兵として生まれた,[PAWN_nameDef]は,せわしない貿易センターで育ちました.若い頃,[PAWN_pronoun]は,ある傭兵のクルーにスカウトされました.</desc>
 	</MercenaryRecruit64>
-	<MercenaryChef31>
+	<MercenaryChef44>
 		<title>傭兵の調理兵</title>
 		<titleShort>傭兵</titleShort>
 		<desc>彼の家系に従い,[PAWN_nameDef]も生粋の戦士でした.
 
 彼は,生まれつきの射撃の名人でした.しかしながら,彼が本当に熱中するものは,新しいレシピとガジェットの分解でした.</desc>
-	</MercenaryChef31>
+	</MercenaryChef44>
 	<AbandonedChild30>
 		<title>見捨てられた子</title>
 		<titleShort>捨て子</titleShort>
@@ -5017,6 +5017,20 @@ Markusは,古参兵でした - [PAWN_pronoun]は,好戦的な亜人間襲撃者�
 
 　　　　[PAWN_nameDef]の家族は結局捕らえられました.処刑されなかった者は奴隷にされた.工場の経営者に奴隷として売られた[PAWN_nameDef]は,いつか[PAWN_possessive]復讐をすると誓いました.</desc>
 	</VengefulNomad67>
+	<ArtSlave57>
+		<title>芸術家奴隷</title>
+		<titleShort>芸術家</titleShort>
+		<desc>[PAWN_nameDef]は,重力井戸に閉じ込められたurbworldの未開な辺境地で生まれました.口論の末に,[PAWN_possessive]父親は[PAWN_objective]芸術家奴隷として地方領主に売り飛ばしました.
+
+芸術作品を作ることを強制されたり,罰せられたりした[PAWN_pronoun]は,人から一歩身を引くようになり他人と人間関係を築くことができなくなりました.</desc>
+	</ArtSlave57>
+	<ModDesigner85>
+		<title>Mod開発者</title>
+		<titleShort>Mod作者</titleShort>
+		<desc>[PAWN_nameDef]は最前線の兵士向けに戦闘用修正プログラムを設計していました.
+
+ある夜に見た悪夢の中で,[PAWN_nameDef]は[PAWN_possessive]仕事によって殺されたすべての人々と直面しました.[PAWN_pronoun]はRimworldに旅立って,[PAWN_possessive]スキルを使い続けることに決めました.</desc>
+	</ModDesigner85>
 	<Punk30>
 		<title>パンク</title>
 		<titleShort>パンク</titleShort>
