@@ -33,7 +33,7 @@
   <Restarting>再起動中</Restarting>
 
   <!-- Missing Steam -->
-  <SteamClientMissing>"Steam API"の初期化ができませんでした.可能性のある原因：\n\n -"Steam"が起動していない.\n - steam_appid.txtが無い,Steam以外の場所から起動しようとした.\n -違う特権で起動しようとした(例：administrator)\n\nほとんどの場合,コンピュータの再起動でこの問題は解決するでしょう.\n\nYou can play anyway, but no Steam stats will be recorded and Steam features won't be available.</SteamClientMissing>
+  <SteamClientMissing>"Steam-API"の初期化ができませんでした.可能性のある原因：\n\n -"Steam"が起動していない.\n - steam_appid.txtが無い,Steam以外の場所から起動しようとした.\n -違う特権で起動しようとした(例：administrator)\n\nほとんどの場合,コンピュータの再起動でこの問題は解決するでしょう.\n\nいずれにしろプレイは可能ですが,Steamの統計データは保存されず,Steamの機能も利用できません.</SteamClientMissing>
 
   <!-- Long events -->
   <InitializingInterface>インターフェースを初期化中</InitializingInterface>

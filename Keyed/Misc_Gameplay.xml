@@ -182,6 +182,8 @@
   <yourCaravan>あなたのキャラバン隊</yourCaravan>
   <CreatureWildness>{0} 野生</CreatureWildness>
   <CreatureTrainability>{0} 訓練しやすさ</CreatureTrainability>
+  <CreatureFollowDrafted>主人が徴兵中は追従する</CreatureFollowDrafted>
+  <CreatureFollowFieldwork>主人が屋外活動中は追従する</CreatureFollowFieldwork>
   <ProximitySingleGoodwillChange>{1}との有効値 {0}</ProximitySingleGoodwillChange>
   <EnterCooldown>{0}以内に再入村できません</EnterCooldown>
   <Caravan>キャラバン隊</Caravan>
@@ -215,6 +217,7 @@
   <MechCluster>メカクラスター</MechCluster>
   <SpawningNextPawnIn>{0} で発生</SpawningNextPawnIn>
   <MechAssemblyCompleteIn>{0}の組立が{1}で完了した</MechAssemblyCompleteIn>
+  <MechAssemblyNextType>組立予約</MechAssemblyNextType>
   <ThingsProduced>生産された</ThingsProduced>
   <PlantsHarvested>収穫された</PlantsHarvested>
   <PawnsKilled>{0}が殺害された</PawnsKilled>
@@ -225,16 +228,23 @@
   <DormantCompExpired>期限切れ</DormantCompExpired>
   <InitiatesIn>状況開始</InitiatesIn>
   <SendSignalOnCountdownCompTime>{0}で起動</SendSignalOnCountdownCompTime>
-  <PsychicEntropy>精神汚染</PsychicEntropy>
-  <PsychicEntropyPainFocus>{0}の苦痛に精神が集中</PsychicEntropyPainFocus>
+  <PsychicEntropy>ニューラルヒート</PsychicEntropy>
+  <PsychicEntropyShort>ヒート</PsychicEntropyShort>
+  <PsychicEntropyPainFocus>{0}の苦痛で増強</PsychicEntropyPainFocus>
   <ConditionCauserRadius>範囲 {0}</ConditionCauserRadius>
+  <LowPsyfocus>サイフォーカス低下</LowPsyfocus>
   <DurationLeft>残り時間 {0}</DurationLeft>
   <AnyOf>いずれか</AnyOf>
+  <Goodwill>友好度</Goodwill>
+  <JobReport_ReduceResistance>{0_nameIndef}の抵抗を減らす </JobReport_ReduceResistance>
 
   <!-- Scanning -->
   <UserScanAbility>使用者の検出速度</UserScanAbility>
   <ScanAverageInterval>平均検出間隔</ScanAverageInterval>
   <ScanningProgressToGuaranteedFind>作業の状態を検出</ScanningProgressToGuaranteedFind>
+
+  <!-- Meditation -->
+  <MeditatingAt>ここで瞑想:</MeditatingAt>
 
   <!-- Fermentation barrel -->
   <ContainsWort>内容物 {0} / {1} 麦汁</ContainsWort>
@@ -436,8 +446,8 @@
   <FullyGrownIn>成長 {0} で 完熟 します</FullyGrownIn>
   <PlantNeedsLightLevel>必要な日照量</PlantNeedsLightLevel>
   <PlantResting>成長していない (活動停止中)</PlantResting>
-  <OutOfIdealTemperatureRange>成長に適した温度範囲を超えています (通常の成長速度の {0}% )</OutOfIdealTemperatureRange>
-  <OutOfIdealTemperatureRangeNotGrowing>成長に適した温度範囲を超えています (活動停止)</OutOfIdealTemperatureRangeNotGrowing>
+  <OutOfIdealTemperatureRange>成長に適した温度範囲を超過 (通常の成長速度の {0}% )</OutOfIdealTemperatureRange>
+  <OutOfIdealTemperatureRangeNotGrowing>成長に適した温度範囲を超過 (活動停止)</OutOfIdealTemperatureRangeNotGrowing>
   <ReadyToHarvest>収穫できます</ReadyToHarvest>
   <Mature>十分成長した</Mature>
   <OutdoorGrowingPeriod>成長期間</OutdoorGrowingPeriod>
@@ -494,6 +504,7 @@
   <ImpactDate>衝突予測日</ImpactDate>
   <SourceUnknown>情報が不明.</SourceUnknown>
   <ClickToJumpToSource>クリックして情報にジャンプする.</ClickToJumpToSource>
+  <ClickToJumpToFlashstorm>クリックして雷雨にジャンプする.</ClickToJumpToFlashstorm>
   <CausedByQuest>クエストが原因：{0}</CausedByQuest>
 
   <!-- Building placement -->
@@ -531,9 +542,9 @@
   <ShipReportNoFullPods>冬眠カプセルに 空きが あります</ShipReportNoFullPods>
   <ShipReportHibernating>休止状態の構成物</ShipReportHibernating>
   <ShipReportNotReady>準備不足の構成物</ShipReportNotReady>
-  <HibernateWarning>Charlon Whitestoneは,休止反応炉の再起動シーケンスを始める準備を整えた.\n\n彼は,このプロセスは約15日程かかり,そのエネルギー波紋は,かなり遠距離からでも探知される事をあなたに警告する.このエネルギー波紋のような物は,恒星間航行能力があることを示し,命知らずのギャングどもや,最悪なメカノイド群を惹きつけるだろう.\n\nあなたが今まで見たことも無いような熾烈な戦闘となるでしょう.真っ先に防衛の準備が整っているか確認せよ.</HibernateWarning>
+  <HibernateWarning>(*Name)Charlon Whitestone(/Name)は,休止反応炉の再起動シーケンスを始める準備を整えた.\n\n彼は,このプロセスは約15日程かかり,そのエネルギー波紋は,かなり遠距離からでも探知される事をあなたに警告する.このエネルギー波紋のような物は,恒星間航行能力があることを示し,命知らずのギャングどもや,最悪なメカノイド群を惹きつけるだろう.\n\nあなたが今まで見たことも無いような熾烈な戦闘となるでしょう.真っ先に防衛の準備が整っているか確認せよ.</HibernateWarning>
   <HibernateWarningStandalone>反応炉の出力アップの準備を整えた.\n\nこのプロセスは約15日程かかり,そのエネルギー波紋は,かなり遠距離からでも探知される.このエネルギー波紋のような物は,恒星間航行能力があることを示し,命知らずのギャングどもや,最悪なメカノイド群を惹きつけるだろう.\n\nあなたが今まで見たことも無いような熾烈な戦闘となるでしょう.真っ先に防衛の準備が整っているか確認せよ.</HibernateWarningStandalone>
-  <HibernateWarningPacifist>Charlon Whitestoneは,休止反応炉の再起動シーケンスを始める準備を整えた.\n\n彼は,このプロセスは約15日程かかる事を警告している.</HibernateWarningPacifist>
+  <HibernateWarningPacifist>(*Name)Charlon Whitestone(/Name)は,休止反応炉の再起動シーケンスを始める準備を整えた.\n\n彼は,このプロセスは約15日程かかる事を警告している.</HibernateWarningPacifist>
   <HibernateWarningStandalonePacifist>反応炉の出力アップの準備を整えた.\n\nこのプロセスは約15日程かかるだろう.</HibernateWarningStandalonePacifist>
 
   <!-- Neurotrainer -->
@@ -657,7 +668,7 @@
   <HibernatableStartingUp>再起動中</HibernatableStartingUp>
 
   <!-- Transport pods -->
-  <ClickToSeeAvailableOrders_WorldObject>{0}: オーダーを見る...</ClickToSeeAvailableOrders_WorldObject>
+  <ClickToSeeAvailableOrders_WorldObject>{0}：オーダーを見る...</ClickToSeeAvailableOrders_WorldObject>
   <ClickToSeeAvailableOrders_Empty>オーダーを見る...</ClickToSeeAvailableOrders_Empty>
 
   <!-- Pawn tooltips -->
@@ -665,9 +676,11 @@
   <PawnTooltipWithDescNoPrimaryEquip>{0} ({1})\n{2}</PawnTooltipWithDescNoPrimaryEquip>
   <PawnTooltipWithPrimaryEquipNoDesc>{0}\n{1}\n{2}</PawnTooltipWithPrimaryEquipNoDesc>
   <PawnTooltipNoDescNoPrimaryEquip>{0}\n{1}</PawnTooltipNoDescNoPrimaryEquip>
-  <PawnTooltipPsychicEntropy>精神汚染：{0}/{1}\n汚染進行率：{2}/{3}秒(0になるまで{4}秒)\n\n精神汚染は、サイコ放射を実行した後に増加します.\n安全限界を超えると,長期的な健康へ影響が出る可能性があります.\n精神汚染が0に到達するたびに,サイコ酔いが発生します.</PawnTooltipPsychicEntropy>
+  <PawnTooltipPsychicEntropyStats>ニューラルヒート：{0}/{1}\n汚染率：{2}/秒（0になるまで{3}秒)</PawnTooltipPsychicEntropyStats>
+  <PawnTooltipPsychicEntropyDesc>サイキャストを実行すると,ニューラルヒートが増加します.安全限界を超えると,精神崩壊が続く可能性があります.\n\nニューラルヒートは時間経過で自然に消散します.この自然減少は,エルテックス製の衣服を着るか,苦痛を感じることで加速可能です.</PawnTooltipPsychicEntropyDesc>
   <PawnTooltipPsychicEntropyPainFocus>痛みは精神を集中させて,精神汚染の回復が早くなります.\n\n痛みの強さ：{0}\n精神汚染の回復ボーナス：{1}</PawnTooltipPsychicEntropyPainFocus>
   <PawnTooltipPsychicEntropyLimit>精神汚染の安全限界を切替えます.\n\n精神汚染の安全限界を超えると,長期的な精神障害や過剰摂取による重大な脳ダメージなど,健康に深刻な影響を引き起こす可能性があります.精神汚染の安全限界値が高いほど,その反動はより危険になります.</PawnTooltipPsychicEntropyLimit>
+  <PawnTooltipPsyfocus>サイフォーカス：{0}</PawnTooltipPsyfocus>
 
   <!-- Pawn tooltip description -->
   <PawnTooltipGenderAndKindLabel>{0} {1}</PawnTooltipGenderAndKindLabel>
@@ -681,6 +694,11 @@
   <Reward_Items_Caravan>以下の{1}相当の品を受け取る:
 \n{0}</Reward_Items_Caravan>
   <Reward_Goodwill>{0_name}との友好関係が +{1}改善</Reward_Goodwill>
+  <Reward_PassageOffworld>あなたは星界へいざなわれるでしょう.</Reward_PassageOffworld>
+  <Reward_PassageOffworld_Label>別世界への移住</Reward_PassageOffworld_Label>
+  <Reward_CampLoot>キャンプから全アイテムを持ち出せます</Reward_CampLoot>
+  <Reward_CampLoot_Label>戦利品</Reward_CampLoot_Label>
+  <TotalValue>価値:{0}</TotalValue>
 
   <!-- Bladelink -->
   <BondedWith>登録者：{0}</BondedWith>
@@ -700,5 +718,8 @@
 
   <!-- Condition causers -->
   <AffectedGender>影響を受ける性別</AffectedGender>
+
+  <!-- Hediff misc -->
+  <CausedByHediff>原因：{0}</CausedByHediff>
 
 </LanguageData>

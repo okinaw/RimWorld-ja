@@ -43,6 +43,7 @@
   <Default>デフォルト</Default>
   <Average>平均</Average>
   <Cause>理由</Cause>
+  <Etc>等</Etc>
   <MoneyFormat>${0}</MoneyFormat>
 
   <!-- Content generation-->
