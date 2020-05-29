@@ -1,54 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Peaceful.label>peaceful</Peaceful.label>
-  <Peaceful.description>Build a community in a sandbox environment. Major direct threats are disabled, but challenges like disease, mental breaks, and mad animals can still occur.
+  <Peaceful.label>穏やか(Peaceful)</Peaceful.label>
+  <Peaceful.description>「平和な世界」：\n箱庭的な環境でコミュニティを作れます.このモードでは大規模で直接的な脅威が現れる危機的イベントは無効化されていますが,病気や精神崩壊や人狩りの動物などの問題は依然として発生します.\n\nお勧めしたい人:\n\n-最小に限定された脅威の中でゲームの仕組みを勉強したいプレイヤー\n-コロニーを建設したいプレイヤー\n-ストレスのないゲームをしたいプレイヤー</Peaceful.description>
 
-Recommended for:
+  <Easy.label>基地建設(Builder)</Easy.label>
+  <Easy.description>「コロニー建設者」：\nこのモードでは危機感を感じながらコミュニティを作れます.脅威は出現しますが,通常よりも弱められています.\n\nお勧めしたい人:\n\n-このようなゲームを初めてするプレイヤー\n-完璧なコロニーを作りたいプレイヤー\n-リラックスしてゲームをしたいプレイヤー</Easy.description>
 
-- Players who want to learn the game mechanics with minimal pressure.
-- Players who just want to build.
-- Players who just want to relax.</Peaceful.description>
+  <Medium.label>普通(Adventure)</Medium.label>
+  <Medium.description>「冒険の物語」：\nうまく成長できれば繁栄可能ですが,このモードでも危険な惑星なことに変わりはありません.\n\nお勧めしたい人:\n\n-RimWorldは初めてだが,他のゲームは経験豊富なストラテジーゲーマー\n-Rimworldは経験豊だが,奇妙で面白い終わり方を目指すプレイヤー</Medium.description>
 
-  <Easy.label>community builder</Easy.label>
-  <Easy.description>Build a community with a taste of danger. Threats appear, but they're weakened.
+  <Rough.label>難しい(Survive)</Rough.label>
+  <Rough.description>「適者生存」：\nこのモードでは手荒で厳しい惑星で生き残るためには努力が必要です.犠牲と引き換えの勝利と避ける事ができない悲劇が待っています.\n\nお勧めしたい人:\n\nシリアスなRimworldで,生き抜く力とスキルを証明する熾烈な体験をしたい経験豊富なプレイヤー</Rough.description>
 
-Recommended for:
+  <Hard.label>強烈(Blood)</Hard.label>
+  <Hard.description>「流れた血は生存の対価」：\nこのモードでは生きるか死ぬかの残酷な選択と直面します.例え最上の選択をしても死者は出ます.先を見越した準備を行い,多種多様な戦略を追求した上で,運も味方に付ける必要があります.\n\nお勧めしたい人:\n\nより多くの経験を積んだ,難しい以上のモードを希望するプレイヤー</Hard.description>
 
-- Players who are new to this kind of game.
-- Players who want to build a perfect colony.
-- Players who want to relax.</Easy.description>
-
-  <Medium.label>adventure story</Medium.label>
-  <Medium.description>There's room to grow and thrive, but it's still a dangerous planet.
-
-Recommended for:
-
-- Experienced strategy gamers on their first game of RimWorld.
-- Experienced RimWorld players who want some breathing room to pursue funny or weird goals.</Medium.description>
-
-  <Rough.label>strive to survive</Rough.label>
-  <Rough.description>Strive to survive on a rough, tough planet. There will be triumph and tragedy.
-
-Recommended for:
-
-- Experienced players who want a rough story requiring skill to survive.</Rough.description>
-
-  <Hard.label>the price of survival is blood</Hard.label>
-  <Hard.description>Face brutal survival challenges. Even if you play well, people will die. You will need to anticipate threats before they arrive, and seek out every advantage.
-
-Recommended for:
-
-- Experienced players who want to struggle to survive.</Hard.description>
-
-  <Extreme.label>losing is fun</Extreme.label>
-  <Extreme.description>This setting is designed to be unfair. Huge threats will crash upon you without mercy until your colony dies. Only choose this setting if you are happy with the drama of struggling and dying.
-
-Recommended for:
-
-- Experienced players who want to face a brutal, unfair challenge where even great skill may not prevent death.
-- Lovers of tragedy.
-- Digital masochists.</Extreme.description>
-
+  <Extreme.label>過激(Extreme)</Extreme.label>
+  <Extreme.description>「滅びは美しい」：\nこのモードはあなたを楽しませる設定になっていません.理不尽で不公平な結果が待っています.あなたのコロニーが死に絶えるまで,情け容赦のない強大な脅威が襲い続けるでしょう.全ての努力が灰燼に帰すというドラマに満足できる覚悟があるならば,このモードを選んでください.\n\nお勧めしたい人:\n\n-経験もスキルの高さも無関係に死を迎える残酷で不公平な挑戦をしたいプレイヤー-悲劇愛好者-デジタルマゾヒスト</Extreme.description>
 
 </LanguageData>
