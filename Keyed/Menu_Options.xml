@@ -23,6 +23,7 @@
   <RunInBackground>バックグラウンド実行</RunInBackground>
   <DevelopmentMode>開発者モード</DevelopmentMode>
   <ResetModsConfigOnCrash>クラッシュ時に,MODをリセットする</ResetModsConfigOnCrash>
+  <SimulateNotOwningRoyalty>Royaltyを所有していない状態をシミュレート</SimulateNotOwningRoyalty>
   <LogVerbose>詳細なプロファイルを記録</LogVerbose>
   <OpenSaveGameDataFolder>データ の格納フォルダ</OpenSaveGameDataFolder>
   <ShowSaveGameDataLocation>セーブデータのある位置を表示する</ShowSaveGameDataLocation>

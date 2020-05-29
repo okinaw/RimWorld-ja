@@ -14,6 +14,7 @@
   <SaveTranslationReport>翻訳ファイルを検証する</SaveTranslationReport>
   <GeneratingTranslationReport>翻訳ファイルを検証しています</GeneratingTranslationReport>
   <CleanupTranslationFiles>翻訳ファイルを正規化する</CleanupTranslationFiles>
+  <TranslationFilesTKeyUpdate>翻訳ファイルを更新する（翻訳Keyの）</TranslationFilesTKeyUpdate>
   <CleaningTranslationFiles>翻訳ファイルを正規化しています</CleaningTranslationFiles>
   <Credits>クレジット</Credits>
   <QuitToMainMenu>タイトルに戻る</QuitToMainMenu>
@@ -89,10 +90,10 @@
   <WorkshopPage>Workshop page</WorkshopPage>
   <UploadToSteamWorkshop>Steam Workshopにアップ</UploadToSteamWorkshop>
   <UpdateOnSteamWorkshop>Steamワークショップを更新</UpdateOnSteamWorkshop>
-  <UploadAlreadyInProgress>Upload already in progress.</UploadAlreadyInProgress>
-  <WorkshopSubmissionFailed>Workshop submission failed.\n\nReason: {0}</WorkshopSubmissionFailed>
-  <WorkshopUploadSucceeded>Successfully uploaded {0}.</WorkshopUploadSucceeded>
-  <Downloading>Downloading</Downloading>
+  <UploadAlreadyInProgress>既にアップロード中.</UploadAlreadyInProgress>
+  <WorkshopSubmissionFailed>ワークショップへの提出に失敗.\n\n理由：{0}</WorkshopSubmissionFailed>
+  <WorkshopUploadSucceeded>{0}のアップロードら成功しました.</WorkshopUploadSucceeded>
+  <Downloading>ダウンロード中</Downloading>
   <ModDisplayFulfilledRequirements>満たした要件を表示</ModDisplayFulfilledRequirements>
   <ModClickToSelect>クリックして選択</ModClickToSelect>
   <ModClickToGoToWebsite>クリックでサイトを開く</ModClickToGoToWebsite>
@@ -111,7 +112,7 @@
   <ModNotMadeForThisVersion>このMODは,今のRimworld本体のバージョン用には作られていないので,恐らく正常動作しないと思われます.</ModNotMadeForThisVersion>
   <ModNotMadeForThisVersion_Newer>このMODは,最新のRimworld本体のバージョン用に作られているので,恐らく正常動作しないと思われます.</ModNotMadeForThisVersion_Newer>
   <MessageModNeedsWellFormattedTargetVersion>MODには,ターゲットとなるバージョン番号を正しく"About.xml"に書く必要があります.このように: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
-  <MessageModNeedsWellFormattedPackageId>Mod needs a unique, properly formatted packageId in About.xml. It must must meet following requirements:\n\n  - Alphanumeric characters and dot only.\n  - No spaces.\n  - At least one dot.\n  - No repeated dots in a row, or starting or ending with a dot.\n  - 60 characters or less.\n  - Cannot contain word "Ludeon".\n\nFor example:\n&lt;packageId&gt;AuthorName.ModName&lt;/packageId&gt;\n&lt;packageId&gt;AuthorName.ModName.Specific&lt;/packageId&gt;</MessageModNeedsWellFormattedPackageId>
+  <MessageModNeedsWellFormattedPackageId>Modには,Aboutに適切にフォーマットされた固有のpackageIdが必要です.xmlを確認してください.以下の条件を満たしている必要があります.\n\n　-　英数字とドットだけ.\n　-　スペースが無い.\n　-　最低でもドットが1つ有る.\n　-　ドットが連続しないこと,またドットで開始したり終了しないこと.\n　-　60文字以下.\n　-　「Ludeon」という単語を含めることはできません.\n\n例：\n&lt;packageId&gt;AuthorName.ModName&lt;/packageId&gt;\n&lt;packageId&gt;AuthorName.ModName.Specific&lt;/packageId&gt;</MessageModNeedsWellFormattedPackageId>
   <ModHadLoadFolderIssues>このModは,LoadFolders.xmlに問題があり,アップロード前に解決が必要.</ModHadLoadFolderIssues>
   <ModLoadFolderDoesntExist>Version{1}に指定された{0}フォルダーが無い.</ModLoadFolderDoesntExist>
   <ModLoadFolderMalformedVersion>不正なversion表記「{0}」.正確な書式は大更新.小更新（例：1.1）です</ModLoadFolderMalformedVersion>
@@ -209,6 +210,7 @@
   <IncapableOfTooltipTrait>特性が原因：{0}</IncapableOfTooltipTrait>
   <IncapableOfTooltipHediff>原因：{0}</IncapableOfTooltipHediff>
   <IncapableOfTooltipWorkTypes>無効な作業タイプ：</IncapableOfTooltipWorkTypes>
+  <IncapableOfTooltipQuest>クエストのステータスが原因：{0}</IncapableOfTooltipQuest>
   <Traits>才能・性格</Traits>
   <PermanentMoodEffect>明るさ(特性)</PermanentMoodEffect>
   <Skills>スキル</Skills>
@@ -247,5 +249,6 @@
   <GeneratingMapForNewEncounter>新たな遭遇の為に,地図を作成しています</GeneratingMapForNewEncounter>
 
   <ClickForMoreInfo>クリックして詳細を見る</ClickForMoreInfo>
+  <NoMoreInfoAvailable>これ以上は情報がありません.</NoMoreInfoAvailable>
 
 </LanguageData>

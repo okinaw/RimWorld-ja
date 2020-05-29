@@ -532,7 +532,7 @@
 
   <!-- Abilities -->
   <AbilityRequiresLOS>射線が必要</AbilityRequiresLOS>
-  <AbilityEntropyGain>興奮反応上昇 </AbilityEntropyGain>
+  <AbilityEntropyGain>ニューラルヒート上昇 </AbilityEntropyGain>
   <AbilityPsyfocusCost>サイフォーカス消費量</AbilityPsyfocusCost>
   <AbilityDuration>効果持続時間</AbilityDuration>
   <AbilityEffectRadius>効果半径</AbilityEffectRadius>

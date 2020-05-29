@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <MessageSiegersAssaulting>{1}の{0}は コロニーへ包囲攻撃します.</MessageSiegersAssaulting>
@@ -27,7 +27,7 @@
   <MessageShipHasLeftCommsRange>{0}は 通信範囲から離れました.</MessageShipHasLeftCommsRange>
 
   <MessageNeedBeaconToTradeWithShip>トレード船との取り引きには電源の入った貿易ビーコンが必要です.</MessageNeedBeaconToTradeWithShip>
-  <MessageNeedRoyalTitleToCallWithShip>呼び出す側の爵位は{0}以上でなければならない.</MessageNeedRoyalTitleToCallWithShip>
+  <MessageNeedRoyalTitleToCallWithShip>呼び出す側の爵位は{0_label}以上でなければならない.</MessageNeedRoyalTitleToCallWithShip>
 
   <MessageConditionCauserDespawned>{0}は破壊された.</MessageConditionCauserDespawned>
 
@@ -94,10 +94,10 @@
   <MessageMiscarriedPoorHealth>{0}は 体調不良により流産しました.</MessageMiscarriedPoorHealth>
   <MessageGaveBirth>{0}は 出産しました.</MessageGaveBirth>
 
-  <MessagePsychicAmplifierNoSensitivity>{PAWN_pronoun}の精神的感受性が皆無なので,{PAWN_labelShort}はサイコ増幅器を使用できません.</MessagePsychicAmplifierNoSensitivity>
+  <MessagePsylinkNoSensitivity>{PAWN_pronoun}の精神的感受性が皆無なので,{PAWN_labelShort}はサイコ増幅器を使用できません.</MessagePsylinkNoSensitivity>
   <MessageLostImplantLevelFromHediff>{PAWN_labelShort}は,{2}が原因でインプラントレベルを{1}失った.</MessageLostImplantLevelFromHediff>
   <MessageReceivedBrainDamageFromHediff>{PAWN_labelShort}は,{2}が原因で脳に{1}ダメージを受けた.</MessageReceivedBrainDamageFromHediff>
-  <MessageWentOverPsychicEntropyLimit>{PAWN_labelShort}の精神汚染量が,安全な上限値を超えています.</MessageWentOverPsychicEntropyLimit>
+  <MessageWentOverPsychicEntropyLimit>{PAWN_labelShort}のニューラルヒートが,通常の上限値を超えています.</MessageWentOverPsychicEntropyLimit>
 
   <MessageNuzzledPawnGaveNameTo>懐いてきた{1}に {NAMER_nameFull}は {NAMEE_nameFull}と名前をつけました.</MessageNuzzledPawnGaveNameTo>
 
@@ -290,6 +290,7 @@
   <GoodwillChangedReason_CapturedPawn>{1_labelShort}を 捕らえました.</GoodwillChangedReason_CapturedPawn>
   <GoodwillChangedReason_PawnCrushed>{1_labelShort}は クラッシュしました.</GoodwillChangedReason_PawnCrushed>
   <GoodwillChangedReason_PawnDied>{1_labelShort}は 死にました.</GoodwillChangedReason_PawnDied>
+  <GoodwillChangedReason_PawnStripped>{0_labelShort}は 剥ぎ取られた.</GoodwillChangedReason_PawnStripped>
   <GoodwillChangedReason_Traded>売買されました.</GoodwillChangedReason_Traded>
   <GoodwillChangedReason_AttackedCaravan>キャラバン隊が攻撃されました.</GoodwillChangedReason_AttackedCaravan>
   <GoodwillChangedReason_NaturallyOverTime>時間が経つ毎に {0}に向かいます.</GoodwillChangedReason_NaturallyOverTime>
@@ -342,7 +343,9 @@
 
   <MessageCantCleanupTranslationFilesBeucaseOfXmlError>翻訳ファイルのひとつ({0})を読み込む事ができません.まずXMLパーサーのエラーを解決することが先決です.</MessageCantCleanupTranslationFilesBeucaseOfXmlError>
 
-  <MessageCapturingWillAngerFaction>【警告】: {PAWN_nameDef}の逮捕は,{PAWN_possessive}派閥{PAWN_factionName}の怒りを買うでしょう.</MessageCapturingWillAngerFaction>
+  <MessageCapturingWillAngerFaction>【警告】：{PAWN_nameDef}の逮捕は,{PAWN_possessive}派閥:{PAWN_factionName}の怒りを買うでしょう.</MessageCapturingWillAngerFaction>
+
+  <MessageStrippingWillAngerFaction>【警告】：{PAWN_nameDef}の装備を剥ぎ取ると,{PAWN_possessive}派閥:{PAWN_factionName}の怒りを買うでしょう.</MessageStrippingWillAngerFaction>
 
   <MessageCantShootInMelee>格闘中は射撃できません.</MessageCantShootInMelee>
 
