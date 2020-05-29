@@ -82,6 +82,11 @@
   <SurgicalCut.labelNoun>医療事故(切創)</SurgicalCut.labelNoun>
   <SurgicalCut.labelNounPretty>{1}内の{0}</SurgicalCut.labelNounPretty>
 
+  <ExecutionCut.label>切創</ExecutionCut.label>
+  <ExecutionCut.description>処刑中に切られた傷です.</ExecutionCut.description>
+  <ExecutionCut.labelNoun>切創</ExecutionCut.labelNoun>
+  <ExecutionCut.labelNounPretty>{1}内の{0}</ExecutionCut.labelNounPretty>
+
   <Scratch.label>ひっかき傷</Scratch.label>
   <Scratch.description>ひっかき傷や引き裂かれた傷です.</Scratch.description>
   <Scratch.comps.HediffComp_GetsPermanent.permanentLabel>掻傷痕</Scratch.comps.HediffComp_GetsPermanent.permanentLabel>

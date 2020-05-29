@@ -24,8 +24,7 @@
 
   <AlcoholTolerance.label>アルコール耐性</AlcoholTolerance.label>
   <AlcoholTolerance.description>アルコールに対する耐性の蓄積です.この耐性が高いほど,同じ効果を得るのに多くのアルコールの飲酒が必要になります.</AlcoholTolerance.description>
-  <AlcoholTolerance.stages.small-0.label>小</AlcoholTolerance.stages.small-0.label>
-  <AlcoholTolerance.stages.small-1.label>小</AlcoholTolerance.stages.small-1.label>
+  <AlcoholTolerance.stages.small.label>小</AlcoholTolerance.stages.small.label>
   <AlcoholTolerance.stages.large.label>大</AlcoholTolerance.stages.large.label>
   <AlcoholTolerance.stages.massive.label>極大</AlcoholTolerance.stages.massive.label>
 
@@ -34,46 +33,62 @@
   <AlcoholAddiction.stages.withdrawal.label>離脱症状</AlcoholAddiction.stages.withdrawal.label>
 
 
-  <!-- WakeUp.xml -->
+  <!-- Ambrosia.xml -->
 
-  <WakeUpHigh.label>ウェイクアップによる興奮状態</WakeUpHigh.label>
-  <WakeUpHigh.description>血液中にウェイクアップが入った状態です.脳を刺激して覚醒させることで、睡眠の欲求を満たします。</WakeUpHigh.description>
-  <WakeUpHigh.labelNoun>ウェイクアップ・ハイ</WakeUpHigh.labelNoun>
-
-
-  <!-- WakeUp addiction -->
-
-  <WakeUpTolerance.label>ウェイクアップ耐性</WakeUpTolerance.label>
-  <WakeUpTolerance.description>ウェイクアップに対する耐性の蓄積です.この耐性が高いほど,同じ効果を得るのに多くのウェイクアップの摂取が必要になります.</WakeUpTolerance.description>
-  <WakeUpTolerance.stages.small-0.label>小</WakeUpTolerance.stages.small-0.label>
-  <WakeUpTolerance.stages.small-1.label>小</WakeUpTolerance.stages.small-1.label>
-  <WakeUpTolerance.stages.large.label>大</WakeUpTolerance.stages.large.label>
-  <WakeUpTolerance.stages.massive.label>極大</WakeUpTolerance.stages.massive.label>
-
-  <WakeUpAddiction.label>ウェイクアップ依存症</WakeUpAddiction.label>
-  <WakeUpAddiction.description>ウェイクアップに対する化学物質による中毒症状.長期にわたるウェイクアップ摂取は,細胞レベルでの神経的適応症を引き起こし,その結果,脳はもうウェイクアップなしでは適切に機能することができなくなります.\n\n定期的にウェイクアップを摂取しないと禁断症状が出ます.しかし,摂取禁止を続けることで,少しずつ脳は正常な状態に戻るようになり,依存症は解消されます.</WakeUpAddiction.description>
-  <WakeUpAddiction.stages.withdrawal.label>離脱症状</WakeUpAddiction.stages.withdrawal.label>
+  <AmbrosiaHigh.label>アンブロージアによる高揚状態</AmbrosiaHigh.label>
+  <AmbrosiaHigh.description>血液中にアンブロージアが入った状態です.心情を高揚させます.</AmbrosiaHigh.description>
 
 
-  <!-- Smokeleaf.xml -->
+  <!-- Ambrosia addiction -->
 
-  <SmokeleafHigh.label>スモークリーフによる酩酊状態</SmokeleafHigh.label>
-  <SmokeleafHigh.description>血液中にスモークリーフが入った状態です.ふんわりとした多幸感を感じることができます.</SmokeleafHigh.description>
-  <SmokeleafHigh.labelNoun>スモークリーフ・ハイ</SmokeleafHigh.labelNoun>
+  <AmbrosiaTolerance.label>アンブロージア耐性</AmbrosiaTolerance.label>
+  <AmbrosiaTolerance.description>アンブロージアに対する耐性の蓄積です.この耐性が高いほど,同じ効果を得るのに多くのゴージュースの摂取が必要になります.</AmbrosiaTolerance.description>
+  <AmbrosiaTolerance.stages.small.label>小</AmbrosiaTolerance.stages.small.label>
+  <AmbrosiaTolerance.stages.large.label>大</AmbrosiaTolerance.stages.large.label>
+  <AmbrosiaTolerance.stages.massive.label>極大</AmbrosiaTolerance.stages.massive.label>
+
+  <AmbrosiaAddiction.label>アンブロージア依存症</AmbrosiaAddiction.label>
+  <AmbrosiaAddiction.description>アンブロージアに対する化学物質による中毒症状.長期にわたるアンブロージア摂取は,細胞レベルでの神経的適応症を引き起こし,その結果,脳はもうアンブロージアなしでは適切に機能することができなくなります.\n\n定期的にアンブロージアを摂取しないと禁断症状が出ます.しかし,摂取禁止を続けることで,少しずつ脳は正常な状態に戻るようになり,依存症は解消されます.</AmbrosiaAddiction.description>
+  <AmbrosiaAddiction.stages.withdrawal.label>離脱症状</AmbrosiaAddiction.stages.withdrawal.label>
 
 
-  <!-- Smokeleaf addiction -->
+  <!-- GoJuice.xml -->
 
-  <SmokeleafTolerance.label>スモークリーフ耐性</SmokeleafTolerance.label>
-  <SmokeleafTolerance.description>スモークリーフに対する耐性の蓄積です.この耐性が高いほど,同じ効果を得るのに多くのスモークリーフの摂取が必要になります.</SmokeleafTolerance.description>
-  <SmokeleafTolerance.stages.small-0.label>小</SmokeleafTolerance.stages.small-0.label>
-  <SmokeleafTolerance.stages.small-1.label>小</SmokeleafTolerance.stages.small-1.label>
-  <SmokeleafTolerance.stages.large.label>大</SmokeleafTolerance.stages.large.label>
-  <SmokeleafTolerance.stages.massive.label>極大</SmokeleafTolerance.stages.massive.label>
+  <GoJuiceHigh.label>ゴージュースによる興奮状態</GoJuiceHigh.label>
+  <GoJuiceHigh.description>血液中にゴージュースが入った状態です.戦闘に関係する能力を一時的に強化します.そして最初に注射されたとき即座にサイフォーカスを増やします。</GoJuiceHigh.description>
+  <GoJuiceHigh.labelNoun>ゴージュース・ハイ</GoJuiceHigh.labelNoun>
 
-  <SmokeleafAddiction.label>スモークリーフ依存症</SmokeleafAddiction.label>
-  <SmokeleafAddiction.description>スモークリーフに対する化学物質による中毒症状.長期にわたるスモークリーフ摂取は,細胞レベルでの神経的適応症を引き起こし,その結果,脳はもうスモークリーフなしでは適切に機能することができなくなります.\n\n定期的にスモークリーフを摂取しないと禁断症状が出ます.しかし,摂取禁止を続けることで,少しずつ脳は正常な状態に戻るようになり,依存症は解消されます.</SmokeleafAddiction.description>
-  <SmokeleafAddiction.stages.withdrawal.label>離脱症状</SmokeleafAddiction.stages.withdrawal.label>
+
+  <!-- Go-juice addiction -->
+
+  <GoJuiceAddiction.label>ゴージュース依存症</GoJuiceAddiction.label>
+  <GoJuiceAddiction.description>ゴージュースに対する化学物質による中毒症状.長期にわたるゴージュース摂取は,細胞レベルでの神経的適応症を引き起こし,その結果,脳はもうゴージュースなしでは適切に機能することができなくなります.\n\n定期的にゴージュースを摂取しないと禁断症状が出ます.しかし,摂取禁止を続けることで,少しずつ脳は正常な状態に戻るようになり,依存症は解消されます.</GoJuiceAddiction.description>
+  <GoJuiceAddiction.stages.withdrawal.label>離脱症状</GoJuiceAddiction.stages.withdrawal.label>
+
+  <GoJuiceTolerance.label>ゴージュース耐性</GoJuiceTolerance.label>
+  <GoJuiceTolerance.description>ゴージュースに対する耐性の蓄積です.この耐性が高いほど,同じ効果を得るのに多くのゴージュースの摂取が必要になります.</GoJuiceTolerance.description>
+  <GoJuiceTolerance.stages.small.label>小</GoJuiceTolerance.stages.small.label>
+  <GoJuiceTolerance.stages.large.label>大</GoJuiceTolerance.stages.large.label>
+  <GoJuiceTolerance.stages.massive.label>極大</GoJuiceTolerance.stages.massive.label>
+
+
+  <!-- Luciferium.xml -->
+
+  <LuciferiumHigh.label>ルシフェリウム</LuciferiumHigh.label>
+  <LuciferiumHigh.description>血液中にルシフェリウムが入った状態です.負傷や欠損や古傷などあらゆる点で体の機能を回復して改善します.しかし,より大量のルシフェリウムを定期的に摂取しなければ精神の統合性を失い,使用者を狂気に駆り立てます.</LuciferiumHigh.description>
+
+
+  <!-- Luciferium addiction -->
+
+  <LuciferiumAddiction.label>ルシフェリウム依存症</LuciferiumAddiction.label>
+  <LuciferiumAddiction.description>体内にルシフェリウムのメカナイトが存在する状態.ルシフェリウムのメカナイトは時間経過でデコヒーレンス(減衰崩壊)を引き起こします.常に新鮮なルシフェリウムの定期的な投与だけがこの致命的なプロセスを防ぐことができます.\n\nルシフェリウムがなければ,メカナイトのデコヒーレンスは深刻で重大な状態になり,犠牲者は正気を失って死亡します.</LuciferiumAddiction.description>
+  <LuciferiumAddiction.stages.unmet.label>未対処</LuciferiumAddiction.stages.unmet.label>
+
+
+  <!-- Penoxycyline.xml -->
+
+  <PenoxycylineHigh.label>ペノキシリン</PenoxycylineHigh.label>
+  <PenoxycylineHigh.description>特定の病気に対してペノキシリンによって免疫を促進します.これは服用後に新しい病気の感染を阻止するだけです.例え発症前で病気が休眠状態であっても,すでに感染している人の病気には効果がありません.</PenoxycylineHigh.description>
 
 
   <!-- Psychite_Flake.xml -->
@@ -101,8 +116,7 @@
 
   <PsychiteTolerance.label>サイカイト耐性</PsychiteTolerance.label>
   <PsychiteTolerance.description>サイカイトに対する耐性の蓄積です.この耐性が高いほど,同じ効果を得るのに多くのサイカイト(フレーク,サイカイトティー,イェイョ)の摂取が必要になります.</PsychiteTolerance.description>
-  <PsychiteTolerance.stages.small-0.label>小</PsychiteTolerance.stages.small-0.label>
-  <PsychiteTolerance.stages.small-1.label>小</PsychiteTolerance.stages.small-1.label>
+  <PsychiteTolerance.stages.small.label>小</PsychiteTolerance.stages.small.label>
   <PsychiteTolerance.stages.large.label>大</PsychiteTolerance.stages.large.label>
   <PsychiteTolerance.stages.massive.label>極大</PsychiteTolerance.stages.massive.label>
 
@@ -111,63 +125,43 @@
   <PsychiteAddiction.stages.withdrawal.label>離脱症状</PsychiteAddiction.stages.withdrawal.label>
 
 
-  <!-- GoJuice.xml -->
+  <!-- Smokeleaf.xml -->
 
-  <GoJuiceHigh.label>ゴージュースによる興奮状態</GoJuiceHigh.label>
-  <GoJuiceHigh.description>血液中にゴージュースが入った状態です.戦闘に関係する能力を一時的に強化します.</GoJuiceHigh.description>
-  <GoJuiceHigh.labelNoun>ゴージュース・ハイ</GoJuiceHigh.labelNoun>
-
-
-  <!-- Go-juice addiction -->
-
-  <GoJuiceTolerance.label>ゴージュース耐性</GoJuiceTolerance.label>
-  <GoJuiceTolerance.description>ゴージュースに対する耐性の蓄積です.この耐性が高いほど,同じ効果を得るのに多くのゴージュースの摂取が必要になります.</GoJuiceTolerance.description>
-  <GoJuiceTolerance.stages.small-0.label>小</GoJuiceTolerance.stages.small-0.label>
-  <GoJuiceTolerance.stages.small-1.label>小</GoJuiceTolerance.stages.small-1.label>
-  <GoJuiceTolerance.stages.large.label>大</GoJuiceTolerance.stages.large.label>
-  <GoJuiceTolerance.stages.massive.label>極大</GoJuiceTolerance.stages.massive.label>
-
-  <GoJuiceAddiction.label>ゴージュース依存症</GoJuiceAddiction.label>
-  <GoJuiceAddiction.description>ゴージュースに対する化学物質による中毒症状.長期にわたるゴージュース摂取は,細胞レベルでの神経的適応症を引き起こし,その結果,脳はもうゴージュースなしでは適切に機能することができなくなります.\n\n定期的にゴージュースを摂取しないと禁断症状が出ます.しかし,摂取禁止を続けることで,少しずつ脳は正常な状態に戻るようになり,依存症は解消されます.</GoJuiceAddiction.description>
-  <GoJuiceAddiction.stages.withdrawal.label>離脱症状</GoJuiceAddiction.stages.withdrawal.label>
+  <SmokeleafHigh.label>スモークリーフによる酩酊状態</SmokeleafHigh.label>
+  <SmokeleafHigh.description>血液中にスモークリーフが入った状態です.ふんわりとした多幸感を感じることができます.</SmokeleafHigh.description>
+  <SmokeleafHigh.labelNoun>スモークリーフ・ハイ</SmokeleafHigh.labelNoun>
 
 
-  <!-- Luciferium.xml -->
+  <!-- Smokeleaf addiction -->
 
-  <LuciferiumHigh.label>ルシフェリウム</LuciferiumHigh.label>
-  <LuciferiumHigh.description>血液中にルシフェリウムが入った状態です.負傷や欠損や古傷などあらゆる点で体の機能を回復して改善します.しかし,より大量のルシフェリウムを定期的に摂取しなければ精神の統合性を失い,使用者を狂気に駆り立てます.</LuciferiumHigh.description>
+  <SmokeleafTolerance.label>スモークリーフ耐性</SmokeleafTolerance.label>
+  <SmokeleafTolerance.description>スモークリーフに対する耐性の蓄積です.この耐性が高いほど,同じ効果を得るのに多くのスモークリーフの摂取が必要になります.</SmokeleafTolerance.description>
+  <SmokeleafTolerance.stages.small.label>小</SmokeleafTolerance.stages.small.label>
+  <SmokeleafTolerance.stages.large.label>大</SmokeleafTolerance.stages.large.label>
+  <SmokeleafTolerance.stages.massive.label>極大</SmokeleafTolerance.stages.massive.label>
 
-
-  <!-- Luciferium addiction -->
-
-  <LuciferiumAddiction.label>ルシフェリウム依存症</LuciferiumAddiction.label>
-  <LuciferiumAddiction.description>体内にルシフェリウムのメカナイトが存在する状態.ルシフェリウムのメカナイトは時間経過でデコヒーレンス(減衰崩壊)を引き起こします.常に新鮮なルシフェリウムの定期的な投与だけがこの致命的なプロセスを防ぐことができます.\n\nルシフェリウムがなければ,メカナイトのデコヒーレンスは深刻で重大な状態になり,犠牲者は正気を失って死亡します.</LuciferiumAddiction.description>
-  <LuciferiumAddiction.stages.unmet.label>未対処</LuciferiumAddiction.stages.unmet.label>
-
-
-  <!-- Penoxycyline.xml -->
-
-  <PenoxycylineHigh.label>ペノキシリン</PenoxycylineHigh.label>
-  <PenoxycylineHigh.description>特定の病気に対してペノキシリンによって免疫を促進します.これは服用後に新しい病気の感染を阻止するだけです.例え発症前で病気が休眠状態であっても,すでに感染している人の病気には効果がありません.</PenoxycylineHigh.description>
+  <SmokeleafAddiction.label>スモークリーフ依存症</SmokeleafAddiction.label>
+  <SmokeleafAddiction.description>スモークリーフに対する化学物質による中毒症状.長期にわたるスモークリーフ摂取は,細胞レベルでの神経的適応症を引き起こし,その結果,脳はもうスモークリーフなしでは適切に機能することができなくなります.\n\n定期的にスモークリーフを摂取しないと禁断症状が出ます.しかし,摂取禁止を続けることで,少しずつ脳は正常な状態に戻るようになり,依存症は解消されます.</SmokeleafAddiction.description>
+  <SmokeleafAddiction.stages.withdrawal.label>離脱症状</SmokeleafAddiction.stages.withdrawal.label>
 
 
-  <!-- Ambrosia.xml -->
+  <!-- WakeUp.xml -->
 
-  <AmbrosiaHigh.label>アンブロージアによる高揚状態</AmbrosiaHigh.label>
-  <AmbrosiaHigh.description>血液中にアンブロージアが入った状態です.心情を高揚させます.</AmbrosiaHigh.description>
+  <WakeUpHigh.label>ウェイクアップによる興奮状態</WakeUpHigh.label>
+  <WakeUpHigh.description>血液中にウェイクアップが入った状態です.脳を刺激して覚醒させることで、睡眠の欲求を満たして,集中力を高め,作業速度をより速くします.また瞑想で得るサイフォーカス量を増やします。</WakeUpHigh.description>
+  <WakeUpHigh.labelNoun>ウェイクアップ・ハイ</WakeUpHigh.labelNoun>
 
 
-  <!-- Ambrosia addiction -->
+  <!-- WakeUp addiction -->
 
-  <AmbrosiaTolerance.label>アンブロージア耐性</AmbrosiaTolerance.label>
-  <AmbrosiaTolerance.description>アンブロージアに対する耐性の蓄積です.この耐性が高いほど,同じ効果を得るのに多くのゴージュースの摂取が必要になります.</AmbrosiaTolerance.description>
-  <AmbrosiaTolerance.stages.small-0.label>小</AmbrosiaTolerance.stages.small-0.label>
-  <AmbrosiaTolerance.stages.small-1.label>小</AmbrosiaTolerance.stages.small-1.label>
-  <AmbrosiaTolerance.stages.large.label>大</AmbrosiaTolerance.stages.large.label>
-  <AmbrosiaTolerance.stages.massive.label>極大</AmbrosiaTolerance.stages.massive.label>
+  <WakeUpAddiction.label>ウェイクアップ依存症</WakeUpAddiction.label>
+  <WakeUpAddiction.description>ウェイクアップに対する化学物質による中毒症状.長期にわたるウェイクアップ摂取は,細胞レベルでの神経的適応症を引き起こし,その結果,脳はもうウェイクアップなしでは適切に機能することができなくなります.\n\n定期的にウェイクアップを摂取しないと禁断症状が出ます.しかし,摂取禁止を続けることで,少しずつ脳は正常な状態に戻るようになり,依存症は解消されます.</WakeUpAddiction.description>
+  <WakeUpAddiction.stages.withdrawal.label>離脱症状</WakeUpAddiction.stages.withdrawal.label>
 
-  <AmbrosiaAddiction.label>アンブロージア依存症</AmbrosiaAddiction.label>
-  <AmbrosiaAddiction.description>アンブロージアに対する化学物質による中毒症状.長期にわたるアンブロージア摂取は,細胞レベルでの神経的適応症を引き起こし,その結果,脳はもうアンブロージアなしでは適切に機能することができなくなります.\n\n定期的にアンブロージアを摂取しないと禁断症状が出ます.しかし,摂取禁止を続けることで,少しずつ脳は正常な状態に戻るようになり,依存症は解消されます.</AmbrosiaAddiction.description>
-  <AmbrosiaAddiction.stages.withdrawal.label>離脱症状</AmbrosiaAddiction.stages.withdrawal.label>
+  <WakeUpTolerance.label>ウェイクアップ耐性</WakeUpTolerance.label>
+  <WakeUpTolerance.description>ウェイクアップに対する耐性の蓄積です.この耐性が高いほど,同じ効果を得るのに多くのウェイクアップの摂取が必要になります.</WakeUpTolerance.description>
+  <WakeUpTolerance.stages.small.label>小</WakeUpTolerance.stages.small.label>
+  <WakeUpTolerance.stages.large.label>大</WakeUpTolerance.stages.large.label>
+  <WakeUpTolerance.stages.massive.label>極大</WakeUpTolerance.stages.massive.label>
 
 </LanguageData>
