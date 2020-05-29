@@ -107,7 +107,7 @@
   <TechLevel_Medieval>中世</TechLevel_Medieval>
   <TechLevel_Industrial>産業革命</TechLevel_Industrial>
   <TechLevel_Spacer>宇宙世紀</TechLevel_Spacer>
-  <TechLevel_Ultra>最先端の技術力</TechLevel_Ultra>
+  <TechLevel_Ultra>最先端世界</TechLevel_Ultra>
   <TechLevel_Archotech>アルコテック</TechLevel_Archotech>
 
   <!-- Player pawns arrive method -->
