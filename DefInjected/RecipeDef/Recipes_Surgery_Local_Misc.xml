@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CureScaria.label>スケリア病 治療</CureScaria.label>
+  <CureScaria.description>この特別な治療で,スケリア病を治療します.</CureScaria.description>
+  <CureScaria.jobString>スケリア病を治療中</CureScaria.jobString>
+  <CureScaria.successfullyRemovedHediffMessage>{0}は,{1}のスケリア病治療に成功した.</CureScaria.successfullyRemovedHediffMessage>
+
+  <CureBloodRot.label>敗血症 治療</CureBloodRot.label>
+  <CureBloodRot.description>この特別な医療手術は,バクテリオファージを使った薬物の大量注入によって敗血症状起こしている細菌を駆除して治療します.</CureBloodRot.description>
+  <CureBloodRot.jobString>敗血症を治療中</CureBloodRot.jobString>
+  <CureBloodRot.successfullyRemovedHediffMessage>{0}は,{1}の敗血症治療に成功した. rot.</CureBloodRot.successfullyRemovedHediffMessage>
+
+  <CureAbasia.label>歩行不能症治療薬を投与</CureAbasia.label>
+  <CureAbasia.description>この特別な医療手術では,大量の機械装置を用いて脳組織を飽和させ、脳に損傷を与えることなく神経活動の協調的な再構築を行う。患者の減弱による麻痺を永久的に治療するが、グリッターワールドの薬を大量に消費する。</CureAbasia.description>
+  <CureAbasia.jobString>歩行不能症治療薬を投与中</CureAbasia.jobString>
+  <CureAbasia.successfullyRemovedHediffMessage>{0}は,{1}の麻痺性歩行不能症の治療に成功した.</CureAbasia.successfullyRemovedHediffMessage>
+
+</LanguageData>
