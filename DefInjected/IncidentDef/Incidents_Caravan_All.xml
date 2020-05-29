@@ -8,7 +8,7 @@
   <Ambush.letterLabel>アンブッシュ</Ambush.letterLabel>
 
   <ManhunterAmbush.label>人狩りアンブッシュ</ManhunterAmbush.label>
-  <ManhunterAmbush.letterText>{0}は ヒト狩りの{1}に 待ち伏せされた!</ManhunterAmbush.letterText>
+  <ManhunterAmbush.letterText>{0}は,スケリア病に感染したヒト狩りの{1}に 待ち伏せされた!</ManhunterAmbush.letterText>
   <ManhunterAmbush.letterLabel>アンブッシュ(ヒト狩り)</ManhunterAmbush.letterLabel>
 
 
