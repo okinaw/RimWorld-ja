@@ -96,6 +96,7 @@
 
   <TorturedArtist.degreeDatas.tortured_artist.label>苦しむ芸術家</TorturedArtist.degreeDatas.tortured_artist.label>
   <TorturedArtist.degreeDatas.tortured_artist.description>{PAWN_nameDef}は他人から疎外されたり誤解されていると感じています.{PAWN_pronoun}は常に気分が落ち込みますが,精神崩壊した後で創作意欲を獲得する可能性が(50%)あります.</TorturedArtist.degreeDatas.tortured_artist.description>
+  <TorturedArtist.degreeDatas.tortured_artist.mentalBreakInspirationGainReasonText>苦悩する芸術家として,[PAWN_nameIndef]はやる気を得ました.</TorturedArtist.degreeDatas.tortured_artist.mentalBreakInspirationGainReasonText>
 
   <Gourmand.degreeDatas.gourmand.label>食道楽</Gourmand.degreeDatas.gourmand.label>
   <Gourmand.degreeDatas.gourmand.description>{PAWN_nameDef}の生活は,食物を中心に回っています.{PAWN_pronoun}は飢えやすく,たとえ空腹でなくとも,ちょくちょくガツガツとした強い食欲に襲われます.</Gourmand.degreeDatas.gourmand.description>
