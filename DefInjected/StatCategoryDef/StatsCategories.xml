@@ -18,6 +18,7 @@
   <Weapon.label>武器</Weapon.label>
   <Building.label>建物</Building.label>
   <Ability.label>能力</Ability.label>
+  <Drug.label>ドラッグ</Drug.label>
 
 
   <!-- Virtual categories -->
@@ -36,5 +37,10 @@
   <PawnSocial.label>社交</PawnSocial.label>
   <PawnMisc.label>その他</PawnMisc.label>
   <PawnWork.label>作業</PawnWork.label>
+
+
+  <!-- Misc -->
+
+  <Meditation.label>瞑想</Meditation.label>
 
 </LanguageData>
