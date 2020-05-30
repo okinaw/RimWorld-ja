@@ -2,7 +2,9 @@
 <LanguageData>
 
   <OpportunitySite_DownedRefugee.questDescriptionRules.rulesStrings>
+  <!-- No asker -->
   <li>questDescription(askerIsNull==true)->クエストの依頼:\n[refugee_nameDef]は,我々に助けを求めてきました. [refugee_pronoun]は怪我をしていて動けません.\n[refugee_nameDef]は,[refugee_age]歳の[refugee_title]です. もしあなたが[refugee_objective]救出してくれるなら,[refugee_pronoun]はあなたのコロニーに加わると約束しました.\n\n脅威について[refugee_nameDef]の報告では\n[allSitePartsDescriptionsExceptFirst]です.[pawnInvolvedInQuestInfo]</li>
+  <!-- Faction leader asker -->
   <li>questDescription(asker_factionLeader==True)->クエストの依頼:\n[asker_faction_name][asker_faction_leaderTitle]の[asker_nameDef]が,[asker_possessive]の友人が旅行中に負傷したと連絡してきました. 救出対象者は[refugee_nameIndef]という名前で,[refugee_age]歳の[refugee_title]です.\n\n[asker_nameDef]は[refugee_nameDef]を直接救助に向かう余裕がないため,[refugee_nameDef]の場所を教えるので,[refugee_objective]を救助してもらえれば,[refugee_pronoun]はあなたのコロニーに加わると言っています.\n\n脅威について,[asker_nameDef]の報告では\n[allSitePartsDescriptionsExceptFirst]です.[pawnInvolvedInQuestInfo]</li>
   <li>pawnInvolvedInQuestInfo(priority=1)->[refugee_pawnInvolvedInQuestInfo]</li>
   <li>pawnInvolvedInQuestInfo-></li>
@@ -11,11 +13,11 @@
   <OpportunitySite_DownedRefugee.questNameRules.rulesStrings>
   <li>questName->[refugee_nameDef]を救え</li>
   <li>questName->[refugee_nameDef]の救助</li>
-  <li>questName->[refugee_nameDef]の救出</li>
+  <li>questName->[refugee_nameDef]のレスキュー</li>
   <li>questName->[refugee_nameDef]の救い主</li>
   </OpportunitySite_DownedRefugee.questNameRules.rulesStrings>
 
-  <OpportunitySite_DownedRefugee.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>クエストの期限切れ：[resolvedQuestName]</OpportunitySite_DownedRefugee.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
-  <OpportunitySite_DownedRefugee.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>[refugee_nameDef]からの信号は途絶え,[refugee_pronoun]はもう救助できません.クエスト:[resolvedQuestName]は期限切れを迎えました.</OpportunitySite_DownedRefugee.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+  <OpportunitySite_DownedRefugee.LetterLabelQuestExpired.slateRef>クエストの期限切れ：[resolvedQuestName]</OpportunitySite_DownedRefugee.LetterLabelQuestExpired.slateRef>
+  <OpportunitySite_DownedRefugee.LetterTextQuestExpired.slateRef>[refugee_nameDef]からの信号は途絶え,[refugee_pronoun]はもう救助できません.クエスト:[resolvedQuestName]は期限切れを迎えました.</OpportunitySite_DownedRefugee.LetterTextQuestExpired.slateRef>
 
 </LanguageData>

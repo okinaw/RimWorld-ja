@@ -2,8 +2,7 @@
 <LanguageData>
 
   <EndGame_ShipEscape.questDescriptionRules.rulesStrings>
-    <li>questDescription->クエストの内容:\n&lt;Name&gt;Charlon Whitestone&lt;/Name&gt;と言う名前の友好的なAIが,あなたに向けてメッセージを送ってき\nました!\n\n彼は,この惑星上に宇宙船が隠されていることを明らかにして,その世界座標を送信しました.現在の宇宙船は完全な休眠状態になっています.あなたはそこに着いてから反応炉を起動し,起動準備作業が完了するまで,船を奪いに来る襲撃者から守らなければなりません.それは長くて厳しい連続した戦いとなるでしょう.\n
-\nもし,あなたがその宇宙船を離陸させることができたら,&lt;Name&gt;Charlon&lt;/Name&gt;は,あなたをRimworldから宇宙へ脱出させてくれるでしょう.</li>
+    <li>questDescription->クエストの内容:\n(*Name)Charlon Whitestone(/Name)と言う名前の友好的なAIが,あなたに向けてメッセージを送ってき\nました!\n\n彼は,この惑星上に宇宙船が隠されていることを明らかにして,その世界座標を送信しました.現在の宇宙船は完全な休眠状態になっています.あなたはそこに着いてから反応炉を起動し,起動準備作業が完了するまで,船を奪いに来る襲撃者から守らなければなりません.それは長くて厳しい連続した戦いとなるでしょう.\n\nもし,あなたがその宇宙船を離陸させることができたら,(*Name)Charlon(/Name)は,あなたをRimworldから宇宙へ脱出させてくれるでしょう.</li>
   </EndGame_ShipEscape.questDescriptionRules.rulesStrings>
 
   <EndGame_ShipEscape.questNameRules.rulesStrings>

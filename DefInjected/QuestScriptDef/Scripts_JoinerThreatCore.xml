@@ -20,7 +20,7 @@
     <li>runnerIndef->亡命者</li>
   </ThreatReward_Raid_Joiner.questNameRules.rulesStrings>
 
-  <ThreatReward_Raid_Joiner.root.nodes.Delay-0.node.parms.customLetterLabel.value.slateRef>{BASELABEL}[../joiner_nameDef]の追跡者</ThreatReward_Raid_Joiner.root.nodes.Delay-0.node.parms.customLetterLabel.value.slateRef>
-<ThreatReward_Raid_Joiner.root.nodes.Delay-0.node.parms.customLetterText.value.slateRef>{BASETEXT}\n　　　　　　　\n[enemyFaction_pawnsPlural]が[../joiner_nameDef]を捕縛に来ました.</ThreatReward_Raid_Joiner.root.nodes.Delay-0.node.parms.customLetterText.value.slateRef>
+  <ThreatReward_Raid_Joiner.LetterLabelCashing.value.slateRef>{BASELABEL}[../joiner_nameDef]の追跡者</ThreatReward_Raid_Joiner.LetterLabelCashing.value.slateRef>
+  <ThreatReward_Raid_Joiner.LetterTextCashing.value.slateRef>{BASETEXT}\n　　　　　　　\n[enemyFaction_pawnsPlural]が[../joiner_nameDef]を捕縛に来ました.</ThreatReward_Raid_Joiner.LetterTextCashing.value.slateRef>
 
 </LanguageData>

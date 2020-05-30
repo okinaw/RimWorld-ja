@@ -22,10 +22,10 @@
     <li>trade->商売の申し出</li>
   </TradeRequest.questNameRules.rulesStrings>
 
-  <TradeRequest.root.nodes.Letter.label.slateRef>クエスト失敗：[resolvedQuestName]</TradeRequest.root.nodes.Letter.label.slateRef>
-  <TradeRequest.root.nodes.Letter.text.slateRef>[faction_name]はあなたと敵対的になりました.</TradeRequest.root.nodes.Letter.text.slateRef>
+  <TradeRequest.LetterLabelQuestFailed.slateRef>クエスト失敗：[resolvedQuestName]</TradeRequest.LetterLabelQuestFailed.slateRef>
+  <TradeRequest.LetterTextQuestFailed.slateRef>[faction_name]はあなたと敵対的になりました.</TradeRequest.LetterTextQuestFailed.slateRef>
 
-  <TradeRequest.root.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.label.slateRef>[asker_faction_royalFavorLabel]</TradeRequest.root.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.label.slateRef>
-  <TradeRequest.root.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.text.slateRef>この[asker_faction_royalFavorLabel]との交易依頼を果たした功績は誰のものですか？</TradeRequest.root.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.text.slateRef>
+  <TradeRequest.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</TradeRequest.LetterLabelFavorReceiver.slateRef>
+  <TradeRequest.LetterTextFavorReceiver.slateRef>この[asker_faction_royalFavorLabel]との交易依頼を果たした功績は誰のものですか？</TradeRequest.LetterTextFavorReceiver.slateRef>
 
 </LanguageData>

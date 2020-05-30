@@ -17,7 +17,7 @@
     <li>peaceTalks->会合</li>
   </OpportunitySite_PeaceTalks.questNameRules.rulesStrings>
 
-  <OpportunitySite_PeaceTalks.root.nodes.PeaceTalksTimeout.node.nodes.Letter.label.slateRef>クエストの期限切れ：[resolvedQuestName]</OpportunitySite_PeaceTalks.root.nodes.PeaceTalksTimeout.node.nodes.Letter.label.slateRef>
-  <OpportunitySite_PeaceTalks.root.nodes.PeaceTalksTimeout.node.nodes.Letter.text.slateRef>[faction_name]からの和平交渉の申し出は,期限切れになりました.クエスト[resolvedQuestName]に失敗しました.</OpportunitySite_PeaceTalks.root.nodes.PeaceTalksTimeout.node.nodes.Letter.text.slateRef>
+  <OpportunitySite_PeaceTalks.LetterLabelQuestExpired.slateRef>クエストの期限切れ：[resolvedQuestName]</OpportunitySite_PeaceTalks.LetterLabelQuestExpired.slateRef>
+  <OpportunitySite_PeaceTalks.LetterTextQuestExpired.slateRef>[faction_name]からの和平交渉の申し出は,期限切れになりました.クエスト[resolvedQuestName]に失敗しました.</OpportunitySite_PeaceTalks.LetterTextQuestExpired.slateRef>
 
 </LanguageData>

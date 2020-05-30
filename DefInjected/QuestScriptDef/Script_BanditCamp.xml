@@ -14,13 +14,13 @@
   <li>questName->[asker_nameDef]の援助要請</li>
   </OpportunitySite_BanditCamp.questNameRules.rulesStrings>
 
-  <OpportunitySite_BanditCamp.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef >クエストの期限切れ：[resolvedQuestName]</OpportunitySite_BanditCamp.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef >
-  <OpportunitySite_BanditCamp.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef >山賊キャンプは準備が整って,移動しました.クエスト[resolvedQuestName]は期限切れです.</OpportunitySite_BanditCamp.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef >
-  <OpportunitySite_BanditCamp.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>クエスト失敗：[resolvedQuestName]</OpportunitySite_BanditCamp.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>
-  <OpportunitySite_BanditCamp.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>山賊キャンプは準備が整って,移動しました.</OpportunitySite_BanditCamp.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>
-  <OpportunitySite_BanditCamp.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>報酬が届いた</OpportunitySite_BanditCamp.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>
-  <OpportunitySite_BanditCamp.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>盗賊キャンプを討伐しました！\n\n[asker_faction_name]からの報酬が届きました。</OpportunitySite_BanditCamp.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>
-  <OpportunitySite_BanditCamp.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.label.slateRef>[asker_faction_royalFavorLabel]</OpportunitySite_BanditCamp.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.label.slateRef>
-  <OpportunitySite_BanditCamp.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.text.slateRef>これらの入植者たちは,[rresolvedQuestName]探索の戦いと勝利に参加しました.[asker_definite]は、このクエスト報酬として[royalFavorReward_amount]と,[asker_faction_royalFavorLabel]の報酬を誰が受けるべきかを教えて欲しいそうです.</OpportunitySite_BanditCamp.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.text.slateRef>
+  <OpportunitySite_BanditCamp.LetterLabelQuestExpired.slateRef>クエストの期限切れ：[resolvedQuestName]</OpportunitySite_BanditCamp.LetterLabelQuestExpired.slateRef>
+  <OpportunitySite_BanditCamp.LetterTextQuestExpired.slateRef>山賊キャンプは準備が整って,移動しました.クエスト[resolvedQuestName]は期限切れです.</OpportunitySite_BanditCamp.LetterTextQuestExpired.slateRef>
+  <OpportunitySite_BanditCamp.LetterLabelQuestFailed.slateRef>クエスト失敗：[resolvedQuestName]</OpportunitySite_BanditCamp.LetterLabelQuestFailed.slateRef>
+  <OpportunitySite_BanditCamp.LetterTextQuestFailed.slateRef>山賊キャンプは準備が整って,移動しました.</OpportunitySite_BanditCamp.LetterTextQuestFailed.slateRef>
+  <OpportunitySite_BanditCamp.LetterLabelPaymentArrived.slateRef>報酬が届いた</OpportunitySite_BanditCamp.LetterLabelPaymentArrived.slateRef>
+  <OpportunitySite_BanditCamp.LetterTextPaymentArrived.slateRef>盗賊キャンプを討伐しました！\n\n[asker_faction_name]からの報酬が届きました。</OpportunitySite_BanditCamp.LetterTextPaymentArrived.slateRef>
+  <OpportunitySite_BanditCamp.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</OpportunitySite_BanditCamp.LetterLabelFavorReceiver.slateRef>
+  <OpportunitySite_BanditCamp.LetterTextFavorReceiver.slateRef>これらの入植者たちは,[rresolvedQuestName]探索の戦いと勝利に参加しました.[asker_definite]は、このクエスト報酬として[royalFavorReward_amount]と,[asker_faction_royalFavorLabel]の報酬を誰が受けるべきかを教えて欲しいそうです.</OpportunitySite_BanditCamp.LetterTextFavorReceiver.slateRef>
 
 </LanguageData>

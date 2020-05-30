@@ -20,7 +20,7 @@
     <li>treasure->物資</li>
   </OpportunitySite_ItemStash.questNameRules.rulesStrings>
 
-  <OpportunitySite_ItemStash.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>クエストの期限切れ：[resolvedQuestName]</OpportunitySite_ItemStash.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
-  <OpportunitySite_ItemStash.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>傍受された通信によると,貴重な品の隠し場所が他の勢力によって発見されたようです. クエスト[resolvedQuestName]は期限が切れました.</OpportunitySite_ItemStash.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+  <OpportunitySite_ItemStash.LetterLabelQuestExpired.slateRef>クエストの期限切れ：[resolvedQuestName]</OpportunitySite_ItemStash.LetterLabelQuestExpired.slateRef>
+  <OpportunitySite_ItemStash.LetterTextQuestExpired.slateRef>傍受された通信によると,貴重な品の隠し場所が他の勢力によって発見されたようです. クエスト[resolvedQuestName]は期限が切れました.</OpportunitySite_ItemStash.LetterTextQuestExpired.slateRef>
 
 </LanguageData>
