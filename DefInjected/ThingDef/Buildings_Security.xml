@@ -24,6 +24,9 @@
   <TrapIED_EMP.label>IED EMPトラップ</TrapIED_EMP.label>
   <TrapIED_EMP.description>一対のEMP爆弾が接触信管に接続されています.炸裂するとメカノイドを数秒間,麻痺させることができます.その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</TrapIED_EMP.description>
 
+  <TrapIED_Smoke.label>IED 煙幕トラップ</TrapIED_Smoke.label>
+  <TrapIED_Smoke.description>一対の発煙砲弾が接触信管に接続されています.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</TrapIED_Smoke.description>
+
   <TrapIED_Firefoam.label>IED 消火剤トラップ</TrapIED_Firefoam.label>
   <TrapIED_Firefoam.description>一対の消火剤弾頭が接触信管に接続されています.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</TrapIED_Firefoam.description>
 
