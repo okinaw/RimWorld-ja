@@ -126,4 +126,10 @@
   <Rescued.stages.rescued.label>生き返った</Rescued.stages.rescued.label>
   <Rescued.stages.rescued.description>私は一命を取り留めて,生き返った！ とても感謝している.</Rescued.stages.rescued.description>
 
+
+  <!-- Helper pawns -->
+
+  <OnDuty.stages.on_duty.label>仕事中</OnDuty.stages.on_duty.label>
+  <OnDuty.stages.on_duty.description>私にはするべき仕事があります。</OnDuty.stages.on_duty.description>
+
 </LanguageData>
