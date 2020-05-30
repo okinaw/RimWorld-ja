@@ -24,6 +24,6 @@
   <BluntDamageMultiplier.description>この武器を使って,殴った時のダメージ倍率です.</BluntDamageMultiplier.description>
 
   <Bladelink_DetectionChance.label>リンク検出確率</Bladelink_DetectionChance.label>
-  <Bladelink_DetectionChance.description>戦闘で攻撃に使用されるたびに,ブレイドリンクインプラントが検出される可能性です.\n\n一部の派閥では,特定の称号を持つ者だけにその使用を制限する法律の施行を試みています.ブレイドリンクを使用すると,離れた場所でも検出される可能性のあるサイコサインを発します.もし違法に使用したのが発見された場合,外交上の問題が生じるでしょう.\n\nサイコサインはサイコ消音インプラントを使えば,検出される可能性はなくなります.</Bladelink_DetectionChance.description>
+  <Bladelink_DetectionChance.description>戦闘で攻撃に使用されるたびに,ブレイドリンクインプラントが検出される可能性です.\n\n一部の派閥では,特定の称号を持つ者だけにその使用を制限する法律の施行を試みています.ブレイドリンクを使用すると,離れた場所でも検出される可能性のあるサイコサインを発します.もし違法に使用したのが発見された場合,外交上の問題が生じるでしょう.</Bladelink_DetectionChance.description>
 
 </LanguageData>

@@ -1,15 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Ability_RequiredAmplifier.label>サイコ増幅器レベルl</Ability_RequiredAmplifier.label>
-  <Ability_RequiredAmplifier.description>このサイキャストを実行するために必要なサイコ増幅器インプラントの最小レベルです.</Ability_RequiredAmplifier.description>
+  <Ability_RequiredPsylink.label>サイリンクレベル</Ability_RequiredPsylink.label>
+  <Ability_RequiredPsylink.description>このサイキャストを実行するために必要なサイリンク最小レベルです.</Ability_RequiredPsylink.description>
 
   <Ability_CastingTime.label>詠唱時間</Ability_CastingTime.label>
   <Ability_CastingTime.description>この能力を実行するまでにかかる時間です.</Ability_CastingTime.description>
   <Ability_CastingTime.formatString>{0} 秒</Ability_CastingTime.formatString>
 
-  <Ability_EntropyGain.label>精神汚染上昇度</Ability_EntropyGain.label>
-  <Ability_EntropyGain.description>この能力を発現させた結果,どれほど精神汚染が追加されるかです.</Ability_EntropyGain.description>
+  <Ability_EntropyGain.label>ニューラルヒート上昇率</Ability_EntropyGain.label>
+  <Ability_EntropyGain.description>この能力を発現させた結果,どれほどニューラルヒートが追加されるかです.</Ability_EntropyGain.description>
+
+  <Ability_PsyfocusCost.label>サイフォーカス消費</Ability_PsyfocusCost.label>
+  <Ability_PsyfocusCost.description>この能力を実行するのに必要なサイフォーカスの消費量です.</Ability_PsyfocusCost.description>
 
   <Ability_Range.label>射程</Ability_Range.label>
   <Ability_Range.description>この能力の目標かターゲット座標の中心までの最大射程距離です.</Ability_Range.description>
@@ -25,6 +28,6 @@
   <Ability_GoodwillImpact.description>この能力を誰かに効果を与えることが,どの程度彼らが所属する派閥との友好関係に影響を与えるかです.</Ability_GoodwillImpact.description>
 
   <Ability_DetectChancePerEntropy.label>検出確率</Ability_DetectChancePerEntropy.label>
-  <Ability_DetectChancePerEntropy.description>実行時にこの能力のサイキャストが検出される可能性です.\n\n一部の派閥では,特定の称号を持つ者に一部のサイキャストを制限する法律の施行を試みています.サイキャストを使用すると,離れた場所でも検出される可能性のあるサイコサインを発します.もし違法に使用したのが発見された場合,外交上の問題が生じるでしょう.\n\nサイコサインはサイコ消音インプラントを使えば,検出される可能性はなくなります.</Ability_DetectChancePerEntropy.description>
+  <Ability_DetectChancePerEntropy.description>実行時にこの能力のサイキャストが検出される可能性です.\n\n一部の派閥では,特定の称号を持つ者に一部のサイキャストを制限する法律の施行を試みています.サイキャストを使用すると,離れた場所でも検出される可能性のあるサイコサインを発します.もし違法に使用したのが発見された場合,外交上の問題が生じるでしょう.</Ability_DetectChancePerEntropy.description>
 
 </LanguageData>
