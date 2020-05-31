@@ -92,7 +92,7 @@
   <UpdateOnSteamWorkshop>Steamワークショップを更新</UpdateOnSteamWorkshop>
   <UploadAlreadyInProgress>既にアップロード中.</UploadAlreadyInProgress>
   <WorkshopSubmissionFailed>ワークショップへの提出に失敗.\n\n理由：{0}</WorkshopSubmissionFailed>
-  <WorkshopUploadSucceeded>{0}のアップロードら成功しました.</WorkshopUploadSucceeded>
+  <WorkshopUploadSucceeded>{0}のアップロードに成功しました.</WorkshopUploadSucceeded>
   <Downloading>ダウンロード中</Downloading>
   <ModDisplayFulfilledRequirements>満たした要件を表示</ModDisplayFulfilledRequirements>
   <ModClickToSelect>クリックして選択</ModClickToSelect>
