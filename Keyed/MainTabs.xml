@@ -136,7 +136,7 @@
   <QuestFinishedAgo>{0}日前に完了</QuestFinishedAgo>
   <AcceptQuest>クエストを受ける</AcceptQuest>
   <AcceptWith>{0_labelShort}で受けます</AcceptWith>
-  <AcceptQuestFor>これで受ける:</AcceptQuestFor>
+  <AcceptQuestFor>これで受ける</AcceptQuestFor>
   <AcceptQuestForTip>クリックすると,この報酬でこのクエストを受けます。</AcceptQuestForTip>
   <QuestOutcomeInfo_OfferExpired>提案の有効期限が切れた.</QuestOutcomeInfo_OfferExpired>
   <QuestOutcomeInfo_UnknownOrSuccess>このクエストを完了した.</QuestOutcomeInfo_UnknownOrSuccess>
