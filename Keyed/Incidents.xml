@@ -42,45 +42,45 @@
   <GroupTravelersPassing>{0}の 旅行者グループが 村の近くに います.</GroupTravelersPassing>
 
   <LetterLabelSingleVisitorArrives>訪問者</LetterLabelSingleVisitorArrives>
-  <SingleVisitorArrives>{1}の {PAWN_titleIndef}が 村を 訪問しています.\n\n{PAWN_pronoun}は {PAWN_nameFull}と 名乗っています.{3}{4}</SingleVisitorArrives>
-  <SingleVisitorArrivesTraderInfo>\n\n{PAWN_pronoun}は,持っているアイテムをいくつかトレードしたがっています.</SingleVisitorArrivesTraderInfo>
+  <SingleVisitorArrives>{1}の{PAWN_titleIndef}が,コロニーを訪問しています.\n\n{PAWN_pronoun}は,{PAWN_nameFull}と名乗っています.{3}{4}</SingleVisitorArrives>
+  <SingleVisitorArrivesTraderInfo>\n\n{PAWN_pronoun}は,持っているアイテムをいくつかトレード希望しています.</SingleVisitorArrivesTraderInfo>
   <SingleVisitorArrivesLeaderInfo>\n\n{PAWN_pronoun}は,派閥のリーダーです.</SingleVisitorArrivesLeaderInfo>
   <LetterLabelGroupVisitorsArrive>訪問者達</LetterLabelGroupVisitorsArrive>
-  <GroupVisitorsArrive>{0}の 旅行者グループが 村を 訪問しています.{1}{2}</GroupVisitorsArrive>
-  <GroupVisitorsArriveTraderInfo>\n\n彼らは,持っているアイテムをいくつかトレードしたがっています.</GroupVisitorsArriveTraderInfo>
-  <GroupVisitorsArriveLeaderInfo>\n\n旅行者グループのひとり - {1_labelShort}は 派閥のリーダーです.</GroupVisitorsArriveLeaderInfo>
-  <VisitorsLeaving>訪問中の {0}は 去りました.</VisitorsLeaving>
+  <GroupVisitorsArrive>{0}の旅行者グループがコロニーを訪問しています.{1}{2}</GroupVisitorsArrive>
+  <GroupVisitorsArriveTraderInfo>\n\n彼らは,持っているアイテムをいくつかトレードを希望しています.</GroupVisitorsArriveTraderInfo>
+  <GroupVisitorsArriveLeaderInfo>\n\n旅行者グループのひとり;{1_labelShort}は,派閥のリーダーです.</GroupVisitorsArriveLeaderInfo>
+  <VisitorsLeaving>訪問中の{0}は,去りました.</VisitorsLeaving>
 
   <LetterLabelManhunterPackArrived>ヒト狩り集団</LetterLabelManhunterPackArrived>
-  <ManhunterPackArrived>ヒト狩り{0}の集団が,やって来ました.やつらは,この地域をうろうろし,獲物のヒトを狩ります.\n\nやつらは,誰かがドアを通るところを見るまでは,ドアを攻撃することは無いでしょう.内側に潜んでいれば安全でしょう.また動作していないタレットを攻撃することもないので,残しておきたければ電源を落としましょう.\n\n{0}は,１～２日も経てば居なくなるでしょう.あなたは物陰に身を潜めて立ち去るのを待つことも,戦いを選ぶこともできます.</ManhunterPackArrived>
+  <ManhunterPackArrived>ヒト狩り{0}の集団が,やって来ました.やつらは,この地域をうろうろし,獲物のヒトを狩ります.\n\nスカリアとして知られている病気によって狂気に駆られた彼らは,誰かがドアを通るところを見るまでは,ドアを攻撃することは無いでしょう.内側に潜んでいれば安全でしょう.また動作していないタレットを攻撃することもないので,残しておきたければ電源を落としましょう.\n\n{0}は,１～２日も経てば居なくなるでしょう.あなたは物陰に身を潜めて立ち去るのを待つことも,戦いを選ぶこともできます.</ManhunterPackArrived>
 
   <!-- Crashed ship part-->
-  <MessageAnimalInsanityPulse>{SOURCE_label}は サイコパルスを使って ちかくの動物に 狂気を 照射しました.</MessageAnimalInsanityPulse>
-  <LetterShipPartDroveColonistInsane>古代の宇宙船は サイコパルスを使って 入植者 {0} に 狂気を 照射しました.</LetterShipPartDroveColonistInsane>
-  <AwokeDaysAgo>起動してから {0} 日 経過</AwokeDaysAgo>
-  <ActivatedDaysAgo>活動開始から {0} 日 経過</ActivatedDaysAgo>
-  <OpenedDaysAgo>展開してから {0} 日 経過</OpenedDaysAgo>
+  <MessageAnimalInsanityPulse>{SOURCE_label}は サイコパルスを使って ちかくの動物に,狂気を照射しました.</MessageAnimalInsanityPulse>
+  <LetterShipPartDroveColonistInsane>古代の宇宙船は サイコパルスを使って 入植者{0}に,狂気を照射しました.</LetterShipPartDroveColonistInsane>
+  <AwokeDaysAgo>起動してから{0}日経過</AwokeDaysAgo>
+  <ActivatedDaysAgo>活動開始から{0}日経過</ActivatedDaysAgo>
+  <OpenedDaysAgo>展開してから{0}日経過</OpenedDaysAgo>
   <PsychicDroneLevel>サイコドローンのレベル: {0}</PsychicDroneLevel>
   <LetterLabelPsychicDroneLevelIncreased>サイコ</LetterLabelPsychicDroneLevelIncreased>
   <LetterPsychicDroneLevelIncreased>古代の宇宙船は さらに強力な サイコドローンを 射出しました. このエリアの 人間は, 不安と, 恐怖と, 偏執衝動に さらされます.</LetterPsychicDroneLevelIncreased>
 
   <!-- Agent revealed -->
   <LetterLabelAgentRevealed>代理人</LetterLabelAgentRevealed>
-  <LetterAgentRevealed>{0} は あなたの敵  {1} の代理と 名乗りました.\n\n彼らは 逃げようと しています.</LetterAgentRevealed>
+  <LetterAgentRevealed>{0}は,あなたの敵{1}の代理と 名乗りました.\n\n彼らは 逃げようと しています.</LetterAgentRevealed>
 
   <!-- Beavers -->
   <LetterLabelBeaversArrived>ビーバー達</LetterLabelBeaversArrived>
   <BeaversArrived>今,腹を空かせたアルファビーバーの一団が現れました.\n\n一本残らず木が食い尽くされる前に,駆除する事を試しましょう.</BeaversArrived>
 
   <!-- Self-tame -->
-  <LetterLabelAnimalSelfTame>{1_kind}は 人なつっこく寄ってきた</LetterLabelAnimalSelfTame>
-  <LetterAnimalSelfTame>{0}は なついてきた</LetterAnimalSelfTame>
-  <LetterAnimalSelfTameAndNameNumerical>{0}は 人なつっこく寄ってきた.仮に{ANIMAL_nameFull}とした</LetterAnimalSelfTameAndNameNumerical>
-  <LetterAnimalSelfTameAndName>{0}は 人なつっこく寄ってきた.入植者達は{ANIMAL_nameFull}と名付けた</LetterAnimalSelfTameAndName>
+  <LetterLabelAnimalSelfTame>{1_kind}は 自ら寄ってきた</LetterLabelAnimalSelfTame>
+  <LetterAnimalSelfTame>{0}は,なついてきた</LetterAnimalSelfTame>
+  <LetterAnimalSelfTameAndNameNumerical>{0}は,人なつっこく寄ってきた.仮に{ANIMAL_nameFull}とした</LetterAnimalSelfTameAndNameNumerical>
+  <LetterAnimalSelfTameAndName>{0}は,人なつっこく寄ってきた.入植者達は{ANIMAL_nameFull}と名付けた</LetterAnimalSelfTameAndName>
 
   <!-- Farm animals wander in -->
   <LetterLabelFarmAnimalsWanderIn>{0}が加わりました</LetterLabelFarmAnimalsWanderIn>
-  <LetterFarmAnimalsWanderIn>放棄されたか,迷子になった {0}のグループが, 迷い込んできました.\n\n彼らは,ヒトには慣れていそうで,コロニーに加わりたそうです.</LetterFarmAnimalsWanderIn>
+  <LetterFarmAnimalsWanderIn>放棄されたか,迷子になった{0}のグループが, 迷い込んできました.\n\n彼らは,ヒトには慣れていた様子で,コロニーに加わってうろうろしています.</LetterFarmAnimalsWanderIn>
 
   <!-- Thrumbo passes -->
   <LetterLabelThrumboPasses>希少なスランボ</LetterLabelThrumboPasses>
@@ -88,25 +88,25 @@
 
   <!-- Trader caravan -->
   <LetterLabelTraderCaravanArrival>{0}からの{1}</LetterLabelTraderCaravanArrival>
-  <LetterTraderCaravanArrival>{0} から来たトレーダーキャラバンが接触してきました.彼らは {1}です.\n\n 彼らは,ここを離れるまでの数日間,ここのコロニーをウロウロするつもりです.彼らを襲撃できます - しかし彼らの派閥と敵対することになるでしょう. </LetterTraderCaravanArrival>
+  <LetterTraderCaravanArrival>{0}から来たトレーダーキャラバンが接触してきました.彼らは,{1}です.\n\n 彼らは,ここを離れるまでの数日間,ここのコロニーをウロウロするつもりです.彼らを襲撃できます－しかし彼らの派閥と敵対することになるでしょう. </LetterTraderCaravanArrival>
   <LetterCaravanArrivalCommonWarning>彼らは出発するまでしばらくの間コロニーの周辺をうろうろします.彼らを攻撃することもできます...しかし,その行為は彼らの派閥を激怒させます！</LetterCaravanArrivalCommonWarning>
 
   <!-- Ransom demand -->
   <RansomDemandTitle>{0}からの身代金要求</RansomDemandTitle>
-  <RansomDemand>{1}が 通信で あなたに呼びかけています.彼らは,入植者 {0}を 人質にしています.\n\n彼らは,身代金 {2}シルバーと交換に,{PAWN_objective} 解放する用意があると言ってきています.</RansomDemand>
+  <RansomDemand>{1}が,通信であなたに呼びかけています.彼らは,入植者{0}を,人質にしています.\n\n彼らは,身代金{2}シルバーと交換に,{PAWN_objective}解放する用意があると言ってきています.</RansomDemand>
   <RansomDemand_Accept>身代金を払う</RansomDemand_Accept>
   <RansomDemand_Reject>拒絶する</RansomDemand_Reject>
 
   <!-- Journey -->
   <EscapeShipFoundLabel>宇宙船発見</EscapeShipFoundLabel>
-  <EscapeShipFound>&lt;Name&gt;Charlon=Whitestone&lt;/Name&gt;が送ってきた座標に到着し,秘匿された宇宙船を発見した.\n\n宇宙船の反応炉は深い休止状態にあるので,まだ飛ぶことはできない.コンピュータコアを使って操作すれば起動させることができる.\n\n&lt;Name&gt;Charlon=Whitestone&lt;/Name&gt;は警告する.再起動シーケンスはおよそ15日程かかり,発生するエネルギー波紋は,かなり遠くからでも探知されてしまうだろう.このエネルギー波紋の一種は,恒星間航行能力があることを示し,命知らずのギャング共や,最悪なメカノイドの群れを惹きつけるだろう.\n\nあなたは,今まで見たこともないような熾烈な戦闘に巻き込まれる事が予想される.まずは最初に守りを確認すべきだ.</EscapeShipFound>
-  <EscapeShipFoundPeaceful>あなたは&lt;Name&gt;Charlon=Whitestone&lt;/Name&gt;が送信してきた座標地点に到達して隠された宇宙船を発見しました.\n\n宇宙船の反応炉は現在は深い休止モードにあるため,まだ飛行することはできません.コンピューターのAI人格コアと対話することで起動できます.\n\n&lt;Name&gt;Charlon=Whitestone&lt;/Name&gt;は,起動する作業に約15日かかると警告しています.</EscapeShipFoundPeaceful>
+  <EscapeShipFound>(*Name)Charlon=Whitestone(/Name)が送ってきた座標に到着し,秘匿された宇宙船を発見した.\n\n宇宙船の反応炉は深い休止状態にあるので,まだ飛ぶことはできない.コンピュータコアを使って操作すれば起動させることができる.\n\n(*Name)Charlon=Whitestone(/Name)は警告する.再起動シーケンスはおよそ15日程かかり,発生するエネルギー波紋は,かなり遠くからでも探知されてしまうだろう.このエネルギー波紋の一種は,恒星間航行能力があることを示し,命知らずのギャング共や,最悪なメカノイドの群れを惹きつけるだろう.\n\nあなたは,今まで見たこともないような熾烈な戦闘に巻き込まれる事が予想される.まずは最初に守りを確認すべきだ.</EscapeShipFound>
+  <EscapeShipFoundPeaceful>あなたは(*Name)Charlon=Whitestone(/Name)が送信してきた座標地点に到達して隠された宇宙船を発見しました.\n\n宇宙船の反応炉は現在は深い休止モードにあるため,まだ飛行することはできません.コンピューターのAI人格コアと対話することで起動できます.\n\n(*Name)Charlon=Whitestone(/Name)は,起動する作業に約15日かかると警告しています.</EscapeShipFoundPeaceful>
   <EscapeShipLostLabel>宇宙船破壊</EscapeShipLostLabel>
-  <EscapeShipLost>&lt;Name&gt;Charlon=Whitestone&lt;/Name&gt;がメッセージを送ってきた.\n彼は,貴方が着陸船での姿勢制御を失っているところを見ている.船が悪人の手に落ちるのを防ぐために,彼は,宇宙船の自爆装置の引き金を引いた結果,船は今やクレーターとなった.\nこの惑星から出る,別の手段を見つける必要があるだろう.</EscapeShipLost>
+  <EscapeShipLost>(*Name)Charlon=Whitestone(/Name)がメッセージを送ってきた.\n彼は,貴方が着陸船での姿勢制御を失っているところを見ている.船が悪人の手に落ちるのを防ぐために,彼は,宇宙船の自爆装置の引き金を引いた結果,船は今やクレーターとなった.\nこの惑星から出る,別の手段を見つける必要があるだろう.</EscapeShipLost>
 
   <!-- Caravan meeting -->
   <CaravanMeetingTitle>キャラバン隊は,{0}と会いました.</CaravanMeetingTitle>
-  <CaravanMeeting>{0}は {1}からきたキャラバン隊と平和的に出会いました.もう一方のキャラバン隊は次から編成されています:\n\n{2}</CaravanMeeting>
+  <CaravanMeeting>{0}は,{1}からきたキャラバン隊と平和的に出会いました.もう一方のキャラバン隊は次から編成されています:\n\n{2}</CaravanMeeting>
   <CaravanMeeting_Trade>取引</CaravanMeeting_Trade>
   <CaravanMeeting_Attack>攻撃</CaravanMeeting_Attack>
   <CaravanMeeting_MoveOn>立ち去る</CaravanMeeting_MoveOn>
@@ -115,14 +115,14 @@
 
   <!-- Caravan request -->
   <LetterLabelCaravanRequest>キャラバン隊派遣要請</LetterLabelCaravanRequest>
-  <LetterCaravanRequest>拠点の近く,{0},特別な取引を,あなたに持ちかけてきました.購入品:\n\n  {1} (価値 {2})\n\n見返りとして提示額:\n\n  {3} (価値 {4})\n\n有効期限: {5}\n\n取引に興味があれば,要求した品と共にキャラバン隊を送ります.到着までに必要な時間は{6}.この取引は,ワールドマップで{0}を選択すると再表示できます.</LetterCaravanRequest>
+  <LetterCaravanRequest>拠点の近く,{0},特別な取引を,あなたに持ちかけてきました.購入品:\n\n　{1}（価値:{2})\n\n見返りとして提示額:\n\n　{3}（価値:{4})\n\n有効期限：{5}\n\n取引に興味があれば,要求した品と共にキャラバン隊を送ります.到着までに必要な時間は{6}.この取引は,ワールドマップで{0}を選択すると再表示できます.</LetterCaravanRequest>
   <CaravanRequestInfo>要求：{0}（価値：{2}相当）\n(残り期限：{1})</CaravanRequestInfo>
   <NormalQualityOrBetter>普通以上の品質</NormalQualityOrBetter>
   <NotTainted>汚れなし</NotTainted>
 
   <!-- Caravan demand -->
-  <CaravanDemandTitle>{0}からの ゆすり,たかり</CaravanDemandTitle>
-  <CaravanDemand>{0}は,{1}から来た{2} {4}グループから待ち伏せされました.次の品を渡さないと攻撃されます:\n\n{3}</CaravanDemand>
+  <CaravanDemandTitle>{0}からのゆすり,たかり</CaravanDemandTitle>
+  <CaravanDemand>{0}は,{1}から来た{2}{4}グループから待ち伏せされました.次の品を渡さないと攻撃されます:\n\n{3}</CaravanDemand>
   <CaravanDemand_Give>渡して通る</CaravanDemand_Give>
   <CaravanDemand_Fight>断固拒否,戦う</CaravanDemand_Fight>
 
