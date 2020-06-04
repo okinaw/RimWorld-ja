@@ -3,7 +3,7 @@
 
   <OpportunitySite_ItemStash.questDescriptionRules.rulesStrings>
     <li>questDescription(askerIsNull==true)->クエストの依頼:\n[map_definite]からそう遠くない場所に [itemStashContentsValue] 相当な貴重品が 隠された場所について, 通信を傍受しました。 収蔵品の内容は以下のとおりです.\n\n[itemStashContents]\n\n予想される脅威:\n[allSitePartsDescriptionsExceptFirst]のようです.</li>
-    <li>questDescription(asker_factionLeader==True)->クエストの依頼:\n[asker_faction_name]の[asker_faction_leaderTitle][asker_label]は,[itemStashContentsValue] 相当な貴重品が隠された場所が,我々の場所からそう遠くない所にあると知らせてきました.\n財宝の内容:\n\n想される脅威:\n[itemStashContents]\n\n[asker_label]の報告では,\n[allSitePartsDescriptionsExceptFirst]です.</li>
+    <li>questDescription(asker_factionLeader==True)->クエストの依頼:\n[asker_faction_name]の[asker_faction_leaderTitle][asker_nameDef]は,[itemStashContentsValue] 相当な貴重品が隠された場所が,我々の場所からそう遠くない所にあると知らせてきました.\n財宝の内容:\n\n想される脅威:\n[itemStashContents]\n\n[asker_label]の報告では,\n[allSitePartsDescriptionsExceptFirst]です.</li>
   </OpportunitySite_ItemStash.questDescriptionRules.rulesStrings>
 
   <OpportunitySite_ItemStash.questNameRules.rulesStrings>
