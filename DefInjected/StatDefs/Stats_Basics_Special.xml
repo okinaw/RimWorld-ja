@@ -11,8 +11,9 @@
   <ConstructionSpeedFactor.description>建築速度への掛率です.石材などのある素材で建てる場合に遅くなり,木材のような素材では早くなります.</ConstructionSpeedFactor.description>
   <ConstructionSpeedFactor.labelForFullStatList>建造速度(材料係数)</ConstructionSpeedFactor.labelForFullStatList>
 
-  <MeditationFocusStrength.label>瞑想活動の強度</MeditationFocusStrength.label>
+  <MeditationFocusStrength.label>瞑想サイスフォーカスボーナス</MeditationFocusStrength.label>
   <MeditationFocusStrength.description>瞑想中にこの対象に精神を集中することで,獲得できるサイフォーカス量です.一部の瞑想対象物では,周囲の状況や瞑想している人物の瞑想活動タイプなどで,この数字が変わることがあります.</MeditationFocusStrength.description>
   <MeditationFocusStrength.formatString>{0}/日</MeditationFocusStrength.formatString>
+  <MeditationFocusStrength.formatStringUnfinalized>{0}/日</MeditationFocusStrength.formatStringUnfinalized>
 
 </LanguageData>
