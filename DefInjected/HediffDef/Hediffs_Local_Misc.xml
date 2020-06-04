@@ -28,13 +28,4 @@
   <Scaria.label>スケリア病</Scaria.label>
   <Scaria.description>影響を受けた生物を凶暴にする病気です.スケリア病に感染した生物は特別な手術で治療可能ですが,最初に倒す必要があります.治療しない場合は,感染後約5日間で宿主を死に至らしめます.この病気は筋肉を汚染して,皮膚を腐らせるので,感染して殺された生物は死ぬと腐敗する可能性があり,その肉や皮を得るために食肉解体することはできません.</Scaria.description>
 
-  <BloodRot.label>敗血症</BloodRot.label>
-  <BloodRot.description>進行が遅い細菌性疾患です.この細菌は初期は感染者にほとんど影響を与えませんが,全身に細菌が増殖した段階になると毒素によるショック症状を引き起こして,直ちに死に至ります.免疫システムは長時間かけてこの病気を排除するので,免疫が付くまでは通常の医薬品で症状を抑えるのが標準的な治療になります.Glitterworldの医師なら,大量の最先端医薬品を使ってすぐに感染を取り除くことが可能ですが,高い費用がかかります.</BloodRot.description>
-  <BloodRot.stages.minor.label>軽度</BloodRot.stages.minor.label>
-  <BloodRot.stages.major.label>中度</BloodRot.stages.major.label>
-  <BloodRot.stages.extreme.label>重度</BloodRot.stages.extreme.label>
-
-  <Abasia.label>麻痺性歩行不能症</Abasia.label>
-  <Abasia.description>患者の運動皮質に影響を与えて,歩行不能になる症状です.</Abasia.description>
-
 </LanguageData>
