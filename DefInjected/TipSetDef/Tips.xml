@@ -1,87 +1,94 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
 
-  <!-- Interface -->
-  <GameplayTips.DismissLetters>レターを右クリックすると閉じることができます.</GameplayTips.DismissLetters>
-  <GameplayTips.QueueOrders>シフトキーを押しながら入力すると入植者の命令を予約することができます.</GameplayTips.QueueOrders>
-  <GameplayTips.ReorderColonistbar>入植者バーの入植者を,右クリックしながらドラッグすると並べ替えることができます.</GameplayTips.ReorderColonistbar>
-  <GameplayTips.SelectPrevNextColonist>「,」キーと「.」キーを押すと,入植者の選択を切り替えられます.</GameplayTips.SelectPrevNextColonist>
-  <GameplayTips.SettingPainting>ほとんどのメニューでは,設定をクリックしながらドラッグして,別の設定に「貼付ける」ことができます.これは服装や食事制限などにも有効です.</GameplayTips.SettingPainting>
-  <GameplayTips.ManualPriorities>優先順位の詳細な設定は,１が最優先で,４は優先度が最後です.</GameplayTips.ManualPriorities>
-  <GameplayTips.ColonistMood>各入植者の心情は,画面上部にある入植者バーのアイコン枠の背景に表示されます.</GameplayTips.ColonistMood>
-  <GameplayTips.WorkTabChangeAllColonists>シフトキーを押しながら[優先順位]タブで各作業タイプの名前をクリックすると,すべての入植者の設定が一度に切り替わります.</GameplayTips.WorkTabChangeAllColonists>
-  <GameplayTips.WorkTabDecreasePriority>優先順位タブの詳細な設定から各作業の数値を右クリックすると,数値が減少します.左クリックすると数値は増加します.</GameplayTips.WorkTabDecreasePriority>
+  <TipSetDef>
+    <defName>GameplayTips</defName>
+    <tips>
+      <!-- Interface -->
+      <li TKey="DismissLetters">You can dismiss letters by right-clicking on them.</li>
+      <li TKey="QueueOrders">You can hold the shift key to queue orders on your colonists.</li>
+      <li TKey="ReorderColonistbar">You can right-click and drag to reorder colonists on the colonist bar.</li>
+      <li TKey="SelectPrevNextColonist">You can select previous/next colonist with the , and . keys.</li>
+      <li TKey="SettingPainting">Many menus allow you to click and drag a setting to 'paint' it over many entries. This even works for things like outfits or food restrictions.</li>
+      <li TKey="ManualPriorities">In the work tab's manual priorities mode, 1 is first priority, while 4 is last priority.</li>
+      <li TKey="ColonistMood">Each colonists' mood is displayed in the background of their icon in the colonist bar at the top of the screen.</li>
+      <li TKey="WorkTabChangeAllColonists">Shift-clicking the name of a work type in the Work tab changes settings for all colonists at once.</li>
+      <li TKey="WorkTabDecreasePriority">Right-clicking a number in the Work tab using manual priorities will reduce the priority instead of increasing it.</li>
 
-  <!-- Combat -->
-  <GameplayTips.GunfightCover>銃撃戦では,常に身を隠してください！</GameplayTips.GunfightCover>
-  <GameplayTips.GunfightSpread>銃撃戦では,入植者を散開させてください！集まっている目標はまとまって敵の攻撃に命中します.</GameplayTips.GunfightSpread>
-  <GameplayTips.ShootingAccuracySmoke>煙幕はタレットが目標を見つけることを完全に妨害しますが,人間は命中精度が落ちるだけで射撃することができます.</GameplayTips.ShootingAccuracySmoke>
-  <GameplayTips.DesignDefenses>防御計画を行うとき,敵が降下ポッドで落下したりトンネルを掘って中に侵入する事を仮定して,建物内部での防衛陣地を作りましょう.</GameplayTips.DesignDefenses>
-  <GameplayTips.ShootingAccuracyFogRain>霧や雨が降ったりすると,遠距離武器の命中精度は低下します.</GameplayTips.ShootingAccuracyFogRain>
-  <GameplayTips.ShootingTooltip>射手を選択して,マウスポインターを目標の上に重ねることで,射撃が命中する確率を分析できます.</GameplayTips.ShootingTooltip>
-  <GameplayTips.TurretsExplode>タレットは,大ダメージを受けると爆発します.近づきすぎないように気を付けてください.また,誤射の可能性があるのでを近づきすぎないでください.</GameplayTips.TurretsExplode>
-  <GameplayTips.AnimalDeathExplosion>死ぬと爆発する動物もいます.輸送ポッドを使用して,敵に動物を投げつけることもできます.それも考慮してください.</GameplayTips.AnimalDeathExplosion>
-  <GameplayTips.CallAllies>戦闘で援軍が必要な場合は,通信器を使って同盟している派閥に連絡しましょう.</GameplayTips.CallAllies>
-  <GameplayTips.MaddenedAnimals>狂気に陥った動物は,あなたの敵を含むあらゆる人間を攻撃します.これをうまく利用しましょう.</GameplayTips.MaddenedAnimals>
-  <GameplayTips.EMPDisablesTurretsShields>EMP兵器の爆発は,タレットや迫撃砲シールドや弾丸シールドを一時的に無効化にします.</GameplayTips.EMPDisablesTurretsShields>
-  <GameplayTips.EMPDisablesPersonalShields>EMP兵器の爆発はシールドベルトのシールドを即時破壊します.</GameplayTips.EMPDisablesPersonalShields>
+      <!-- Combat -->
+      <li TKey="GunfightCover">In a gunfight, always be behind cover!</li>
+      <li TKey="GunfightSpread">In a gunfight, spread your colonists out! Bunched-up targets are easy to hit.</li>
+      <li TKey="ShootingAccuracySmoke">Smoke totally prevents turrets from detecting targets, but people can still shoot with reduced accuracy.</li>
+      <li TKey="DesignDefenses">When designing defences, assume enemies will get inside using drop pods or tunnels. Build internal defensive positions.</li>
+      <li TKey="ShootingAccuracyFogRain">Foggy or rainy weather reduces the accuracy of ranged weapons.</li>
+      <li TKey="ShootingTooltip">You can analyze the chance a shot will hit by selecting the shooter and placing the mouse over the target.</li>
+      <li TKey="TurretsExplode">Turrets explode when they take a lot of damage. Don't put them too close together, and don't put your people too close to them.</li>
+      <li TKey="AnimalDeathExplosion">Some animals explode upon death. You can use transport pods to drop animals on enemies. Think about it.</li>
+      <li TKey="CallAllies">If you need help in a fight, call your allies using the comms console.</li>
+      <li TKey="MaddenedAnimals">Maddened animals will attack any human, including your enemies. You can use this.</li>
+      <li TKey="EMPDisablesTurretsShields">EMP bursts will temporarily disable turrets, mortar shields, and bullet shields.</li>
+      <li TKey="EMPDisablesPersonalShields">EMP bursts instantly break personal shields.</li>
 
-  <!-- Hunting -->
-  <GameplayTips.HunterStealth>隠密狩猟率のステータスは,動物からの反撃率を減らします.それらは狩人が持つ動物スキルと射撃スキルの影響を受けます.</GameplayTips.HunterStealth>
-  <GameplayTips.AnimalsAttackCloseRange>動物は,近距離から攻撃を受けると反撃する可能性が高くなります.発射速度の遅い遠距離武器は,狩猟で最も安全です.</GameplayTips.AnimalsAttackCloseRange>
-  <GameplayTips.AnimalsMayAttack>動物を狩猟する際に,動物たちの群れ全体があなたに反撃する可能性があります.狩猟を行う前にそのリスクを覚悟するか,もっと弱い獲物を選択してください.</GameplayTips.AnimalsMayAttack>
-  <GameplayTips.AnimalDeathExplosionRain>雨が降っているときにボムネズミやボマロープを狩れぱ,それらの死による爆発は森林火災を引き起こしません.</GameplayTips.AnimalDeathExplosionRain>
-  <GameplayTips.GreaterSlaughterYield>余分な傷をつけないように注意深く屠殺された動物は,狩りで殺された動物よりも多くの生肉や革を得られます.</GameplayTips.GreaterSlaughterYield>
+      <!-- Hunting -->
+      <li TKey="HunterStealth">The hunter stealth stat reduces the chance of animal attacks. It is affected by the hunter's animals and shooting skills.</li>
+      <li TKey="AnimalsAttackCloseRange">Animals are more likely to attack when harmed from close range. Long-range, slow-firing weapons are safest for hunting.</li>
+      <li TKey="AnimalsMayAttack">Entire herds of animals may attack you when you try to hunt them. Accept the risk before hunting, or choose weaker prey.</li>
+      <li TKey="AnimalDeathExplosionRain">If you hunt boomrats and boomalopes when it's raining, their deaths won't cause forest fires.</li>
+      <li TKey="GreaterSlaughterYield">Carefully-slaughtered animals yield more meat and leather than those who were killed violently.</li>
 
-  <!-- Caravans -->
-  <GameplayTips.CaravanPackingSpot>キャラバンを編成する場所を指定するために,キャラバン隊物流地点を設置しましょう.</GameplayTips.CaravanPackingSpot>
-  <GameplayTips.CaravanSinglePerson>単独のキャラバンを編成することは,特定の状況では非常に役立ちます.</GameplayTips.CaravanSinglePerson>
-  <GameplayTips.CaravanFasterAnimals>移動速度が速い動物なら,より移動速度が早いキャラバンを編成できます.</GameplayTips.CaravanFasterAnimals>
-  <GameplayTips.CaravanSmallerLessVisible>小規模なキャラバンは目立ちにくいため,襲撃を受ける確率は低くなります.</GameplayTips.CaravanSmallerLessVisible>
-  <GameplayTips.CaravanStockpileNearPackingSpot>キャラバンを編成する前に,キャラバン隊物流地点を送り出したいアイテムを備蓄している場所の近くに設置してください.そうすれば,荷積み作業がもっと早く完了します.</GameplayTips.CaravanStockpileNearPackingSpot>
-  <GameplayTips.CaravanUntrainedAnimals>キャラバンに命令を聞かない訓練されていない動物がいる場合,敵の拠点を攻撃する前に,それらを別々のキャラバンに分割して,戦闘から逃がすことが可能です.</GameplayTips.CaravanUntrainedAnimals>
+      <!-- Caravans -->
+      <li TKey="CaravanPackingSpot">Place a caravan packing spot to designate where you want your caravans to form up.</li>
+      <li TKey="CaravanSinglePerson">Single-person caravans can be very useful in certain situations.</li>
+      <li TKey="CaravanFasterAnimals">Faster animals make faster caravans.</li>
+      <li TKey="CaravanSmallerLessVisible">Smaller caravans will be attacked less often because they're less visible.</li>
+      <li TKey="CaravanStockpileNearPackingSpot">Before forming a caravan, collect them items you want to send in a stockpile near your caravan packing spot. This will make packing much faster.</li>
+      <li TKey="CaravanUntrainedAnimals">If you have untrained animals in your caravan, you can split them into a separate caravan before attacking an enemy, to keep them out of the fight.</li>
 
-  <!-- Game style -->
-  <GameplayTips.StoryGenerator>RimWorldは物語を生み出すゲームでプレイヤースキルのテストではありませんし崩壊したコロニーは悲劇的な結末であって失敗ではありません.</GameplayTips.StoryGenerator>
-  <GameplayTips.BadAllies>一部の入植者は役立たずよりも性質が悪い.同盟国の迷惑な援軍は挑戦と呼べるでしょう.</GameplayTips.BadAllies>
-  <GameplayTips.MakeCaravanRunBeforeDefeat>脅威に対抗して防衛が不可能な場合,キャラバンを編成して逃亡してください.ホームを失うかもしれませんが,あなたの物語を続けることができます.</GameplayTips.MakeCaravanRunBeforeDefeat>
+      <!-- Game style -->
+      <li TKey="StoryGenerator">RimWorld is a story generator, not a skill test. A ruined colony is a dramatic tragedy, not a failure.</li>
+      <li TKey="BadAllies">Some colonists are worse than useless. Bad allies are part of the challenge.</li>
+      <li TKey="MakeCaravanRunBeforeDefeat">If you can't defend against a threat, make a caravan and run. You may lose your home, but your story can continue.</li>
 
-  <!-- Building -->
-  <GameplayTips.StoneDoors>ドアの材料に石を使わないでください.それらの開閉は非常にゆっくりで,入植者の時間を無駄にします.</GameplayTips.StoneDoors>
-  <GameplayTips.ChairsWorkbench>作業台の前に椅子を置けば,作業者が作業中でも快適性を維持できます.</GameplayTips.ChairsWorkbench>
-  <GameplayTips.MechanicalBreakdown>機械的な建築物が故障したら,コンポーネントの交換が必要です.無駄に修理が必要なものを建設しないでください.</GameplayTips.MechanicalBreakdown>
-  <GameplayTips.CarefulConstructionOnBridges>橋の上に何を建設するかは気を付けてください.木の橋は爆発によって簡単に崩壊して,建築物は橋と一緒に消滅します.</GameplayTips.CarefulConstructionOnBridges>
-  <GameplayTips.CleanRooms>清潔な部屋は,研究速度を増加したり,医療の成功率を改善して,食中毒を減らします.抗菌タイルを使えば,部屋はさらに清潔になります.</GameplayTips.CleanRooms>
-  <GameplayTips.ColonyOneStructure>コロニー全体を1つの繋がった構造体として建設すれば,資源を節約できますが,火災が起きた時に延焼を抑えることも難しくなります.</GameplayTips.ColonyOneStructure>
-  <GameplayTips.TerrainMovementSpeed>地形は移動速度に影響します.あなたの入植者たちがより速く歩けるように床を建築しましょう.</GameplayTips.TerrainMovementSpeed>
-  <GameplayTips.TerrainCleanliness>地形ごとに固有の清潔度が異なります.タイルは本質的に清潔です.土は汚れの元です.</GameplayTips.TerrainCleanliness>
+      <!-- Building -->
+      <li TKey="StoneDoors">Avoid using stone for doors. They open very slowly, which wastes your colonists' time.</li>
+      <li TKey="ChairsWorkbench">Put chairs in front of workbenches so workers can sit comfortably while working.</li>
+      <li TKey="MechanicalBreakdown">Mechanical structures break down and require replacement components. Don't build things you don't need.</li>
+      <li TKey="CarefulConstructionOnBridges">Be careful what you construct on bridges. Bridges collapse easily under explosions, and your buildings will go with them.</li>
+      <li TKey="CleanRooms">Clean rooms increase research speed, improve medical outcomes, and reduce food poisoning. Sterile tiles make rooms extra-clean.</li>
+      <li TKey="ColonyOneStructure">Building your whole colony in one structure saves resources, but also makes it difficult to contain fires.</li>
+      <li TKey="TerrainMovementSpeed">Terrain affects movement speed. Build floors to help your colonists get around quicker.</li>
+      <li TKey="TerrainCleanliness">Different terrain has different inherent cleanliness levels. Tiles are inherently clean; dirt is inherently dirty.</li>
 
-  <!-- Diplomacy -->
-  <GameplayTips.PrisonersAsGifts>囚人を贈り物として敵対派閥に贈ることができます.彼らも囚人を自分の派閥に返してくれることは大歓迎です.</GameplayTips.PrisonersAsGifts>
-  <GameplayTips.RequestTradeCaravans>通信器を使えば,特定の商品を取り扱うトレードキャラバンを指定して要請できます.</GameplayTips.RequestTradeCaravans>
-  <GameplayTips.TransportPodsSendGift>輸送ポッドを使用して,贈り物を他の派閥の拠点に直接送ることができます.これは敵対派閥もです.これによって,派閥との友好関係を改善できます.</GameplayTips.TransportPodsSendGift>
+      <!-- Diplomacy -->
+      <li TKey="PrisonersAsGifts">You can give prisoners as gifts. Giving a prisoner back to his own faction will be highly appreciated.</li>
+      <li TKey="RequestTradeCaravans">You can request specific types of trade caravans using the comms console.</li>
+      <li TKey="TransportPodsSendGift">You can use transport pods to send gifts directly to other factions' bases - even your enemies. This improves faction relations.</li>
 
-  <!-- Misc -->
-  <GameplayTips.KeepingPrisonersTogether>囚人たちを1つの監獄に集めることでスペースを節約できます.ただし,一緒にいる囚人たち全員で脱獄しようとします.</GameplayTips.KeepingPrisonersTogether>
-  <GameplayTips.EnemyFactionBaseDefenses>敵派閥の拠点は厳重に守られています.あなたは無理にそれらを攻撃する必要はありませんが,もしあなたがそれを試みることを選択したなら,準備を万全にしてください.</GameplayTips.EnemyFactionBaseDefenses>
-  <GameplayTips.AnimalNuzzle>イヌやネコなどのかわいい飼いならされたコロニーの動物たちはあなたの入植者にすり寄って,心情を改善します.</GameplayTips.AnimalNuzzle>
-  <GameplayTips.AnimalHerbivorousGrassArea>草食動物は,草の多いゾーンを割り当てましょう.彼らはそこに生えている草を食べてくれるし,餌をやる必要もなくなります.</GameplayTips.AnimalHerbivorousGrassArea>
-  <GameplayTips.RemoveLimbInfection>四肢に致命的な重度の感染症がある場合,四肢を切断して命を救うことができます.</GameplayTips.RemoveLimbInfection>
-  <GameplayTips.SloshingWater>水中を泳いで渡ることは人々を不幸にします.可能なら橋を架けましょう.</GameplayTips.SloshingWater>
-  <GameplayTips.Luciferium>ルシフェリウムは目や脳の傷さえ治すことができます.しかし,それは永久的に服用する事と引き換えです.</GameplayTips.Luciferium>
-  <GameplayTips.WorkMovementSpeedLighting>仕事と移動速度は明るさの影響を受けます.暗闇ではすべてが遅くなります.</GameplayTips.WorkMovementSpeedLighting>
-  <GameplayTips.DeepCavesTemperature>岩盤天井の地下深くにある洞窟では,外が熱波でも寒波でも,常に温度が安定しています.</GameplayTips.DeepCavesTemperature>
-  <GameplayTips.MountainBases>山岳内のコロニーは守りやすいです.デメリットは,人々が地下であまりにも長い時間を過ごして気が狂ってしまうことと,巨大な昆虫たちの襲撃です.</GameplayTips.MountainBases>
-  <GameplayTips.PrisonersGoodMood>囚人たちは,心情が高ければ,より早く説得に応じるし,脱獄を試す事も減ります.</GameplayTips.PrisonersGoodMood>
-  <GameplayTips.MultipleResearchers>複数の研究設備を設置すれば,複数の研究者が同時に研究作業することができます.</GameplayTips.MultipleResearchers>
-  <GameplayTips.GeysersHeatRooms>間欠泉は周囲を壁で囲まれている場合,部屋の中を加熱します.これは危険な場合もあれば,温室として役に立つ場合もあります.</GameplayTips.GeysersHeatRooms>
-  <GameplayTips.ExtinguishFireArtillery>爆発によって爆風範囲内の火を消せます.これを使えば,迫撃砲の砲弾は他に選択肢がない場合に火災を止めるのに役立ちます.</GameplayTips.ExtinguishFireArtillery>
-  <GameplayTips.BestStoriesFromDarkestSituations>深刻な逆境であっても,ゲームを終了する必要はありません.負け戦だろうと最後まで戦ってみてください.多くの場合,最高の物語は最悪な状況から始まります.</GameplayTips.BestStoriesFromDarkestSituations>
+      <!-- Misc -->
+      <li TKey="KeepingPrisonersTogether">Keeping prisoners together saves space. However, prisoners kept together will try to break out together.</li>
+      <li TKey="EnemyFactionBaseDefenses">Enemy faction bases are very well-defended. You don't need to attack them - but be well-prepared if you choose to try.</li>
+      <li TKey="AnimalNuzzle">Cute tame animals will nuzzle your colonists, improving their mood.</li>
+      <li TKey="AnimalHerbivorousGrassArea">Assign your herbivorous animals to areas with lots of grass. They'll eat the grass and spare you the need to feed them.</li>
+      <li TKey="RemoveLimbInfection">If someone has a serious infection in a limb, you can remove the limb to save their life.</li>
+      <li TKey="SloshingWater">Sloshing through water makes people unhappy. Build a bridge when you can.</li>
+      <li TKey="Luciferium">Luciferium can heal scars - even those on the eye or brain. It is, however, a permanent commitment.</li>
+      <li TKey="WorkMovementSpeedLighting">Work and movement speed are affected by lighting. Everything is slower in the dark.</li>
+      <li TKey="DeepCavesTemperature">Deep underground caverns have a naturally stable temperature, even if it's very hot or cold outside.</li>
+      <li TKey="MountainBases">Mountain bases are easy to defend. The downside is that people go crazy spending too long underground. And giant insects.</li>
+      <li TKey="PrisonersGoodMood">Prisoners will join much quicker and attempt fewer breakouts when they're in a good mood.</li>
+      <li TKey="MultipleResearchers">You can have multiple researchers working simultaneously at multiple research tables.</li>
+      <li TKey="GeysersHeatRooms">Geysers heat up rooms if enclosed. This can be dangerous, or useful.</li>
+      <li TKey="ExtinguishFireArtillery">Explosions extinguish fires in their blast radius. This makes artillery shells useful for stopping fires when there is no other choice.</li>
+      <li TKey="BestStoriesFromDarkestSituations">Even serious setbacks don't mean the game has to end. Try playing out a lost battle - often the best stories come from the darkest situations.</li>
 
-  <!-- Added misc -->
-  <GameplayTips.CleanLabs>抗菌タイルを敷いた清潔な研究室では,研究速度が向上します.</GameplayTips.CleanLabs>
-  <GameplayTips.ChangeStoryteller>オプションからいつでもストーリーテラーと難易度を変更できます.</GameplayTips.ChangeStoryteller>
-  <GameplayTips.MoreAlliesMoreTraders>あなたが同盟している派閥が多いほど,よりトレーダーや援軍がやって来るようになります.</GameplayTips.MoreAlliesMoreTraders>
-  <GameplayTips.CombatDrugsFromInventory>ドラッグの方針を利用すれば,戦闘員にゴージュースなどの戦闘ドラッグを携帯させることができます.戦闘開始時に素早く服用することで戦いに勝利できます.</GameplayTips.CombatDrugsFromInventory>
+      <!-- Added misc -->
+      <li TKey="CleanLabs">Clean labs with sterile tile give research speed bonuses.</li>
+      <li TKey="ChangeStoryteller">You can change storyteller and difficulty at any time through the options menu.</li>
+      <li TKey="MoreAlliesMoreTraders">The more factions you are allied with, the more random traders and military aid you will receive.</li>
+      <li TKey="CombatDrugsFromInventory">You can use drug policies to have your fighters carry combat drugs like go-juice. A quick dose at the start of combat can win the battle.</li>
+      <li TKey="SchedulesSetLong">Set schedules with long stretches of one activity to minimize travel time.</li>
 
-</LanguageData>
+    </tips>
+  </TipSetDef>
+  
+</Defs>
