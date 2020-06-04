@@ -19,6 +19,7 @@
   <Building.label>建物</Building.label>
   <Ability.label>能力</Ability.label>
   <Drug.label>ドラッグ</Drug.label>
+  <DrugAddiction.label>ドラッグ中毒</DrugAddiction.label>
 
 
   <!-- Virtual categories -->
@@ -28,7 +29,7 @@
   <StuffStatOffsets.label>素材としての効果(offset)</StuffStatOffsets.label>
   <StuffOfEquipmentStatFactors.label>素材として使用した物の,装備時の掛け率</StuffOfEquipmentStatFactors.label>
   <Surgery.label>外科</Surgery.label>
-  <CapacityEffects.label>効果容量</CapacityEffects.label>
+  <CapacityEffects.label>効果</CapacityEffects.label>
 
 
   <!-- Pawn -->
