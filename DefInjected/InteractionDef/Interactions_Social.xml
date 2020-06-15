@@ -8,6 +8,8 @@
   <Chitchat.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef]と[RECIPIENT_nameDef]は[TalkTopicLight]について[talkedabout].</li>
     <li>r_logentry->[INITIATOR_nameDef]は[TalkTopicLight]について[RECIPIENT_nameDef]と[talkedabout].</li>
+    <li>r_logentry(p=0.8)->[INITIATOR_nameDef]は[RECIPIENT_nameDef]に[TalkTopicLight][commentedabout].</li>
+
     <li>talkedabout(p=4)->おしゃべりした</li>
     <li>talkedabout->井戸端会議をした</li>
     <li>talkedabout->会話した</li>
@@ -15,6 +17,12 @@
     <li>talkedabout->話し合った</li>
     <li>talkedabout->冗談を言いあった</li>
     <li>talkedabout->皮肉を言いあった</li>
+
+    <li>commentedabout->について何か言いました</li>
+    <li>commentedabout->について一言言いました</li>
+    <li>commentedabout->についてコメントしました</li>
+    <li>commentedabout->についての意見を言いました</li>
+    <li>commentedabout->について冗談を言いました</li>
   </Chitchat.logRulesInitiator.rulesStrings>
 
   <!-- DeepTalk -->
