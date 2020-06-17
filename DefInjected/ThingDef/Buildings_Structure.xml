@@ -28,9 +28,9 @@
   <!-- Misc -->
 
   <Column.label>支柱</Column.label>
-  <Column.description>屋根を支えられる柱です。視界や動きを邪魔せず,非常に美しく見えます.</Column.description>
+  <Column.description>屋根を支えられる柱です.視界や動きを邪魔せず,非常に美しく見えます.</Column.description>
   <Blueprint_Column.label>支柱(設計)</Blueprint_Column.label>
   <Frame_Column.label>支柱(施工)</Frame_Column.label>
-  <Frame_Column.description>屋根を支えられる柱です。視界や動きを邪魔せず,非常に美しく見えます.</Frame_Column.description>
+  <Frame_Column.description>屋根を支えられる柱です.視界や動きを邪魔せず,非常に美しく見えます.</Frame_Column.description>
 
 </LanguageData>
