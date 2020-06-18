@@ -5,9 +5,9 @@
   <Make_StoneBlocksAny.description>岩の塊を使いやすい石材に切り出します.</Make_StoneBlocksAny.description>
   <Make_StoneBlocksAny.jobString>岩塊を加工中</Make_StoneBlocksAny.jobString>
 
-  <ExtractMetalFromSlag.label>くず鉄を精錬する</ExtractMetalFromSlag.label>
-  <ExtractMetalFromSlag.description>高温と強力な電磁石を使い,くず鉄から使える金属を抽出します.</ExtractMetalFromSlag.description>
-  <ExtractMetalFromSlag.jobString>くず鉄を精錬中</ExtractMetalFromSlag.jobString>
+  <ExtractMetalFromSlag.label>鉄くずを精錬する</ExtractMetalFromSlag.label>
+  <ExtractMetalFromSlag.description>高温と強力な電磁石を使い,鉄くずから使える金属を抽出します.</ExtractMetalFromSlag.description>
+  <ExtractMetalFromSlag.jobString>鉄くずを精錬中</ExtractMetalFromSlag.jobString>
 
   <SmeltWeapon.label>武器を溶解する</SmeltWeapon.label>
   <SmeltWeapon.description>高温と強力な磁石を使い,武器から使える資源を取り出します.</SmeltWeapon.description>
