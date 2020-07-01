@@ -19,7 +19,7 @@
   <GameplayTips.DesignDefenses>防御計画を行うとき,敵が降下ポッドで落下したりトンネルを掘って中に侵入する事を仮定して,建物内部での防衛陣地を作りましょう.</GameplayTips.DesignDefenses>
   <GameplayTips.ShootingAccuracyFogRain>霧や雨が降ったりすると,遠距離武器の命中精度は低下します.</GameplayTips.ShootingAccuracyFogRain>
   <GameplayTips.ShootingTooltip>射手を選択して,マウスポインターを目標の上に重ねることで,射撃が命中する確率を分析できます.</GameplayTips.ShootingTooltip>
-  <GameplayTips.TurretsExplode>タレットは,大ダメージを受けると爆発します.近づきすぎないように気を付けてください.また,誤射の可能性があるのでを近づきすぎないでください.</GameplayTips.TurretsExplode>
+  <GameplayTips.TurretsExplode>タレットは,大ダメージを受けると爆発します.近づきすぎないように気を付けてください.また,誤射の可能性もあるので近づきすぎないでください.</GameplayTips.TurretsExplode>
   <GameplayTips.AnimalDeathExplosion>死ぬと爆発する動物もいます.輸送ポッドを使用して,敵に動物を投げつけることもできます.それも考慮してください.</GameplayTips.AnimalDeathExplosion>
   <GameplayTips.CallAllies>戦闘で援軍が必要な場合は,通信器を使って同盟している派閥に連絡しましょう.</GameplayTips.CallAllies>
   <GameplayTips.MaddenedAnimals>狂気に陥った動物は,あなたの敵を含むあらゆる人間を攻撃します.これをうまく利用しましょう.</GameplayTips.MaddenedAnimals>
