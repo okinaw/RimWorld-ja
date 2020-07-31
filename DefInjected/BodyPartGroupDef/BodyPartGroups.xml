@@ -1,61 +1,49 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Torso.label>torso</Torso.label>
-  <UpperHead.label>upper head</UpperHead.label>
-  <FullHead.label>full head</FullHead.label>
-  <Eyes.label>eyes</Eyes.label>
-  <Teeth.label>teeth</Teeth.label>
-  <Mouth.label>mouth</Mouth.label>
-  <Neck.label>neck</Neck.label>
-  <Arms.label>arms</Arms.label>
-  <Shoulders.label>shoulders</Shoulders.label>
-  <Hands.label>hands</Hands.label>
+	<Torso.label>胴</Torso.label>
 
-  <LeftHand.label>left fist</LeftHand.label>
-  <LeftHand.labelShort>fist</LeftHand.labelShort>
+	<UpperHead.label>頭頂</UpperHead.label>
+	<FullHead.label>頭</FullHead.label>
 
-  <RightHand.label>right fist</RightHand.label>
-  <RightHand.labelShort>fist</RightHand.labelShort>
+	<Eyes.label>眼</Eyes.label>
+	<Teeth.label>歯</Teeth.label>
+	<Mouth.label>口</Mouth.label>
+	<Neck.label>首</Neck.label>
+	<Arms.label>腕</Arms.label>
+	<Shoulders.label>肩</Shoulders.label>
+	<Hands.label>手</Hands.label>
+	<LeftHand.label>左手</LeftHand.label>
+	<LeftHand.labelShort>手</LeftHand.labelShort>
+	<RightHand.label>右手</RightHand.label>
+	<RightHand.labelShort>手</RightHand.labelShort>
 
-  <MiddleFingers.label>middle finger</MiddleFingers.label>
-  <MiddleFingers.labelShort>finger</MiddleFingers.labelShort>
+	<Waist.label>腰</Waist.label>
+	<Legs.label>脚</Legs.label>
+	<Feet.label>足</Feet.label>
 
-  <Waist.label>waist</Waist.label>
-  <Legs.label>legs</Legs.label>
-  <Feet.label>feet</Feet.label>
+	<FrontLeftPaw.label>左前掌</FrontLeftPaw.label>
+	<FrontLeftPaw.labelShort>掌</FrontLeftPaw.labelShort>
+	<FrontRightPaw.label>右前掌</FrontRightPaw.label>
+	<FrontRightPaw.labelShort>掌</FrontRightPaw.labelShort>
+	<HeadAttackTool.label>頭</HeadAttackTool.label>
+	<FrontLeftLeg.label>左前肢</FrontLeftLeg.label>
+	<FrontLeftLeg.labelShort>脚</FrontLeftLeg.labelShort>
+	<FrontRightLeg.label>右前肢</FrontRightLeg.label>
+	<FrontRightLeg.labelShort>脚</FrontRightLeg.labelShort>
+	<FrontLeftClaws.label>左前爪</FrontLeftClaws.label>
+	<FrontLeftClaws.labelShort>爪</FrontLeftClaws.labelShort>
+	<FrontRightClaws.label>右前爪</FrontRightClaws.label>
+	<FrontRightClaws.labelShort>爪</FrontRightClaws.labelShort>
 
-  <FrontLeftPaw.label>front left paw</FrontLeftPaw.label>
-  <FrontLeftPaw.labelShort>paw</FrontLeftPaw.labelShort>
-
-  <FrontRightPaw.label>front right paw</FrontRightPaw.label>
-  <FrontRightPaw.labelShort>paw</FrontRightPaw.labelShort>
-
-  <HeadAttackTool.label>head</HeadAttackTool.label>
-
-  <FrontLeftLeg.label>front left leg</FrontLeftLeg.label>
-  <FrontLeftLeg.labelShort>leg</FrontLeftLeg.labelShort>
-
-  <FrontRightLeg.label>front right leg</FrontRightLeg.label>
-  <FrontRightLeg.labelShort>leg</FrontRightLeg.labelShort>
-
-  <FrontLeftClaws.label>front left claws</FrontLeftClaws.label>
-  <FrontLeftClaws.labelShort>claws</FrontLeftClaws.labelShort>
-
-  <FrontRightClaws.label>front right claws</FrontRightClaws.label>
-  <FrontRightClaws.labelShort>claws</FrontRightClaws.labelShort>
-
-  <LeftBlade.label>left blade</LeftBlade.label>
-  <LeftBlade.labelShort>blade</LeftBlade.labelShort>
-
-  <RightBlade.label>right blade</RightBlade.label>
-  <RightBlade.labelShort>blade</RightBlade.labelShort>
-
-  <TuskAttackTool.label>tusks</TuskAttackTool.label>
-  <HornAttackTool.label>horn</HornAttackTool.label>
-  <HeadClaw.label>claw</HeadClaw.label>
-  <TurtleBeakAttackTool.label>beak</TurtleBeakAttackTool.label>
-  <Beak.label>beak</Beak.label>
-
+	<LeftBlade.label>左刃</LeftBlade.label>
+	<LeftBlade.labelShort>刃</LeftBlade.labelShort>
+	<RightBlade.label>右刃</RightBlade.label>
+	<RightBlade.labelShort>刃</RightBlade.labelShort>
+	<TuskAttackTool.label>牙</TuskAttackTool.label>
+	<HornAttackTool.label>角</HornAttackTool.label>
+	<HeadClaw.label>上あご</HeadClaw.label>
+	<TurtleBeakAttackTool.label>くちばし</TurtleBeakAttackTool.label>
+	<Beak.label>くちばし</Beak.label>
 
 </LanguageData>
