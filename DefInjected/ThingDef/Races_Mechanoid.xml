@@ -19,8 +19,8 @@
   <Mech_Lancer.tools.right_fist.label>右拳</Mech_Lancer.tools.right_fist.label>
   <Mech_Lancer.tools.head.label>頭部</Mech_Lancer.tools.head.label>
   <!-- Flesh Type: Mechanoid -->
-  <Corpse_Mech_Lancer.label>機械化ムカデの故障個体</Corpse_Mech_Lancer.label>
-  <Corpse_Mech_Lancer.description>機械化ムカデの故障個体</Corpse_Mech_Lancer.description>
+  <Corpse_Mech_Lancer.label>機械化ランサーの故障個体</Corpse_Mech_Lancer.label>
+  <Corpse_Mech_Lancer.description>機械化ランサーの故障個体</Corpse_Mech_Lancer.description>
 
 
   <!-- Scyther - fast melee -->
