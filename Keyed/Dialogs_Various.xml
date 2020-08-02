@@ -6,7 +6,6 @@
   <WantToContinue>続行しますか?</WantToContinue>
   <OK>[OK]</OK>
   <Close>閉じる</Close>
-  <Accept>了解</Accept>
 
   <!-- Game updated to new version -->
   <GameUpdatedToNewVersionInitial>"RimWorld"は,バージョン{0}から{1}にアップデートされました.</GameUpdatedToNewVersionInitial>
@@ -332,10 +331,8 @@
   <!-- Form caravan -->
   <FormCaravan>キャラバン隊を編成</FormCaravan>
   <FormCaravanColonyThingCountTip>キャラバン隊と共に編成可能数</FormCaravanColonyThingCountTip>
-  <Send>送り出す</Send>
   <PawnsTab>メンバー</PawnsTab>
   <ItemsTab>物資</ItemsTab>
-  <FoodAndMedicineTab>食糧と医薬品</FoodAndMedicineTab>
   <CaravanMustHaveAtLeastOneColonist>少なくとも,一人はしっかりとした入植者を割り当てなければなりません.</CaravanMustHaveAtLeastOneColonist>
   <CaravanCouldNotFindExitSpot>選択した出発地点({0})への道順がありません.</CaravanCouldNotFindExitSpot>
   <CaravanCouldNotFindPackingSpot>適切な物流拠点を見つけられません.出発地点({0})への道順があるか確認して下さい.</CaravanCouldNotFindPackingSpot>
@@ -382,7 +379,6 @@
   <CaptureSection>捕虜</CaptureSection>
   <AnimalsSection>動物</AnimalsSection>
   <ChooseRouteButton>ルート選択</ChooseRouteButton>
-  <ChangeRouteButton>ルート変更</ChangeRouteButton>
   <AbandonButton>放棄</AbandonButton>
   <CaravanMovementSpeed>移動速度</CaravanMovementSpeed>
   <TilesPerDay>タイル/日</TilesPerDay>
@@ -398,7 +394,6 @@
   <ForagedNutritionPerDay>栄養素調達量/日</ForagedNutritionPerDay>
   <FactionType>派閥種別</FactionType>
   <TotalBodySize>体格の合計</TotalBodySize>
-  <AutomaticallySelectFoodAndMedicine>食品と医薬品を自動選択</AutomaticallySelectFoodAndMedicine>
 
   <!-- Split caravan -->
   <SplitCaravan>キャラバン隊の分割</SplitCaravan>
@@ -420,7 +415,6 @@
   <TransporterSingleItemIsUnreachableSingle>シャトルと{0}の間に,道順がありません.</TransporterSingleItemIsUnreachableSingle>
   <TransporterItemIsUnreachableMulti>{0}x {1}と,輸送ポッド間に,道順がありません.</TransporterItemIsUnreachableMulti>
   <TransporterSingleItemIsUnreachableMulti>{0}x {1}とシャトルの間に,道順はありません.</TransporterSingleItemIsUnreachableMulti>
-  <TransporterSingleTooManyColonists>許される入植者の人数は最大{0}名です.</TransporterSingleTooManyColonists>
 
   <!-- Comms -->
   <SocialSkillIs>社交スキル： {0}</SocialSkillIs>
@@ -531,7 +525,7 @@
   <ConfirmCleanupTranslationFiles_Confirm>はい,バックアップしました</ConfirmCleanupTranslationFiles_Confirm>
 
   <!-- Load transporters -->
-  <TransportersCaravanWillBeImmobile>何も無いタイルに送り込むと,キャラバン隊は動けなくなるでしょう.本当に続けますか？</TransportersCaravanWillBeImmobile>
+  <TransportersCaravanWillBeImmobile>何も無いタイルにポッドを送り込むと,キャラバン隊は動けなくなるでしょう.本当に続けますか？</TransportersCaravanWillBeImmobile>
 
   <!-- Confirm cancel monument marker -->
   <ConfirmCancelMonumentMarker>この記念碑のマークを本当に削除しますか？</ConfirmCancelMonumentMarker>
@@ -544,33 +538,9 @@
   <AbilityEffectRadius>効果半径</AbilityEffectRadius>
   <AbilityCastingTime>鋳造時間</AbilityCastingTime>
   <AbilityCannotHitTarget>目標への射線が通らない.</AbilityCannotHitTarget>
-  <AbilityCannotReachTarget>目標に到達できません.</AbilityCannotReachTarget>
-  <AbilityNotEnoughFreeSpace>十分な空き地がない.</AbilityNotEnoughFreeSpace>
   <AbilityOccupiedCells>{0}は空白エリアを目標にする必要があります.</AbilityOccupiedCells>
   <AbilityUnwalkable>{0}は移動可能エリアを目標にする必要があります.</AbilityUnwalkable>
   <AbilityRoofed>{0}は屋根のない場所を目標にする必要があります.</AbilityRoofed>
-  <AbilityCantApplyToMentallyBroken>{0_labelShort}は精神崩壊した.</AbilityCantApplyToMentallyBroken>
-  <AbilityCanOnlyApplyToMentallyBroken>{0_labelShort}は精神崩壊していない.</AbilityCanOnlyApplyToMentallyBroken>
-  <AbilityDoesntWorkOnMentalState>{0}は精神状態「{1}」で働けません.</AbilityDoesntWorkOnMentalState>
-  <AbilityCantApplyNoResistance>{0_labelShort}の抵抗は0になった.</AbilityCantApplyNoResistance>
-  <AbilityCantApplyOnAsexual>使用不可：{0}は無性です.</AbilityCantApplyOnAsexual>
-  <AbilityCantApplyWrongAttractionGender>{1_labelShort}は,{0_labelShort}の性別が間違っています.</AbilityCantApplyWrongAttractionGender>
-  <PsyfocusCostPerMentalBreakIntensity>精神崩壊の強度毎のサイフォーカスコスト</PsyfocusCostPerMentalBreakIntensity>
-  <AbilityAlreadyInspired>{0_labelShort}は既にやる気になっています.</AbilityAlreadyInspired>
-  <AbilityCantGetInspiredNow>{0_labelShort}は現在やる気になれません.</AbilityCantGetInspiredNow>
-  <AbilityCantApplyUnconscious>{0_labelShort}は意識を失っています.</AbilityCantApplyUnconscious>
-  <AbilityCantApplyAsleep>{0_labelShort}は睡眠中です.</AbilityCantApplyAsleep>
-  <AbilityWorldTileImpassable>このタイルは通れません.</AbilityWorldTileImpassable>
-  <AbilitySkipToRandomAlly>ランダムな同盟者へスキップ</AbilitySkipToRandomAlly>
-  <AbilitySkipToJoinCaravan>キャラバンに参加するためにスキップ</AbilitySkipToJoinCaravan>
-  <AbilityNeedAllyToSkip>目標への誘導には同盟軍が必要</AbilityNeedAllyToSkip>
-  <AbilityNoChunkToSkip>スキップ可能な塊がありません.</AbilityNoChunkToSkip>
-  <PsychicLoveInduceIn>恋愛欲求を誘発:</PsychicLoveInduceIn>
-  <PsychicLoveFor>恋愛欲求の対象:</PsychicLoveFor>
-  <FarskipConfirmTeleportingLodger>{PAWN_labelShort}を別のマップかキャラバン隊にスキップさせると,関係するクエストは失敗し,{PAWN_pronoun}は即座に出発します.\n\n本当に{PAWN_labelShort}を遠くにスキップして転送しますか?</FarskipConfirmTeleportingLodger>
-
-  <MentalBreakIntensityMinor>軽症</MentalBreakIntensityMinor>
-  <MentalBreakIntensityMajor>重症</MentalBreakIntensityMajor>
-  <MentalBreakIntensityExtreme>極大</MentalBreakIntensityExtreme>
+  <AbilityCantApplyToMentallyBroken>{0}は精神崩壊した.</AbilityCantApplyToMentallyBroken>
 
 </LanguageData>
