@@ -12,7 +12,7 @@
   <RandomizeCharacter.text>もし,このキャラクターが気に入らなければ,再び作成することもできます!\n\nRANDOMIZEボタンを試してください.</RandomizeCharacter.text>
   <RandomizeCharacter.rejectInputMessage>最初に,ランダムなキャラクターで試してみて下さい.</RandomizeCharacter.rejectInputMessage>
 
-  <AcceptStartingPawns.text>素晴らしい!\n\n気に入るまでランダムボタンを押します - しかし,完璧なキャラクターを求めようとしないで下さい.誰しも欠点を持っていますし,そうした登場人物がいることで,ストーリーがより面白くなるからです!.\n\nあなたは登場人物の名前をクリックすることで改名することが出来ます.\n\n準備ができたら,"スタート"をクリックします.</AcceptStartingPawns.text>
+  <AcceptStartingPawns.text>素晴らしい!\n\n気に入るまでランダムボタンを押します - しかし,完璧なキャラクターを求めようとしないで下さい.誰しも欠点を持っていますし,そうした登場人物がいることで,ストーリーがより面白くなるからです!\n\nあなたは登場人物の名前をクリックすることで改名することが出来ます.\n\n準備ができたら,"スタート"をクリックします.</AcceptStartingPawns.text>
   <MapCameraDolly.text>あなたは地表にいます!\n\n周囲にカメラを動かすことを試してみましょう.\n\n{Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right}キーを使うか,MOUSE BUTTON 3を押したままドラッグします.\n\nやってみましょう!</MapCameraDolly.text>
   <MapCameraZoom.text>素晴らしい!\n\nマウスホイールか,{Key:MapZoom_In} and {Key:MapZoom_Out}キーで, ズームイン,ズームアウトが出来ます.\n\n試してみましょう!</MapCameraZoom.text>
   <Pause.text>ゲーム時間を,一時停止することもできます.\n\nこれはつまり,あなたは慌てる必要が無い,ということです.あなたはいつでも,一時停止をしてから,ゆっくりと命令を下すことができます.\n\n{Key:TogglePause}キーか,右下のアイコンを試しましょう</Pause.text>
@@ -36,7 +36,7 @@
   <BuildRoomDoor.rejectInputMessage>部屋の壁の一つの上に木製のドアを作ってみましょう.</BuildRoomDoor.rejectInputMessage>
   <BuildRoomDoor.onMapInstruction>壁の上にドアを作ります</BuildRoomDoor.onMapInstruction>
 
-  <BuildBeds.text>あなたの入植者達の部屋が作られました!.\n\n彼らは,どこかで寝る必要があります.今から,３つの「ベッド」を部屋の中に置きます.\n\n「ベッド」は「家具」カテゴリーの中にあります.</BuildBeds.text>
+  <BuildBeds.text>あなたの入植者達の部屋が作られました!\n\n彼らは,どこかで寝る必要があります.今から,３つの「ベッド」を部屋の中に置きます.\n\n「ベッド」は「家具」カテゴリーの中にあります.</BuildBeds.text>
   <BuildBeds.rejectInputMessage>部屋の中に木製のベッドを作ってみましょう.</BuildBeds.rejectInputMessage>
   <BuildBeds.onMapInstruction>部屋の中に３つの木製ベッドを作ります</BuildBeds.onMapInstruction>
 
@@ -52,7 +52,7 @@
   <BuildHorseshoesPin.rejectInputMessage>部屋のそばに,輪投げのピンを置いてみましょう.</BuildHorseshoesPin.rejectInputMessage>
   <BuildHorseshoesPin.onMapInstruction>輪投げのピンを作ります\n部屋の外に</BuildHorseshoesPin.onMapInstruction>
 
-  <MakeGrowingZone.text>これで家が建ちました!.\n\nあなたの入植者達は,何か食べ物が必要となります,マップ上に表示された場所に"農業ゾーン"を配置します.\n\n入植者達は,ここに種を蒔くようになります.</MakeGrowingZone.text>
+  <MakeGrowingZone.text>これで家が建ちました!\n\nあなたの入植者達は,何か食べ物が必要となります,マップ上に表示された場所に"農業ゾーン"を配置します.\n\n入植者達は,ここに種を蒔くようになります.</MakeGrowingZone.text>
   <MakeGrowingZone.rejectInputMessage>表示された場所に農業ゾーンを作ってみましょう.</MakeGrowingZone.rejectInputMessage>
   <MakeGrowingZone.onMapInstruction>農業ゾーンをここに置きます\n(対角線をドラッグします)</MakeGrowingZone.onMapInstruction>
 
