@@ -132,7 +132,7 @@
 
   <!-- Prison break -->
   <LetterLabelPrisonBreak>脱走</LetterLabelPrisonBreak>
-  <LetterPrisonBreak>囚人たちが脱走しました!.どうやったかは知らないが,彼らは,ドアのロックを壊して逃げ出しました.彼らは武器を探し,戦ってでも逃げようとします.\n\n指名手配：\n\n{0}\n\n囚人たちを,多数ひとまとめにして,不満を放っておいたり,不健康のままにしておくと,より脱走を試みるようになります.</LetterPrisonBreak>
+  <LetterPrisonBreak>囚人たちが脱走しました!どうやったかは知らないが,彼らは,ドアのロックを壊して逃げ出しました.彼らは武器を探し,戦ってでも逃げようとします.\n\n指名手配：\n\n{0}\n\n囚人たちを,多数ひとまとめにして,不満を放っておいたり,不健康のままにしておくと,より脱走を試みるようになります.</LetterPrisonBreak>
 
   <!-- Newly addicted -->
   <LetterLabelNewlyAddicted>{0}依存症</LetterLabelNewlyAddicted>
