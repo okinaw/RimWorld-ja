@@ -16,7 +16,7 @@
   <PanicFlee.baseInspectLine>精神状態: パニック</PanicFlee.baseInspectLine>
 
   <Manhunter.label>殺人鬼</Manhunter.label>
-  <Manhunter.beginLetter>{0}は殺人鬼となり殺し始めた!.</Manhunter.beginLetter>
+  <Manhunter.beginLetter>{0}は殺人鬼となり殺し始めた!</Manhunter.beginLetter>
   <Manhunter.recoveryMessage>{0}の血に飢えた殺人は終わりをむかえた.</Manhunter.recoveryMessage>
   <Manhunter.baseInspectLine>精神状態: 殺人鬼</Manhunter.baseInspectLine>
 
