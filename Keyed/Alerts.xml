@@ -131,8 +131,13 @@
   <QuestPartMoodBelowThreshold>ゲストが不幸</QuestPartMoodBelowThreshold>
   <QuestPartMoodBelowThresholdDesc>クエスト{0}では,この人物の心情を良い気分に維持する必要があります.しかし,彼らは機嫌が悪いようです.相手の気分を良くするための行動をとってください.\n\n{1}</QuestPartMoodBelowThresholdDesc>
 
-  <QuestPartShuttleLeaveDelay>{0}を離陸しているシャトル</QuestPartShuttleLeaveDelay>
+  <QuestPartShuttleLeaveDelay>シャトルは{0}を出発する</QuestPartShuttleLeaveDelay>
   <QuestPartShuttleLeaveDelayDesc>シャトルは{1}を出発します.クエスト{0}で,出発する前にシャトルに以下の人物かアイテムを積み込む必要があります.\n\n{2}</QuestPartShuttleLeaveDelayDesc>
+  <QuestPartShuttleLeaveDelayDescHidden>シャトルは{0}を出発します.</QuestPartShuttleLeaveDelayDescHidden>
+
+  <QuestPartShuttleArriveDelay>シャトルが{0}に到着する</QuestPartShuttleArriveDelay>
+  <QuestPartShuttleArriveDelayDesc>シャトルが{1}に到着します.クエスト{0}で,出発する前にシャトルに以下の人物かアイテムを積み込む必要があります.\n\n{2}</QuestPartShuttleArriveDelayDesc>
+  <QuestPartShuttleArriveDelayDescHidden>シャトルが{0}に到着します.</QuestPartShuttleArriveDelayDescHidden>
 
   <DisallowedBuildingInsideMonument>モニュメントが破壊される</DisallowedBuildingInsideMonument>
   <DisallowedBuildingInsideMonumentDesc>あなたは記念碑の中に許可されていない建築物を建設しました.記念碑は{0}に破壊されたとみなされます.</DisallowedBuildingInsideMonumentDesc>

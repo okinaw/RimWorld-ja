@@ -41,7 +41,8 @@
 
   <CommandThingSetOwnerLabel>所有</CommandThingSetOwnerLabel>
   <CommandBedSetOwnerDesc>ベッドの所有者を決めます.</CommandBedSetOwnerDesc>
-  <CommandThroneSetOwnerDesc>特定の入植者が所有するこの王座を割り当てます.</CommandThroneSetOwnerDesc>
+  <CommandThroneSetOwnerDesc>特定の入植者がこの王座を所有するように割り当てます.</CommandThroneSetOwnerDesc>
+  <CommandMeditationSpotSetOwnerDesc>この瞑想スポットを特定の入植者が所有するように割り当てます.</CommandMeditationSpotSetOwnerDesc>
   <CommandGraveAssignColonistLabel>墓石に記名する</CommandGraveAssignColonistLabel>
   <CommandGraveAssignColonistDesc>墓石に入植者の名前を彫ります.</CommandGraveAssignColonistDesc>
   <BuildingAssign>指定</BuildingAssign>
@@ -150,6 +151,10 @@
   <CommandHoldFire>発砲禁止</CommandHoldFire>
   <CommandHoldFireDesc>もう攻撃しなくなります.</CommandHoldFireDesc>
 
+  <!-- reload -->
+  <CommandReload_NoCharges>{CHARGENOUN_plural}は空です.</CommandReload_NoCharges>
+  <CommandReload_NoAmmo>{AMMO_label}(x{COUNT})の再装填が必要です.</CommandReload_NoAmmo>
+
   <!-- Select plant to grow -->
   <CommandSelectPlantToGrowMulti>栽培する植物を選択</CommandSelectPlantToGrowMulti>
   <CommandSelectPlantToGrow>植物: {0}</CommandSelectPlantToGrow>
@@ -179,6 +184,7 @@
   <CommandMergeCaravans>合流</CommandMergeCaravans>
   <CommandMergeCaravansDesc>選択したキャラバン隊を合流させます.</CommandMergeCaravansDesc>
   <CommandMergeCaravansFailCaravansNotSelected>合流させる全てのキャラバン隊を選択します.キャラバン隊はそれぞれ接していなければなりません.</CommandMergeCaravansFailCaravansNotSelected>
+  <CommandJoinCaravan>参加</CommandJoinCaravan>
 
   <!-- Settle -->
   <CommandSettle>定住</CommandSettle>
@@ -244,7 +250,7 @@
 
   <!-- Launch group -->
   <CommandLaunchGroup>発射</CommandLaunchGroup>
-  <CommandLaunchGroupDesc>輸送ポッドの目標座標設定プロセスを開始します.次のステップは目的地を選びます.輸送ポッドは飛翔し,きちんと着陸します.</CommandLaunchGroupDesc>
+  <CommandLaunchGroupDesc>輸送ポッドを発射して目的地に飛ばします.</CommandLaunchGroupDesc>
   <CommandLaunchGroupFailNotConnectedToFuelingPort>一部の輸送ポッドは,給油口に接続されていません.</CommandLaunchGroupFailNotConnectedToFuelingPort>
   <CommandLaunchGroupFailNoFuel>一部のポッドランチャーは,燃料がありません.</CommandLaunchGroupFailNoFuel>
   <CommandLaunchGroupFailUnderRoof>一部のポッドランチャーは,屋根の下にあります.</CommandLaunchGroupFailUnderRoof>
@@ -304,6 +310,10 @@
   <CommandSendShuttleDesc>離陸を開始して,シャトルを目的地まで飛行させます.</CommandSendShuttleDesc>
   <CommandSendShuttleFailUnderRoof>シャトルが屋根の下にあります.</CommandSendShuttleFailUnderRoof>
   <CommandSendShuttleFailMissingRequiredThing>必要なアイテムか人物の一部が足りません.</CommandSendShuttleFailMissingRequiredThing>
+
+  <!-- Dismiss shuttle -->
+  <CommandShuttleDismiss>シャトルを退去させる</CommandShuttleDismiss>
+  <CommandShuttleDismissDesc>すべての積み荷を降ろして,シャトルを送り出してください.</CommandShuttleDismissDesc>
 
   <!-- Place blueprints -->
   <CommandPlaceBlueprints>研究設計書を配置</CommandPlaceBlueprints>

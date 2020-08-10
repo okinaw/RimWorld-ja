@@ -124,10 +124,10 @@
   <MustBeOnMovingWater>水車は流水に設置しなければなりません.</MustBeOnMovingWater>
   <InteractionSpotWillOverlap>交流地点は{1_labelShort}の交流地点と重複しています.</InteractionSpotWillOverlap>
   <InteractionSpotOverlaps>交流地点は{1_labelShort}の交流地点と重複しています.</InteractionSpotOverlaps>
-  <MonumentOverlapsBuilding>モニュメントは他の建物の上に設置できません.</MonumentOverlapsBuilding>
-  <MonumentAdjacentToBuilding>モニュメントは建物に隣接して設置できません.</MonumentAdjacentToBuilding>
-  <MonumentBadTerrain>モニュメントを支えられない地形には設置できません.</MonumentBadTerrain>
-  <MonumentBlockedPermanently>モニュメントは撤去不可能な障害物の上に設置できません.</MonumentBlockedPermanently>
+  <CannotPlaceMonumentOver>モニュメントをこの上に設置不可：{0}.</CannotPlaceMonumentOver>
+  <CannotPlaceMonumentOnTerrain>この上に設置不可：{0}.</CannotPlaceMonumentOnTerrain>
+  <MonumentOverlapsBuilding>モニュメントをこの上に設置不可：{0}.</MonumentOverlapsBuilding>
+  <MonumentAdjacentToBuilding>モニュメントを隣接して設置不可：{0}.</MonumentAdjacentToBuilding>
 
   <!-- Mouse attachments -->
   <ExpandOrCreateZone>{0}を拡張するか\n新しく{1}を作ります.</ExpandOrCreateZone>

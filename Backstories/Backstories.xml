@@ -1169,11 +1169,11 @@
 		<titleShort>火番人</titleShort>
 		<desc>[PAWN_nameDef]は,火種を守る責任を持っていました.[PAWN_pronoun]は,この責務を非常に真面目にこなしてきました.</desc>
 	</FireKeeper44>
-	<Hideaway9>
+	<Hideaway7>
 		<title>引き籠り</title>
 		<titleShort>引き籠り</titleShort>
 		<desc>[PAWN_nameDef]の過保護な親は,[PAWN_objective]がほぼ毎日家にいること勧めました.[PAWN_pronoun]は読書したり,物を作る趣味を追求するのに多くの時間を費やしましたが,[PAWN_pronoun]は普通の社交スキルを身につけることは全くありませんでした.</desc>
-	</Hideaway9>
+	</Hideaway7>
 	<CrashBaby32>
 		<title>生存した赤ん坊</title>
 		<titleShort>生存者</titleShort>
@@ -5031,6 +5031,20 @@ Markusは,古参兵でした - [PAWN_pronoun]は,好戦的な亜人間襲撃者�
 
 ある夜に見た悪夢の中で,[PAWN_nameDef]は[PAWN_possessive]仕事によって殺されたすべての人々と直面しました.[PAWN_pronoun]はRimworldに旅立って,[PAWN_possessive]スキルを使い続けることに決めました.</desc>
 	</ModDesigner85>
+	<OrphanedAcrobat84>
+		<title>元孤児の曲芸師</title>
+		<titleShort>曲芸師</titleShort>
+		<desc>静かなUrbWorldの孤児として生まれた[PAWN_nameDef]は,巡回サーカスに誘われれました.[PAWN_possessive]小さな身長と注意深い性格によって,[PAWN_nameDef]は有名な曲芸師になりました.
+
+残念なことに,[PAWN_possessive]暴力的な性質によって,[PAWN_possessive]曲芸師としての経歴はあっという間に終わりました.</desc>
+	</OrphanedAcrobat84>
+	<MercenaryCaptain56>
+		<title>傭兵隊長</title>
+		<titleShort>部隊長</titleShort>
+		<desc>[PAWN_pronoun]は傭兵船の乗組員の一人でした.規律正しく自信に満ちた[PAWN_nameDef]は,すぐに昇進して,友達を増やしました.
+
+[PAWN_possessive]傭兵隊長だった時,[PAWN_pronoun]は社交的で穏やかなことで知られていましたが,これは多分ジョイワイヤーのおかげかもしれません.</desc>
+	</MercenaryCaptain56>
 	<Punk30>
 		<title>パンク</title>
 		<titleShort>パンク</titleShort>

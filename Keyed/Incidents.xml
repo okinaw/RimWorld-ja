@@ -55,18 +55,18 @@
   <ManhunterPackArrived>ヒト狩り{0}の集団が,やって来ました.やつらは,この地域をうろうろし,獲物のヒトを狩ります.\n\nスカリアとして知られている病気によって狂気に駆られた彼らは,誰かがドアを通るところを見るまでは,ドアを攻撃することは無いでしょう.内側に潜んでいれば安全でしょう.また動作していないタレットを攻撃することもないので,残しておきたければ電源を落としましょう.\n\n{0}は,１～２日も経てば居なくなるでしょう.あなたは物陰に身を潜めて立ち去るのを待つことも,戦いを選ぶこともできます.</ManhunterPackArrived>
 
   <!-- Crashed ship part-->
-  <MessageAnimalInsanityPulse>{SOURCE_label}は サイコパルスを使って ちかくの動物に,狂気を照射しました.</MessageAnimalInsanityPulse>
-  <LetterShipPartDroveColonistInsane>古代の宇宙船は サイコパルスを使って 入植者{0}に,狂気を照射しました.</LetterShipPartDroveColonistInsane>
+  <MessageAnimalInsanityPulse>{SOURCE_label}は,サイコパルスを使ってちかくの動物に,狂気を照射しました.</MessageAnimalInsanityPulse>
+  <LetterShipPartDroveColonistInsane>古代の宇宙船は,サイコパルスを使って入植者{0}に,狂気を照射しました.</LetterShipPartDroveColonistInsane>
   <AwokeDaysAgo>起動してから{0}日経過</AwokeDaysAgo>
   <ActivatedDaysAgo>活動開始から{0}日経過</ActivatedDaysAgo>
   <OpenedDaysAgo>展開してから{0}日経過</OpenedDaysAgo>
   <PsychicDroneLevel>サイコドローンのレベル: {0}</PsychicDroneLevel>
   <LetterLabelPsychicDroneLevelIncreased>サイコ</LetterLabelPsychicDroneLevelIncreased>
-  <LetterPsychicDroneLevelIncreased>古代の宇宙船は さらに強力な サイコドローンを 射出しました. このエリアの 人間は, 不安と, 恐怖と, 偏執衝動に さらされます.</LetterPsychicDroneLevelIncreased>
+  <LetterPsychicDroneLevelIncreased>墜落した船の残骸はより強力なサイコドローンを射出しています.このエリア内の{0}全ての人間は,不安と恐怖と偏執的な衝動にさらされます.</LetterPsychicDroneLevelIncreased>
 
   <!-- Agent revealed -->
   <LetterLabelAgentRevealed>代理人</LetterLabelAgentRevealed>
-  <LetterAgentRevealed>{0}は,あなたの敵{1}の代理と 名乗りました.\n\n彼らは 逃げようと しています.</LetterAgentRevealed>
+  <LetterAgentRevealed>{0}は,あなたの敵{1}の代理と名乗りました.\n\n彼らは逃げようとしています.</LetterAgentRevealed>
 
   <!-- Beavers -->
   <LetterLabelBeaversArrived>ビーバー達</LetterLabelBeaversArrived>

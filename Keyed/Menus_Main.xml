@@ -32,12 +32,12 @@
   <CreateWorld>惑星を創造</CreateWorld>
 
   <!-- Main menu translations info window -->
-  <TranslationThanks>Rimworldの,全ての多言語翻訳はファンの手で作られた物です.このファンの手による翻訳は,次の素晴らしい有志たちによって作られました.\n\n{0}</TranslationThanks>
+  <TranslationThanks>Rimworldの,全ての多言語翻訳はファンの手で作られた物です.このファンの手による翻訳は,次の素晴らしい有志たちによって作られました:\n\n{0}</TranslationThanks>
   <TranslationHowToContribute>あなたも貢献することができます.下記のボタンを押してもっと知りましょう(ブラウザが開きます).</TranslationHowToContribute>
   <LearnMore>もっと知る</LearnMore>
 
   <!-- Main menu dev build -->
-  <DevBuildWarning>警告：これは不安定な開発ビルドです。これは私達が、設計上の実験と技術的な開発を行っていることを意味します。\n\n中には暫定措置として意図的にアンバランスになっている要素もあります。これは古典的なゲームデザインの手法で、バランスの匙加減をよりよく理解するために、故意に極端な調整になっています。我々はその情報を利用して、最終的な調整点を決定できます。\n\nまた、ゲームを壊してしまうものを含め、バグもあるでしょう。セーブデータの互換性はいつ壊れるか分かりません。\n\nこれら全てに問題がなければ、テストプレイへの参加に感謝します！もし私達の実験の対象になりたくない場合は、最新の安定版をプレイしてください。</DevBuildWarning>
+  <DevBuildWarning>警告：これは不安定な開発ビルドです.これは私達が,設計上の実験と技術的な開発を行っていることを意味します.\n\n中には暫定措置として意図的にアンバランスになっている要素もあります.これは古典的なゲームデザインの手法で,バランスの匙加減をよりよく理解するために,故意に極端な調整になっています.我々はその情報を利用して,最終的な調整点を決定できます.\n\nまた,ゲームを壊してしまうものを含め,バグもあるでしょう.セーブデータの互換性はいつ壊れるか分かりません.\n\nこれら全てに問題がなければ,テストプレイへの参加に感謝します！もし私達の実験の対象になりたくない場合は,最新の安定版をプレイしてください.</DevBuildWarning>
 
   <!-- Create/review world -->
   <ReviewWorld>惑星を確認</ReviewWorld>
@@ -110,6 +110,7 @@
   <ModCyclicDependency>それらは{0}と一緒にスタートする依存関係があるMod同士です.</ModCyclicDependency>
   <ModUnsatisfiedDependency>これを実行するには,次のMODが必要：{0}.</ModUnsatisfiedDependency>
   <ModNotMadeForThisVersion>このMODは,今のRimworld本体のバージョン用には作られていないので,恐らく正常動作しないと思われます.</ModNotMadeForThisVersion>
+  <ModNotMadeForThisVersionShort>このmodは,このバージョンのRimWorld用に作られていません.</ModNotMadeForThisVersionShort>
   <ModNotMadeForThisVersion_Newer>このMODは,最新のRimworld本体のバージョン用に作られているので,恐らく正常動作しないと思われます.</ModNotMadeForThisVersion_Newer>
   <MessageModNeedsWellFormattedTargetVersion>MODには,ターゲットとなるバージョン番号を正しく"About.xml"に書く必要があります.このように: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
   <MessageModNeedsWellFormattedPackageId>Modには,Aboutに適切にフォーマットされた固有のpackageIdが必要です.xmlを確認してください.以下の条件を満たしている必要があります.\n\n　-　英数字とドットだけ.\n　-　スペースが無い.\n　-　最低でもドットが1つ有る.\n　-　ドットが連続しないこと,またドットで開始したり終了しないこと.\n　-　60文字以下.\n　-　「Ludeon」という単語を含めることはできません.\n\n例：\n&lt;packageId&gt;AuthorName.ModName&lt;/packageId&gt;\n&lt;packageId&gt;AuthorName.ModName.Specific&lt;/packageId&gt;</MessageModNeedsWellFormattedPackageId>
@@ -119,8 +120,9 @@
   <ModLoadFolderListEmpty>Version{0}のLoadFoldersリストが空です.</ModLoadFolderListEmpty>
   <ModLoadFolderRepeatingFolder>Version{0}は同じフォルダーを複数回リストしている:{1}.</ModLoadFolderRepeatingFolder>
   <ModLoadFolderOutOfOrder>無効なVersion順序:{0}は{1}の前に来る必要あり.</ModLoadFolderOutOfOrder>
-  <ModLoadFolderOutOfOrderDefault>無効なバージョン順序：「デフォルト」を最初に定義する必要があります。</ModLoadFolderOutOfOrderDefault>
-  <ModLoadFolderDefinesUnsupportedGameVersion>バージョン{0}はLoadFolders.xmlで定義されていますが,Modに含まれるAbout.xmlの「supportedVersions」には載っていません。</ModLoadFolderDefinesUnsupportedGameVersion>
+  <ModLoadFolderOutOfOrderDefault>無効なバージョン順序：「デフォルト」を最初に定義する必要があります.</ModLoadFolderOutOfOrderDefault>
+  <ModLoadFolderDefaultDeprecated>LoadFoldersでの「デフォルト」の使用は廃止されました.&lt;v...&gt;タグを使用して,各バージョンのフォルダを定義してください.</ModLoadFolderDefaultDeprecated>
+  <ModLoadFolderDefinesUnsupportedGameVersion>バージョン{0}はLoadFolders.xmlで定義されていますが,Modに含まれるAbout.xmlの「supportedVersions」には載っていません.</ModLoadFolderDefinesUnsupportedGameVersion>
   <DragToReorder>順序変更はドラッグする</DragToReorder>
 
   <!-- Select scenario -->
@@ -154,8 +156,86 @@
   <ReloadAnytimeModeInfo>いつでもセーブとロードができます.\n\nまだゲームに慣れていないか,それがあなたのゲームスタイルか,MODを山盛りにしたいか,自分で縛りをつくって遊びたいなら良い選択です.</ReloadAnytimeModeInfo>
   <PermadeathModeInfo>ゲームをやめる時のみセーブできます.\n\nRimworldは,殆どの人員を失ってもストーリーを紡ぐので,一人が生き残っていれば,それも物語のひとつです.このゲームは損失からでも再生できるようにデザインされています.\n\n厳しく辛い状況を乗り越えた果てに悲劇と喜びのストーリーが生まれるのです.ルーク・スカイウォーカーには,彼の家族が殺されたときでも,止めたり,巻き戻したりしない事には,訳があるのです - 損失と再生はドラマチックなものです.</PermadeathModeInfo>
   <CanChangeStorytellerSettingsDuringPlay>ストーリーテラーと難易度は,いつでも変更できます.</CanChangeStorytellerSettingsDuringPlay>
-  <UnlockExtremeDifficulty>無慈悲モード</UnlockExtremeDifficulty>
-  <ConfirmUnlockExtremeDifficulty>無慈悲モードは,全てのイベントが激難にチューンアップされているスペシャルゲームです.\n\n無慈悲モードは,有る特定のマイルストーン(クリア条件)に到達するとアンロックされます.しかしながら,まさに今アンロックすることもできます.\n\nこのオプションは,最高難易度のゲームをしたり,最善の努力をしても死に至る可能性が高い場合を望むときに推奨されます.</ConfirmUnlockExtremeDifficulty>
+
+  <!-- custom difficulty settings -->
+  <DifficultyCustomSectionLabel>カスタムプレイスタイル設定</DifficultyCustomSectionLabel>
+  <DifficultyReset>各難易度のプレイスタイルに切替える...</DifficultyReset>
+
+  <DifficultyThreatSection>脅威</DifficultyThreatSection>
+  <Difficulty_ThreatScale_Label>脅威の規模</Difficulty_ThreatScale_Label>
+  <Difficulty_ThreatScale_Info>襲撃や虫の襲来などの脅威の規模やクエストの難易度を調整します.</Difficulty_ThreatScale_Info>
+  <Difficulty_AllowBigThreats_Label>主な脅威を許可</Difficulty_AllowBigThreats_Label>
+  <Difficulty_AllowBigThreats_Info>襲撃や虫の襲来や人狩りの群れや墜落したサイキック船などの主要な脅威を許可します.</Difficulty_AllowBigThreats_Info>
+  <Difficulty_AllowViolentQuests_Label>クエストの脅威を許可</Difficulty_AllowViolentQuests_Label>
+  <Difficulty_AllowViolentQuests_Info>クエストで暴力的な脅威や挑戦的な脅威を提示可能にします.これを無効にするとクエストは非暴力なものに変更されます.</Difficulty_AllowViolentQuests_Info>
+  <Difficulty_AllowIntroThreats_Label>序盤の脅威を許可</Difficulty_AllowIntroThreats_Label>
+  <Difficulty_AllowIntroThreats_Info>ゲーム開始直後に提示される,修正された序盤の脅威を有効にします.</Difficulty_AllowIntroThreats_Info>
+  <Difficulty_PredatorsHuntHumanlikes_Label>捕食動物が人間を狩るのを許可</Difficulty_PredatorsHuntHumanlikes_Label>
+  <Difficulty_PredatorsHuntHumanlikes_Info>野生の捕食動物が人間を狩るのを許可します.</Difficulty_PredatorsHuntHumanlikes_Info>
+  <Difficulty_AllowExtremeWeatherIncidents_Label>異常気象を許可</Difficulty_AllowExtremeWeatherIncidents_Label>
+  <Difficulty_AllowExtremeWeatherIncidents_Info>死の灰や火山の冬やゲリラ雷雨などの悪影響を及ぼす異常気象が発生するようになります.</Difficulty_AllowExtremeWeatherIncidents_Info>
+
+  <DifficultyEconomySection>経済</DifficultyEconomySection>
+  <Difficulty_TradePriceFactorLoss_Label>取引価格の不利</Difficulty_TradePriceFactorLoss_Label>
+  <Difficulty_TradePriceFactorLoss_Info>取引する際にこの割合だけ買い値の金額が増加して,売り値はこの割合だけ金額が減少します.</Difficulty_TradePriceFactorLoss_Info>
+  <Difficulty_CropYieldFactor_Label>収穫量</Difficulty_CropYieldFactor_Label>
+  <Difficulty_CropYieldFactor_Info>植物や農作物を収穫/伐採する際に得られる資源の数量を調整します.これは野生植物の収穫と樹木の伐採も含まれます.</Difficulty_CropYieldFactor_Info>
+  <Difficulty_MineYieldFactor_Label>採掘量</Difficulty_MineYieldFactor_Label>
+  <Difficulty_MineYieldFactor_Info>鉱物資源を採掘する際に得られる資源の数量を調整します.</Difficulty_MineYieldFactor_Info>
+  <Difficulty_ButcherYieldFactor_Label>解体量</Difficulty_ButcherYieldFactor_Label>
+  <Difficulty_ButcherYieldFactor_Info>死体を解体する際に生成される資源の数量を調整します.これは肉や革やメカノイドの細断による資源回収も含まれます.</Difficulty_ButcherYieldFactor_Info>
+  <Difficulty_ResearchSpeedFactor_Label>研究速度</Difficulty_ResearchSpeedFactor_Label>
+  <Difficulty_ResearchSpeedFactor_Info>研究の進展速度を調整します.</Difficulty_ResearchSpeedFactor_Info>
+  <Difficulty_QuestRewardValueFactor_Label>クエスト報酬</Difficulty_QuestRewardValueFactor_Label>
+  <Difficulty_QuestRewardValueFactor_Info>クエストで得られる報酬の価値を調整します.\n\n注意:クエスト報酬の価値も,脅威の規模に合わせて補正した値に自動的に再計算されます.この設定を調整すると,係数が追加されます.</Difficulty_QuestRewardValueFactor_Info>
+  <Difficulty_RaidLootPointsFactor_Label>襲撃者の戦利品</Difficulty_RaidLootPointsFactor_Label>
+  <Difficulty_RaidLootPointsFactor_Info>襲撃者が持ち運ぶ戦利品の価値を調整します.\n\n注意:襲撃者の戦利品の価値も,脅威の規模に合わせて補正した値に自動的に再計算されます.この設定を調整すると,係数が追加されます.</Difficulty_RaidLootPointsFactor_Info>
+  <Difficulty_MaintenanceCostFactor_Label>タレット再装填費用</Difficulty_MaintenanceCostFactor_Label>
+  <Difficulty_MaintenanceCostFactor_Info>タレットを再装填する材料コストを調整します.</Difficulty_MaintenanceCostFactor_Info>
+  <Difficulty_ScariaRotChance_Label>スケリア病腐敗率</Difficulty_ScariaRotChance_Label>
+  <Difficulty_ScariaRotChance_Info>生物がスケリア病に感染している場合,その死骸が即座に腐敗する確率です.\n\n注意:初期設定では,ゲーム難易度が高い場合に増加する動物の数に合わせて得られる肉の量を正確に相殺するように設計されているため,すべてのプレイヤーが解体した際に同じ量の肉を報酬として得ることができます.</Difficulty_ScariaRotChance_Info>
+  <Difficulty_EnemyDeathOnDownedChanceFactor_Label>倒れた敵の即死率</Difficulty_EnemyDeathOnDownedChanceFactor_Label>
+  <Difficulty_EnemyDeathOnDownedChanceFactor_Info>倒れた敵が即死する確率を調整します.これは囚人を捕らえる確率に影響を与えて,その結果はコロニーの人口増加率にも影響を与えます.</Difficulty_EnemyDeathOnDownedChanceFactor_Info>
+
+  <DifficultyGeneralSection>総合</DifficultyGeneralSection>
+  <Difficulty_ColonistMoodOffset_Label>入植者の心情</Difficulty_ColonistMoodOffset_Label>
+  <Difficulty_ColonistMoodOffset_Info>すべての入植者と囚人に適用される永続的な心情オフセット値です.入植者の基本心情値は50%です.</Difficulty_ColonistMoodOffset_Info>
+  <Difficulty_FoodPoisonChanceFactor_Label>食器中毒発生率</Difficulty_FoodPoisonChanceFactor_Label>
+  <Difficulty_FoodPoisonChanceFactor_Info>食中毒になる可能性のある食事を食べた人が,食中毒になる確率を調整します.</Difficulty_FoodPoisonChanceFactor_Info>
+  <Difficulty_ManhunterChanceOnDamageFactor_Label>動物の反撃率</Difficulty_ManhunterChanceOnDamageFactor_Label>
+  <Difficulty_ManhunterChanceOnDamageFactor_Info>野生動物を傷つけた際に反撃される確率を調整します.</Difficulty_ManhunterChanceOnDamageFactor_Info>
+  <Difficulty_FriendlyFireChanceFactor_Label>誤射率</Difficulty_FriendlyFireChanceFactor_Label>
+  <Difficulty_FriendlyFireChanceFactor_Info>味方への誤射の確率を調整します.\n\n注意:この設定は,目標に直接命中する射撃にだけ影響します.爆発や目標を外した射撃ミスによるダメージを防ぐことはできません.</Difficulty_FriendlyFireChanceFactor_Info>
+  <Difficulty_AllowInstantKillChance_Label>入植者の即死</Difficulty_AllowInstantKillChance_Label>
+  <Difficulty_AllowInstantKillChance_Info>入植者が攻撃により即死する可能性を調整します.本来なら即死するダメージは入植者を転倒させて行動不能にする調整が行われます.\n\nこれは,ある種の即死を防止するだけです.入植者は依然として転倒した後出血多量で死亡したり,火災や爆発や病気などで死亡する可能性があります.</Difficulty_AllowInstantKillChance_Info>
+  <Difficulty_PlayerPawnInfectionChanceFactor_Label>感染症発生率</Difficulty_PlayerPawnInfectionChanceFactor_Label>
+  <Difficulty_PlayerPawnInfectionChanceFactor_Info>傷から感染症が発生する確率を調整します.</Difficulty_PlayerPawnInfectionChanceFactor_Info>
+  <Difficulty_DiseaseIntervalFactor_Inverted_Label>病気の発生頻度</Difficulty_DiseaseIntervalFactor_Inverted_Label>
+  <Difficulty_DiseaseIntervalFactor_Inverted_Info>ランダムな病気イベントの発生頻度を調整します.</Difficulty_DiseaseIntervalFactor_Inverted_Info>
+  <Difficulty_EnemyReproductionRateFactor_Label>虫の発生頻度</Difficulty_EnemyReproductionRateFactor_Label>
+  <Difficulty_EnemyReproductionRateFactor_Info>既存の虫の巣から新しい虫が生まれる速度を調整します.この値が小さいほど,虫が巣から発生するイベントの間隔が長くなります.\n\nこれは虫の襲来イベントの発生頻度には影響せず,活動中の巣が虫を産み出す速度にだけ影響します.</Difficulty_EnemyReproductionRateFactor_Info>
+  <Difficulty_DeepDrillInfestationChanceFactor_Label>深部掘削と虫の襲来</Difficulty_DeepDrillInfestationChanceFactor_Label>
+  <Difficulty_DeepDrillInfestationChanceFactor_Info>深部ドリルマシンによる掘削が虫の襲来イベントを引き起こす確率を調整します.</Difficulty_DeepDrillInfestationChanceFactor_Info>
+  <Difficulty_PeacefulTemples_Inverted_Label>マップ生成時に太古の脅威を追加</Difficulty_PeacefulTemples_Inverted_Label>
+  <Difficulty_PeacefulTemples_Inverted_Info>太古の建造物には危険な脅威が入っている可能性があります.</Difficulty_PeacefulTemples_Inverted_Info>
+  <Difficulty_AllowCaveHives_Label>マップ生成時に自然の巣を追加</Difficulty_AllowCaveHives_Label>
+  <Difficulty_AllowCaveHives_Info>休眠状態なの虫の巣は,自然の洞窟内に発生することがあります.\n\nこの設定はマップ生成時にだけ適用されて,プレイ中にトンネルを掘る可能性のある活性化した虫と巣には影響しません.</Difficulty_AllowCaveHives_Info>
+
+  <DifficultyPlayerToolsSection>建築可能な設備</DifficultyPlayerToolsSection>
+  <Difficulty_AllowTraps_Label>罠を建築可能</Difficulty_AllowTraps_Label>
+  <Difficulty_AllowTraps_Info>プレイヤーは,スパイクトラップやIEDトラップのような罠を建築できます.</Difficulty_AllowTraps_Info>
+  <Difficulty_AllowTurrets_Label>タレットを建築可能</Difficulty_AllowTurrets_Label>
+  <Difficulty_AllowTurrets_Info>プレイヤーはタレットやオートキャノンタレットや劣化ウランタレットなどの固定された自動タレットを建築することができます.\n\nこれが無効になっている場合でも,敵から回収したタレットは使用可能です.</Difficulty_AllowTurrets_Info>
+  <Difficulty_AllowMortars_Label>迫撃砲を建築可能</Difficulty_AllowMortars_Label>
+  <Difficulty_AllowMortars_Info>プレイヤーは迫撃砲を建設できます.\n\nこれが無効になっている場合でも,敵から回収した迫撃砲は使用可能です.</Difficulty_AllowMortars_Info>
+
+  <DifficultyAdaptationSection>難易度の適応</DifficultyAdaptationSection>
+  <Difficulty_AdaptationGrowthRateFactorOverZero_Label>損害による適応の増加</Difficulty_AdaptationGrowthRateFactorOverZero_Label>
+  <Difficulty_AdaptationGrowthRateFactorOverZero_Info>適応とは,あなたが損失を出さない限り,ストーリーテラーが時間と共にゲームをより難しく適応し続けることを意味します.これはコロニーの資産と人口数の影響とは別の話になります.\n\nこれにより,ゲームの挑戦的な難易度増加を調整します.</Difficulty_AdaptationGrowthRateFactorOverZero_Info>
+  <Difficulty_AdaptationEffectFactor_Label>損害による適応の効果</Difficulty_AdaptationEffectFactor_Label>
+  <Difficulty_AdaptationEffectFactor_Info>適応とは,あなたが損失を出さない限り,ストーリーテラーが時間と共にゲームをより難しく適応し続けることを意味します.これはコロニーの資産と人口数の影響とは別の話になります.\n\nこれにより,実際の脅威に対する適応値の影響率が調整されます.</Difficulty_AdaptationEffectFactor_Info>
+  <Difficulty_FixedWealthMode_Label>時間経過で資産を修正する</Difficulty_FixedWealthMode_Label>
+  <Difficulty_FixedWealthMode_Info>時間経過で資産を修正するモードでゲームをプレイします.\n\n通常モードでは,ストーリーテラーは入植者の人数やコロニーの資産とその他のさまざまな要因に従って脅威の規模を適応します.時間経過資産修正モードでは,資産係数が削除されて,時間に基づく修正された時間経過の曲線に置き換えられます.経過時間は各コロニーの設立時からTick数で計測されます.\n\nこれは,厳格なスキルチャレンジを探している人にのみお勧めします.時間経過修正モードでは,新しいコロニーを開拓しない限り,深刻な損失から回復することはほぼ不可能です.また,修正曲線の先を行きすぎて,ゲームが簡単になりすぎる可能性もあります.</Difficulty_FixedWealthMode_Info>
 
   <!-- Site select -->
   <SelectStartingSite>開始位置を選択</SelectStartingSite>
@@ -234,7 +314,7 @@
   <Advanced>高度な設定</Advanced>
   <Next>次</Next>
   <Back>戻る</Back>
-  <ShowMaterials>材料を確認</ShowMaterials>
+  <ShowMaterials>材料を確認...</ShowMaterials>
   <Gameplay>ゲームの設定</Gameplay>
   <ConfirmQuit>本当に終了しますか？ セーブしていない データは 失われます.</ConfirmQuit>
   <EveryoneNeedsValidName>各個人を 区別できる 名前を つけてください.</EveryoneNeedsValidName>

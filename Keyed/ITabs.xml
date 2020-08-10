@@ -162,8 +162,8 @@
   <FormingCaravanStatus_Waiting>待機中</FormingCaravanStatus_Waiting>
   <CaravanMembers>メンバー</CaravanMembers>
   <CaravanAnimals>家畜</CaravanAnimals>
-  <ItemsToLoad>積載するアイテム</ItemsToLoad>
-  <LoadedItems>積載済みアイテム</LoadedItems>
+  <ItemsToLoad>積み込む</ItemsToLoad>
+  <LoadedItems>積載済み</LoadedItems>
   <PackAnimalsCountLower>家畜の群れ</PackAnimalsCountLower>
   <InMentalStateCountLower>精神崩壊</InMentalStateCountLower>
 

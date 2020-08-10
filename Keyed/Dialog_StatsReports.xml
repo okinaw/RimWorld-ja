@@ -26,6 +26,8 @@
   <StatsReport_MaxGain>最大利得</StatsReport_MaxGain>
   <StatsReport_AgeMultiplier>年齢 {0}歳による掛け率</StatsReport_AgeMultiplier>
   <StatsReport_HealthMultiplier>身体要素 {0}による掛け率</StatsReport_HealthMultiplier>
+  <StatsReport_ReloadMarketValue>再装填コスト（{AMMO_label}x{COUNT})</StatsReport_ReloadMarketValue>
+  <StatsReport_ReloadRemainingChargesMultipler>残量{CHARGENOUN_plural}の係数 ({0})</StatsReport_ReloadRemainingChargesMultipler>
   <StatsReport_MoodMultiplier>"心情" {0}による掛け率</StatsReport_MoodMultiplier>
   <StatsReport_LightMultiplier>明るさ {0}による掛け率</StatsReport_LightMultiplier>
   <StatsReport_DifficultyMultiplier>難易度 {0}による掛け率</StatsReport_DifficultyMultiplier>
@@ -142,6 +144,16 @@
   <Stat_Thing_Terrain_Fine_Value>美しい</Stat_Thing_Terrain_Fine_Value>
   <Stat_Thing_Terrain_Fine_Desc>この床は美しいと見なされて,Royalty(DLC)に適合しています.</Stat_Thing_Terrain_Fine_Desc>
   <Stat_Thing_PowerConsumption_Desc>この建築物が電力網から消費する電気量.</Stat_Thing_PowerConsumption_Desc>
+  <Stat_Thing_ReloadChargesRemaining_Name>{CHARGENOUN_plural}の残量</Stat_Thing_ReloadChargesRemaining_Name>
+  <Stat_Thing_ReloadChargesRemaining_Desc>この物品に残っている{CHARGENOUN_plural}の数量です.これらが無くなると,特殊能力は使用できなくなります.</Stat_Thing_ReloadChargesRemaining_Desc>
+  <Stat_Thing_ReloadMaxCharges_Name>{CHARGENOUN_plural}</Stat_Thing_ReloadMaxCharges_Name>
+  <Stat_Thing_ReloadMaxCharges_Desc>この物品が持つ{CHARGENOUN_plural}の最大数です.</Stat_Thing_ReloadMaxCharges_Desc>
+  <Stat_Thing_ReloadRefill_Name>{CHARGENOUN}の再装填コスト</Stat_Thing_ReloadRefill_Name>
+  <Stat_Thing_ReloadRefill_Desc>この物品を最大限まで再装填するのに必要なアイテムの数量です.\n\nこの物品は空になる前に再装填可能ですが,装填コストは空の状態と同じです.</Stat_Thing_ReloadRefill_Desc>
+  <Stat_Thing_ReloadPerCharge_Name>{CHARGENOUN}1回分の再装填コスト</Stat_Thing_ReloadPerCharge_Name>
+  <Stat_Thing_ReloadPerCharge_Desc>{CHARGENOUN}1回分を再装填するのに必要なアイテムの数量です.複数回数分の{CHARGENOUN_plural}を一度に再装填可能です.</Stat_Thing_ReloadPerCharge_Desc>
+  <Stat_Thing_ReloadDestroyOnEmpty_Name>使い切ると消滅</Stat_Thing_ReloadDestroyOnEmpty_Name>
+  <Stat_Thing_ReloadDestroyOnEmpty_Desc>このアイテムは最後の{CHARGENOUN}が使用されると消滅します.</Stat_Thing_ReloadDestroyOnEmpty_Desc>
   <Stat_Thing_BodyPartEfficiency_Desc>この身体部分の総合的な効率.</Stat_Thing_BodyPartEfficiency_Desc>
   <Stat_Thing_Biocoded_Name>生体認証</Stat_Thing_Biocoded_Name>
   <Stat_Thing_Biocoded_Desc>このアイテムは,設定された個人の生体情報だけを受け付けるように暗号化されています.</Stat_Thing_Biocoded_Desc>

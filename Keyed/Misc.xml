@@ -80,6 +80,10 @@
   <SomeonesRoom>{PAWN_labelShort}の {1}</SomeonesRoom>
   <CouplesRoom>{PAWN1_labelShort}と {PAWN2_labelShort}の {2}</CouplesRoom>
 
+  <StatRelatesToCurrentRoom>このタイプの部屋には重要です.</StatRelatesToCurrentRoom>
+
+  <DeepResourceRemaining>ここの地下には{RESOURCE_label}が{COUNT}埋蔵されている.</DeepResourceRemaining>
+
   <VariousLabel>(色々)</VariousLabel>
 
   <!-- History events -->

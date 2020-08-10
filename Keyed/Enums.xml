@@ -181,5 +181,6 @@
   <!-- ExtraFactionType -->
   <ExtraFactionType_HomeFaction>地元派閥</ExtraFactionType_HomeFaction>
   <ExtraFactionType_HostFaction>リモートホスト派閥</ExtraFactionType_HostFaction>
+  <ExtraFactionType_MiniFaction>グループ</ExtraFactionType_MiniFaction>
 
 </LanguageData>

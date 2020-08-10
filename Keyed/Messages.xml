@@ -8,6 +8,8 @@
   <MessageRaidersKidnapping>{1}の{0}は 誰かを連れ去ることに決めました.</MessageRaidersKidnapping>
   <MessageRaidersStealing>{1}の{0}は 何かを略奪することに決めました.</MessageRaidersStealing>
 
+  <MessageCaravanDetectedRaidArrived>{1}の{0}があなたのキャラバン隊のエリアに到着して,攻撃中です.さらに多くのキャラバンが移動中で,{2}に到着する予定です.</MessageCaravanDetectedRaidArrived>
+
   <MessageRaidersLeaving>{1}の{0}は 離れました.</MessageRaidersLeaving>
   <MessageRaidersGivenUpLeaving>{1}の{0}は 襲撃を諦め離脱しています.</MessageRaidersGivenUpLeaving>
   <MessageRaidersSatisfiedLeaving>{1}の{0}は 成果に満足し離脱しています.</MessageRaidersSatisfiedLeaving>
@@ -46,6 +48,7 @@
   <MessageRecruitSuccess>{RECRUITER_nameFull}は 囚人{RECRUITEE_nameFull}を 迎え入れました(成功率 {2}).</MessageRecruitSuccess>
   <MessageTameSuccess>{RECRUITER_labelShort}は {1}を手なずけました(成功率 {2}).</MessageTameSuccess>
   <MessageTameAndNameSuccess>{RECRUITER_labelShort}は {1}を手なずけて(成功率 {2}),{RECRUITEE_objective} {RECRUITEE_nameFull}と名づけました.</MessageTameAndNameSuccess>
+  <MessageRecruitJoinOfferAccepted>{RECRUITEE}があなたのコロニーに加わりました.</MessageRecruitJoinOfferAccepted>
 
   <MessageColonyCannotAfford>この取り引きに十分なアイテムが足りません.</MessageColonyCannotAfford>
   <MessageColonyNotEnoughSilver>取引するのに十分な量のシルバーを準備できていません.</MessageColonyNotEnoughSilver>
@@ -82,11 +85,6 @@
   <MessageNoLongerDowned>{1_label}は 自由に歩き回れるようになりました.</MessageNoLongerDowned>
 
   <MessageInvoluntarySleep>{1_labelShort}は 極度の疲労によって衰弱しました.</MessageInvoluntarySleep>
-
-  <MessageMedicalOperationFailureMinor>{SURGEON_labelShort}は {PATIENT_labelShort}の({RECIPE_label})手術中に わずかなミスを犯しました.</MessageMedicalOperationFailureMinor>
-  <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort}は {PATIENT_LabelShort}の({RECIPE_label})手術中に 致命的なミスを犯しました.</MessageMedicalOperationFailureCatastrophic>
-  <MessageMedicalOperationFailureRidiculous>{SURGEON_labelShort}は {PATIENT_labelShort}の({RECIPE_label})手術中に とんでもない失敗をしました.</MessageMedicalOperationFailureRidiculous>
-  <MessageMedicalOperationFailureFatal>{SURGEON_labelShort}は {PATIENT_labelShort}の手術中に 重大なミスを犯した.なぜなら特殊な挑戦を行ったからです: {2}</MessageMedicalOperationFailureFatal>
 
   <MessageMedicalOperationWillAngerFaction>この手術は{0}を 怒らせるだろう.</MessageMedicalOperationWillAngerFaction>
 
@@ -273,8 +271,6 @@
   <MessagePlantIncompatibleWithRoof>{0}は 屋根の下では育つことは出来ません.</MessagePlantIncompatibleWithRoof>
   <MessageRoofIncompatibleWithPlant>{0}の上に 屋根を張ることは出来ません.</MessageRoofIncompatibleWithPlant>
 
-  <MessageChoseRoute>キャラバン隊は自動的に次のウェイポイントへと旅を開始するでしょう.</MessageChoseRoute>
-
   <MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>このマップを離れるには,ワールドマップから「キャラバン隊の再編成」ボタンを使います.</MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>
   <MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>このマップから離れることができません.</MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>
 
@@ -304,6 +300,12 @@
   <GoodwillChangedReason_EuthanizedPawn>{PAWN_labelShort}を 安楽死させた</GoodwillChangedReason_EuthanizedPawn>
   <GoodwillChangedReason_RequestedMilitaryAid>援軍を要請した</GoodwillChangedReason_RequestedMilitaryAid>
   <GoodwillChangedReason_RequestedTrader>トレーダーを要請した</GoodwillChangedReason_RequestedTrader>
+  <GoodwillChangedReason_CausedNeuroquakeEcho>ニューロクェイクの共鳴を受けた</GoodwillChangedReason_CausedNeuroquakeEcho>
+  <GoodwillChangedReason_CausedBerserk>{PAWN_labelShort}が凶暴化した</GoodwillChangedReason_CausedBerserk>
+  <GoodwillChangeReason_AttackedFaction>{0_name}を攻撃した</GoodwillChangeReason_AttackedFaction>
+  <GoodwillChangeReason_ShuttleDestroyed>シャトルが破壊された</GoodwillChangeReason_ShuttleDestroyed>
+  <GoodwillChangeReason_CiviliansLost>民間人を失った</GoodwillChangeReason_CiviliansLost>
+  <GoodwillChangeReason_CommanderLost>指揮官を失った</GoodwillChangeReason_CommanderLost>
 
   <MessageGiftGivenButNotAppreciated>{0}は貢ぎ物を受け取りましたが 感謝の欠片もありません.</MessageGiftGivenButNotAppreciated>
 
@@ -327,7 +329,7 @@
 
   <MessageCaravanArrivalActionNoLongerValid>{0}は,その目的地に着くことができません.</MessageCaravanArrivalActionNoLongerValid>
 
-  <MessageEnterCooldownBlocksEntering>あなたは,{0}日間,別の場所に再入場できません.</MessageEnterCooldownBlocksEntering>
+  <MessageEnterCooldownBlocksEntering>危険すぎて{0}に再入場できません.</MessageEnterCooldownBlocksEntering>
 
   <MessagePermitCooldownFinished>{0_labelShort}は,「{1}」を自由に使えるようになった.</MessagePermitCooldownFinished>
 
@@ -367,5 +369,7 @@
   <MessageActivatorProximityTriggered>{0_indefinite}は付近の戦闘クラスターを活性化しました.</MessageActivatorProximityTriggered>
 
   <MessageCannotSelectInvisibleStat>{0_label}は現在非表示です.</MessageCannotSelectInvisibleStat>
+
+  <MessagePrisonerCannotEquipWeapon>{PAWN_nameDef}は囚人です.</MessagePrisonerCannotEquipWeapon>
 
 </LanguageData>

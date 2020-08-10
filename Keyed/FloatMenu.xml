@@ -22,6 +22,7 @@
   <IsNotDraftedLower>{1_labelShort}は 徴兵されていない</IsNotDraftedLower>
   <CannotOrderNonControlledLower>支配下にいない</CannotOrderNonControlledLower>
   <CannotAttackSelf>自分自身には攻撃できない</CannotAttackSelf>
+  <CannotAttackSameFactionMember>同盟派閥は攻撃できません</CannotAttackSameFactionMember>
 
   <OrderManThing>{1_labelShort}に配置</OrderManThing>
 
@@ -71,6 +72,7 @@
   <InstallImplantAlreadyInstalled>既に装着済</InstallImplantAlreadyInstalled>
   <InstallImplantAlreadyMaxLevel>最大レベル</InstallImplantAlreadyMaxLevel>
   <UpgradeImplant>{0}をレベル{1}にアップグレードします</UpgradeImplant>
+  <SurgeryViolationFellowFactionMember>派閥との同盟違反</SurgeryViolationFellowFactionMember>
 
   <ConsumeThing>{1_labelShort}を口にする</ConsumeThing>
 
@@ -102,6 +104,7 @@
   <ReservedBy>{1_labelShort}が 使用している</ReservedBy>
   <IsReservedBy>{0}は {1}が 使用している</IsReservedBy>
   <TooHeavy>重すぎる</TooHeavy>
+  <SameFaction>{0_labelShort}は同じ派閥に所属しています.</SameFaction>
 
   <Incapable>能力が無い</Incapable>
   <IncapableOfCapacity>{0}をする能力が無い</IncapableOfCapacity>
@@ -116,6 +119,10 @@
   <ForceWear>{1_labelShort}に 着替えさせる</ForceWear>
   <CannotWear>{1_label}を 着用できない</CannotWear>
   <CannotWearBecauseOfMissingBodyParts>欠損部位があって着られない</CannotWearBecauseOfMissingBodyParts>
+
+  <Reload>{AMMO_label}を{GEAR_labelShort}に再装填します.</Reload>
+  <ReloadFull>状態:満タン</ReloadFull>
+  <ReloadNotEnough>状態:装填可能</ReloadNotEnough>
 
   <CannotPickUp>{1_label}を 拾えない </CannotPickUp>
   <CannotPickUpAll>{1_label}(全て)を 拾えない</CannotPickUpAll>
@@ -209,6 +216,7 @@
 
   <DropAtEdge>端に落とす</DropAtEdge>
   <DropInCenter>真ん中に落とす</DropInCenter>
+  <AttackShuttle>{0} 攻撃</AttackShuttle>
   <AttackAndDropAtEdge>{0} 攻撃: 端に落とす</AttackAndDropAtEdge>
   <AttackAndDropInCenter>{0} 攻撃: 真ん中に落とす</AttackAndDropInCenter>
 
@@ -236,5 +244,7 @@
   <OfferHelp>救助の申し出</OfferHelp>
 
   <ApplyTechprint>{0}を適用する</ApplyTechprint>
+
+  <EnterCooldownBlocksEntering>危険過ぎる</EnterCooldownBlocksEntering>
 
 </LanguageData>

@@ -50,7 +50,8 @@
   <DefeatedLower>敗退</DefeatedLower>
   <HostileTo>{0} と 敵対</HostileTo>
   <EnemyOf>敵：</EnemyOf>
-  <CurrentGoodwillTip>現在の,この派閥との関係</CurrentGoodwillTip>
+  <CurrentGoodwillTip>現在の,この派閥との友好値と関係です.</CurrentGoodwillTip>
+  <CurrentRelationTip>現在の,この派閥との関係です.</CurrentRelationTip>
   <CurrentGoodwillTip_PermanentEnemy>この派閥は永久に敵です.彼らは,あなたの本拠地とキャラバン隊を襲うでしょう.どのような理由でも,彼らとの関係性は決して改善することは無いでしょう.</CurrentGoodwillTip_PermanentEnemy>
   <CurrentGoodwillTip_Ally>この派閥とは同盟です.彼らは,あなたを助ける為にできる限りの援軍を送ろうとするでしょう.もし関係性が{0}を下回ると,彼らとは中立的な関係になるでしょう.</CurrentGoodwillTip_Ally>
   <CurrentGoodwillTip_Neutral>この派閥とは中立です.彼らは,あなたと自由に話し,貿易をするでしょう.もし関係性が{0}を下回ると,彼らとは敵対するでしょう.もし関係性が{1}を上回ると,彼らは同盟となって,あなたの為に積極的に力になってくれ始めます.</CurrentGoodwillTip_Neutral>
@@ -113,6 +114,7 @@
   <ResearchCostComparison>研究計画の基本コスト{0}は技術レベルによって{1}になります.</ResearchCostComparison>
   <ResearchTechprintsFromFactions>研究設計書はトレードやクエストを通してこれらの派閥から入手できます.</ResearchTechprintsFromFactions>
   <TechLevelTooLow>派閥の技術レベルは{0}ですが,この研究計画の技術レベルは{1}です.研究速度に{2}倍の補正が掛かります.</TechLevelTooLow>
+  <UnlockedWith>研究解禁:</UnlockedWith>
 
   <!-- Quests tab -->
   <AvailableQuests>利用可能</AvailableQuests>
@@ -133,6 +135,8 @@
   <ShuttleArrivesOn>シャトルが{0}に到着</ShuttleArrivesOn>
   <ShuttleDepartsIn>シャトルは{0}で出発</ShuttleDepartsIn>
   <ShuttleDepartsOn>シャトルは{0}から出発</ShuttleDepartsOn>
+  <GuestsDepartsIn>客たちは{0}を出発</GuestsDepartsIn>
+  <GuestsDepartsOn>客たちは{0}に出発</GuestsDepartsOn>
   <QuestFinishedAgo>{0}日前に完了</QuestFinishedAgo>
   <AcceptQuest>クエストを受ける</AcceptQuest>
   <AcceptWith>{0_labelShort}で受けます</AcceptWith>
@@ -148,7 +152,10 @@
   <QuestAcceptanceRequirementsDescription>このクエストを受けるには,次のものが必要</QuestAcceptanceRequirementsDescription>
   <QuestBedroomRequirementsUnsatisfied>タイトルの要件を満たす無料のベッドルーム</QuestBedroomRequirementsUnsatisfied>
   <QuestBedroomRequirementsUnsatisfiedSingle>タイトルの要件を満たす無料のベッドルーム一室</QuestBedroomRequirementsUnsatisfiedSingle>
+  <QuestThroneRoomRequirementsUnsatisfied>{PAWN_definite}の爵位「{TITLE}」の条件(玉座の部屋)が満たされてない</QuestThroneRoomRequirementsUnsatisfied>
+  <QuestNoThroneRoom>{PAWN_definite}の爵位「{TITLE}」の条件を満たす玉座の部屋がない</QuestNoThroneRoom>
   <QuestNoColonistWithTitle>爵位が{0}の入植者です.</QuestNoColonistWithTitle>
+  <QuestPawnNotOnColonyMap>{PAWN_definite}はコロニーマップに居る必要があります</QuestPawnNotOnColonyMap>
   <ChooseRewards>報酬の希望</ChooseRewards>
   <ChooseRewardsDesc>他の派閥に将来クエストでどのような種類の報酬を希望するか選択してください.これは,すでに提示されているクエストには影響しません.</ChooseRewardsDesc>
   <AcceptRoyalFavor>{FACTION_royalFavorLabel}を承諾する</AcceptRoyalFavor>
@@ -159,6 +166,8 @@
   <RoyalFavorOff>現在,{FACTION_royalFavorLabel}の受け取りを断っています.</RoyalFavorOff>
   <GoodwillTip>あなた方と{0_name}との友好度が{1}改善されました.\n\n現在の友好関係：{4} ({5}).\n\n友好関係は派閥同士の一般的な関係を表します.もし{2}を下回ると,その派閥は敵対的になり,あなたのコロニーやキャラバンを襲撃します.もし{3}を上回れば,その派閥はあなたの同盟派閥となり,可能ならあなたを助けるために援軍を送ってくるでしょう.それ例外なら,その派閥は中立の立場を維持して,あなたと自由に取引を行い,通信器で会話もします.</GoodwillTip>
   <PawnQuestReward>{0_labelShort}が参加した</PawnQuestReward>
+  <QuestBetrayalOffer>裏切りの申し出：残り目標は{0}です</QuestBetrayalOffer>
+  <QuestBetrayalOfferTip>{0}は,{1}のすべての目標人物を殺害したことに対して報酬を与えます.</QuestBetrayalOfferTip>
 
   <!-- Health tab -->
   <CreatesNeed>欲求を作る</CreatesNeed>

@@ -89,7 +89,7 @@
   <UsingBedroll>寝袋を１つ使う</UsingBedroll>
   <UsingBedrolls>寝袋を{0}個使う</UsingBedrolls>
   <CaravanEstimatedTimeToDestination>到着予定時刻: {0}</CaravanEstimatedTimeToDestination>
-  <CaravanEstimatedDaysToDestination>到着予定日数: {0}</CaravanEstimatedDaysToDestination>
+  <CaravanEstimatedDaysToDestination>ルート移動時間：{0}日</CaravanEstimatedDaysToDestination>
   <CaravanImmobilizedByMass>行動不能: 過積載</CaravanImmobilizedByMass>
   <CaravanOutOfFood>食料切れ</CaravanOutOfFood>
   <CaravanDaysOfFood>食料: {0} 日分</CaravanDaysOfFood>
@@ -124,8 +124,8 @@
   <DeterioratingOutdoors>屋外</DeterioratingOutdoors>
   <DeterioratingBecauseOf>劣化中</DeterioratingBecauseOf>
   <Map>地図</Map>
-  <ForceExitAndRemoveMapCountdown>出発まで,あと{0} </ForceExitAndRemoveMapCountdown>
-  <ForceExitAndRemoveMapCountdownTip>入植者達は自動的にキャラバン隊を再編成して,{0}後に,ここを離れます.</ForceExitAndRemoveMapCountdownTip>
+  <CaravanDetectedRaidCountdown>敵の到着まで{0}</CaravanDetectedRaidCountdown>
+  <CaravanDetectedRaidCountdownTip>敵の援軍がこのエリアに到着するまで{0}です.</CaravanDetectedRaidCountdownTip>
   <Room>部屋</Room>
   <BeautyHere>美しい...</BeautyHere>
   <NoPower>電力喪失</NoPower>
@@ -185,12 +185,11 @@
   <CreatureFollowDrafted>主人が徴兵中は追従する</CreatureFollowDrafted>
   <CreatureFollowFieldwork>主人が屋外活動中は追従する</CreatureFollowFieldwork>
   <ProximitySingleGoodwillChange>{1}との有効値 {0}</ProximitySingleGoodwillChange>
-  <EnterCooldown>{0}以内に再入村できません</EnterCooldown>
+  <EnterCooldown>{0}に再び入るのは危険過ぎます</EnterCooldown>
   <Caravan>キャラバン隊</Caravan>
   <HiddenOrNoSitePartDescription>ここは危険な気がする</HiddenOrNoSitePartDescription>
   <PreciousLumpLabel>{0}の鉱脈</PreciousLumpLabel>
   <NoActiveResearchProjectToFinish>何も研究項目を決めてません</NoActiveResearchProjectToFinish>
-  <CannotResearchNoBench>研究不可：研究設備なし</CannotResearchNoBench>
   <Turret>タレット</Turret>
   <Turrets>タレット群</Turrets>
   <Mortar>迫撃砲</Mortar>
@@ -320,6 +319,7 @@
   <WatchingEclipse>月の満ち欠けを眺めている</WatchingEclipse>
   <WatchingAurora>オーロラを眺めている</WatchingAurora>
   <UsingVerb>{1} に {0}を使う</UsingVerb>
+  <UsingVerbNoTarget>{0}を使う.</UsingVerbNoTarget>
   <AreaLower>ゾーン</AreaLower>
   <ReportCowering>ちじこまる</ReportCowering>
   <ReportStanding>立っている</ReportStanding>
@@ -376,7 +376,7 @@
   <PawnMainDescLifestageWrap>{2_lifeStageAdjective} {0}</PawnMainDescLifestageWrap>
   <Faction>派閥</Faction>
   <FactionDesc>現在{PAWN_labelShort}が所属している派閥.</FactionDesc>
-  <ExtraFactionDesc>現在{PAWN_labelShort}が所属している派閥.{PAWN_pronoun}は,現在の派閥を解雇されれば,また元の派閥に戻ります.</ExtraFactionDesc>
+  <ExtraFactionDesc>現在{PAWN_labelShort}が所属している派閥.</ExtraFactionDesc>
   <Equipped>装備品</Equipped>
   <EquippedNothing>素手</EquippedNothing>
   <Dead>死亡</Dead>
@@ -548,8 +548,8 @@
   <HibernateWarningStandalonePacifist>反応炉の出力アップの準備を整えた.\n\nこのプロセスは約15日程かかるだろう.</HibernateWarningStandalonePacifist>
 
   <!-- Neurotrainer -->
-  <SkillNeurotrainerLabel>ニューロトレイナー ({0})</SkillNeurotrainerLabel>
-  <SkillNeurotrainerUseLabel>スキルニューロトレーナーを使って{0}を学習する</SkillNeurotrainerUseLabel>
+  <SkillNeurotrainerLabel>スキルトレイナー ({0})</SkillNeurotrainerLabel>
+  <SkillNeurotrainerUseLabel>スキルトレーナーを使って{0}を学習する</SkillNeurotrainerUseLabel>
   <SkillNeurotrainerDescription>特定のスキルを訓練できるメカナイトを1回限り特別に投与します。\n\n眼の眼窩から投与します。ひとたび脳内に放出されると、メカナイトは特定の領域で使用者のスキルを速やかに向上させ、必要に応じて自身を神経組織へと変換します。</SkillNeurotrainerDescription>
   <SkillNeurotrainerUsed>{USER_labelShort}は,ニューロトレイナーを使って{1}スキルを{2}から{3}に上げた.</SkillNeurotrainerUsed>
 
@@ -633,6 +633,9 @@
   <DeepDrillExhausted>深部ドリルマシンによる資源は枯渇した,自動的に取り扱い禁止となる.{0}を掘削し始めるために許可せよ.</DeepDrillExhausted>
   <DeepDrillExhaustedNoFallback>深部ドリルマシンによる資源は枯渇した.</DeepDrillExhaustedNoFallback>
 
+  <!-- reloading ammo -->
+  <ChargesRemaining>残り装填数</ChargesRemaining>
+
   <!-- Learning helper -->
   <LearningHelper>ラーニングヘルパー</LearningHelper>
   <MarkLearned>学習済みにする</MarkLearned>
@@ -677,7 +680,7 @@
   <PawnTooltipWithPrimaryEquipNoDesc>{0}\n{1}\n{2}</PawnTooltipWithPrimaryEquipNoDesc>
   <PawnTooltipNoDescNoPrimaryEquip>{0}\n{1}</PawnTooltipNoDescNoPrimaryEquip>
   <PawnTooltipPsychicEntropyStats>ニューラルヒート：{0}/{1}\n汚染率：{2}/秒（0になるまで{3}秒)</PawnTooltipPsychicEntropyStats>
-  <PawnTooltipPsychicEntropyDesc>サイキャストを実行すると,ニューラルヒートが増加します.安全限界を超えると,精神崩壊が続く可能性があります.\n\nニューラルヒートは時間経過で自然に消散します.この自然減少は,エルテックス製の衣服を着るか,苦痛を感じることで加速可能です.</PawnTooltipPsychicEntropyDesc>
+  <PawnTooltipPsychicEntropyDesc>超能力を使用すると,ニューラルヒートが増加します.安全限界を超えると,精神崩壊が続く可能性があります.\n\nニューラルヒートは時間経過で自然に消散します.この自然減少は,エルテックス製の衣服を着るか,苦痛を感じることで加速可能です.</PawnTooltipPsychicEntropyDesc>
   <PawnTooltipPsychicEntropyPainFocus>痛みは精神を集中させて,精神汚染の回復が早くなります.\n\n痛みの強さ：{0}\n精神汚染の回復ボーナス：{1}</PawnTooltipPsychicEntropyPainFocus>
   <PawnTooltipPsychicEntropyLimit>精神汚染の安全限界を切替えます.\n\n精神汚染の安全限界を超えると,長期的な精神障害や過剰摂取による重大な脳ダメージなど,健康に深刻な影響を引き起こす可能性があります.精神汚染の安全限界値が高いほど,その反動はより危険になります.</PawnTooltipPsychicEntropyLimit>
   <PawnTooltipPsyfocus>サイフォーカス：{0}</PawnTooltipPsyfocus>
@@ -698,12 +701,25 @@
   <Reward_PassageOffworld_Label>別世界への移住</Reward_PassageOffworld_Label>
   <Reward_CampLoot>キャンプから全アイテムを持ち出せます</Reward_CampLoot>
   <Reward_CampLoot_Label>戦利品</Reward_CampLoot_Label>
+  <Reward_VisitorsHelp>訪問者はあなたのために働き,戦います</Reward_VisitorsHelp>
+  <Reward_VisitorsHelp_Label>訪問者の助け</Reward_VisitorsHelp_Label>
+  <Reward_BestowingCeremony_Label>新しいサイリンクレベル</Reward_BestowingCeremony_Label>
+  <Reward_BestowingCeremony>{PAWNNAME}がサイリンクを獲得</Reward_BestowingCeremony>
+  <Reward_ShuttleLoot_Label>シャトルの戦利品</Reward_ShuttleLoot_Label>
+  <Reward_ShuttleLoot>シャトルを分解して略奪することができます</Reward_ShuttleLoot>
+  <Reward_PossibleFutureReward_Label>獲得可能な将来の報酬</Reward_PossibleFutureReward_Label>
+  <Reward_PossibleFutureReward>将来的に与えられる可能性のある報酬</Reward_PossibleFutureReward>
+  <Reward_Title_Label>爵位「{TITLE}」</Reward_Title_Label>
+  <Reward_Title>{PAWNNAME}は{FACTION}から爵位「{TITLE}」を獲得しました</Reward_Title>
   <TotalValue>価値:{0}</TotalValue>
 
   <!-- Bladelink -->
   <BondedWith>登録者：{0}</BondedWith>
   <NotBonded>未登録</NotBonded>
   <BladelinkBondedToSomeoneElse>誰かが登録済</BladelinkBondedToSomeoneElse>
+  <BladelinkAlreadyBonded>（既存の絆）</BladelinkAlreadyBonded>
+  <BladelinkAlreadyBondedDialog>人は一度に1つのペルソナ武器としか結合できません.\n\n{WEAPON_labelShort}を装備して新規に結合するには,{PAWN_nameDef}が現在結合しているペルソナ武器の{BONDEDWEAPON_labelShort}を最初に破壊する必要があります.</BladelinkAlreadyBondedDialog>
+  <BladelinkAlreadyBondedMessage>{PAWN_nameDef}はすでに{BONDEDWEAPON_labelShort}と結合しています</BladelinkAlreadyBondedMessage>
 
   <!-- Biocoded weapons -->
   <Biocoded>生体認証済：{0}</Biocoded>

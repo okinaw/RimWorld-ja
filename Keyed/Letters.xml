@@ -10,10 +10,17 @@
   <LetterLabelFirstSummerWarning>夏の便り</LetterLabelFirstSummerWarning>
   <FirstSummerWarning>夏が来た！でも直ぐに,冬もやってきます.\n\n作物は寒い冬の間は育ちません.食料を保存する準備をしましょう.\n\n冷凍庫となる部屋を造り,食料の腐敗を防ぐのです.\n\nパーカーを買うか,盗むか,作るかしておかないと,外に出た時に凍えてしまいます.</FirstSummerWarning>
 
-  <LetterRelationsChange_Hostile>{0}との関係が断絶しました.彼らは今や敵です.\n\n彼らは,あなたのコロニーやキャラバン隊を定期的に襲撃するでしょう,さらにトレードを拒否します.あなたに関係改善の意思があるなら,キャラバン隊や輸送ポッドを使って,彼らに贈り物を申し出ることはできます.\n\nこれは友好値({1})が{2}以下の時に起きます.中立の関係に戻す目的なら,友好値を再び{3}に到達させなければなりません.</LetterRelationsChange_Hostile>
-  <LetterRelationsChange_NeutralFromHostile>{0}との関係が改善しました.もう彼らは,あなたを攻撃しようともせず,中立とみなしています.\n\nこれは友好値({1})が{2}を超えれば発生します.もし友好値が{3}を下回れば,{0}は再び敵対します.もし友好値が{4}を上回れば,彼らはあなたと同盟を組み,あなたの為に戦うでしょう.</LetterRelationsChange_NeutralFromHostile>
-  <LetterRelationsChange_NeutralFromAlly>{0}との関係が冷え込みました.いまや彼らは,あなたを同盟ではなく中立とみなしています.\n\nあなたと円満な関係を続けますが,彼らは,貴方が脅威に晒されても援軍を送ってくることはありません.\n\nこれは友好値({1})が{2}を下回れば起きます.もし{3}を下回ると,{0}は敵対するでしょう.もし{4}を上回れば,彼らは再び,あなたと同盟を組むでしょう.</LetterRelationsChange_NeutralFromAlly>
-  <LetterRelationsChange_Ally>{0}との関係はとても緊密となりました.彼らは,あなたと同盟とみなしています.\n\n同盟を結ぶと,あなたが戦時下にあると,あなたの敵と戦う援軍が到着することがあります.あなたは,対価として友好値を費やすことで,いつでも彼らを呼び出すこともできます.\n\n友好値({1})が{2}を超えれば同盟となります.もし{3}を下回ると,関係は中立へと戻ります.</LetterRelationsChange_Ally>
+  <LetterRelationsChange_Hostile>{0}との関係が断絶しました.彼らは現在あなたに対して敵対的です.</LetterRelationsChange_Hostile>
+  <LetterRelationsChange_HostileGoodwillDescription>彼らは,あなたのコロニーやキャラバン隊を定期的に襲撃するでしょう,さらにトレードを拒否します.あなたに関係改善の意思があるなら,キャラバン隊や輸送ポッドを使って,彼らに贈り物を申し出ることはできます.\n\nこれは,友好値（{0}）が{1}より低くなったために起きました.中立の関係まで回復するには,友好値を再び{2}に到達させる必要があります.</LetterRelationsChange_HostileGoodwillDescription>
+
+  <LetterRelationsChange_NeutralFromHostile>{0}との関係が改善しました.もう彼らは,あなたを攻撃しようともせず,中立とみなしています.</LetterRelationsChange_NeutralFromHostile>
+  <LetterRelationsChange_NeutralFromHostileGoodwillDescription>これは友好値({1})が{2}を超えれば発生します.もし友好値が{3}を下回れば,{0}は再び敵対します.もし友好値が{4}を上回れば,彼らはあなたと同盟を組み,あなたの為に戦うでしょう.</LetterRelationsChange_NeutralFromHostileGoodwillDescription>
+
+  <LetterRelationsChange_NeutralFromAlly>{0}との関係が冷え込みました.いまや彼らは,あなたを同盟ではなく中立とみなしています.</LetterRelationsChange_NeutralFromAlly>
+  <LetterRelationsChange_NeutralFromAllyGoodwillDescription>あなたと円満な関係を続けますが,彼らは,貴方が脅威に晒されても援軍を送ってくることはありません.\n\nこれは友好値({1})が{2}を下回ったので起きました.もし{3}を下回ると,{0}は敵対するでしょう.もし{4}を上回れば,彼らは再び,あなたと同盟を組むでしょう.</LetterRelationsChange_NeutralFromAllyGoodwillDescription>
+
+  <LetterRelationsChange_Ally>{0}との関係はとても緊密となりました.彼らは,あなたと同盟とみなしています.</LetterRelationsChange_Ally>
+  <LetterRelationsChange_AllyGoodwillDescription>同盟派閥は,あなたが攻撃を受けた際に,敵と戦う援軍を送り込むことがあります.あなたは,対価として友好値を消費することで,いつでも援軍を呼び出すことも可能です.\n\n友好値({0})が{1}を超えたので同盟になりました.もし{2}を下回ると,関係は中立に戻ります.</LetterRelationsChange_AllyGoodwillDescription>
 
   <goodwill>友好</goodwill>
   <Neutral>中立</Neutral>
@@ -69,10 +76,12 @@
   <LetterHediffFromRandomHediffGiverLabel>{PAWN_labelShort}：{1}</LetterHediffFromRandomHediffGiverLabel>
 
   <LetterLeadersDeathLabel>{1}が死亡: {0}</LetterLeadersDeathLabel>
-  <LetterLeadersDeath>{1}の{3} {OLDLEADER_nameFull}が死に\n\n新しい{3}は {NEWLEADER_nameFull}になった.</LetterLeadersDeath>
+  <LetterLeadersDeath>{0}の{1},{OLDLEADER_nameFull}が死亡した.</LetterLeadersDeath>
 
   <LetterLeaderChangedLabel>新{1}: {0}</LetterLeaderChangedLabel>
-  <LetterLeaderChanged>{1}の{3}は,もう{OLDLEADER_nameFull}ではなく\n\n新しい{3}は {NEWLEADER_nameFull}になった.</LetterLeaderChanged>
+  <LetterLeaderChanged>{OLDLEADER_nameFull}は{0}の{1}ではなくなった.</LetterLeaderChanged>
+
+  <LetterNewLeader>新しい{0}は{NEWLEADER_nameFull}です.</LetterNewLeader>
 
   <FinalStraw>不幸な出来事: {0}</FinalStraw>
   <MentalStateReason_Mood>貧しい心情によって発生した.</MentalStateReason_Mood>
@@ -157,11 +166,12 @@
   <!-- Transport pods landed in enemy base -->
   <LetterLabelTransportPodsLandedInEnemyBase>戦闘開始</LetterLabelTransportPodsLandedInEnemyBase>
   <LetterTransportPodsLandedInEnemyBase>あなたの輸送ポッドが{0}に着きました.</LetterTransportPodsLandedInEnemyBase>
+  <LetterShuttleLandedInEnemyBase>シャトルが{0}に到着しました.</LetterShuttleLandedInEnemyBase>
 
   <!-- Faction base defeated -->
   <LetterLabelFactionBaseDefeated>拠点破壊</LetterLabelFactionBaseDefeated>
-  <LetterFactionBaseDefeated>敵の拠点"{0}"を破壊しました.\n\n{1}で,キャラバン隊は自動的に再編成されます.あなたはワールドマップから,敵拠点の破壊と,"キャラバン隊の再編成"を選ぶこともできます.</LetterFactionBaseDefeated>
-  <LetterFactionBaseDefeated_FactionDestroyed>ここが{0}の最後の砦でした,つまりは,この派閥はもう何処にも居ません.</LetterFactionBaseDefeated_FactionDestroyed>
+  <LetterFactionBaseDefeated>敵の拠点「{0}」を破壊しました.\n\n{1}では,あなたのキャラバン隊は敵に攻撃されます.キャラバン隊を再編して退去しない場合,敵は攻撃部隊を派遣してキャラバン隊を攻撃し始めます.</LetterFactionBaseDefeated>
+  <LetterFactionBaseDefeated_FactionDestroyed>ここが彼らの最後の拠点でした,{0}は敗北しました.</LetterFactionBaseDefeated_FactionDestroyed>
 
   <!-- Quest completed -->
   <LetterLabelDefeatAllEnemiesQuestCompleted>クエスト完了</LetterLabelDefeatAllEnemiesQuestCompleted>
@@ -231,7 +241,7 @@
 
   <!-- Caravans battlefield victory -->
   <LetterLabelCaravansBattlefieldVictory>キャラバン隊勝利</LetterLabelCaravansBattlefieldVictory>
-  <LetterCaravansBattlefieldVictory>あなたのキャラバン隊は戦闘に勝利しました.\n\nあなたはワールドマップから,拠点の選択と,"キャラバン隊の再編成"を選ぶことができます.\n\nアイテム収集を手動で行う必要はありません,キャラバン隊再編成コマンドで簡単にできます.\n\n{0}で,キャラバン隊は自動的に再編成されます.</LetterCaravansBattlefieldVictory>
+  <LetterCaravansBattlefieldVictory>あなたのキャラバン隊は戦闘に勝利しました.\n\nあなたは現在ワールドマップから,戦場となったこの場所を選択して,「キャラバン隊の再編成」を選択することができます.\n\nアイテム収集を手動で行う必要はありません,キャラバン隊再編成コマンドで簡単にできます.\n\n{0}では,あなたのキャラバン隊は敵に攻撃されます.キャラバン隊を再編して退去しない場合,敵は攻撃部隊を派遣してキャラバン隊を攻撃し始めます.</LetterCaravansBattlefieldVictory>
 
   <!-- Rescue quest -->
   <LetterLabelRescueQuestFinished>レスキュー＆参加</LetterLabelRescueQuestFinished>
@@ -245,6 +255,13 @@
   <LetterDisease_Blocked>{0}はブロックされている {1} : {2}.</LetterDisease_Blocked>
   <LetterLabelTraitDisease>疫病 ({0})</LetterLabelTraitDisease>
   <LetterTraitDisease>{PAWN_label}は {1}の病に倒れました.\n\n医療用ベッドとドクターを確保してください. {PAWN_pronoun}が 適切な治療を受けられているか確認し,できる限り医療用ベッドで過ごすようにしてください.</LetterTraitDisease>
+
+  <!-- Surgery -->
+  <LetterLabelSurgeryFailed>{PATIENT_labelShort}の手術に失敗しました</LetterLabelSurgeryFailed>
+  <MessageMedicalOperationFailureMinor>{SURGEON_labelShort}は,{PATIENT_labelShort}の（{RECIPE_label}）手術中に,わずかなミスを犯しました.</MessageMedicalOperationFailureMinor>
+  <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort}は,{PATIENT_labelShort}の（{RECIPE_label}）手術中に,致命的なミスを犯しました.</MessageMedicalOperationFailureCatastrophic>
+  <MessageMedicalOperationFailureRidiculous>{SURGEON_labelShort}は,{PATIENT_labelShort}の({RECIPE_label})手術中に,とんでもない失敗をしました.</MessageMedicalOperationFailureRidiculous>
+  <MessageMedicalOperationFailureFatal>{SURGEON_labelShort}は,{PATIENT_labelShort}の手術中に,重大なミスを犯した.なぜなら特殊な挑戦を行ったからです: {2}</MessageMedicalOperationFailureFatal>
 
   <!-- Quests -->
   <LetterQuestBecameAvailable>新しいクエストが利用可能になりました.\n「{0}」と呼びます.\n</LetterQuestBecameAvailable>
@@ -309,5 +326,8 @@
   <!-- Mech cluster -->
   <LetterLabelMechClusterArrived>メカノイドが襲来</LetterLabelMechClusterArrived>
   <LetterMechClusterArrived>メカノイドが襲撃してきました.</LetterMechClusterArrived>
+
+  <LetterLabelSiteCountdownStarted>キャラバンが見つかった</LetterLabelSiteCountdownStarted>
+  <LetterTextSiteCountdownStarted>あなたのキャラバンが発見されました.{0}では,{2}からの援軍{1}が到着し始めます.\n\nキャラバンを編成し,{1}から逃げるために移動を開始してください.敵軍到着までのカウントダウン時間が表示されます.</LetterTextSiteCountdownStarted>
 
 </LanguageData>
