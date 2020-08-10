@@ -2,7 +2,7 @@
 <LanguageData>
 
   <Ability_RequiredPsylink.label>サイリンクレベル</Ability_RequiredPsylink.label>
-  <Ability_RequiredPsylink.description>このサイキャストを実行するために必要なサイリンク最小レベルです.</Ability_RequiredPsylink.description>
+  <Ability_RequiredPsylink.description>この能力を実行するために必要なサイリンク最小レベルです.</Ability_RequiredPsylink.description>
 
   <Ability_CastingTime.label>詠唱時間</Ability_CastingTime.label>
   <Ability_CastingTime.description>この能力を実行するまでにかかる時間です.</Ability_CastingTime.description>
@@ -28,6 +28,6 @@
   <Ability_GoodwillImpact.description>この能力を誰かに効果を与えることが,どの程度彼らが所属する派閥との友好関係に影響を与えるかです.</Ability_GoodwillImpact.description>
 
   <Ability_DetectChancePerEntropy.label>検出確率</Ability_DetectChancePerEntropy.label>
-  <Ability_DetectChancePerEntropy.description>実行時にこの能力のサイキャストが検出される可能性です.\n\n一部の派閥では,特定の称号を持つ者に一部のサイキャストを制限する法律の施行を試みています.サイキャストを使用すると,離れた場所でも検出される可能性のあるサイコサインを発します.もし違法に使用したのが発見された場合,外交上の問題が生じるでしょう.</Ability_DetectChancePerEntropy.description>
+  <Ability_DetectChancePerEntropy.description>この超能力が使用されたときに検出される可能性です.\n\n一部の派閥では,特定の称号を持つ者に一部の能力を制限する法律の施行を試みています.能力を使用すると,離れた場所でも検出される可能性のあるサイコサインを発します.もし違法に使用したのが発見された場合,外交上の問題が生じるでしょう.</Ability_DetectChancePerEntropy.description>
 
 </LanguageData>

@@ -40,6 +40,7 @@
   <Artifacts.label>アーティファクト</Artifacts.label>
   <Neurotrainers.label>ニューロトレイナー</Neurotrainers.label>
   <NeurotrainersPsycast.label>サイコトレーナー</NeurotrainersPsycast.label>
+  <NeurotrainersSkill.label>スキルトレイナー</NeurotrainersSkill.label>
   <Techprints.label>研究設計書</Techprints.label>
   <BodyParts.label>身体部位</BodyParts.label>
   <BodyPartsNatural.label>生体</BodyPartsNatural.label>
@@ -65,6 +66,7 @@
   <Headgear.label>帽子</Headgear.label>
   <ApparelArmor.label>防具</ApparelArmor.label>
   <ArmorHeadgear.label>ヘルメット</ArmorHeadgear.label>
+  <ApparelUtility.label>腰装備</ApparelUtility.label>
   <ApparelNoble.label>高級な衣服</ApparelNoble.label>
   <HeadgearNoble.label>高級な帽子</HeadgearNoble.label>
 

@@ -32,8 +32,8 @@
   <EnergyShieldRechargeRate.description>パーソナルシールドが壊れてさえなければ,単位時間あたりのリチャージ量です.</EnergyShieldRechargeRate.description>
   <EnergyShieldRechargeRate.formatString>{0}/秒</EnergyShieldRechargeRate.formatString>
 
-  <SmokepopBeltRadius.label>煙幕展開半径</SmokepopBeltRadius.label>
-  <SmokepopBeltRadius.description>スモークポップベルトが発動したときに,煙幕で命中が難しくなる半径です.</SmokepopBeltRadius.description>
+  <SmokepopBeltRadius.label>スモークポップパック範囲</SmokepopBeltRadius.label>
+  <SmokepopBeltRadius.description>スモークポップパックが発動したときに,煙幕で命中が難しくなる半径です.</SmokepopBeltRadius.description>
   <SmokepopBeltRadius.formatString>{0}セル</SmokepopBeltRadius.formatString>
 
   <EquipDelay.label>装備時間</EquipDelay.label>

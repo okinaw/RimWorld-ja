@@ -11,11 +11,13 @@
   <MarketValue.label>金額</MarketValue.label>
   <MarketValue.description>市場価格を表します.実際の値段は,売買するお互いの関係性でさらに変動します.</MarketValue.description>
 
+  <MarketValueIgnoreHp.label>市場価値はヒットポイントを無視します</MarketValueIgnoreHp.label>
+
   <SellPriceFactor.label>売値掛け率</SellPriceFactor.label>
   <SellPriceFactor.description>売ろうするアイテムの,売り値に掛けられる倍率です.</SellPriceFactor.description>
 
-  <RoyalFavorValue.label>王室好意度</RoyalFavorValue.label>
-  <RoyalFavorValue.description>これを帝国の徴税官に渡すことで,トレーダーが獲得するロイヤルフェイバリットの量。</RoyalFavorValue.description>
+  <RoyalFavorValue.label>名誉値</RoyalFavorValue.label>
+  <RoyalFavorValue.description>これを帝国の徴税官に渡すことで,トレーダーが獲得する名誉の量です.</RoyalFavorValue.description>
 
   <Flammability.label>燃えやすさ</Flammability.label>
   <Flammability.description>どのくらい火が付きやすいか,どのくらい延焼しやすいかを表します.</Flammability.description>

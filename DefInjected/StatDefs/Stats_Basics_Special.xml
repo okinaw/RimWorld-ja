@@ -16,4 +16,7 @@
   <MeditationFocusStrength.formatString>{0}/日</MeditationFocusStrength.formatString>
   <MeditationFocusStrength.formatStringUnfinalized>{0}/日</MeditationFocusStrength.formatStringUnfinalized>
 
+  <PsychicSensitivityOffset.label>精神的感受性のオフセット値</PsychicSensitivityOffset.label>
+  <PsychicSensitivityOffset.description>能力使用者の精神的感受性に適用されるオフセット値です.</PsychicSensitivityOffset.description>
+
 </LanguageData>

@@ -1,10 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Event_AbilityUsed.rulePack.rulesStrings>
-    <li>r_logentry->[INITIATOR_definite]は[SUBJECT_definite]に[ABILITY_label]を使用した.</li>
-  </Event_AbilityUsed.rulePack.rulesStrings>
-
   <Event_Stun.rulePack.rulesStrings>
     <li>r_logentry->[SUBJECT_definite]は攻撃を受けて[stunned].</li>
     <li>r_logentry->[SUBJECT_definite]は[INITIATOR_definite]の攻撃を受けて[stunned].</li>
@@ -31,5 +27,13 @@
     <li>stumbled->ふらついた</li>
     <li>stumbled->よろよろと歩き出した</li>
   </Event_Stun.rulePack.rulesStrings>
+
+  <Event_AbilityUsed.rulePack.rulesStrings>
+    <li>r_logentry->[INITIATOR_definite]は[SUBJECT_definite]に[ABILITY_label]を使用した.</li>
+  </Event_AbilityUsed.rulePack.rulesStrings>
+
+  <Event_ItemUsed.rulePack.rulesStrings>
+    <li>r_logentry->[INITIATOR_definite]は[SUBJECT_definite]に[ITEM_indefinite]を使用した.</li>
+  </Event_ItemUsed.rulePack.rulesStrings>
 
 </LanguageData>

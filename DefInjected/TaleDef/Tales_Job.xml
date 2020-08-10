@@ -36,10 +36,6 @@
     <li>image->[PAWN_nameDef]は,[circumstance_phrase][OBJECT_label]の表面を磨く</li>
     <li>image->[PAWN_nameDef]は,[circumstance_phrase][OBJECT_label]の表面の細部を作りこむ</li>
     <li>image->[PAWN_nameDef]は,[circumstance_phrase][OBJECT_label]に自身の名を彫り込む</li>
-    <!--<li>image->[PAWN_nameFull]は,[circumstance_phrase]複雑な[OBJECT_label]の内装を組み立てる</li>
-    <li>image->[PAWN_nameFull]は,[circumstance_phrase][OBJECT_label]の表面を磨く</li>
-    <li>image->[PAWN_nameFull]は,[circumstance_phrase][OBJECT_label]の表面の細部を作りこむ</li>
-    <li>image->[PAWN_nameFull]は,[circumstance_phrase][OBJECT_label]に自身の名を彫り込む</li>-->
     <li>circumstance_phrase->[PAWN_possesive]眼を輝かせて</li>
     <li>circumstance_phrase->[PAWN_possesive]額の汗を拭いながら</li>
     <li>circumstance_phrase->埃まみれになりながら</li>
@@ -60,10 +56,6 @@
     <li>image->[PAWN_nameDef]は,[circumstance_phrase][OBJECT_label]の表面を磨く</li>
     <li>image->[PAWN_nameDef]は,[circumstance_phrase][OBJECT_label]の表面の細部を作りこむ</li>
     <li>image->[PAWN_nameDef]は,[circumstance_phrase][OBJECT_label]に自身の名を彫り込む</li>
-    <!--<li>image->[PAWN_nameFull]は,[circumstance_phrase]複雑な[OBJECT_label]の内部を組み立てる</li>
-    <li>image->[PAWN_nameFull]は,[circumstance_phrase][OBJECT_label]の表面を磨く</li>
-    <li>image->[PAWN_nameFull]は,[circumstance_phrase][OBJECT_label]の表面の細部を作りこむ</li>
-    <li>image->[PAWN_nameFull]は,[circumstance_phrase][OBJECT_label]に自身の名を彫り込む</li>-->
     <li>circumstance_phrase->[PAWN_possesive]眼を輝かせて</li>
     <li>circumstance_phrase->[PAWN_possesive]額の汗を拭いながら forehead</li>
     <li>circumstance_phrase->埃まみれになりながら</li>
