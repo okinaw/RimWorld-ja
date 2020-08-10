@@ -115,7 +115,7 @@
   <UndraftAll.text>成功です! 全員に対して「徴兵」の解除を行います.\n\nこうすると,彼らはスケジュール通りの元の作業に戻ります.</UndraftAll.text>
   <UndraftAll.rejectInputMessage>「徴兵」の解除をしましょう.</UndraftAll.rejectInputMessage>
 
-  <ChooseStoryteller.text>これでチュートリアルは全部終わりました!!\n\nもっともっと,学ぶことがあります,囚人の扱い方,狩猟のしかた,トレード,野生動物,他にもたくさんあります.しかし基本は習得しました.\n\nこのチュートリアルでは,ランダムに起きる,事件事故は禁止してあります.本当のゲームを始めるには:\n\n1.右下にある「メニュー」タブを開きます\n2.「オプション」を選択します.\n3.「脚本家」をクリックします.\n4.脚本家と,難易度が表示されます.\n\nGood luck, and have fun.</ChooseStoryteller.text>
+  <ChooseStoryteller.text>これでチュートリアルは全部終わりました!!\n\nもっともっと,学ぶことがあります,囚人の扱い方,狩猟のしかた,トレード,野生動物,他にもたくさんあります.しかし基本は習得しました.\n\nこのチュートリアルでは,ランダムに起きる,事件事故は禁止してあります.本当のゲームを始めるには:\n\n1.右下にある「メニュー」タブを開きます\n2.「オプション」を選択します.\n3.「脚本家」をクリックします.\n4.脚本家と,プレイ傾向が表示されます.\n\n幸運を祈ります,楽しんでください.</ChooseStoryteller.text>
   <ChooseStoryteller.rejectInputMessage>オプションメニューから,ストーリーテラーを選択して,このチュートリアルを終了します.</ChooseStoryteller.rejectInputMessage>
 
 </LanguageData>

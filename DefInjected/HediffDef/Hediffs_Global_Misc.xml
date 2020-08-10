@@ -23,6 +23,10 @@
   <PsychicShock.description>脳細胞と精神的な心の混乱状態です.この効果は,精神的な攻撃またはニューラルヒートの安全域突破によって引き起こされ,消滅するまで衰弱する.</PsychicShock.description>
   <PsychicShock.labelNoun>サイキックショック</PsychicShock.labelNoun>
 
+  <PsychicComa.label>サイキック昏睡</PsychicComa.label>
+  <PsychicComa.description>脳がサイキック過負荷から回復するための,良性な昏睡状態の一種です.</PsychicComa.description>
+  <PsychicComa.labelNoun>サイキック昏睡</PsychicComa.labelNoun>
+
   <PsychicHangover.label>サイコ酔い</PsychicHangover.label>
   <PsychicHangover.description>ニューラルヒートの安全域突破による後遺症です.サイキックによる酩酊状態は厄介ですが,生命に危険はありません.</PsychicHangover.description>
   <PsychicHangover.stages.forming.label>心理酩酊</PsychicHangover.stages.forming.label>

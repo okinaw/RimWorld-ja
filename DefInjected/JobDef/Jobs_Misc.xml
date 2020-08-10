@@ -18,7 +18,12 @@
   <AttackMelee.reportString>TargetA と格闘中</AttackMelee.reportString>
   <SocialFight.reportString>TargetA とケンカ中</SocialFight.reportString>
   <UseVerbOnThing.reportString>Verb を使用中</UseVerbOnThing.reportString>
+  <UseVerbOnThingStatic.reportString>何かをしている</UseVerbOnThingStatic.reportString>
+  <CastJump.reportString>何かをしている</CastJump.reportString>
   <CastAbilityOnThing.reportString>何かをしている</CastAbilityOnThing.reportString>
+  <CastAbilityOnThingUninterruptible.reportString>何かをしている</CastAbilityOnThingUninterruptible.reportString>
+  <CastAbilityOnThingMelee.reportString>何かをしている</CastAbilityOnThingMelee.reportString>
+  <CastAbilityOnWorldTile.reportString>何かをしている</CastAbilityOnWorldTile.reportString>
   <Equip.reportString>TargetA を装備中</Equip.reportString>
   <TakeInventory.reportString>TargetA を拾った</TakeInventory.reportString>
   <GiveToPackAnimal.reportString>TargetA を与えた</GiveToPackAnimal.reportString>
@@ -31,6 +36,7 @@
   <RearmTurretAtomic.reportString>TargetA を再装填中</RearmTurretAtomic.reportString>
   <Refuel.reportString>TargetA に給油中</Refuel.reportString>
   <RefuelAtomic.reportString>TargetA に給油中</RefuelAtomic.reportString>
+  <Reload.reportString>TargetA に再装填中</Reload.reportString>
   <FillFermentingBarrel.reportString>TargetA を詰めている</FillFermentingBarrel.reportString>
   <TakeBeerOutOfFermentingBarrel.reportString>TargetA を汲み出している</TakeBeerOutOfFermentingBarrel.reportString>
   <ApplyTechprint.reportString>TargetBに適用中</ApplyTechprint.reportString>
@@ -78,6 +84,5 @@
   <!-- Psycast Effects -->
 
   <GotoMindControlled.reportString>精神支配中</GotoMindControlled.reportString>
-
 
 </LanguageData>
