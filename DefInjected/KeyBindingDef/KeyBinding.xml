@@ -73,9 +73,9 @@
   <Dev_ToggleGodMode.label>god modeを切り替える</Dev_ToggleGodMode.label>
   <Dev_ToggleDebugLog.label>debug logを切り替える</Dev_ToggleDebugLog.label>
   <Dev_ToggleDebugActionsMenu.label>debug actions menuを切り替える</Dev_ToggleDebugActionsMenu.label>
+  <Dev_ChangeSelectedDebugAction.label>選択したdebug actionを切り替える</Dev_ChangeSelectedDebugAction.label>
   <Dev_ToggleDebugLogMenu.label>debug log menuを切り替える</Dev_ToggleDebugLogMenu.label>
   <Dev_ToggleDebugInspector.label>debug inspectorを切り替える</Dev_ToggleDebugInspector.label>
   <Dev_ToggleDebugSettingsMenu.label>debug settings menuを切り替える</Dev_ToggleDebugSettingsMenu.label>
-
 
 </LanguageData>

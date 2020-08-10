@@ -28,4 +28,7 @@
   <MechClusterDrop.textEnemy>{0}のメカクラスターが,付近に輸送ポッドで襲来しました.</MechClusterDrop.textEnemy>
   <MechClusterDrop.textWillArrive>メカクラスターが,輸送ポッドで到着するでしょう.</MechClusterDrop.textWillArrive>
 
+  <Shuttle.textEnemy>{1}から敵対的な{0}のグループがシャトルで到着しました.</Shuttle.textEnemy>
+  <Shuttle.textFriendly>{1}からの友好的な{0}のグループがシャトルで到着しました.</Shuttle.textFriendly>
+
 </LanguageData>

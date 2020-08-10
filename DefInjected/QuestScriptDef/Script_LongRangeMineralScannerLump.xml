@@ -6,25 +6,28 @@
   </LongRangeMineralScannerLump.questDescriptionRules.rulesStrings>
 
   <LongRangeMineralScannerLump.questNameRules.rulesStrings>
-    <li>questName->大発見:[subName]</li>
-    <li>questName->[subName]</li>
+    <li>questName->[targetMineable_label][lump]</li>
+    <li>questName->[targetMineable_label]の[lump]</li>
+    <li>questName->[targetMineable_label]の大[lump]</li>
+    <li>questName->[adj][targetMineable_label]</li>
+    <li>questName->[discovered][targetMineable_label]</li>
 
-    <li>subName->[adj]資源</li>
-    <li>subName->[adj]鉱物</li>
-    <li>subName->[adj]鉱石</li>
-    <li>subName->[adj]財産</li>
-    <li>subName->[adj]採掘物</li>
-    <li>subName->[adj]鉱脈</li>
-    <li>subName->採掘計画「[adj]鉱脈」</li>
+    <li>lump->資源</li>
+    <li>lump->財産</li>
+    <li>lump->鉱床</li>
+    <li>lump->鉱脈</li>
+    <li>lump->鉱石</li>
+    <li>lump->採掘物</li>
 
     <li>adj->遠い場所の</li>
     <li>adj->遠くの</li>
-    <li>adj->遠距離にある</li>
     <li>adj->詳細不明な</li>
-    <li>adj->発見した</li>
-    <li>adj->スキャンした</li>
-    <li>adj->検出した</li>
-    <li>adj->見つけた</li>
+    <li>adj->遠距離にある</li>
+
+    <li>discovered->発見した</li>
+    <li>discovered->検出した</li>
+    <li>discovered->見つけた</li>
+    <li>discovered->スキャンされた</li>
   </LongRangeMineralScannerLump.questNameRules.rulesStrings>
 
   <LongRangeMineralScannerLump.LetterLabelQuestExpired.slateRef>クエストの期限切れ：[resolvedQuestName]</LongRangeMineralScannerLump.LetterLabelQuestExpired.slateRef>

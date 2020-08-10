@@ -3,26 +3,25 @@
 
   <Util_GenerateSite.root.singleSitePartRules.slateRef>
    <rulesStrings>
-    <li>root(priority=1,sitePart==ClimateAdjuster)->地域の温度を[temperatureOffset]だけ変動させる気候調整機</li>
-    <li>root(priority=1,sitePart==PsychicDroner)->[affectedGender]性に対象を調整されたサイコドローン装置</li>
-    <li>root(priority=1,sitePart==PsychicSuppressor)->[affectedGender]性に対象を調整されたサイコサプレッサー装置</li>
-    <li>root(priority=1,sitePart==WeatherController)->そこには,地域全体の天候を[weather_label]にする気象制御装置</li>
-    <li>root(priority=1,sitePart==SmokeSpewer)->地域全体に煙を吐き出す排煙装置</li>
-    <li>root(priority=1,sitePart==SunBlocker)->そこには,日光を遮る装置</li>
-    <li>root(priority=1,sitePart==EMIDynamo)->そこには,地域全体の電気設備を使えなくするEMI発電装置</li>
-    <li>root(priority=1,sitePart==ToxicSpewer)->そこには,地域全体を毒で汚染する毒物散布装置</li>
-    <li>root(priority=1,sitePart==RaidSource)->そこには,[enemiesCount]名の敵が守っていて,[mtbDays]ごとに襲撃してくる敵の集結地点</li>
-    <li>root(priority=1,sitePart==Outpost)->[enemiesCount]名の敵が守っている敵の前哨基地</li>
-    <li>root(priority=1,sitePart==BanditCamp)->[enemiesCount]名の敵が守っている山賊のキャンプ</li>
-    <li>root(priority=1,sitePart==Manhunters,count==1)->狂暴化して人を襲う[kindLabel]が近くに一匹</li>
-    <li>root(priority=1,sitePart==Manhunters,count>1)->狂暴化して人を襲う[kindLabel]が近くに[count]匹</li>
-    <li>root(priority=1,sitePart==SleepingMechanoids,count==1)->休眠中のメカノイドが近くに1体</li>
-    <li>root(priority=1,sitePart==SleepingMechanoids,count>1)->休眠中のメカノイドが近くに[count]体</li>
-    <li>root(priority=1,sitePart==Turrets)->「[threatsInfo]」の防備</li>
-    <li>root(priority=1,sitePart==AmbushEdge)->通りかかる人を待ち伏せして待ち構えている敵</li>
-    <li>root(priority=1,sitePart==AmbushHidden)->通りかかる人を待ち伏せして待ち構えている敵</li>
-    <li>root(priority=1,sitePart==MechCluster)->敵対的なメカノイドのメカクラスター</li>
-    <li>root(priority=1,sitePart==PossibleUnknownThreatMarker)->未知の脅威</li>
+    <li>root(priority=1,sitePart==ClimateAdjuster)->地域の温度を[temperatureOffset]だけ変動させる(*Threat)気候調整機(/Threat)</li>
+    <li>root(priority=1,sitePart==PsychicDroner)->[affectedGender]性に対象を調整された(*Threat)サイコドローン装置(/Threat)</li>
+    <li>root(priority=1,sitePart==PsychicSuppressor)->[affectedGender]性に対象を調整された(*Threat)サイコサプレッサー装置(/Threat)</li>
+    <li>root(priority=1,sitePart==WeatherController)->そこには,地域全体の天候を[weather_label]にする(*Threat)気象制御装置(/Threat)</li>
+    <li>root(priority=1,sitePart==SmokeSpewer)->地域全体に煙を吐き出す(*Threat)排煙装置(/Threat)</li>
+    <li>root(priority=1,sitePart==SunBlocker)->そこには,(*Threat)日光を遮る装置(/Threat)</li>
+    <li>root(priority=1,sitePart==EMIDynamo)->そこには,地域全体の電気設備を使えなくする(*Threat)EMI発電装置(/Threat)</li>
+    <li>root(priority=1,sitePart==ToxicSpewer)->そこには,地域全体を毒で汚染する(*Threat)毒物散布装置(/Threat)</li>
+    <li>root(priority=1,sitePart==RaidSource)->そこには,(*Threat)[enemiesCount]名の敵(/Threat)が守っていて,[mtbDays]ごとに襲撃してくる敵の集結地点</li>
+    <li>root(priority=1,sitePart==Outpost)->(*Threat)[enemiesCount]名の敵(/Threat)が守っている敵の前哨基地</li>
+    <li>root(priority=1,sitePart==BanditCamp)->(*Threat)[enemiesCount]名の敵(/Threat)が守っている山賊のキャンプ</li>
+    <li>root(priority=1,sitePart==Manhunters,count>1)->(*Threat)狂暴化して人を襲う[kindLabel](/Threat)が近くに[count]匹</li>
+    <li>root(priority=1,sitePart==SleepingMechanoids,count==1)->休眠中の(*Threat)メカノイド(/Threat)が近くに1体</li>
+    <li>root(priority=1,sitePart==SleepingMechanoids,count>1)->近くで(*Threat)[count]体の休眠中なメカノイド(/Threat)</li>
+    <li>root(priority=1,sitePart==Turrets)->「(*Threat)[threatsInfo](/Threat)」の防備</li>
+    <li>root(priority=1,sitePart==AmbushEdge)->通りかかる人を待ち伏せして待ち構えている(*Threat)敵(/Threat)</li>
+    <li>root(priority=1,sitePart==AmbushHidden)->通りかかる人を待ち伏せして待ち構えている(*Threat)敵(/Threat)</li>
+    <li>root(priority=1,sitePart==MechCluster)->敵対的な(*Threat)メカノイドのメカクラスター(/Threat)</li>
+    <li>root(priority=1,sitePart==PossibleUnknownThreatMarker)->(*Threat)未知の脅威(/Threat)</li>
     <li>root->[label]がある</li>
    </rulesStrings>
   </Util_GenerateSite.root.singleSitePartRules.slateRef>

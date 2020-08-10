@@ -6,7 +6,11 @@
   <ButcherCorpseFlesh.jobString>食肉に加工中</ButcherCorpseFlesh.jobString>
 
   <ButcherCorpseMechanoid.label>メカノイドを細断する</ButcherCorpseMechanoid.label>
-  <ButcherCorpseMechanoid.description>機能停止したメカノイドを細断して,使用可能な材料の回収を試みます.</ButcherCorpseMechanoid.description>
+  <ButcherCorpseMechanoid.description>機能停止したメカノイドを細断して,再利用可能な資源の回収を試みます.</ButcherCorpseMechanoid.description>
   <ButcherCorpseMechanoid.jobString>メカノイドを細断中</ButcherCorpseMechanoid.jobString>
+
+  <SmashCorpseMechanoid.label>メカノイドを粉砕する</SmashCorpseMechanoid.label>
+  <SmashCorpseMechanoid.description>機能停止したメカノイドを粉砕し,単純な工具を使って,再利用可能な資源の回収を試みます.</SmashCorpseMechanoid.description>
+  <SmashCorpseMechanoid.jobString>メカノイドを粉砕中</SmashCorpseMechanoid.jobString>
 
 </LanguageData>

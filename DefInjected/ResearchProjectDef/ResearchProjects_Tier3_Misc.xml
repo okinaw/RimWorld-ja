@@ -28,8 +28,8 @@
   <LongRangeMineralScanner.label>長距離鉱物探査スキャナー</LongRangeMineralScanner.label>
   <LongRangeMineralScanner.description>惑星上にまたがって存在する希少鉱物を探知するための長距離鉱物探査スキャナーを作れるようになります.特定の鉱物に反応するよう調整できます.製造には先進コンポーネントが必要です.</LongRangeMineralScanner.description>
 
-  <ShieldBelt.label>シールドベルト</ShieldBelt.label>
-  <ShieldBelt.description>モーメンタム-リパルジョンフィールド技術が,内から外からの遠距離射撃をブロックする,シールドベルトの製造を可能にします.</ShieldBelt.description>
+  <ShieldBelt.label>シールド</ShieldBelt.label>
+  <ShieldBelt.description>装備可能なシールド装置の製造を可能にします.シールドは,モーメント反射技術を使い,遠距離攻撃がフィールド境界を通過するのをブロックします.</ShieldBelt.description>
 
 
   <!-- Machining and its children sub-tier -->
