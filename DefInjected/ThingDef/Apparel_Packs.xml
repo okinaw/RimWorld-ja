@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Apparel_SmokepopBelt.label>スモークポップパック</Apparel_SmokepopBelt.label>
+  <Apparel_SmokepopBelt.description>防御用の煙幕です.活性化すると,煙幕が放出されて周囲を覆い隠してタレットによる攻撃を妨害します.</Apparel_SmokepopBelt.description>
+  <Apparel_SmokepopBelt.comps.CompReloadable.chargeNoun>発煙パック</Apparel_SmokepopBelt.comps.CompReloadable.chargeNoun>
+  <Apparel_SmokepopBelt.verbs.pop_smoke.label>煙幕</Apparel_SmokepopBelt.verbs.pop_smoke.label>
+
+</LanguageData>

@@ -4,13 +4,13 @@
   <!-- Note this is a ConditionCauser -->
 
   <PsychicDronerShipPart.label>宇宙船の一部(サイコ)</PsychicDronerShipPart.label>
-  <PsychicDronerShipPart.description>宇宙船の一部と思われる不思議な破片.あらゆる種類の凶悪な自衛機構や,魅力的な素材を含んでいると思われます.このてのテクノロジーは危険をはらんでいます.</PsychicDronerShipPart.description>
+  <PsychicDronerShipPart.description>いつ建造されたのか不明な船から切り離された古代の宇宙船の一部です.それは数千年以上前のものかもしれません.\n\nこれにはサイコドローン装置が含まれています.人間が理解できないアルコテック技術を使い,広範囲で周囲の人や動物たちを狂わせるサイキックウェーブ信号を発生します.</PsychicDronerShipPart.description>
 
 
   <!-- Defoliator ship part -->
 
   <DefoliatorShipPart.label>宇宙船の一部(汚染)</DefoliatorShipPart.label>
-  <DefoliatorShipPart.description>宇宙船の一部と思われる不思議な破片.あらゆる種類の凶悪な自衛機構や,魅力的な素材を含んでいると思われます.そのなかの一つが,この辺り一帯を汚染しているようです.</DefoliatorShipPart.description>
+  <DefoliatorShipPart.description>いつ建造されたのか不明な船から切り離された古代の宇宙船の一部です.それは数千年以上前のものかもしれません.\n\nこれは動物に直接影響を与えることはなく,周囲の植物の生命を枯らす装置が含まれています.この種類の武器は,敵領土を完全に破壊せずに敵の食糧供給や隠れ場所を排除するため農地や森林にまき散らされることがあります.これらは通常,軌道から降下するメカノイド軍と関連があります.</DefoliatorShipPart.description>
 
 
   <!-- Misc -->

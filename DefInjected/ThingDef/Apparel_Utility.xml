@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Apparel_PsychicShockLance.label>衝撃の槍(psychic shock lance)</Apparel_PsychicShockLance.label>
+  <Apparel_PsychicShockLance.description>使い捨てのサイキックエフェクターです.それは混沌としたイメージでターゲットの頭脳に衝撃を与え,認知力を妨げ精神的ショック状態に陥れます.脳がダメージを受けるリスクがあります.長距離からでも動作可能で,壁も透過します.</Apparel_PsychicShockLance.description>
+  <Apparel_PsychicShockLance.comps.CompReloadable.chargeNoun>起動する</Apparel_PsychicShockLance.comps.CompReloadable.chargeNoun>
+  <Apparel_PsychicShockLance.verbs.psychic_shock_lance.label>衝撃の槍</Apparel_PsychicShockLance.verbs.psychic_shock_lance.label>
+
+  <Apparel_PsychicInsanityLance.label>狂気の槍(psychic Insanity Lance)</Apparel_PsychicInsanityLance.label>
+  <Apparel_PsychicInsanityLance.description>使い捨てのサイキックエフェクターです.知覚歪曲による恐ろしいイメージでターゲットの頭脳を圧倒し,ターゲットを狂暴化へと駆り立てます.脳がダメージを受けるリスクがあります.長距離からでも動作可能で,壁も透過します.</Apparel_PsychicInsanityLance.description>
+  <Apparel_PsychicInsanityLance.comps.CompReloadable.chargeNoun>起動する</Apparel_PsychicInsanityLance.comps.CompReloadable.chargeNoun>
+  <Apparel_PsychicInsanityLance.verbs.psychic_insanity_lance.label>狂気の槍</Apparel_PsychicInsanityLance.verbs.psychic_insanity_lance.label>
+
+</LanguageData>

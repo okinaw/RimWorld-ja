@@ -4,5 +4,7 @@
   <Mote_AcidCloud.label>Mote</Mote_AcidCloud.label>
   <Mote_LineEMP.label>Mote</Mote_LineEMP.label>
   <Mote_Meditating.label>Mote</Mote_Meditating.label>
+  <Mote_ToxicDamage.label>Mote</Mote_ToxicDamage.label>
+  <Mote_Bombardment_PreImpact.label>Mote</Mote_Bombardment_PreImpact.label>
 
 </LanguageData>

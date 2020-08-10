@@ -25,6 +25,9 @@
   <UnfinishedBelt.label>ベルト(未完成)</UnfinishedBelt.label>
   <UnfinishedBelt.description>未完成のベルトです.</UnfinishedBelt.description>
 
+  <UnfinishedPack.label>パック(未完成)</UnfinishedPack.label>
+  <UnfinishedPack.description>未完成のパックです.</UnfinishedPack.description>
+
   <UnfinishedComponent.label>コンポーネント(未完成)</UnfinishedComponent.label>
   <UnfinishedComponent.description>未完成のコンポーネントです.</UnfinishedComponent.description>
 

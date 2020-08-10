@@ -4,7 +4,4 @@
   <Apparel_ShieldBelt.label>シールドベルト</Apparel_ShieldBelt.label>
   <Apparel_ShieldBelt.description>一人用エネルギーシールドデバイス.どんな高速度の弾丸や,エネルギー攻撃を食い止めようとします.白兵戦や近接距離からの発砲には何もしません.撃たれるのを妨害するのと同じように,装着者の射撃も妨害します.EMP攻撃を受けると即座に機能停止します.</Apparel_ShieldBelt.description>
 
-  <Apparel_SmokepopBelt.label>スモークポップベルト</Apparel_SmokepopBelt.label>
-  <Apparel_SmokepopBelt.description>使い捨ての自動展開する防御用煙幕装置です.弾丸が装備に当たると煙幕を張り,周囲を覆い隠してタレットなどによる攻撃を妨害します.</Apparel_SmokepopBelt.description>
-
 </LanguageData>
