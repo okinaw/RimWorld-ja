@@ -7,7 +7,7 @@
   <TradeGoodsMustBeNearBeacon.helpText>軌道上の貿易商人と取引するには,備蓄ゾーンのそばに「貿易ビーコン」の建造が必要不可欠です.</TradeGoodsMustBeNearBeacon.helpText>
 
   <ArrestingCreatesEnemies.label>拉致監禁による関係悪化</ArrestingCreatesEnemies.label>
-  <ArrestingCreatesEnemies.helpText>【警告】あなたが,他人を拘束しようとするなら,穏やかには済まなくなるでしょう.\n\n入植者ではない者を拘束した場合,彼らはあなたの敵対派閥になります.</ArrestingCreatesEnemies.helpText>
+  <ArrestingCreatesEnemies.helpText>【警告】あなたが,他人を拘束しようとするなら,穏やかには済まなくなるでしょう.\n\n入植者ではない者や他の派閥のメンバーを拘束した場合,彼ら全体があなたの敵対派閥になるかもしれません.</ArrestingCreatesEnemies.helpText>
 
   <SwitchFlickingDesignation.label>スイッチ操作</SwitchFlickingDesignation.label>
   <SwitchFlickingDesignation.helpText>【注意】入植者達だけがスイッチのオンオフを切替えられます.\n\n(作業種別"雑用"を与えられた)入植者が手で直接スイッチを切り替えるまで何も起こりません.</SwitchFlickingDesignation.helpText>
