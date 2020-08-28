@@ -728,8 +728,8 @@
 		<desc>[PAWN_nameDef]は,[PAWN_possessive]人生において何も生み出していませんでした.けれども,[PAWN_pronoun]は,生まれつき自然に,他の人が物を与えてくれることを分かっていました.</desc>
 	</ConArtist80>
 	<VatgrownSoldier8>
-		<title>Vatgrownの兵士</title>
-		<titleShort>Vatgrown</titleShort>
+		<title>培養槽兵士</title>
+		<titleShort>培養兵</titleShort>
 		<desc>[PAWN_nameDef]は,人として作られたのではなく,破壊の手段として作られました.バイオ兵器施設の中で生まれたクローン培養槽育ち(vat-grown)で,[PAWN_possessive]成長促進される過程で戦闘技術を教わって,いまだに[PAWN_nameDef]は,あらゆる種類での戦闘癖を持ち,人類と接触することを嫌がっています.</desc>
 	</VatgrownSoldier8>
 	<SicklyChild55>
