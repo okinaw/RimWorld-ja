@@ -8,13 +8,13 @@
   <Mass.description>オブジェクトの重量です.</Mass.description>
   <Mass.formatString>{0} kg</Mass.formatString>
 
-  <MarketValue.label>金額</MarketValue.label>
+  <MarketValue.label>市場価格</MarketValue.label>
   <MarketValue.description>市場価格を表します.実際の値段は,売買するお互いの関係性でさらに変動します.</MarketValue.description>
 
-  <MarketValueIgnoreHp.label>市場価値はヒットポイントを無視します</MarketValueIgnoreHp.label>
+  <MarketValueIgnoreHp.label>市場価値(非HP依存)</MarketValueIgnoreHp.label>
 
   <SellPriceFactor.label>売値掛け率</SellPriceFactor.label>
-  <SellPriceFactor.description>売ろうするアイテムの,売り値に掛けられる倍率です.</SellPriceFactor.description>
+  <SellPriceFactor.description>アイテムの売り値に掛けられる倍率です.</SellPriceFactor.description>
 
   <RoyalFavorValue.label>名誉値</RoyalFavorValue.label>
   <RoyalFavorValue.description>これを帝国の徴税官に渡すことで,トレーダーが獲得する名誉の量です.</RoyalFavorValue.description>
@@ -41,9 +41,9 @@
   <Nutrition.label>栄養</Nutrition.label>
   <Nutrition.description>この食べ物の栄養価です.</Nutrition.description>
 
-  <FoodPoisonChanceFixedHuman.label>食中毒発生率</FoodPoisonChanceFixedHuman.label>
+  <FoodPoisonChanceFixedHuman.label>食中毒発症率</FoodPoisonChanceFixedHuman.label>
   <FoodPoisonChanceFixedHuman.description>この食べ物で食中毒を発症する確率です.</FoodPoisonChanceFixedHuman.description>
-  <FoodPoisonChanceFixedHuman.labelForFullStatList>食中毒発生率(食べ物)</FoodPoisonChanceFixedHuman.labelForFullStatList>
+  <FoodPoisonChanceFixedHuman.labelForFullStatList>食中毒発症率(食べ物)</FoodPoisonChanceFixedHuman.labelForFullStatList>
 
   <ShootingAccuracyTurret.label>射撃命中率</ShootingAccuracyTurret.label>
   <ShootingAccuracyTurret.description>射程距離(セル)ごとに射撃がミスしない基礎的な成功率を表します.命中する確率は,遮蔽効果や明るさなど他の多くの要因によっても影響を受けます.射撃手を選択してターゲットにマウスを合わせると,射撃する際の命中確率の計算説明が表示されます.</ShootingAccuracyTurret.description>
