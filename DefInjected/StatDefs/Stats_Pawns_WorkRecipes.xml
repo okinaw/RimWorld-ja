@@ -21,11 +21,11 @@
   <CookSpeed.label>調理・速度</CookSpeed.label>
   <CookSpeed.description>食事を作る速度です.</CookSpeed.description>
 
-  <FoodPoisonChance.label>食中毒・発生率</FoodPoisonChance.label>
+  <FoodPoisonChance.label>調理・汚染率</FoodPoisonChance.label>
   <FoodPoisonChance.description>このキャラクターが料理したときに,うかつにも料理を汚染してしまう確率です.一時的な食中毒は当たった人を衰弱させます.</FoodPoisonChance.description>
-  <FoodPoisonChance.labelForFullStatList>食中毒・発生率(料理)</FoodPoisonChance.labelForFullStatList>
+  <FoodPoisonChance.labelForFullStatList>調理・汚染率</FoodPoisonChance.labelForFullStatList>
 
-  <DrugCookingSpeed.label>ドラッグ・速度</DrugCookingSpeed.label>
+  <DrugCookingSpeed.label>ドラッグ生成・速度</DrugCookingSpeed.label>
   <DrugCookingSpeed.description>この人が作る,ビール,ティー,ジョイントのような単純なドラッグを作る速度です.</DrugCookingSpeed.description>
 
   <ButcheryFleshSpeed.label>食肉加工・速度</ButcheryFleshSpeed.label>
